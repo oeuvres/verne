@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-10-30T17:18:19+01:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Vingt mille lieues sous les mers</title>
-        <author>Verne, Jules (1828-1905)</author>
+        <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt/>
       <publicationStmt>
@@ -29,7 +29,7 @@
   <text>
     <body>
       <div>
-        <head>PREMIÈRE PARTIE</head>
+        <head>Première Partie</head>
         <div type="chapter">
           <head>Chapitre I.
 <lb/>Un écueil fuyant</head>
@@ -1788,7 +1788,7 @@
         </div>
       </div>
       <div>
-        <head>DEUXIÈME PARTIE</head>
+        <head>Deuxième Partie</head>
         <div type="chapter">
           <head>Chapitre I.
 <lb/>L’océan Indien</head>
