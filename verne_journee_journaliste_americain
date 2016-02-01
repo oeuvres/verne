@@ -1,1 +1,55 @@
-http://www.ebooksgratuits.com/pdf/verne_journee_journaliste_americain.pdf
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="http://oeuvres.github.io/Teinte/tei2html.css" />
+    <title>Livrable</title>
+    </head>
+  <body>
+    <div id="center">
+            <div id="contenu">
+
+
+  <span class="bar langBar">[ fr |<a href="?lang=en"> en </a>]</span>
+  <h1>Livrable, vous livre un livre électronique (epub) à partir d’un fichier traitement de textes stylé (odt) ou XML/TEI</h1>
+  <p class="byline">par Frédéric Glorieux</p>
+
+      <form class="center"
+        action="index.php"
+        enctype="multipart/form-data" method="POST" name="upload" target="_blank"
+       >
+       <script type="text/javascript">
+function changeAction(form, ext) { return false;
+  var filename=form.file.value;var pos=filename.lastIndexOf('.'); if(pos>0) filename=filename.substring(0, pos); form.action='index.php/'+filename+ext;
+}
+       </script>
+        <p>1. Choisissez un de vos fichiers ODT ou TEI</p>
+<input type="file" size="70" name="file" accept="application/vnd.oasis.opendocument.text, text/xml"/>
+<p>2. Vérifiez l’apparence générale dans une page écran</p>
+<button name="html" onmousedown="changeAction(this.form, '.html'); " title="Transformation vers HTML" type="submit">HTML</button>
+<button name="tei" onmousedown="changeAction(this.form, '.xml'); " title="Transformation vers TEI" type="submit">XML/TEI</button><p>3. Télécharger le livre électronique (epub)</p>
+<button name="epub" onmousedown="changeAction(this.form, '.epub')" title="Transformation vers EPUB" type="submit">EPUB</button>
+      </form>
+      
+<div>
+  <ul>
+    <li>Pour un livre avec table des matières, utiliser les styles de titres hiérarchiques (Titre 1, Titre 2…)</li>
+    <li>Pour transmettre des métadonnées à votre bibliothèque, avant le premier titre en tout début de fichier, ajouter des paragraphes commençant par une propriété <a href="http://dublincore.org/documents/dces/">Dublin Core</a> :
+      <ul>
+        <li>title: Titre du livre</li>
+        <li>creator: Nom, Prénom (nom d’usage d’abord pour l’ordre alphabétique)</li>
+        <li>date: date de première publication</li>
+        <li>source: http://… (source initiale dont le fichier est tiré, pour créditer)</li>
+      </ul>
+    </li>
+  </ul>
+
+      <p>
+Si vous n’êtes pas satisfait, <a href="#" onmouseover="if(this.ok)return; this.href='mai'+'lt'+'o:frederic.glorieux'+'\u0040'+'fictif.org'; this.ok=true">écrivez moi</a>, je serais content de vous satisfaire.
+      </p>
+
+</div>
+                  </div>
+     </div>
+  </body>
+</html>
