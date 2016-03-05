@@ -23,7 +23,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date>1872</date>
+        <date when="1872"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>Chapitre I.
 <lb/>Dans lequel Phileas Fogg et Passepartout s’acceptent réciproquement l’un comme maître, l’autre comme domestique</head>
         <p>En l’année 1872, la maison portant le numéro 7 de Saville-row, Burlington Gardens – maison dans laquelle Sheridan mourut en 1814 –, était habitée par Phileas Fogg, esq., l’un des membres les plus singuliers et les plus remarqués du Reform-Club de Londres, bien qu’il semblât prendre à tâche de ne rien faire qui pût attirer l’attention.</p> 
@@ -66,7 +66,7 @@
         <p>Passepartout entendit la porte de la rue se fermer une première fois : c’était son nouveau maître qui sortait ; puis une seconde fois : c’était son prédécesseur, James Forster, qui s’en allait à son tour.</p> 
         <p>Passepartout demeura seul dans la maison de Saville-row.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre II.
 <lb/>Où Passepartout est convaincu qu’il a enfin trouve son idéal</head>
         <p>« Sur ma foi, se dit Passepartout, un peu ahuri tout d’abord, j’ai connu chez Mme Tussaud des bonshommes aussi vivants que mon nouveau maître ! »</p> 
@@ -84,7 +84,7 @@
         <p>Après avoir examiné cette demeure en détail, Passepartout se frotta les mains, sa large figure s’épanouit, et il répéta joyeusement :</p> 
         <p>« Cela me va ! voilà mon affaire ! Nous nous entendrons parfaitement, Mr. Fogg et moi ! Un homme casanier et régulier ! Une véritable mécanique ! Eh bien, je ne suis pas fâché de servir une mécanique ! »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre III.
 <lb/>Où s’engage une conversation qui pourra coûter cher à Phileas Fogg</head>
         <p>Phileas Fogg avait quitté sa maison de Saville-row à onze heures et demie, et, après avoir placé cinq cent soixante-quinze fois son pied droit devant son pied gauche et cinq cent soixante-seize fois son pied gauche devant son pied droit, il arriva au Reform-Club, vaste édifice, élevé dans Pall-Mall, qui n’a pas coûté moins de trois millions à bâtir.</p> 
@@ -176,7 +176,7 @@
         <p>« Je suis toujours prêt ! » répondit cet impassible gentleman, et donnant les cartes :</p> 
         <p>« Je retourne carreau, dit-il. À vous de jouer, monsieur Stuart. »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre IV.
 <lb/>Dans lequel Phileas Fogg stupéfie Passepartout, son domestique</head>
         <p>À sept heures vingt-cinq, Phileas Fogg, après avoir gagné une vingtaine de guinées au whist, prit congé de ses honorables collègues, et quitta le Reform-Club. À sept heures cinquante, il ouvrait la porte de sa maison et rentrait chez lui.</p> 
@@ -233,7 +233,7 @@
         <p>– D’éteindre le bec de gaz de ma chambre !</p> 
         <p>– Eh bien, mon garçon, répondit froidement Mr. Fogg, il brûle à votre compte ! »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre V.
 <lb/>Dans lequel une nouvelle valeur apparait sur la place de Londres</head>
         <p>Phileas Fogg, en quittant Londres, ne se doutait guère, sans doute, du grand retentissement qu’allait provoquer son départ. La nouvelle du pari se répandit d’abord dans le Reform-Club, et produisit une véritable émotion parmi les membres de l’honorable cercle. Puis, du club, cette émotion passa aux journaux par la voie des reporters, et des journaux au public de Londres et de tout le Royaume-Uni.</p> 
@@ -254,7 +254,7 @@
         <p rend="right">« Fix, détective. »</p> 
         <p>L’effet de cette dépêche fut immédiat. L’honorable gentleman disparut pour faire place au voleur de bank-notes. Sa photographie, déposée au Reform-Club avec celles de tous ses collègues, fut examinée. Elle reproduisait trait pour trait l’homme dont le signalement avait été fourni par l’enquête. On rappela ce que l’existence de Phileas Fogg avait de mystérieux, son isolement, son départ subit, et il parut évident que ce personnage, prétextant un voyage autour du monde et l’appuyant sur un pari insensé, n’avait eu d’autre but que de dépister les agents de la police anglaise.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre VI.
 <lb/>Dans lequel l'agent Fix montre une impatience bien légitime</head>
         <p>Voici dans quelles circonstances avait été lancée cette dépêche concernant le sieur Phileas Fogg.</p> 
@@ -307,7 +307,7 @@
         <p>– Alors, je vais aller chercher mon maître, à qui pourtant cela ne plaira guère de se déranger ! »</p> 
         <p>Là-dessus, le passager salua Fix et retourna à bord du steamer.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre VII.
 <lb/>Qui témoigne une fois de plus de l'inutilité des passeports en matière de police</head>
         <p>L’inspecteur redescendit sur le quai et se dirigea rapidement vers les bureaux du consul. Aussitôt, et sur sa demande pressante, il fut introduit près de ce fonctionnaire.</p> 
@@ -357,7 +357,7 @@
         <p>Il inscrivit donc, ce jour-là, mercredi 9 octobre, son arrivée à Suez, qui, concordant avec l’arrivée réglementaire, ne le constituait ni en gain ni en perte.</p> 
         <p>Puis il se fit servir à déjeuner dans sa cabine. Quant à voir la ville, il n’y pensait même pas, étant de cette race d’Anglais qui font visiter par leur domestique les pays qu’ils traversent.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre VIII.
 <lb/>Dans lequel Passepartout parle un peu plus peut-être qu'il ne le conviendrait</head>
         <p>Fix avait en peu d’instants rejoint sur le quai Passepartout, qui flânait et regardait, ne se croyant pas, lui, obligé à ne point voir.</p> 
@@ -426,7 +426,7 @@
         <p>Ces paroles prononcées froidement, l’agent prit congé du consul et se rendit au bureau télégraphique. De là, il lança au directeur de la police métropolitaine cette dépêche que l’on connaît.</p> 
         <p>Un quart d’heure plus tard, Fix, son léger bagage à la main, bien muni d’argent, d’ailleurs, s’embarquait à bord du <hi rend="i">Mongolia</hi>, et bientôt le rapide steamer filait à toute vapeur sur les eaux de la mer Rouge.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre IX.
 <lb/>Où la mer rouge et la mer des Indes se montrent propices aux desseins de Phileas Fogg</head>
         <p>La distance entre Suez et Aden est exactement de treize cent dix milles, et le cahier des charges de la Compagnie alloue à ses paquebots un laps de temps de cent trente-huit heures pour la franchir. Le <hi rend="i">Mongolia</hi>, dont les feux étaient activement poussés, marchait de manière à devancer l’arrivée réglementaire.</p> 
@@ -475,7 +475,7 @@
         <p>Phileas Fogg achevait alors le trente-troisième robre de la journée, et son partenaire et lui, grâce à une manœuvre audacieuse, ayant fait les treize levées, terminèrent cette belle traversée par un chelem admirable.</p> 
         <p>Le <hi rend="i">Mongolia</hi> ne devait arriver que le 22 octobre à Bombay. Or, il y arrivait le 20. C’était donc, depuis son départ de Londres, un gain de deux jours, que Phileas Fogg inscrivit méthodiquement sur son itinéraire à la colonne des bénéfices.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre X.
 <lb/>Où Passepartout est trop heureux d'en être quitte en perdant sa chaussure</head>
         <p>Personne n’ignore que l’Inde – ce grand triangle renversé dont la base est au nord et la pointe au sud – comprend une superficie de quatorze cent mille milles carrés, sur laquelle est inégalement répandue une population de cent quatre-vingts millions d’habitants. Le gouvernement britannique exerce une domination réelle sur une certaine partie de cet immense pays. Il entretient un gouverneur général à Calcutta, des gouverneurs à Madras, à Bombay, au Bengale, et un lieutenant-gouverneur à Agra.</p> 
@@ -517,7 +517,7 @@
         <p>« Non, je reste, se dit-il. Un délit commis sur le territoire indien… Je tiens mon homme. »</p> 
         <p>En ce moment, la locomotive lança un vigoureux sifflet, et le train disparut dans la nuit.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XI.
 <lb/>Où Phileas Fogg achète une monture à un prix fabuleux</head>
         <p>Le train était parti à l’heure réglementaire. Il emportait un certain nombre de voyageurs, quelques officiers, des fonctionnaires civils et des négociants en opium et en indigo, que leur commerce appelait dans la partie orientale de la péninsule.</p> 
@@ -594,7 +594,7 @@
         <p>Phileas Fogg paya l’Indien en bank-notes qui furent extraites du fameux sac. Il semblait vraiment qu’on les tirât des entrailles de Passepartout. Puis Mr. Fogg offrit à Sir Francis Cromarty de le transporter à la station d’Allahabad. Le brigadier général accepta. Un voyageur de plus n’était pas pour fatiguer le gigantesque animal.</p> 
         <p>Des vivres furent achetées à Kholby. Sir Francis Cromarty prit place dans l’un des cacolets, Phileas Fogg dans l’autre. Passepartout se mit à califourchon sur la housse entre son maître et le brigadier général. Le Parsi se jucha sur le cou de l’éléphant, et à neuf heures l’animal, quittant la bourgade, s’enfonçait par le plus court dans l’épaisse forêt de lataniers.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XII.
 <lb/>Où Phileas Fogg et ses compagnons s'aventurent à travers les forêts de l'Inde et ce qui s'ensuit</head>
         <p>Le guide, afin d’abréger la distance à parcourir, laissa sur sa droite le tracé de la voie dont les travaux étaient en cours d’exécution. Ce tracé, très contrarié par les capricieuses ramifications des monts Vindhias, ne suivait pas le plus court chemin, que Phileas Fogg avait intérêt à prendre. Le Parsi, très familiarisé avec les routes et sentiers du pays, prétendait gagner une vingtaine de milles en coupant à travers la forêt, et on s’en rapporta à lui.</p> 
@@ -664,7 +664,7 @@
         <p>– Tiens ! Mais vous êtes un homme de cœur ! dit Sir Francis Cromarty.</p> 
         <p>– Quelquefois, répondit simplement Phileas Fogg, quand j’ai le temps. »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XIII.
 <lb/>Dans lequel Passepartout prouve une fois de plus que la forune sourit aux audacieux</head>
         <p>Le dessein était hardi, hérissé de difficultés, impraticable peut-être Mr. Fogg allait risquer sa vie, ou tout au moins sa liberté, et par conséquent la réussite de ses projets, mais il n’hésita pas. Il trouva, d’ailleurs, dans Sir Francis Cromarty, un auxiliaire décidé.</p> 
@@ -735,7 +735,7 @@
         <p>En effet, sur le bûcher enflammé se détachait alors le corps du vieux rajah. Les prêtres, revenus de leur frayeur, avaient compris qu’un enlèvement venait de s’accomplir.</p> 
         <p>Aussitôt ils s’étaient précipités dans la forêt. Les gardes les avaient suivis. Une décharge avait eu lieu, mais les ravisseurs fuyaient rapidement, et, en quelques instants, ils se trouvaient hors de la portée des balles et des flèches.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XIV.
 <lb/>Dans lequel Phileas Fogg descend toute l'admirable valée du Gange sans même songer à la voir</head>
         <p>Le hardi enlèvement avait réussi. Une heure après, Passepartout riait encore de son succès. Sir Francis Cromarty avait serré la main de l’intrépide garçon. Son maître lui avait dit : « Bien », ce qui, dans la bouche de ce gentleman, équivalait à une haute approbation. À quoi Passepartout avait répondu que tout l’honneur de l’affaire appartenait à son maître. Pour lui, il n’avait eu qu’une idée « drôle », et il riait en songeant que, pendant quelques instants, lui, Passepartout, ancien gymnaste, ex-sergent de pompiers, avait été le veuf d’une charmante femme, un vieux rajah embaumé !</p> 
@@ -781,7 +781,7 @@
         <p>Enfin, à sept heures du matin, Calcutta était atteint. Le paquebot, en partance pour Hong-Kong, ne levait l’ancre qu’à midi. Phileas Fogg avait donc cinq heures devant lui.</p> 
         <p>D’après son itinéraire, ce gentleman devait arriver dans la capitale des Indes le 25 octobre, vingt-trois jours après avoir quitté Londres, et il y arrivait au jour fixé. Il n’avait donc ni retard ni avance. Malheureusement, les deux jours gagnés par lui entre Londres et Bombay avaient été perdus, on sait comment, dans cette traversée de la péninsule indienne, – mais il est à supposer que Phileas Fogg ne les regrettait pas.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XV.
 <lb/>Où le sac aux bank-notes s'allège encore de quelques milliers de livres</head>
         <p>Le train s’était arrêté en gare. Passepartout descendit le premier du wagon, et fut suivi de Mr. Fogg, qui aida sa jeune compagne à mettre pied sur le quai. Phileas Fogg comptait se rendre directement au paquebot de Hong-Kong, afin d’y installer confortablement Mrs. Aouda, qu’il ne voulait pas quitter, tant qu’elle serait en ce pays si dangereux pour elle.</p> 
@@ -873,7 +873,7 @@
         <p>« Le gueux ! s’écria-t-il, il part ! Deux mille livres sacrifiées ! Prodigue comme un voleur ! Ah ! je le filerai jusqu’au bout du monde s’il le faut ; mais du train dont il va, tout l’argent du vol y aura passé ! »</p> 
         <p>L’inspecteur de police était fondé à faire cette réflexion. En effet, depuis qu’il avait quitté Londres, tant en frais de voyage qu’en primes, en achat d’éléphant, en cautions et en amendes, Phileas Fogg avait déjà semé plus de cinq mille livres (125 000 F) sur sa route, et le tant pour cent de la somme recouvrée, attribué aux détectives, allait diminuant toujours.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XVI.
 <lb/>Où Fix n'a pas l'air de connaître du tout les choses dont on lui parle</head>
         <p>Le <hi rend="i">Rangoon</hi>, l’un des paquebots que la Compagnie péninsulaire et orientale emploie au service des mers de la Chine et du Japon, était un steamer en fer, à hélice, jaugeant brut dix-sept cent soixante-dix tonnes, et d’une force nominale de quatre cents chevaux. Il égalait le <hi rend="i">Mongolia</hi> en vitesse, mais non en confortable. Aussi Mrs. Aouda ne fut-elle point aussi bien installée que l’eût désiré Phileas Fogg. Après tout, il ne s’agissait que d’une traversée de trois mille cinq cents milles, soit de onze à douze jours, et la jeune femme ne se montra pas une difficile passagère.</p> 
@@ -908,7 +908,7 @@
         <p>« Rien à faire ! » se dit le détective en dissimulant son désappointement. « Un verre de gin, monsieur Passepartout ?</p> 
         <p>– Volontiers, monsieur Fix. C’est bien le moins que nous buvions à notre rencontre à bord du <hi rend="i">Rangoon</hi> ! »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XVII.
 <lb/>Où il est question de choses et d'autres pendant la traversée de Singapore à Hong-Kong</head>
         <p>Depuis ce jour, Passepartout et le détective se rencontrèrent fréquemment, mais l’agent se tint dans une extrême réserve vis-à-vis de son compagnon, et il n’essaya point de le faire parler. Une ou deux fois seulement, il entrevit Mr. Fogg, qui restait volontiers dans le grand salon du <hi rend="i">Rangoon</hi>, soit qu’il tînt compagnie à Mrs. Aouda, soit qu’il jouât au whist, suivant son invariable habitude.</p> 
@@ -954,7 +954,7 @@
         <p>Oui ! c’était un étonnement de tous les jours pour Passepartout, qui lisait tant de reconnaissance envers son maître dans les yeux de la jeune femme ! Décidément Phileas Fogg n’avait de cœur que ce qu’il en fallait pour se conduire héroïquement, mais amoureusement, non ! Quant aux préoccupations que les chances de ce voyage pouvaient faire naître en lui, il n’y en avait pas trace. Mais Passepartout, lui, vivait dans des transes continuelles. Un jour, appuyé sur la rambarde de l’« engine-room », il regardait la puissante machine qui s’emportait parfois, quand dans un violent mouvement de tangage, l’hélice s’affolait hors des flots. La vapeur fusait alors par les soupapes, ce qui provoqua la colère du digne garçon.</p> 
         <p>« Elles ne sont pas assez chargées, ces soupapes ! s’écria-t-il. On ne marche pas ! Voilà bien ces Anglais ! Ah ! si c’était un navire américain, on sauterait peut-être, mais on irait plus vite ! »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XVIII.
 <lb/>Dans lequel Phileas Fogg, Passepartout, Fix, chacun de son côté, va à ses affaires</head>
         <p>Pendant les derniers jours de la traversée, le temps fut assez mauvais. Le vent devint très fort. Fixé dans la partie du nord-ouest, il contraria la marche du paquebot. Le <hi rend="i">Rangoon</hi>, trop instable, roula considérablement, et les passagers furent en droit de garder rancune à ces longues lames affadissantes que le vent soulevait du large.</p> 
@@ -998,7 +998,7 @@
         <p>– Allez au <hi rend="i">Carnatic</hi>, et retenez trois cabines. »</p> 
         <p>Passepartout, enchanté de continuer son voyage dans la compagnie de la jeune femme, qui était fort gracieuse pour lui, quitta aussitôt l’<hi rend="i">Hôtel du Club</hi>.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XIX.
 <lb/>Où Passepartout prend un trop vif intérêt à son maître, et ce qui s'ensuit</head>
         <p>Hong-Kong n’est qu’un îlot, dont le traité de Nanking, après la guerre de 1842, assura la possession à l’Angleterre. En quelques années, le génie colonisateur de la Grande-Bretagne y avait fondé une ville importante et créé un port, le port Victoria. Cette île est située à l’embouchure de la rivière de Canton, et soixante milles seulement la séparent de la cité portugaise de Macao, bâtie sur l’autre rive. Hong-Kong devait nécessairement vaincre Macao dans une lutte commerciale, et maintenant la plus grande partie du transit chinois s’opère par la ville anglaise. Des docks, des hôpitaux, des wharfs, des entrepôts, une cathédrale gothique, un « government-house », des rues macadamisées, tout ferait croire qu’une des cités commerçantes des comtés de Kent ou de Surrey, traversant le sphéroïde terrestre, est venue ressortir en ce point de la Chine, presque à ses antipodes.</p> 
@@ -1084,7 +1084,7 @@
         <p>« Enfin, dit Fix en voyant Passepartout anéanti, le sieur Fogg ne sera pas prévenu à temps du départ du <hi rend="i">Carnatic</hi>, et s’il part, du moins partira-t-il sans ce maudit Français ! »</p> 
         <p>Puis il sortit, après avoir payé la dépense.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XX.
 <lb/>Dans lequel Fix entre directement en relation avec Phileas Fogg</head>
         <p>Pendant cette scène qui allait peut-être compromettre si gravement son avenir, Mr. Fogg, accompagnant Mrs. Aouda, se promenait dans les rues de la ville anglaise. Depuis que Mrs. Aouda avait accepté son offre de la conduire jusqu’en Europe, il avait dû songer à tous les détails que comporte un aussi long voyage. Qu’un Anglais comme lui fît le tour du monde un sac à la main, passe encore ; mais une femme ne pouvait entreprendre une pareille traversée dans ces conditions. De là, nécessité d’acheter les vêtements et objets nécessaires au voyage. Mr. Fogg s’acquitta de sa tâche avec le calme qui le caractérisait, et à toutes les excuses ou objections de la jeune veuve, confuse de tant de complaisance :</p> 
@@ -1175,7 +1175,7 @@
         <p>Fix n’était pas sans appréhension, car le hasard aurait pu conduire en cet endroit même le malheureux garçon qu’il avait si indignement traité, et alors une explication eût éclaté, dont le détective ne se fût pas tiré à son avantage. Mais le Français ne se montra pas, et, sans doute, l’abrutissant narcotique le tenait encore sous son influence.</p> 
         <p>Enfin, le patron John Bunsby passa au large, et la <hi rend="i">Tankadère</hi>, prenant le vent sous sa brigantine, sa misaine et ses focs, s’élança en bondissant sur les flots.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXI.
 <lb/>Où le patron de la « Tankadère » risque fort de perdre une prime de deux cents livres</head>
         <p>C’était une aventureuse expédition que cette navigation de huit cents milles, sur une embarcation de vingt tonneaux, et surtout à cette époque de l’année. Elles sont généralement mauvaises, ces mers de la Chine, exposées à des coups de vent terribles, principalement pendant les équinoxes, et on était encore aux premiers jours de novembre.</p> 
@@ -1254,7 +1254,7 @@
         <p>« Feu ! » dit Mr. Fogg.</p> 
         <p>Et la détonation du petit canon de bronze éclata dans l’air.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXII.
 <lb/>Où Passepartout voit bien que, même aux antippodes, il est prudent d'avoir quelque argent dans sa poche</head>
         <p>Le <hi rend="i">Carnatic</hi> ayant quitté Hong-Kong, le 7 novembre, à six heures et demie du soir, se dirigeait à toute vapeur vers les terres du Japon. Il emportait un plein chargement de marchandises et de passagers. Deux cabines de l’arrière restaient inoccupées. C’étaient celles qui avaient été retenues pour le compte de Mr. Phileas Fogg.</p> 
@@ -1304,7 +1304,7 @@
         <p>Enfin les rues se dépeuplèrent. À la foule succédèrent les rondes des yakounines. Ces officiers, dans leurs magnifiques costumes et au milieu de leur suite, ressemblaient à des ambassadeurs, et Passepartout répétait plaisamment, chaque fois qu’il rencontrait quelque patrouille éblouissante :</p> 
         <p>« Allons, bon ! encore une ambassade japonaise qui part pour l’Europe ! »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXIII.
 <lb/>Dans lequel Le nez de Passepartout s'allonge démesurément</head>
         <p>Le lendemain, Passepartout, éreinté, affamé, se dit qu’il fallait manger à tout prix, et que le plus tôt serait le mieux. Il avait bien cette ressource de vendre sa montre, mais il fût plutôt mort de faim. C’était alors le cas ou jamais, pour ce brave garçon, d’utiliser la voix forte, sinon mélodieuse, dont la nature l’avait gratifié.</p> 
@@ -1372,7 +1372,7 @@
         <p>– Eh bien ! en ce cas, au paquebot, mon garçon !… »</p> 
         <p>Mr. Fogg, Mrs. Aouda, qui l’accompagnait, Passepartout s’étaient précipités par les couloirs au-dehors de la case. Mais, là, ils trouvèrent l’honorable Batulcar, furieux, qui réclamait des dommages-intérêts pour « la casse ». Phileas Fogg apaisa sa fureur en lui jetant une poignée de bank-notes. Et, à six heures et demie, au moment où il allait partir, Mr. Fogg et Mrs. Aouda mettaient le pied sur le paquebot américain, suivis de Passepartout, les ailes au dos, et sur la face ce nez de six pieds qu’il n’avait pas encore pu arracher de son visage !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXIV.
 <lb/>Pendant lequel s'accoplit la traversée de l'océan Pacifique</head>
         <p>Ce qui était arrivé en vue de Shangaï, on le comprend. Les signaux faits par la <hi rend="i">Tankadère</hi> avaient été aperçus du paquebot de Yokohama. Le capitaine, voyant un pavillon en berne, s’était dirigé vers la petite goélette. Quelques instants après, Phileas Fogg, soldant son passage au prix convenu, mettait dans la poche du patron John Bunsby cinq cent cinquante livres (13 750 F). Puis l’honorable gentleman, Mrs. Aouda et Fix étaient montés à bord du steamer, qui avait aussitôt fait route pour Nagasaki et Yokohama.</p> 
@@ -1417,7 +1417,7 @@
         <p>Onze jours après, le 3 décembre, le <hi rend="i">General-Grant</hi> entrait dans la baie de la Porte-d’Or et arrivait à San Francisco.</p> 
         <p>Mr. Fogg n’avait encore ni gagné ni perdu un seul jour.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXV.
 <lb/>Où l'on donne une léger aperçu de San Francisco, un jour de meeting</head>
         <p>Il était sept heures du matin, quand Phileas Fogg, Mrs. Aouda et Passepartout prirent pied sur le continent américain, – si toutefois on peut donner ce nom au quai flottant sur lequel ils débarquèrent. Ces quais, montant et descendant avec la marée, facilitent le chargement et le déchargement des navires. Là s’embossent les clippers de toutes dimensions, les steamers de toutes nationalités, et ces steam-boats à plusieurs étages, qui font le service du Sacramento et de ses affluents. Là s’entassent aussi les produits d’un commerce qui s’étend au Mexique, au Pérou, au Chili, au Brésil, à l’Europe, à l’Asie, à toutes les îles de l’océan Pacifique.</p> 
@@ -1477,7 +1477,7 @@
         <p>– Non, monsieur, d’un juge de paix. »</p> 
         <p>Sur cette réponse, Phileas Fogg monta dans le wagon, et le train partit à toute vapeur.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXVI.
 <lb/>Dans lequel on prend le train express du chemin de fer du Pacifique</head>
         <p>« Ocean to Ocean » – ainsi disent les Américains –, et ces trois mots devraient être la dénomination générale du « grand trunk », qui traverse les États-Unis d’Amérique dans leur plus grande largeur. Mais, en réalité, le « Pacific rail-road » se divise en deux parties distinctes : « Central Pacific » entre San Francisco et Ogden, et « Union Pacific » entre Ogden et Omaha. Là se raccordent cinq lignes distinctes, qui mettent Omaha en communication fréquente avec New York.</p> 
@@ -1506,7 +1506,7 @@
         <p>Le mieux était donc d’attendre patiemment, quitte ensuite à regagner le temps perdu par une accélération de la marche du train. Le défilé des bisons dura trois grandes heures, et la voie ne redevint libre qu’à la nuit tombante. À ce moment, les derniers rangs du troupeau traversaient les rails, tandis que les premiers disparaissaient au-dessous de l’horizon du sud.</p> 
         <p>Il était donc huit heures, quand le train franchit les défilés des Humboldt-Ranges, et neuf heures et demie, lorsqu’il pénétra sur le territoire de l’Utah, la région du grand lac Salé, le curieux pays des Mormons.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXVII.
 <lb/>Dans lequel Passepartout suit, avec une vitesse de vingt milles à l'heure, un cours d'histoire mormone</head>
         <p>Pendant la nuit du 5 au 6 décembre, le train courut au sud-est sur un espace de cinquante milles environ ; puis il remonta d’autant vers le nord-est, en s’approchant du grand lac Salé.</p> 
@@ -1541,7 +1541,7 @@
         <p>Lorsque le Mormon eut repris haleine, Passepartout se hasarda à lui demander poliment combien il avait de femmes, à lui tout seul, – et à la façon dont il venait de décamper, il lui en supposait une vingtaine au moins.</p> 
         <p>« Une, monsieur ! répondit le Mormon en levant les bras au ciel, une, et c’était assez ! »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXVIII.
 <lb/>Dans lequel Passepartout ne put parvenir à faire entendre le langage de la raison</head>
         <p>Le train, en quittant Great-Salt-Lake et la station d’Ogden, s’éleva pendant une heure vers le nord, jusqu’à Weber-river, ayant franchi neuf cents milles environ depuis San Francisco. À partir de ce point, il reprit la direction de l’est à travers le massif accidenté des monts Wahsatch. C’est dans cette partie du territoire, comprise entre ces montagnes et les montagnes Rocheuses proprement dites, que les ingénieurs américains ont été aux prises avec les plus sérieuses difficultés. Aussi, dans ce parcours, la subvention du gouvernement de l’Union s’est-elle élevée à quarante-huit mille dollars par mille, tandis qu’elle n’était que de seize mille dollars en plaine ; mais les ingénieurs, ainsi qu’il a été dit, n’ont pas violenté la nature, ils ont rusé avec elle, tournant les difficultés, et pour atteindre le grand bassin, un seul tunnel, long de quatorze mille pieds, a été percé dans tout le parcours du rail-road.</p> 
@@ -1632,7 +1632,7 @@
         <p>Et l’on passa ! Et ce fut comme un éclair. On ne vit rien du pont. Le convoi sauta, on peut le dire, d’une rive à l’autre, et le mécanicien ne parvint à arrêter sa machine emportée qu’à cinq milles au-delà de la station.</p> 
         <p>Mais à peine le train avait-il franchi la rivière, que le pont, définitivement ruiné, s’abîmait avec fracas dans le rapide de Medicine-Bow.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXIX.
 <lb/>Où il sera fait le récit d'incidents divers qui ne se rencontrent que sur les rails-roads de l'Union</head>
         <p>Le soir même, le train poursuivait sa route sans obstacles, dépassait le fort Sauders, franchissait la passe de Cheyenne et arrivait à la passe d’Evans. En cet endroit, le rail-road atteignait le plus haut point du parcours, soit huit mille quatre-vingt-onze pieds au-dessus du niveau de l’océan. Les voyageurs n’avaient plus qu’à descendre jusqu’à l’Atlantique sur ces plaines sans limites, nivelées par la nature.</p> 
@@ -1715,7 +1715,7 @@
         <p>Là, les soldats du fort, attirés par les coups de feu, accoururent en hâte. Les Sioux ne les avaient pas attendus, et, avant l’arrêt complet du train, toute la bande avait décampé.</p> 
         <p>Mais quand les voyageurs se comptèrent sur le quai de la station, ils reconnurent que plusieurs manquaient à l’appel, et entre autres le courageux Français dont le dévouement venait de les sauver.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXX.
 <lb/>Dans lequel Phileas Fogg fait tout simplement son devoir</head>
         <p>Trois voyageurs, Passepartout compris, avaient disparu. Avaient-ils été tués dans la lutte ? Étaient-ils prisonniers des Sioux ? On ne pouvait encore le savoir.</p> 
@@ -1793,7 +1793,7 @@
         <p>– Ce soir seulement.</p> 
         <p>– Ah ! » répondit simplement l’impassible gentleman.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXXI.
 <lb/>Dans lequel l'inspecteur Fix prend très sérieusement les intérêts de Phileas Fogg</head>
         <p>Phileas Fogg se trouvait en retard de vingt heures. Passepartout, la cause involontaire de ce retard, était désespéré. Il avait décidément ruiné son maître !</p> 
@@ -1839,7 +1839,7 @@
         <p>Neuf cents milles séparent Chicago de New York. Les trains ne manquaient pas à Chicago. Mr. Fogg passa immédiatement de l’un dans l’autre. La fringante locomotive du « Pittsburg-Fort-Wayne-Chicago-rail-road » partit à toute vitesse, comme si elle eût compris que l’honorable gentleman n’avait pas de temps à perdre. Elle traversa comme un éclair l’Indiana, l’Ohio, la Pennsylvanie, le New Jersey, passant par des villes aux noms antiques, dont quelques-unes avaient des rues et des tramways, mais pas de maisons encore. Enfin l’Hudson apparut, et, le 11 décembre, à onze heures un quart du soir, le train s’arrêtait dans la gare, sur la rive droite du fleuve, devant le « pier » même des steamers de la ligne Cunard, autrement dite « British and North American royal mail steam packet Co. »</p> 
         <p>Le <hi rend="i">China</hi>, à destination de Liverpool, était parti depuis quarante-cinq minutes !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXXII.
 <lb/>Dans lequel Phileas Fogg engage une lutte directe contre la mauvaise chance</head>
         <p>En partant, le <hi rend="i">China</hi> semblait avoir emporté avec lui le dernier espoir de Phileas Fogg.</p> 
@@ -1905,7 +1905,7 @@
         <p>Lorsque Passepartout apprit ce que coûterait cette dernière traversée, il poussa un de ces « Oh ! » prolongés, qui parcourent tous les intervalles de la gamme chromatique descendante !</p> 
         <p>Quant à l’inspecteur Fix, il se dit que décidément la Banque d’Angleterre ne sortirait pas indemne de cette affaire. En effet, en arrivant et en admettant que le sieur Fogg n’en jetât pas encore quelques poignées à la mer, plus de sept mille livres (175 000 F) manqueraient au sac à bank-notes !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXXIII.
 <lb/>Où Phileas Fogg se montre à la hauteur des circonstances</head>
         <p>Une heure après, le steamer <hi rend="i">Henrietta</hi> dépassait le Light-boat qui marque l’entrée de l’Hudson, tournait la pointe de Sandy-Hook et donnait en mer. Pendant la journée, il prolongea Long-Island, au large du feu de Fire-Island, et courut rapidement vers l’est.</p> 
@@ -1996,7 +1996,7 @@
         <p>– Oui, monsieur.</p> 
         <p>– Au nom de la reine, je vous arrête ! »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXXIV.
 <lb/>Qui procure à Passepartout l'occasion de faire une jeu de mots atroce, mais peut-être inédit</head>
         <p>Phileas Fogg était en prison. On l’avait enfermé dans le poste de Custom-house, la douane de Liverpool, et il devait y passer la nuit en attendant son transfèrement à Londres.</p> 
@@ -2032,7 +2032,7 @@
         <p>Phileas Fogg, après avoir accompli ce voyage autour du monde, arrivait avec un retard de cinq minutes !…</p> 
         <p>Il avait perdu.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXXV.
 <lb/>Dans lequel Passepartout ne se fait pas répéter deux fois l'ordre que son maître lui donne</head>
         <p>Le lendemain, les habitants de Saville-row auraient été bien surpris, si on leur eût affirmé que Mr. Fogg avait réintégré son domicile. Portes et fenêtres, tout était clos. Aucun changement ne s’était produit à l’extérieur.</p> 
@@ -2090,7 +2090,7 @@
         <p>– Pour demain lundi ! » répondit Mrs. Aouda.</p> 
         <p>Passepartout sortit, tout courant.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXXVI.
 <lb/>Dans lequel Phileas Fogg fait de nouveau prime sur le marché</head>
         <p>Il est temps de dire ici quel revirement de l’opinion s’était produit dans le Royaume-Uni, quand on apprit l’arrestation du vrai voleur de la Banque un certain James Strand – qui avait eu lieu le 17 décembre, à Édimbourg.</p> 
@@ -2127,7 +2127,7 @@
         <p>À la cinquante-septième seconde, la porte du salon s’ouvrit, et le balancier n’avait pas battu la soixantième seconde, que Phileas Fogg apparaissait, suivi d’une foule en délire qui avait forcé l’entrée du club, et de sa voix calme :</p> 
         <p>« Me voici, messieurs », disait-il.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>Chapitre XXXVII.
 <lb/>Dans lequel il est prouvé que Phileas Fogg n'a rien gangé à faire ce tour du monde, si ce n'est la bonheur,</head>
         <p>Oui ! Phileas Fogg en personne.</p> 
@@ -2180,4 +2180,3 @@
     </body>
   </text>
 </TEI>
-
