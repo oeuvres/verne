@@ -7,16 +7,18 @@
     <fileDesc>
       <titleStmt>
         <title>Clovis Dardentor</title>
+        <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt>
+        <p>Exercice dans le cadre du cours de Master Edition (Lille III, 2015-2016)</p>
         <respStmt>
           <name>Vanwynsberghe Julie</name>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <p>Texte libre de droits</p>
       </publicationStmt>
-      <sourceDesc>
+       <sourceDesc>
         <bibl>
           <ref target="http://beq.ebooksgratuits.com/vents/Verne-Clovis.pdf">http://beq.ebooksgratuits.com/vents/Verne-Clovis.pdf</ref>
         </bibl>
@@ -33,21 +35,11 @@
   </teiHeader>
   <text>
     <body>
-      <p xml:lang="en" rend="noindent">creator  Verne, Jules (1828-1905)</p>
-      <p/>
-      <p/>
-      <p/>
-      <p/>
-      <p/>
-      <div>
-        <div>
-          <div>
+       <div>
             <head>
               <num>1</num>
             </head>
           </div>
-        </div>
-      </div>
       <div>
         <head>Dans lequel le principal personnage de cette histoire n’est pas présenté au lecteur</head>
         <p>Lorsque tous les deux descendirent en gare de Cette – train de Paris à la Méditerranée – Marcel Lornans, s’adressant à Jean Taconnat, lui dit :</p>
