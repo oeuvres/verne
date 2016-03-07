@@ -10,16 +10,10 @@
         <author>Verne, Jules (1828-1905)</author>
       </titleStmt>
       <editionStmt>
-        <respStmt>
-          <name>Berne, Clotilde</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <availability status="restricted"/>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl><ref target="http://www.ebooksgratuits.com/details.php?book=611">http://www.ebooksgratuits.com/details.php?book=611</ref></bibl>
-      </sourceDesc>
+        <p>Exercice dans le cadre du cours de Master Editions (Lille III 2016)</p>
+        <sourceDesc>
+          <bibl><ref target="http://www.ebooksgratuits.com/details.php?book=611">http://www.ebooksgratuits.com/details.php?book=611</ref></bibl>
+        </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
