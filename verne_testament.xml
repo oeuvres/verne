@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-06T19:12:24+01:00-->
+<!--Odette: 2016-03-07T11:43:53+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -33,10 +33,7 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
-      <p rend="titretablematieres">Table des matières</p>
-      <p/>
-      <divGen type="toc"/>
+    <body
       <div>
         <head>Première partie</head>
         <div>
