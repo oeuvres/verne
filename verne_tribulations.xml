@@ -32,9 +32,6 @@
   </teiHeader>
   <text>
     <body>
-      <p rend="margin noindent b">Table des matières</p>
-      <p/>
-      <divGen type="toc"/>
       <div>
         <head>I
 <lb/>
