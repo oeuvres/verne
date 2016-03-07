@@ -7,9 +7,11 @@
         <title>Vingt mille lieues sous les mers</title>
         <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <p>Exercice dans le cadre du cours de Master Edition (Lille III, 2015-2016)</p>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <p>Texte libre de droits</p>
       </publicationStmt>
       <sourceDesc>
         <bibl>
