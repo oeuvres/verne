@@ -7,23 +7,21 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <hi rend="color_1a1a1a">title: Cinq Semaines en ballon</hi>
+          title: Cinq Semaines en ballon
         </title>
         <author>  Verne, Jules (1828-1905)</author>
       </titleStmt>
       <editionStmt>
         <respStmt>
-          <name>
-            <hi rend="color_1a1a1a">copyeditor: Buc, Juliette</hi>
-          </name>
+          <name>copyeditor: Buc, Juliette</name>
         </respStmt>
       </editionStmt>
       <publicationStmt>
+        <publisher>???</publisher>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <hi rend="color_1a1a1a">source: </hi>
           <ref target="http://www.ebooksgratuits.com/details.php?book=604">http://www.ebooksgratuits.com/details.php?book=604</ref>
         </bibl>
       </sourceDesc>
@@ -41,7 +39,7 @@
     <body>
       <div>
         <head>I
-<lb/></head>
+</head>
         <p rend="i">La fin d’un discours très applaudi. – Présentation du docteur Samuel Fergusson. – « Excelsior. » – Portrait en pied du docteur. – Un fataliste convaincu. – Dîner au « Traveller’s club ». – Nombreux toasts de circonstance. </p>
         <p>Il y avait une grande affluence d’auditeurs, le 14 janvier 1862, à la séance de la Société royale géographique de Londres, Waterloo place, 3. Le président, Sir Francis M…, faisait à ses honorables collègues une importante communication dans un discours fréquemment interrompu par les applaudissements.</p>
         <p>Ce rare morceau d’éloquence se terminait enfin par quelques phrases ronflantes dans lesquelles le patriotisme se déversait à pleines périodes :</p>
@@ -87,7 +85,7 @@
       </div>
       <div>
         <head>II
-<lb/></head>
+</head>
         <p rend="i">Un article du « Daily Telegraph ». – Guerre de journaux savants. – M. Petermann soutient son ami le docteur Fergusson. – Réponse du savant Koner. – Paris engagés. – Diverses propositions faites au docteur. </p>
         <p>Le lendemain, dans son numéro du 15 janvier, le <hi rend="i">Daily Telegraph</hi> publiait un article ainsi conçu :</p>
         <p>« L’Afrique va livrer enfin le secret de ses vastes solitudes ; un Œdipe moderne nous donnera le mot de cette énigme que les savants de soixante siècles n’ont pu déchiffrer. Autrefois, rechercher les sources du Nil, <hi rend="i">fontes Nili quaerere</hi>, était regardé comme une tentative insensée, une irréalisable chimère.</p>
@@ -109,7 +107,7 @@
       </div>
       <div>
         <head>III
-<lb/></head>
+</head>
         <p rend="i">L’ami du docteur. – D’où datait leur amitié. – Dick Kennedy à Londres. – Proposition inattendue, mais point rassurante. – Proverbe peu consolant. – Quelques mots du martyrologue africain – Avantages d’un aérostat. – Le secret du docteur Fergusson. </p>
         <p>Le docteur Fergusson avait un ami. Non pas un autre lui-même, un <hi rend="i">alter ego ;</hi> l’amitié ne saurait exister entre deux êtres parfaitement identiques.</p>
         <p>Mais s’ils possédaient des qualités, des aptitudes, un tempérament distincts, Dick Kennedy et Samuel Fergusson vivaient d’un seul et même cœur, et cela ne les gênait pas trop. Au contraire.</p>
@@ -199,7 +197,7 @@
       </div>
       <div>
         <head>IV
-<lb/></head>
+</head>
         <p rend="i">Explorations africaines. – Barth, Richardson, Overweg, Werne, Brun-Rollet, Peney, Andrea Debono, Miani, Guillaume Lejean, Bruce, Krapf et Rebmann, Maizan, Roscher, Burton et Speke. </p>
         <p>La ligne aérienne que le docteur Fergusson comptait suivre n’avait pas été choisie au hasard ; son point de départ fut sérieusement étudié, et ce ne fut pas sans raison qu’il résolut de s’élever de l’île de Zanzibar. Cette île, située près de la côte orientale d’Afrique, se trouve par 6° de latitude australe, c’est-à-dire à quatre cent trente milles géographiques au-dessous de l’équateur<hi rend="b"><note place="bottom">Cent soixante-douze lieues.</note></hi>.</p>
         <p>De cette île venait de partir la dernière expédition envoyée par les Grands Lacs à la découverte des sources du Nil.</p>
@@ -234,7 +232,7 @@
       </div>
       <div>
         <head>V
-<lb/></head>
+</head>
         <p rend="i">Rêves de Kennedy. – Articles et pronoms au pluriel. – Insinuations de Dick. – Promenade sur la carte d’Afrique – Ce qui reste entre les deux pointes du compas. – Expéditions actuelles. – Speke et Grant. – Krapf, de Decken, de Heuglin. </p>
         <p>Le docteur Fergusson pressait activement les préparatifs de son départ ; il dirigeait lui-même la construction de son aérostat, suivant certaines modifications sur lesquelles il gardait un silence absolu.</p>
         <p>Depuis longtemps déjà, il s’était appliqué à l’étude de la langue arabe et de divers idiomes mandingues ; grâce à ses dispositions de polyglotte, il fit de rapides progrès.</p>
@@ -305,7 +303,7 @@
       </div>
       <div>
         <head>VI
-<lb/></head>
+</head>
         <p rend="i">Un domestique impossible. – Il aperçoit les satellites de Jupiter. – Dick et Joe aux prises. – Le doute et la croyance. – Le pesage. – Joe Wellington. – Il reçoit une demi-couronne. </p>
         <p>Le docteur Fergusson avait un domestique ; il répondait avec empressement au nom de Joe ; une excellente nature ; ayant voué à son maître une confiance absolue et un dévouement sans bornes ; devançant même ses ordres, toujours interprétés d’une façon intelligente ; un Caleb pas grognon et d’une éternelle bonne humeur ; on l’eût fait exprès qu’on n’eût pas mieux réussi. Fergusson s’en rapportait entièrement à lui pour les détails de son existence, et il avait raison. Rare et honnête Joe ! un domestique qui commande votre dîner, et dont le goût est le vôtre, qui fait votre malle et n’oublie ni les bas ni les chemises, qui possède vos clefs et vos secrets, et n’en abuse pas !</p>
         <p>Mais aussi quel homme était le docteur pour ce digne Joe ! avec quel respect et quelle confiance il accueillait ses décisions. Quand Fergusson avait parlé, fou qui eût voulu répondre. Tout ce qu’il pensait était juste ; tout ce qu’il disait, sensé ; tout ce qu’il commandait, faisable ; tout ce qu’il entreprenait, possible ; tout ce qu’il achevait, admirable. Vous auriez découpé Joe en morceaux, ce qui vous eût répugné sans doute, qu’il n’aurait pas changé d’avis à l’égard de son maître.</p>
@@ -369,7 +367,7 @@
       </div>
       <div>
         <head>VII
-<lb/></head>
+</head>
         <p rend="i">Détails géométriques. – Calcul de la capacité du ballon. – L’aérostat double. – L’enveloppe. – La nacelle. – L’appareil mystérieux. – Les vivres. – L’addition finale. </p>
         <p>Le docteur Fergusson s’était préoccupé depuis longtemps des détails de son expédition. On comprend que le ballon, ce merveilleux véhicule destiné à le transporter par air, fût l’objet de sa constante sollicitude.</p>
         <p>Tout d’abord, et pour ne pas donner de trop grandes dimensions à l’aérostat, il résolut de le gonfler avec du gaz hydrogène, qui est quatorze fois et demie plus léger que l’air. La production de ce gaz est facile, et c’est celui qui a donné les meilleurs résultats dans les expériences aérostatiques.</p>
@@ -466,7 +464,7 @@
       </div>
       <div>
         <head>VIII
-<lb/></head>
+</head>
         <p rend="i">Importance de Joe. – Le commandant du « Resolute ». – L’arsenal de Kennedy. – Aménagements. – Le dîner d’adieu. – Le départ du 21 février. – Séances scientifiques du docteur. – Duveyrier, Livingstone. – Détails du voyage aérien. – Kennedy réduit au silence. </p>
         <p>Vers le 10 février, les préparatifs touchaient à leur fin, les aérostats renfermés l’un dans l’autre étaient entièrement terminés ; ils avaient subi une forte pression d’air refoulé dans leurs flancs ; cette épreuve donnait bonne opinion de leur solidité, et témoignait des soins apportés à leur construction.</p>
         <p>Joe ne se sentait pas de joie ; il allait incessamment de Greek street aux ateliers de MM. Mittchell, toujours affairé, mais toujours épanoui, donnant volontiers des détails sur l’affaire aux gens qui ne lui en demandaient point, fier entre toutes choses d’accompagner son maître. Je crois même qu’à montrer l’aérostat, à développer les idées et les plans du docteur, à laisser apercevoir celui-ci par une fenêtre entrouverte, ou à son passage dans les rues, le digne garçon gagna quelques demi-couronnes ; il ne faut pas lui en vouloir ; il avait bien le droit de spéculer un peu sur l’admiration et la curiosité de ses contemporains.</p>
@@ -516,7 +514,7 @@
       </div>
       <div>
         <head>IX
-<lb/></head>
+</head>
         <p><hi rend="i">On double le cap. – Le gaillard d’avant – Cours de cosmographie par le professeur Joe. – De la direction des ballons. – De la recherche des courants atmosphériques. –</hi> Eυρηχα.</p>
         <p>Le <hi rend="i">Resolute</hi> filait rapidement vers le cap de Bonne-Espérance ; le temps se maintenait au beau, quoique la mer devint plus forte.</p>
         <p>Le 30 mars, vingt-sept jours après le départ de Londres, la montagne de la Table se profila sur l’horizon ; la ville du Cap, située au pied d’un amphithéâtre de collines, apparut au bout des lunettes marines, et bientôt le <hi rend="i">Resolute</hi> jeta l’ancre dans le port. Mais le commandant n’y relâchait que pour prendre du charbon ; ce fut l’affaire d’un jour ; le lendemain, le navire donnait dans le sud pour doubler la pointe méridionale de l’Afrique et entrer dans le canal de Mozambique.</p>
@@ -569,7 +567,7 @@
       </div>
       <div>
         <head>X
-<lb/></head>
+</head>
         <p rend="i">Essais antérieurs. – Les cinq caisses du docteur. – Le chalumeau à gaz. – Le calorifère. – Manière de manœuvrer. – Succès certain. </p>
         <p>« On a tenté souvent, messieurs, de s’élever ou de descendre à volonté, sans perdre le gaz ou le lest d’un ballon. Un aéronaute français, M. Meunier, voulait atteindre ce but en comprimant de l’air dans une capacité intérieure. Un belge, M. le docteur van Hecke, au moyen d’ailes et de palettes, déployait une force verticale qui eut été insuffisante dans la plupart des cas. Les résultats pratiques obtenus par ses divers moyens ont été insignifiants.</p>
         <p>« J’ai donc résolu d’aborder la question plus franchement. Et d’abord je supprime complètement le lest, si ce n’est pour les cas de force majeure, tels que la rupture de mon appareil, ou l’obligation de m’élever instantanément pour éviter un obstacle imprévu.</p>
@@ -607,7 +605,7 @@
       </div>
       <div>
         <head>XI
-<lb/></head>
+</head>
         <p rend="i">Arrivée à Zanzibar, – Le consul anglais. – Mauvaises dispositions des habitants. – L’île Koumbeni. – Les faiseurs de pluie – Gonflement du ballon. – Départ du 18 avril. – Dernier adieu. – Le « Victoria ». </p>
         <p>Un vent constamment favorable avait hâté la marche du <hi rend="i">Resolute</hi> vers le lieu de sa destination. La navigation du canal de Mozambique fut particulièrement paisible. La traversée maritime faisait bien augurer de la traversée aérienne. Chacun aspirait au moment de l’arrivée, et voulait mettre la dernière main aux préparatifs du docteur Fergusson.</p>
         <p>Enfin le bâtiment vint en vue de la ville de Zanzibar, située sur l’île du même nom, et le 15 avril, à onze heures du matin, laissa tomber l’ancre dans le port.</p>
@@ -660,7 +658,7 @@
       </div>
       <div>
         <head>XII
-<lb/></head>
+</head>
         <p rend="i">Traversée du détroit. – Le Mrima. – Propos de Dick et proposition de Joe. – Recette pour le café. – L’Uzaramo. – L’infortuné Maizan. – Le mont Duthumi. – Les cartes du docteur – Nuit sur un nopal. </p>
         <p>L’air était pur, le vent modéré ; le <hi rend="i">Victoria</hi> monta presque perpendiculairement à une hauteur de 1500 pieds, qui fut indiquée par une dépression de deux pouces moins deux lignes<hi rend="b"><note place="bottom">Environ cinq centimètres. La dépression est à peu près d’un centimètre par cent mètres d’élévation.</note></hi> dans la colonne barométrique.</p>
         <p>À cette élévation, un courant plus marqué porta le ballon vers le sud-ouest. Quel magnifique spectacle se déroulait aux yeux des voyageurs !</p>
@@ -737,7 +735,7 @@
       </div>
       <div>
         <head>XIII
-<lb/></head>
+</head>
         <p rend="i">Changement de temps, – Fièvre de Kennedy. – La médecine du docteur – Voyage par terre. – Le bassin d’Imengé. – Le mont Rubeho. – À six mille pieds. – Une halte de jour. </p>
         <p>La nuit fut paisible ; cependant le samedi matin, en se réveillant, Kennedy se plaignit de lassitude et de frissons de fièvre. Le temps changeait ; le ciel couvert de nuages épais semblait s’approvisionner pour un nouveau déluge. Un triste pays que ce Zungomero, où il pleut continuellement, sauf peut-être pendant une quinzaine de jours du mois de janvier.</p>
         <p>Une pluie violente ne tarda pas à assaillir les voyageurs ; au-dessous d’eux, les chemins coupés par des « nullahs », sortes de torrents momentanés, devenaient impraticables, embarrassés d’ailleurs de buissons épineux et de lianes gigantesques. On saisissait distinctement ces émanations d’hydrogène sulfuré dont parle le capitaine Burton.</p>
@@ -801,7 +799,7 @@
       </div>
       <div>
         <head>XIV
-<lb/></head>
+</head>
         <p rend="i">La forêt de gommiers. – L’antilope bleue. – Le signal de ralliement. – Un assaut inattendu. – Le Kanyemé. – Une nuit en plein air. – Le Mabunguru. – Jihoue-la-Mkoa. – Provision d’eau. – Arrivée à Kazeh. </p>
         <p>Le pays, aride, desséché, fait d’une terre argileuse qui se fendillait à la chaleur, paraissait désert ; çà et là, quelques traces de caravanes, des ossements blanchis d’hommes et de bêtes, à demi-rongés, et confondus dans la même poussière.</p>
         <p>Après une demi-heure de marche, Dick et Joe s’enfonçaient dans une forêt de gommiers, l’œil aux aguets et le doigt sur la détente du fusil. On ne savait pas à qui on aurait affaire. Sans être un rifleman, Joe maniait adroitement une arme à feu.</p>
@@ -898,7 +896,7 @@
       </div>
       <div>
         <head>XV
-<lb/></head>
+</head>
         <p rend="i">Kazeh. – Le marché bruyant. – Apparition du « Victoria ». – Les Wanganga. – Les fils de la lune. – Promenade du docteur. – Population. – Le tembé royal. – Les femmes du sultan. – Une ivresse royale. – Joe adoré. – Comment on danse dans la lune. – Revirement. – Deux lunes au firmament. – Instabilité des grandeurs divines. </p>
         <p>Kazeh, point important de l’Afrique centrale, n’est point une ville ; à vrai dire, il n’y a pas de ville à l’intérieur. Kazeh n’est qu’un ensemble de six vastes excavations. Là sont renfermées des cases, des huttes à esclaves, avec de petites cours et de petits jardins, soigneusement cultivés ; oignons, patates, aubergines, citrouilles et champignons d’une saveur parfaite y poussent à ravir.</p>
         <p>L’Unyamwezy est la terre de la Lune par excellence, le parc fertile et splendide de l’Afrique ; au centre se trouve le district de l’Unyanembé, une contrée délicieuse, où vivent paresseusement quelques familles d’Omani, qui sont des Arabes d’origine très pure.</p>
@@ -992,7 +990,7 @@
       </div>
       <div>
         <head>XVI
-<lb/></head>
+</head>
         <p rend="i">Symptômes d’orage. – Le pays de la Lune. – L’avenir du continent africain. – La machine de la dernière heure. – Vue du pays au soleil couchant – Flore et Faune. – L’orage. – La zone de feu. – Le ciel étoilé. </p>
         <p>« Voilà ce que c’est, dit Joe, de faire les Fils de la Lune sans sa permission ! Ce satellite a failli nous jouer là un vilain tour ! Est-ce que, par hasard, mon maître, vous auriez compromis sa réputation par votre médecine.</p>
         <p>– Au fait, dit le chasseur, qu’était ce sultan de Kazeh ?</p>
@@ -1071,7 +1069,7 @@
       </div>
       <div>
         <head>XVII
-<lb/></head>
+</head>
         <p rend="i">Les montagnes de la Lune. – Un océan de verdure. – On jette l’ancre. – L’éléphant remorqueur. – Feu nourri. – Mort du pachyderme. – Le four de campagne. – Repas sur l’herbe. – Une nuit à terre. </p>
         <p>Vers six heures du matin, le lundi, le soleil s’élevait au-dessus de l’horizon ; les nuages se dissipèrent, et un joli vent rafraîchit ces premières lueurs matinales.</p>
         <p>La terre, toute parfumée, reparut aux yeux des voyageurs. Le ballon, tournant sur place au milieu des courants opposés, avait à peine dérivé ; le docteur, laissant se contracter le gaz, descendit afin de saisir une direction plus septentrionale. Longtemps ses recherches furent vaines ; le vent l’entraîna dans l’ouest, jusqu’en vue des célèbres montagnes de la Lune, qui s’arrondissent en demi-cercle autour de la pointe du lac Tanganayika ; leur chaîne, peu accidentée, se détachait sur l’horizon bleuâtre ; on eut dit une fortification naturelle, infranchissable aux explorateurs du centre de l’Afrique ; quelques cônes isolés portaient la trace des neiges éternelles.</p>
@@ -1169,7 +1167,7 @@
       </div>
       <div>
         <head>XVIII
-<lb/></head>
+</head>
         <p rend="i">Le Karagwah. – Le lac Ukéréoué. – Une nuit dans une île. – L’Équateur. – Traversée du lac. – Les cascades. – Vue du pays. – Les sources du Nil. – L’île Benga. – La signature d’Andrea Debono. – Le pavillon aux armes d’Angleterre. </p>
         <p>Le lendemain, dès cinq heures, commençaient les préparatifs du départ. Joe, avec la hache qu’il avait heureusement retrouvée, brisa les défenses de l’éléphant. Le <hi rend="i">Victoria</hi>, rendu à la liberté, entraîna les voyageurs vers le nord-est avec une vitesse de dix-huit milles.</p>
         <p>Le docteur avait soigneusement relevé sa position par la hauteur des étoiles pendant la soirée précédente. Il était par 2° 40’de latitude au-dessous de l’équateur, soit à cent soixante milles géographiques ; il traversa de nombreux villages sans se préoccuper des cris provoqués par son apparition ; il prit note de la conformation des lieux avec des vues sommaires ; il franchit les rampes du Rubemhé, presque aussi roides que les sommets de l’Ousagara, et rencontra plus tard, à Tenga, les premiers ressauts des chaînes de Karagwah, qui, selon lui, dérivent nécessairement des montagnes de la Lune. Or, la légende ancienne qui faisait de ces montagnes le berceau du Nil s’approchait de la vérité, puisqu’elles confinent au lac Ukéréoué, réservoir présumé des eaux du grand fleuve.</p>
@@ -1261,7 +1259,7 @@
         <p>« Regarde, dit-il.</p>
         <p>– Des lettres ! » s’écria Kennedy.</p>
         <p>En effet, deux lettres gravées sur le roc apparaissaient dans toute leur netteté. On lisait distinctement :</p>
-        <p rend="center noindent">A. D.</p>
+        <p rend="center">A. D.</p>
         <p>« A. D., reprit le docteur Fergusson ! Andrea Debono ! La signature même du voyageur qui a remonté le plus avant le cours du Nil !</p>
         <p>– Voilà qui est irrécusable, ami Samuel.</p>
         <p>– Es-tu convaincu maintenant !</p>
@@ -1274,7 +1272,7 @@
       </div>
       <div>
         <head>XIX
-<lb/></head>
+</head>
         <p rend="i">Le Nil. – La montagne tremblante. – Souvenir du pays. – Les récits des Arabes. – Les Nyam-Nyam. – Réflexions sensées de Joe. – Le « Victoria » court des bordées. – Les ascensions aérostatiques. – Madame Blanchard. </p>
         <p>« Quelle est notre direction ? demanda Kennedy en voyant son ami consulter la boussole.</p>
         <p>– Nord-nord-ouest.</p>
@@ -1338,7 +1336,7 @@
       </div>
       <div>
         <head>XX
-<lb/></head>
+</head>
         <p rend="i">La bouteille céleste. – Les figuiers-palmiers. – Les « mammouth trees ». – L’arbre de guerre. – L’attelage ailé. – Combats de deux peuplades. – Massacre. – Intervention divine. </p>
         <p>Le vent devenait violent et irrégulier. Le <hi rend="i">Victoria</hi> courait de véritables bordées dans les airs. Rejeté tantôt dans le nord, tantôt dans le sud, il ne pouvait rencontrer un souffle constant.</p>
         <p>« Nous marchons très vite sans avancer beaucoup, dit Kennedy, en remarquant les fréquentes oscillations de l’aiguille aimantée.</p>
@@ -1401,7 +1399,7 @@
       </div>
       <div>
         <head>XXI
-<lb/></head>
+</head>
         <p rend="i">Rumeurs étranges. – Une attaque nocturne. – Kennedy et Joe dans l’arbre. – Deux coups de feu. – « À moi ! à moi ! » – Réponse en français. – Le matin. – Le missionnaire. – Le plan de sauvetage. </p>
         <p>La nuit se faisait très obscure. Le docteur n’avait pu reconnaître le pays ; il s’était accroché à un arbre fort élevé, dont il distinguait à peine la masse confuse dans l’ombre.</p>
         <p>Suivant son habitude, il prit le quart de neuf heures, et à minuit Dick vint le remplacer.</p>
@@ -1520,7 +1518,7 @@
       </div>
       <div>
         <head>XXII
-<lb/></head>
+</head>
         <p rend="i">La gerbe de lumière. – Le missionnaire. – Enlèvement dans un rayon de lumière. – Le prêtre Lazariste. – Peu d’espoir. – Soins du docteur. – Une vie d’abnégation. – Passage d’un volcan. </p>
         <p>Fergusson projeta vers les divers points de l’espace son puissant rayon de lumière et l’arrêta sur un endroit où des cris d’épouvante se firent entendre. Ses deux compagnons y jetèrent un regard avide.</p>
         <p>Le baobab au-dessus duquel se maintenait le <hi rend="i">Victoria</hi> presque immobile s’élevait au centre d’une clairière ; entre des champs de sésame et de cannes à sucre, on distinguait une cinquantaine de huttes basses et coniques autour desquelles fourmillait une tribu nombreuse.</p>
@@ -1598,7 +1596,7 @@
       </div>
       <div>
         <head>XXIII
-<lb/></head>
+</head>
         <p rend="i">Colère de Joe. – La mort d’un juste. – La veillée du corps. – Aridité. – L’ensevelissement. – Les blocs de quartz. – Hallucination de Joe. – Un lest précieux. – Relèvement des montagnes aurifères. – Commencement des désespoirs de Joe. </p>
         <p>Une nuit magnifique s’étendait sur la terre. Le prêtre s’endormit dans une prostration paisible.</p>
         <p>« Il n’en reviendra pas, dit Joe ! Pauvre jeune homme ! trente ans à peine !</p>
@@ -1703,7 +1701,7 @@
       </div>
       <div>
         <head>XXIV
-<lb/></head>
+</head>
         <p rend="i">Le vent tombe. – Les approches du désert. – Le décompte de la provision d’eau. – Les nuits de l’équateur. – Inquiétudes de Samuel Fergusson. – La situation telle qu’elle est. – Énergiques réponses de Kennedy et de Joe. – Encore une nuit. </p>
         <p>Le <hi rend="i">Victoria</hi>, accroché à un arbre solitaire et presque desséché, passa la nuit dans une tranquillité parfaite ; les voyageurs purent goûter un peu de ce sommeil dont ils avaient si grand besoin ; les émotions des journées précédentes leur avaient laissé de tristes souvenirs.</p>
         <p>Vers le matin, le ciel reprit sa limpidité brillante et sa chaleur. Le ballon s’éleva dans les airs ; après plusieurs essais infructueux, il rencontra un courant, peu rapide d’ailleurs, qui le porta vers le nord-ouest.</p>
@@ -1760,7 +1758,7 @@
       </div>
       <div>
         <head>XXV
-<lb/></head>
+</head>
         <p rend="i">Un peu de philosophie. – Un nuage à l’horizon. – Au milieu d’un brouillard. – Le ballon inattendu. – Les signaux. – Vue exacte du Victoria. – Les palmiers. – Traces d’une caravane. – Le puits au milieu du désert. </p>
         <p>Le lendemain, même pureté du ciel, même immobilité de l’atmosphère. Le <hi rend="i">Victoria</hi> s’éleva jusqu’à une hauteur de cinq cents pieds ; mais c’est à peine s’il se déplaça sensiblement dans l’ouest.</p>
         <p>« Nous sommes en plein désert, dit le docteur. Voici l’immensité de sable ! Quel étrange spectacle ! Quelle singulière disposition de la nature ! Pourquoi là-bas cette végétation excessive, ici cette extrême aridité, et cela, par la même latitude, sous les mêmes rayons de soleil !</p>
@@ -1841,7 +1839,7 @@
       </div>
       <div>
         <head>XXVI
-<lb/></head>
+</head>
         <p rend="i">Cent treize degrés. – Réflexions du docteur. – Recherche désespérée. – Le chalumeau s’éteint. Cent vingt-deux degrés. – La contemplation du désert. – Une promenade dans la nuit. – Solitude. – Défaillance. – Projets de Joe. – Il se donne un jour encore. </p>
         <p>La route parcourue par le <hi rend="i">Victoria</hi> pendant la journée précédente n’excédait pas dix milles, et, pour se maintenir, on avait dépensé cent soixante-deux pieds cubes de gaz.</p>
         <p>Le samedi matin, le docteur donna le signal du départ.</p>
@@ -1898,7 +1896,7 @@
       </div>
       <div>
         <head>XXVII
-<lb/></head>
+</head>
         <p rend="i">Chaleur effrayante. – Hallucinations. – Les dernières gouttes d’eau. – Nuit de désespoir. – Tentative de suicide. – Le simoun. – L’oasis. – Lion et lionne. </p>
         <p>Le premier soin du docteur fut, le lendemain, de consulter le baromètre. C’est à peine si la colonne de mercure avait subi une dépression appréciable.</p>
         <p>« Rien ! se dit-il, rien ! »</p>
@@ -1985,7 +1983,7 @@
       </div>
       <div>
         <head>XXVIII
-<lb/></head>
+</head>
         <p rend="i">Soirée délicieuse. – La cuisine de Joe. – Dissertation sur la viande crue. – Histoire de James Bruce. – Le bivac. – Les rêves de Joe. – Le baromètre baisse. – Le baromètre remonte. – Préparatifs de départ. – L’ouragan. </p>
         <p>La soirée fut charmante et se passa sous de frais ombrages de mimosas, après un repas réconfortant ; le thé et le grog n’y furent pas ménagés.</p>
         <p>Kennedy avait parcouru ce petit domaine dans tous les sens, il en avait fouillé les buissons ; les voyageurs étaient les seuls êtres animés de ce paradis terrestre ; ils s’étendirent sur leurs couvertures et passèrent une nuit paisible, qui leur apporta l’oubli des douleurs passées.</p>
@@ -2041,7 +2039,7 @@
       </div>
       <div>
         <head>XXIX
-<lb/></head>
+</head>
         <p rend="i">Symptômes de végétation. – Idée fantaisiste d’un auteur français. – Pays magnifique. – Royaume d’Adamova. – Les explorations de Speke et Burton reliées à celles de Barth. – Les monts Atlantika. – Le fleuve Benoué. – La ville d’Yola. – Le Bagelé. – Le mont Mendif. </p>
         <p>Depuis le moment de leur départ, les voyageurs marchèrent avec une grande rapidité ; il leur tardait de quitter ce désert qui avait failli leur être si funeste.</p>
         <p>Vers neuf heures un quart du matin, quelques symptômes de végétation furent entrevus, herbes flottant sur cette mer de sable, et leur annonçant, comme à Christophe Colomb, la proximité de la terre ; des pousses vertes pointaient timidement entre des cailloux qui allaient eux-mêmes redevenir les rochers de cet Océan.</p>
@@ -2096,7 +2094,7 @@
       </div>
       <div>
         <head>XXX
-<lb/></head>
+</head>
         <p rend="i">Mosfeia. – Le cheik. – Denham, Clapperton, Oudney. – Vogel. – La capitale du Loggoum. – Toole. – Calme au-dessus du Kernak. – Le gouverneur et sa cour. – L’attaque. – Les pigeons incendiaires. </p>
         <p>Le lendemain, 1<hi rend="sup">er</hi> mai, le <hi rend="i">Victoria</hi> reprit sa course aventureuse ; les voyageurs avaient en lui la confiance d’un marin pour son navire.</p>
         <p>D’ouragans terribles, de chaleurs tropicales, de départs dangereux, de descentes plus dangereuses encore, il s’était partout et toujours tiré avec bonheur. On peut dire que Fergusson le guidait d’un geste ; aussi, sans connaître le point d’arrivée, le docteur n’avait plus de craintes sur l’issue du voyage. Seulement, dans ce pays de barbares et de fanatiques, la prudence l’obligeait à prendre les plus sévères précautions ; il recommanda donc à ses compagnons d’avoir l’œil ouvert à tout venant et à toute heure.</p>
@@ -2154,7 +2152,7 @@
       </div>
       <div>
         <head>XXXI
-<lb/></head>
+</head>
         <p rend="i">Départ dans la nuit. – Tous les trois. – Les instincts de Kennedy. – Précautions. – Le cours du Shari. – Le lac Tchad. – L’eau du lac. – L’hippopotame. – Une balle perdue. </p>
         <p>Vers trois heures du matin, Joe, étant de quart, vit enfin la ville se déplacer sous ses pieds. Le <hi rend="i">Victoria</hi> reprenait sa marche. Kennedy et le docteur se réveillèrent.</p>
         <p>Ce dernier consulta la boussole, et reconnut avec satisfaction que le vent les portait vers le nord-nord-est.</p>
@@ -2202,7 +2200,7 @@
       </div>
       <div>
         <head>XXXII
-<lb/></head>
+</head>
         <p rend="i">La capitale du Bornou. – Les îles des Biddiomahs. – Les Gypaètes. – Les inquiétudes du docteur. – Ses précautions. – Une attaque au milieu des airs. – L’enveloppe déchirée. – La chute. – Dévouement sublime. – La côte septentrionale du lac. </p>
         <p>Depuis son arrivée au lac Tchad, le <hi rend="i">Victoria</hi> avait rencontré un courant qui s’inclinait plus à l’ouest ; quelques nuages tempéraient alors la chaleur du jour ; on sentait d’ailleurs un peu d’air sur cette vaste étendue d’eau ; mais, vers une heure, le ballon, ayant coupé de biais cette partie du lac, s’avança de nouveau dans les terres pendant l’espace de sept ou huit milles.</p>
         <p>Le docteur, un peu fâché d’abord de cette direction, ne pensa plus à s’en plaindre quand il aperçut la ville de Kouka, la célèbre capitale du Bornou ; il put l’entrevoir un instant, ceinte de ses murailles d’argile blanche ; quelques mosquées assez grossières s’élevaient lourdement au-dessus de cette multitude de dés à jouer qui forment les maisons arabes. Dans les cours des maisons et sur les places publiques poussaient des palmiers et des arbres à caoutchouc, couronnés par un dôme de feuillage large de plus de cent pieds. Joe fit observer que ces immenses parasols étaient en rapport avec l’ardeur des rayons solaires, et il en tira des conclusions fort aimables pour la Providence.</p>
@@ -2282,7 +2280,7 @@
       </div>
       <div>
         <head>XXXIII
-<lb/></head>
+</head>
         <p rend="i">Conjectures. – Rétablissement de l’équilibre du « Victoria ». – Nouveaux calculs du docteur Fergusson. – Chasse de Kennedy. – Exploration complète du lac Tchad. – Tangalia. – Retour. – Lari. </p>
         <p>Le lendemain, 13 mai, les voyageurs reconnurent tout d’abord la partie de la côte qu’ils occupaient. C’était une sorte d’île de terre ferme au milieu d’un immense marais. Autour de ce morceau de terrain solide s’élevaient des roseaux grands comme des arbres d’Europe et qui s’étendaient à perte de vue.</p>
         <p>Ces marécages infranchissables rendaient sûre la position du <hi rend="i">Victoria</hi> ; il fallait seulement surveiller le côté du lac ; la vaste nappe d’eau allait s’élargissant, surtout dans l’est, et rien ne paraissait à l’horizon, ni continent ni îles.</p>
@@ -2339,7 +2337,7 @@
       </div>
       <div>
         <head>XXXIV
-<lb/></head>
+</head>
         <p rend="i">L’ouragan. – Départ forcé. – Perte d’une ancre. – Tristes réflexions. – Résolution prise. – La trombe. – La caravane engloutie. – Vent contraire et favorable. – Retour au sud. – Kennedy à son poste. </p>
         <p>À trois heures du matin, le vent faisait rage, et soufflait avec une violence telle que le <hi rend="i">Victoria</hi> ne pouvait demeurer près de terre sans danger ; les roseaux froissaient son enveloppe, qu’ils menaçaient de déchirer.</p>
         <p>« Il faut partir, Dick, fit le docteur ; nous ne pouvons rester dans cette situation.</p>
@@ -2384,7 +2382,7 @@
       </div>
       <div>
         <head>XXXV
-<lb/></head>
+</head>
         <p rend="i">L’histoire de Joe. – L’île des Biddiomahs. – L’adoration. – L’île engloutie. – Les rives du lac. – L’arbre aux serpents. – Voyage à pied. – Souffrances. – Moustiques et fourmis. – La faim. – Passage du « Victoria ». – Disparition du « Victoria ». – Désespoir. – Le marais. – Un dernier cri. </p>
         <p>Qu’était devenu Joe pendant les vaines recherches de son maître ?</p>
         <p>Lorsqu’il se fut précipité dans le lac, son premier mouvement à la surface fut de lever les yeux en l’air ; il vit le <hi rend="i">Victoria</hi>, déjà fort élevé au-dessus du lac, remonter avec rapidité, diminuer peu à peu, et, pris bientôt par un courant rapide, disparaître vers le nord. Son maître, ses amis étaient sauvés.</p>
@@ -2439,7 +2437,7 @@
       </div>
       <div>
         <head>XXXVI
-<lb/></head>
+</head>
         <p rend="i">Un rassemblement à l’horizon. – Une troupe d’Arabes. – La poursuite. – C’est lui ! – Chute de cheval. – L’Arabe étranglé. – Une balle de Kennedy. – Manœuvre. – Enlèvement au vol. – Joe sauvé. </p>
         <p>Depuis que Kennedy avait repris son poste d’observation sur le devant de la nacelle, il ne cessait d’observer l’horizon avec une grande attention.</p>
         <p>Au bout de quelque temps, il se retourna vers le docteur et dit :</p>
@@ -2531,7 +2529,7 @@
       </div>
       <div>
         <head>XXXVII
-<lb/></head>
+</head>
         <p rend="i">La route de l’ouest. – Le réveil de Joe. – Son entêtement. – Fin de l’histoire de Joe. – Tagelel. – Inquiétudes de Kennedy. – Route au Nord. – Une nuit près d’Aghadès. </p>
         <p>Le vent pendant la nuit se reposa de ses violences du jour, et le <hi rend="i">Victoria</hi> demeura paisiblement au sommet d’un grand sycomore ; le docteur et Kennedy veillèrent à tour de rôle, et Joe en profita pour dormir vigoureusement et tout d’un somme pendant vingt-quatre heures.</p>
         <p>« Voilà le remède qu’il lui faut, dit Fergusson ; la nature se chargera de sa guérison. »</p>
@@ -2589,7 +2587,7 @@
       </div>
       <div>
         <head>XXXVIII
-<lb/></head>
+</head>
         <p rend="i">Traversée rapide. – Résolutions prudentes. – Caravanes. – Averses continuelles. – Gao. – Le Niger. – Golberry, Geoffroy, Gray. – Mungo-Park. – Laing. – René Caillié. – Clapperton. – John et Richard Lander. </p>
         <p>La journée du 17 mai fut tranquille et exempte de tout incident ; le désert recommençait ; un vent moyen ramenait le <hi rend="i">Victoria</hi> dans le sud-ouest ; il ne déviait ni à droite ni à gauche ; son ombre traçait sur le sable une ligne rigoureusement droite.</p>
         <p>Avant son départ, le docteur avait renouvelé prudemment sa provision d’eau ; il craignait de ne pouvoir prendre terre sur ces contrées infestées par les Touareg Aouelimminien. Le plateau, élevé de dix-huit cents pieds au-dessus du niveau de la mer, se déprimait vers le sud. Les voyageurs, ayant coupé la route d’Aghadès à Mourzouk, souvent battue par le pied des chameaux, arrivèrent au soir par 16° de latitude et 4° 55’de longitude, après avoir franchi cent quatre-vingts milles d’une longue monotonie.</p>
@@ -2642,7 +2640,7 @@
       </div>
       <div>
         <head>XXXIX
-<lb/></head>
+</head>
         <p rend="i">Le pays dans le coude du Niger. – Vue fantastique des monts Hombori. – Kabra. – Tembouctou. – Plan du docteur Barth. – Décadence. – Où le ciel voudra. </p>
         <p>Pendant cette maussade journée du lundi, le docteur Fergusson se plut à donner à ses compagnons mille détails sur la contrée qu’ils traversaient. Le sol assez plat n’offrait aucun obstacle à leur marche. Le seul souci du docteur était causé par ce maudit vent du nord-est qui soufflait avec rage et l’éloignait de la latitude de Tembouctou.</p>
         <p>Le Niger, après avoir remonté au nord jusqu’à cette ville, s’arrondit comme un immense jet d’eau et retombe dans l’océan Atlantique en gerbe largement épanouie ; dans ce coude, le pays est très varié, tantôt d’une fertilité luxuriante, tantôt d’une extrême aridité ; les plaines incultes succèdent aux champs de maïs, qui sont remplacés par de vastes terrains couverts de genêts ; toutes les espèces d’oiseaux d’humeur aquatique, pélicans, sarcelles, martins-pêcheurs, vivent en troupes nombreuses sur les bords des torrents et des marigots.</p>
@@ -2684,7 +2682,7 @@
       </div>
       <div>
         <head>XL
-<lb/></head>
+</head>
         <p rend="i">Inquiétudes du docteur Fergusson. – Direction persistante vers le sud. – Un nuage de sauterelles. – Vue de Jenné. – Vue de Ségo. – Changement de vent. – Regrets de Joe. </p>
         <p>Le lit du fleuve était alors partagé par de grandes îles en branches étroites d’un courant fort rapide. Sur l’une d’entre elles s’élevaient quelques cases de bergers ; mais il fut impossible d’en faire un relèvement exact, car la vitesse du <hi rend="i">Victoria</hi> s’accroissait toujours. Malheureusement, il inclinait encore plus au sud et franchit en quelques instants le lac Debo.</p>
         <p>Fergusson chercha à diverses élévations, en forçant extrêmement sa dilatation, d’autres courants dans l’atmosphère, mais en vain. Il abandonna promptement cette manœuvre, qui augmentait encore la déperdition de son gaz, en le pressant contre les parois fatiguées de l’aérostat.</p>
@@ -2725,7 +2723,7 @@
       </div>
       <div>
         <head>XLI
-<lb/></head>
+</head>
         <p rend="i">Les approches du Sénégal. – Le « Victoria » baisse de plus en plus. – On jette, on jette toujours. – Le marabout Al-Hadji. – MM. Pascal, Vincent, Lambert. – Un rival de Mahomet. – Les montagnes difficiles. – Les armes de Kennedy. – Une manœuvre de Joe. – Halte au-dessus d’une forêt. </p>
         <p>Le 27 mai, vers neuf heures du matin, le pays se présenta sous un nouvel aspect : les rampes longuement étendues se changeaient en collines qui faisaient présager de prochaines montagnes ; on aurait à franchir la chaîne qui sépare le bassin du Niger du bassin du Sénégal et détermine l’écoulement des eaux soit au golfe de Guinée, soit à la baie du cap Vert.</p>
         <p>Jusqu’au Sénégal, cette partie de l’Afrique est signalée comme dangereuse. Le docteur Fergusson le savait par les récits de ses devanciers ; ils avaient souffert mille privations et couru mille dangers au milieu de ces Nègres barbares ; ce climat funeste dévora la plus grande partie des compagnons de Mungo-Park. Fergusson fut donc plus que jamais décidé à ne pas prendre pied sur cette contrée inhospitalière.</p>
@@ -2819,7 +2817,7 @@
       </div>
       <div>
         <head>XLII
-<lb/></head>
+</head>
         <p rend="i">Combat de générosité. – Dernier sacrifice. – L’appareil de dilatation. – Adresse de Joe. – Minuit. – Le quart du docteur. – Le quart de Kennedy. – Il s’endort. – L’incendie. – Les hurlements. – Hors de portée. </p>
         <p>Le docteur Fergusson commença par relever sa position d’après la hauteur des étoiles ; il se trouvait à vingt-cinq milles à peine du Sénégal.</p>
         <p>« Tout ce que nous pouvons faire, mes amis, dit-il après avoir pointé sa carte, c’est de passer le fleuve ; mais comme il n’y a ni pont ni barques, il faut à tout prix le passer en ballon ; pour cela, nous devons nous alléger encore.</p>
@@ -2874,7 +2872,7 @@
       </div>
       <div>
         <head>XLIII
-<lb/></head>
+</head>
         <p rend="i">Les Talibas. – La poursuite. – Un pays dévasté. – Vent modéré. – Le « Victoria » baisse – Les dernières provisions. – Les bonds du « Victoria ». – Défense à coups de fusil. – Le vent fraîchit. – Le fleuve du Sénégal. – Les cataractes de Gouina. – L’air chaud. – Traversée du fleuve. </p>
         <p>« Si nous n’avions pas pris la précaution de nous alléger hier soir, dit le docteur, nous étions perdus sans ressources.</p>
         <p>– Voilà ce que c’est que de faire les choses à temps, répliqua Joe ; on se sauve alors, et rien n’est plus naturel.</p>
@@ -2983,7 +2981,7 @@
       </div>
       <div>
         <head>XLIV
-<lb/></head>
+</head>
         <p rend="i">Conclusion. – Le procès-verbal. – Les établissements français. – Le poste de Médine. – Le « Basilic ». – Saint-Louis. – La frégate anglaise. – Retour à Londres. </p>
         <p>L’expédition qui se trouvait sur le bord du fleuve avait été envoyée par le gouverneur du Sénégal ; elle se composait de deux officiers, MM. Dufraisse, lieutenant d’infanterie de marine, et Rodamel, enseigne de vaisseau ; d’un sergent et de sept soldats. Depuis deux jours, ils s’occupaient de reconnaître la situation la plus favorable pour l’établissement d’un poste à Gouina, lorsqu’ils furent témoins de l’arrivée du docteur Fergusson.</p>
         <p>On se figure aisément les félicitations et les embrassements dont furent accablés les trois voyageurs. Les Français, ayant pu contrôler par eux mêmes l’accomplissement de cet audacieux projet, devenaient les témoins naturels de Samuel Fergusson.</p>
