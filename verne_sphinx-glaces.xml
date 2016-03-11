@@ -19,7 +19,9 @@
         <p>Texte libre de droits</p>
       </publicationStmt>
 		<sourceDesc>
-        <bibl> <ref target="http://www.ebooksgratuits.com/pdf/verne_sphinx_des_glaces.pdf">http://www.ebooksgratuits.com/pdf/verne_sphinx_des_glaces.pdf</bibl>
+        <bibl> 
+        <ref target="http://www.ebooksgratuits.com/pdf/verne_sphinx_des_glaces.pdf">http://www.ebooksgratuits.com/pdf/verne_sphinx_des_glaces.pdf</ref>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -36,7 +38,7 @@
       <p rend="center noindent i">À la mémoire d’Edgar Poe. </p>
       <p rend="center noindent i">À mes amis d’Amérique. </p>
       <div>
-        <head><Première partie </head>
+        <head>Première partie </head>
 <div type="chapter"><head>Chapitre I</div>
 <lb/>Les îles Kerguelen</head>
         <p>Personne n’ajoutera foi, sans doute, à ce récit intitulé Le Sphinx des glaces. N’importe, il est bon, à mon avis, qu’il soit livré au public. Libre à lui d’y croire ou de n’y point croire.</p>
