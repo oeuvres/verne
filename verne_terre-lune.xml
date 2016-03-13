@@ -7,16 +7,24 @@ Nination
   <teiHeader>
     <fileDesc>
       <titleStmt/>
+      <title> De la terre à la lune</title>
+      <author> Verne, Jules (1828-1905) </author>
+      <titleStmt/>
       <editionStmt/>
+      <respStmt>
+        <name> Muteba Nina</name>
+      </respStmt>
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc/>
+      <bibl><ref target="http://www.ebooksgratuits.com/newsendbook.php?id=609&amp;format</bibl>
     </fileDesc>
     <profileDesc>
       <creation/>
+      <date when="1865"/>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
