@@ -10,12 +10,14 @@
         <author>Verne, Jules (1828-1905)</author>
       </titleStmt>
       <editionStmt>
-        <respStmt>
+        <p>Exercice dans le cadre du cours de Master Edition (Lille 3 2015-2016)</p>
+        <!--<respStmt>
           <name>Mailly Annaëlle</name>
-        </respStmt>
+        </respStmt>-->
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <p>Texte libre de droits</p>
+        <!--<availability status="restricted"/>-->
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -379,22 +381,22 @@
       <div>
         <head>XVI.</head>
         <p>En rentrant dans le grand salon, je vis ce programme affiché à la porte :</p>
-        <p rend="center noindent">THIS NIGHT</p>
-        <p rend="center noindent">FIRST PART</p>
-        <p><hi xml:lang="en" rend="i">Ocean Time</hi><space>                                  </space><hi xml:lang="en" rend="i">Mr Mac Alpine</hi> </p>
-        <p>Song : <hi xml:lang="en" rend="i">Beautiful isle of the sea <space>  </space>Mr Ewing</hi></p>
-        <p>Reading <space>                                         </space><hi xml:lang="en" rend="i">Mr Affleet</hi></p>
-        <p>Piano solo : <hi xml:lang="en" rend="i">Chant du berger. <space>   </space>Mrs Alloway</hi></p>
-        <p>Scotch song <space>                                  </space><hi xml:lang="en" rend="i">Doctor T</hi></p>
-        <p rend="center noindent">Intermission of ten minutes</p>
-        <p rend="center noindent">PART SECOND</p>
-        <p>Piano solo <space>                                     </space><hi xml:lang="en" rend="i">Mr Paul V</hi></p>
-        <p>Burlesque : <hi xml:lang="en" rend="i">Lady of Lyon <space>          </space>Doctor T</hi></p>
-        <p>Entertainment <space>                            </space><hi xml:lang="en" rend="i">Sir James Anderson</hi></p>
+        <p rend="center">THIS NIGHT</p>
+        <p rend="center">FIRST PART</p>
+        <p><hi rend="i">Ocean Time</hi><space>                                  </space><hi rend="i">Mr Mac Alpine</hi> </p>
+        <p>Song : <hi rend="i">Beautiful isle of the sea   Mr Ewing</hi></p>
+        <p>Reading <space>                                         </space><hi rend="i">Mr Affleet</hi></p>
+        <p>Piano solo : <hi rend="i">Chant du berger.   Mrs Alloway</hi></p>
+        <p>Scotch song <space>                                  </space><hi rend="i">Doctor T</hi></p>
+        <p rend="center">Intermission of ten minutes</p>
+        <p rend="center">PART SECOND</p>
+        <p>Piano solo <space>                                     </space><hi rend="i">Mr Paul V</hi></p>
+        <p>Burlesque : <hi rend="i">Lady of Lyon          Doctor T</hi></p>
+        <p>Entertainment <space>                            </space><hi rend="i">Sir James Anderson</hi></p>
         <p rend="i">Song : Happy moment <space>              </space>Mr Norville </p>
         <p rend="i">Song : You remember <space>                </space>Mr Ewing </p>
-        <p rend="center noindent">FINALE</p>
-        <p rend="center noindent i">God save the Queen </p>
+        <p rend="center">FINALE</p>
+        <p rend="center">God save the Queen </p>
         <p>C’était, on le voit, un concert complet, avec première partie, entracte, seconde partie et finale. Cependant, paraît-il, quelque chose manquait à ce programme, car j’entendis murmurer derrière moi :</p>
         <p>« Bon ! Pas de Mendelssohn ! »</p>
         <p>Je me retournai. C’était un simple steward qui protestait ainsi contre l’omission de sa musique favorite.</p>
