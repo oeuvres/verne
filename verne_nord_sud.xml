@@ -10,12 +10,14 @@
         <author>Verne, Jules (1828-1905)</author>
       </titleStmt>
       <editionStmt>
+        <edition>Exercice dans le cadre du cours Master Edition (Lille 3, 2015-2016)</edition>
         <respStmt>
           <name>Cousture, Marine</name>
+          <resp>Informatique éditoriale</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>??</publisher>
+        <publisher>Texte libre de droits</publisher>
       </publicationStmt>
       <sourceDesc>
         <bibl><ref target="http://www.ebooksgratuits.com/details.php?book=871"></ref></bibl>
@@ -33,7 +35,7 @@
   <text>
     <body>
       <div>
-        <head>PREMIÈRE PARTIE
+        <head>Première partie
 <lb/></head>
         <div>
           <head>I.
@@ -1333,7 +1335,7 @@
         </div>
       </div>
       <div>
-        <head>DEUXIÈME PARTIE
+        <head>Deuxième partie
 <lb/></head>
         <div>
           <head>I.
