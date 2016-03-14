@@ -6,18 +6,28 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Le tour du monde en quatre-vingts jours</title>
-        <author>Verne, Jules (1828-1905)</author>
+        <title>Le tour du monde en quatre vingt jours</title>
+        <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt>
-        <p>Exercice dans le cadre du cours de Master Editions (Lille III 2016)</p>
-        <sourceDesc>
-          <bibl><ref target="http://www.ebooksgratuits.com/details.php?book=611">http://www.ebooksgratuits.com/details.php?book=611</ref></bibl>
-        </sourceDesc>
+        <edition>Exercice dans le cadre du cours de Master Edition (Lille III, 2015-2016)</edition>
+        <respStmt>
+          <name>Berne, Clotilde</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <p>Texte libre de droits</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/details.php?book=611">http://www.ebooksgratuits.com/details.php?book=611</ref>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1872"/>
+        <date when="1873"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
