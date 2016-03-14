@@ -12,8 +12,10 @@
         <author>  Verne, Jules (1828-1905)</author>
       </titleStmt>
       <editionStmt>
+        <edition>Exercice dans le cadre du cours Master Edition (Lille III, 2015/2016)</edition>
         <respStmt>
           <name>copyeditor: Buc, Juliette</name>
+          <resp>Informatique éditoriale</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
