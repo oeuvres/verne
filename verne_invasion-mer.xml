@@ -6,21 +6,29 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-       <title> L'invasion de la mer</title>
-       <author key="Verne, Jules (1828-1905)"> Jules Verne </author>
+        <title>L'invasion de la mer</title>
+        <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Exercice dans le cadre du cours de Master Edition (Lille III, 2015-2016)</edition>
+        <respStmt>
+          <name>Muteba, Nina</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <p>Texte libre de droits</p>
       </publicationStmt>
-      <sourceDesc/>
-      
-      <bibl> 
-      <ref target="http://www.ebooksgratuits.com"></ref>
-      </bibl>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/details.php?book=1248">http://www.ebooksgratuits.com/details.php?book=1248</ref>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1905"/>
+      </creation>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
@@ -28,11 +36,6 @@
   </teiHeader>
   <text>
     <body>
-      <p rend="titrelivre center">L'Invasion de la mer</p>
-      <p rend="titrelivre center">Jules Verne</p>
-      <p rend="titrelivre center">1905</p>
-      <p rend="titrelivre center ref"><hi rend="b">http://www.ebooksgratuits.com</hi> </p>
-      <p rend="titrelivre outdent noindent">Muteba Nina</p>
       <div>
         <head>Préface
 <lb/>Jules Verne vu par Léon Blum</head>
@@ -1567,26 +1570,6 @@
         <p>Dans la joie débordante qui l’envahissait peu à peu, depuis qu’il avait retrouvé ses compagnons et qu’il voyait son œuvre achevée d’une façon tellement fantastique, cet homme si froid, si méthodique, si maître de lui dans les circonstances les plus difficiles, redevint, pour un instant, le boute-en-train renommé d’autrefois, lorsque, dans la cour de Centrale, lui, le major de promotion, apostrophait ses « bizuts » avec la verve endiablée d’un ancien. Et ce fut d’un ton gouailleur que, s’adressant à son interlocuteur, il lui dit :</p>
         <p>« Monsieur le mandataire aux pouvoirs très étendus, un conseil d’ami : prenez plutôt des actions de la mer Saharienne. »</p>
         <p>Et pendant qu’au milieu des manifestations et des félicitations il poursuivait sa route, il se mit à chiffrer les devis des nouveaux travaux qui devaient figurer dans le rapport qu’il voulait envoyer le jour même aux administrateurs de la Société.</p>
-      </div>
-      <div>
-        <head>À propos de cette édition électronique</head>
-        <p rend="center noindent b">Texte libre de droits.</p>
-        <p rend="center noindent">Corrections, édition, conversion informatique et publication par le groupe :</p>
-        <p rend="center noindent i">Ebooks libres et gratuits</p>
-        <p rend="center noindent"><ref target="http://fr.groups.yahoo.com/group/ebooksgratuits"><hi rend="b">http://fr.groups.yahoo.com/group/ebooksgratuits</hi></ref><hi rend="color_0000ff"><lb/></hi> </p>
-        <p rend="center noindent">Adresse du site web du groupe :
-<lb/><ref target="http://www.ebooksgratuits.com/"><hi rend="b">/</hi></ref></p>
-        <p rend="center noindent">—</p>
-        <p rend="center noindent b">Octobre 2006 </p>
-        <p rend="center noindent">—</p>
-        <p rend="noindent"><hi rend="b">– Élaboration de ce livre électronique</hi> :</p>
-        <p rend="aproposdispositions">Les membres de <hi rend="i">Ebooks libres et gratuits</hi> qui ont participé à l’élaboration de ce livre, sont : BrunoB, Marie, Coolmicro et Fred.</p>
-        <p rend="noindent"><hi rend="b">– Dispositions</hi> :</p>
-        <p rend="aproposdispositions">Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement, <hi rend="u">à une fin non commerciale et non professionnelle</hi>. <hi rend="b">Tout lien vers notre site est bienvenu…</hi></p>
-        <p rend="noindent"><hi rend="b">– Qualité</hi> :</p>
-        <p rend="aproposdispositions">Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l’original. Nous rappelons que c’est un travail d’amateurs non rétribués et que nous essayons de promouvoir la culture littéraire avec de maigres moyens.</p>
-        <p rend="center noindent"><hi rend="i">Votre aide est la bienvenue</hi> !</p>
-        <p rend="margin noindent">VOUS POUVEZ NOUS AIDER À FAIRE CONNAÎTRE CES CLASSIQUES LITTÉRAIRES.</p>
       </div>
     </body>
   </text>
