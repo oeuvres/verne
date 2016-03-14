@@ -17,8 +17,9 @@
                 </respStmt>
             </editionStmt>
             <publicationStmt>
-            <p>Texte libre de droit</p>
-                <publisher/>
+           <publisher>
+                Texte libre de droit
+                </publisher>
             </publicationStmt>
             <sourceDesc>
                 <bibl>http://www.ebooksgratuits.com/details.php?book=628</bibl>
@@ -36,6 +37,7 @@
     <text>
         <body>
             <div>
+                <argument></argument>
                 <p>Les hommes de ce XXIXe siècle vivent au milieu d’une féerie continuelle, sans avoir l’air de s’en douter. Blasés sur les mer-veilles, ils restent froids devant celles que le progrès leur apporte chaque jour. Avec plus de justice, ils apprécieraient comme ils le méritent les raffinements de notre civilisation. En la comparant au passé ils se rendraient compte du chemin parcouru. Combien leur apparaîtraient plus admirables les cités modernes aux voies larges de cent mètres, aux maisons hautes de trois cents, à la température toujours égale, au ciel sillonné par des milliers d’aé-ro-cars et d’aéro-omnibus. Auprès de ces villes, dont la popula-tion atteint parfois jusqu’à dix millions d’habitants, qu’étaient ces villages, ces hameaux d’il y a mille ans, ces Paris, ces Londres, ces Berlin, ces New York, bourgades mal aérées et boueuses, où circulaient des caisses cahotantes, traînées par des chevaux – oui ! des chevaux ! c’est à ne pas le croire ! S'ils se souvenaient du défectueux fonctionnement des paquebots et des chemins de fer, de leurs collisions fréquentes, de leur lenteur aussi, quel prix les voyageurs n’attacheraient-ils pas aux aérotrains, et surtout à ces tubes pneumatiques, jetés à travers les océans, et dans lesquels on les transporte avec une vitesse de 1.500 kilomètres à l’heure ? Enfin ne jouirait-on pas mieux du téléphone et du téléphote, en se rappelant les anciens appareils de Morse et de Hugues, si insuffi-sants pour la transmission rapide des dépêches ?</p>
                 <p>Chose étrange ! Ces surprenantes transformations reposent sur des principes parfaitement connus que nos aïeux avaient peut-être trop négligés. En effet, la chaleur, la vapeur, l’électricité sont aussi vieilles que l’homme. A la fin du XIXe siècle, les sa-vants n’affirmaient-ils pas déjà que la seule différence entre les forces physiques et chimiques réside dans un mode de vibration, propre à chacune d’elles, des particules éthériques ?</p>
                 <p>Puisqu’on avait fait ce pas énorme de reconnaître la parenté de toutes ces forces, il est vraiment inconcevable qu’il ait fallu un temps si long pour arriver à déterminer chacun des modes de vibration qui les différencient. Il est extraordinaire, surtout, que le moyen de les reproduire directement l’une sans l’autre, ait été découvert tout récemment.</p>
@@ -205,7 +207,8 @@
                 <p>Ciel ! Tandis que le docteur Sam se voile la face, de petits cris de pudeur effarouchée s’échappent de la baignoire…</p>
                 <p>Arrivée depuis une demi-heure à l’hôtel par le tube transo-céanique, Mrs Bennett était dedans…</p>
                 <p>Le lendemain, 26 juillet 2890, le directeur du <hi rend="i">Earth-Herald</hi> recommençait sa tournée de vingt kilomètres à travers ses bu-reaux, et, le soir, quand son totalisateur eût opéré, ce fut par deux cent cinquante mille dollars qu’il chiffra le bénéfice de cette journée – cinquante mille de plus que la veille.</p>
-                <p>Un bon métier, le métier de journaliste à la fin du vingt-neuvième siècle !</p></div>
+                <p>Un bon métier, le métier de journaliste à la fin du vingt-neuvième siècle !</p>
+            </div>
         </body>
     </text>
 </TEI>
