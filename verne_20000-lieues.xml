@@ -8,7 +8,11 @@
         <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt>
-        <p>Exercice dans le cadre du cours de Master Edition (Lille III, 2015-2016)</p>
+        <edition>Exercice dans le cadre du cours de Master Edition (Lille III, 2015-2016)</edition>
+        <respStmt>
+          <name>Glorieux, Frédéric</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <p>Texte libre de droits</p>
