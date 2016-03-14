@@ -19,7 +19,8 @@
         <p>Texte libre de droits</p>
       </publicationStmt>
 		<sourceDesc>
-        <bibl><ref target="http://www.ebooksgratuits.com/pdf/verne_sphinx_des_glaces.pdf">http://www.ebooksgratuits.com/pdf/verne_sphinx_des_glaces.pdf</ref></bibl>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/details.php?book=876">http://www.ebooksgratuits.com/details.php?book=876</ref></bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -32,14 +33,20 @@
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <div type="dedication">
+        <p rend="center i">À la mémoire d’Edgar Poe. </p>
+        <p rend="center i">À mes amis d’Amérique. </p>
+      </div>
+    </front>
     <body>
-    <div>
-          <p rend="center noindent i">À la mémoire d’Edgar Poe. </p>
-      <p rend="center noindent i">À mes amis d’Amérique. </p>
+
+         
       <div>
         <head>Première partie </head>
-<div type="chapter"><head>Chapitre 
-<lb/>Les îles Kerguelen</head>
+      <div type="chapter">
+        <head>Chapitre I
+        <lb/>Les îles Kerguelen</head>
         <p>Personne n’ajoutera foi, sans doute, à ce récit intitulé Le Sphinx des glaces. N’importe, il est bon, à mon avis, qu’il soit livré au public. Libre à lui d’y croire ou de n’y point croire.</p>
         <p>Il serait difficile, pour le début de ces merveilleuses et terribles aventures, d’imaginer un lieu mieux approprié que les îles de la Désolation – nom qui leur fut donné, en 1779, par le capitaine Cook. Eh bien, après ce que j’en ai vu pendant un séjour de quelques semaines, je puis affirmer qu’elles méritent l’appellation lamentable qui leur vient du célèbre navigateur anglais. Îles de la Désolation, cela dit tout.</p>
         <p>Je sais que l’on tient, dans les nomenclatures géographiques, au nom de Kerguelen, généralement adopté pour ce groupe situé par 49° 54’ de latitude sud et 69° 6’ de longitude est. Ce qui le justifie, c’est que, dès l’année 1772, le baron français Kerguelen fut le premier à signaler ces îles dans la partie méridionale de l’océan Indien. En effet, lors de ce voyage, le chef d’escadre avait cru découvrir un continent nouveau sur la limite des mers antarctiques ; mais, au cours d’une seconde expédition, il dut reconnaître son erreur. Il n’y avait là qu’un archipel. Que l’on veuille bien s’en rapporter à moi, îles de la Désolation est le seul nom qui convienne à ce groupe de trois cents îles ou îlots, au milieu de ces immenses solitudes océaniques que troublent presque incessamment les grandes tempêtes australes.</p>
@@ -103,6 +110,7 @@
         <p>Un jour, il me fut donné d’assister au départ d’un albatros, que les pingouins saluèrent de leurs meilleures croasseries, – comme un ami qui, sans doute, les abandonnait pour toujours. Ces puissants volateurs peuvent fournir des étapes de deux cents lieues, sans prendre un moment de repos, et avec une telle rapidité qu’ils franchissent de longs espaces en quelques heures.</p>
         <p>Cet albatros, immobile sur une haute roche, à l’extrémité de la baie de Christmas-Harbour, regardait la mer dont le ressac brisait avec violence sur les écueils.</p>
         <p>Soudain, l’oiseau s’éleva d’une large envergure, les pattes repliées, la tête longuement allongée comme une guibre de navire, jetant son cri aigu, et, quelques instants après, réduit à un point noir au milieu des hautes zones, il disparaissait derrière le rideau brumeux du sud.</p>
+      </div>
         <div type="chapter">
           <head>Chapitre II
 <lb/>La goélette <hi rend="i">Halbrane</hi></head>
@@ -1735,7 +1743,7 @@
           </div>
         </div>
       <div>
-        <head>DEUXIÈME PARTIE</head>
+        <head>Deuxième partie</head>
 <div type="chapter"><head>Chapitre I
 <lb/>Et Pym ?…</head>
         <p>La décision du capitaine Len Guy de quitter, dès le lendemain, le mouillage de l’île Tsalal et de reprendre la route du nord, cette campagne terminée sans résultat, ce renoncement à rechercher en une autre partie de la mer antarctique les naufragés de la goélette anglaise, – tout cela s’était tumultueusement présenté à mon esprit.</p>
@@ -1901,6 +1909,7 @@
         <p>– Aux Falklands !</p>
         <p>– Et où est-il maintenant ?…</p>
         <p>– Devant vous ! »</p>
+        </div>
         <div type="chapter">
           <head>Chapitre II
 <lb/>Décision prise</head>
@@ -3434,6 +3443,7 @@
           <p>Arthur Pym, le héros si magnifiquement célébré par Edgar Poe, a montré la route… À d’autres de la reprendre, à d’autres d’aller arracher au Sphinx des glaces les derniers secrets de cette mystérieuse Antarctide !</p>
           </div>
       </div>
+    
       </body>
   </text>
 </TEI>
