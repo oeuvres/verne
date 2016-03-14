@@ -10,12 +10,15 @@
                 <author>Verne, Jules (1828-1905)</author>
             </titleStmt>
             <editionStmt>
+                <edition>Exercice dans le cadre du cours de Master Edition (Lille 3)</edition>
                 <respStmt>
                     <name>Fontaine, Caroline</name>
+                    <resp> Informatique éditoriale</resp>
                 </respStmt>
             </editionStmt>
             <publicationStmt>
-                <availability status="restricted"/>
+            <p>Texte libre de droit</p>
+                <publisher/>
             </publicationStmt>
             <sourceDesc>
                 <bibl>http://www.ebooksgratuits.com/details.php?book=628</bibl>
