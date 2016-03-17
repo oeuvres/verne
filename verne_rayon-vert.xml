@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-09T15:40:19+01:00-->
+<!--Odette: 2016-03-12T13:55:45+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
   <teiHeader>
     <fileDesc>
@@ -12,7 +12,6 @@
       <editionStmt>
         <respStmt>
           <name>Wouts, Clarisse</name>
-          <resp>Mise en Tei</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -35,7 +34,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter>
+      <div type="chapter" xml:id="1">
         <head>Chapitre I.
 <lb/>Le frère Sam et le frère Sib</head>
         <p>« Bet !</p>
