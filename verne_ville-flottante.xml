@@ -8,16 +8,16 @@
       <titleStmt>
         <title>Une Ville flottante</title>
         <author>Verne, Jules (1828-1905)</author>
-      </titleStmt>
-      <editionStmt>
-        <p>Exercice dans le cadre du cours de Master Edition (Lille 3 2015-2016)</p>
-        <!--<respStmt>
+        </titleStmt>
+            <editionStmt>
+        <edition>Exercice dans le cadre du cours de Master Edition (Lille 3 2015-2016)</edition>
+        <respStmt>
           <name>Mailly Annaëlle</name>
-        </respStmt>-->
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
-        <p>Texte libre de droits</p>
-        <!--<availability status="restricted"/>-->
+        <publisher>???</publisher>
       </publicationStmt>
       <sourceDesc>
         <bibl>
