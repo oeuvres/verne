@@ -3,6 +3,7 @@ Nination
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-03-09T11:11:19+01:00-->
+<!-- nettoyage à faire -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
   <teiHeader>
     <fileDesc>
