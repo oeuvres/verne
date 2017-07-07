@@ -1,29 +1,33 @@
-Nination
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-09T11:11:19+01:00-->
-<!-- nettoyage à faire -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xml:lang="" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <title> De la terre à la lune</title>
-      <author> Verne, Jules (1828-1905) </author>
-      <titleStmt/>
-      <editionStmt/>
-      <respStmt>
-        <name> Muteba Nina</name>
-      </respStmt>
+      <titleStmt>
+        <title>De la Terre à la Lune</title>
+        <author key="Verne, Jules (1828-1905)">Jules Verne</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Exercice dans le cadre du cours de Master Edition (Lille III, 2015-2016)</edition>
+        <respStmt>
+          <name>Muteba Nina</name>
+          <resp>Édition XML</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <p>Texte libre de droits</p>
       </publicationStmt>
-      <sourceDesc/>
-      <bibl><ref target="http://www.ebooksgratuits.com/newsendbook.php?id=609&amp;format</bibl>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=609&amp;format=so"/>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
-      <date when="1865"/>
+      <creation>
+        <date when="1865"/>
+      </creation>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
@@ -31,16 +35,8 @@ Nination
   </teiHeader>
   <text>
     <body>
-      <p rend="center noindent b">De la terre à la lune </p>
-      <p rend="center noindent b">Jules Verne </p>
-      <p rend="center noindent"><hi rend="b">1865</hi><lb/><lb/> </p>
-      <p rend="center noindent ref"><hi rend="b">http://www.ebooksgratuits.com</hi> </p>
-      <p rend="center noindent"><seg rend="lienhypertexte"><hi rend="b">Muteba Nina.</hi></seg><lb/> </p>
       <div>
-        <head>I.
-<lb/>
-<lb/>Le gun-club
-<lb/></head>
+        <head>I. <lb/>Le gun-club</head>
         <p>Pendant la guerre fédérale des États-Unis, un nouveau club très influent s’établit dans la ville de Baltimore, en plein Maryland. On sait avec quelle énergie l’instinct militaire se développa chez ce peuple d’armateurs, de marchands et de mécaniciens. De simples négociants enjambèrent leur comptoir pour s’improviser capitaines, colonels, généraux, sans avoir passé par les écoles d’application de West-Point<note place="bottom">École militaire des Etats-Unis.</note> ; ils égalèrent bientôt dans « L’art de la guerre » leurs collègues du vieux continent, et comme eux ils remportèrent des victoires à force de prodiguer les boulets, les millions et les hommes.</p>
         <p>Mais en quoi les Américains surpassèrent singulièrement les Européens, ce fut dans la science de la balistique. Non que leurs armes atteignissent un plus haut degré de perfection, mais elles offrirent des dimensions inusitées, et eurent par conséquent des portées inconnues jusqu’alors. En fait de tirs rasants, plongeants ou de plein fouet, de feux d’écharpe, d’enfilade ou de revers, les Anglais, les Français, les Prussiens, n’ont plus rien à apprendre ; mais leurs canons, leurs obusiers, leurs mortiers ne sont que des pistolets de poche auprès des formidables engins de l’artillerie américaine.</p>
         <p>Ceci ne doit étonner personne. Les Yankees, ces premiers mécaniciens du monde, sont ingénieurs, comme les Italiens sont musiciens et les Allemands métaphysiciens,— de naissance. Rien de plus naturel, dès lors, que de les voir apporter dans la science de la balistique leur audacieuse ingéniosité. De là ces canons gigantesques, beaucoup moins utiles que les machines à coudre, mais aussi étonnants et encore plus admirés. On connaît en ce genre les merveilles de Parrott, de Dahlgreen, de Rodman. Les Armstrong, les Pallisser et les Treuille de Beaulieu n’eurent plus qu’à s’incliner devant leurs rivaux d’outre-mer.</p>
@@ -96,10 +92,7 @@ Nination
         <p>—Très cordialement leur—IMPEY BARBICANE, P. G. -C.</p>
       </div>
       <div>
-        <head>II.
-<lb/>
-<lb/>Communication du président Barbicane
-<lb/></head>
+        <head>II. <lb/>Communication du président Barbicane</head>
         <p>Le 5 octobre, à huit heures du soir, une foule compacte se pressait dans les salons du Gun-Club, 21 Union-Square. Tous les membres du cercle résidant à Baltimore s’étaient rendus à l’invitation de leur président. Quant aux membres correspondants, les express les débarquaient par centaines dans les rues de la ville, et si grand que fût le « hall » des séances, ce monde de savants n’avait pu y trouver place ; aussi refluait-il dans les salles voisines, au fond des couloirs et jusqu’au milieu des cours extérieures ; là, il rencontrait le simple populaire qui se pressait aux portes, chacun cherchant gagner les premiers rangs, tous avides de connaître l’importante communication du président Barbicane, se poussant, se bousculant, s’écrasant avec cette liberté d’action particulière aux masses élevées dans les idées du « self government »<note place="bottom">Gouvernement personnel.</note>.</p>
         <p>Ce soir-là, un étranger qui se fût trouvé à Baltimore n’eût pas obtenu, même à prix d’or, de pénétrer dans la grande salle ; celle-ci était exclusivement réservée aux membres résidants ou correspondants ; nul autre n’y pouvait prendre place, et les notables de la cité, les magistrats du conseil des « selectmen »<note place="bottom">Administrateurs de la ville élus par la population.</note> avaient dû se mêler à la foule de leurs administrés, pour saisir au vol les nouvelles de l’intérieur.</p>
         <p>Cependant l’immense « hall » offrait aux regards un curieux spectacle. Ce vaste local était merveilleusement approprié à sa destination. De hautes colonnes formées de canons superposés auxquels d’épais mortiers servaient de base soutenaient les fines armatures de la voûte, véritables dentelles de fonte frappées à l’emporte-pièce. Des panoplies d’espingoles, de tromblons, d’arquebuses, de carabines, de toutes les armes à feu anciennes ou modernes s’écartelaient sur les murs dans un entrelacement pittoresque. Le gaz sortait pleine flamme d’un millier de revolvers groupés en forme de lustres, tandis que des girandoles de pistolets et des candélabres faits de fusils réunis en faisceaux, complétaient ce splendide éclairage. Les modèles de canons, les échantillons de bronze, les mires criblées de coups, les plaques brisées au choc des boulets du Gun-Club, les assortiments de refouloirs et d’écouvillons, les chapelets de bombes, les colliers de projectiles, les guirlandes d’obus, en un mot, tous les outils de l’artilleur surprenaient l’œil par leur étonnante disposition et laissaient à penser que leur véritable destination était plus décorative que meurtrière.</p>
@@ -140,10 +133,7 @@ Nination
         <p>« Laissez-moi achever, reprit-il froidement. J’ai pris la question sous toutes ses faces, je l’ai abordée résolument, et de mes calculs indiscutables il résulte que tout projectile doué d’une vitesse initiale de douze mille yards<note place="bottom">Environ 11 000 mètres.</note> par seconde, et dirigé vers la Lune, arrivera nécessairement jusqu’à elle. J’ai donc l’honneur de vous proposer, mes braves collègues, de tenter cette petite expérience !</p>
       </div>
       <div>
-        <head>III
-<lb/>
-<lb/>EFFET DE LA COMMUNICATION BARBICANE
-<lb/></head>
+        <head>III <lb/>EFFET DE LA COMMUNICATION BARBICANE</head>
         <p>Il est impossible de peindre l’effet produit par les dernières paroles de l’honorable président. Quels cris ! quelles vociférations ! quelle succession de grognements, de hurrahs, de « hip ! hip ! hip ! » et de toutes ces onomatopées qui foisonnent dans la langue américaine ! C’était un désordre, un brouhaha indescriptible ! Les bouches criaient, les mains battaient, les pieds ébranlaient le plancher des salles. Toutes les armes de ce musée d’artillerie, partant à la fois, n’auraient pas agité plus violemment les ondes sonores. Cela ne peut surprendre. Il y a des canonniers presque aussi bruyants que leurs canons.</p>
         <p>Barbicane demeurait calme au milieu de ces clameurs enthousiastes ; peut-être voulait-il encore adresser quelques paroles à ses collègues, car ses gestes réclamèrent le silence, et son timbre fulminant s’épuisa en violentes détonations. On ne l’entendit même pas. Bientôt il fut arraché de son siège, porté en triomphe, et des mains de ses fidèles camarades il passa dans les bras d’une foule non moins surexcitée.</p>
         <p>Rien ne saurait étonner un Américain. On a souvent répété que le mot « impossible » n’était pas français ; on s’est évidemment trompé de dictionnaire. En Amérique, tout est facile, tout est simple, et quant aux difficultés mécaniques, elles sont mortes avant d’être nées. Entre le projet Barbicane et sa réalisation, pas un véritable Yankee ne se fût permis d’entrevoir l’apparence d’une difficulté. Chose dite, chose faite.</p>
@@ -158,10 +148,7 @@ Nination
         <p>Quelques jours après la fameuse séance du Gun-Club, le directeur d’une troupe anglaise annonça au théâtre de Baltimore la représentation de—Much ado about nothing<note place="bottom">—Beaucoup de bruit pour rien—, une des comédies de Shakespeare.</note>—. Mais la population de la ville, voyant dans ce titre une allusion blessante aux projets du président Barbicane, envahit la salle, brisa les banquettes et obligea le malheureux directeur à changer son affiche. Celui-ci, en homme d’esprit, s’inclinant devant la volonté publique, remplaça la malencontreuse comédie par—As you like it<note place="bottom">—Comme il vous plaira—, de Shakespeare.</note>—, et, pendant plusieurs semaines, il fit des recettes phénoménales.</p>
       </div>
       <div>
-        <head>IV.
-<lb/>
-<lb/>Réponse de l’observatoire de Cambridge
-<lb/></head>
+        <head>IV. <lb/>Réponse de l’observatoire de Cambridge</head>
         <p>Cependant Barbicane ne perdit pas un instant au milieu des ovations dont il était l’objet. Son premier soin fut de réunir ses collègues dans les bureaux du Gun-Club. Là, après discussion, on convint de consulter les astronomes sur la partie astronomique de l’entreprise ; leur réponse une fois connue, on discuterait alors les moyens mécaniques, et rien ne serait négligé pour assurer le succès de cette grande expérience.</p>
         <p>Une note très précise, contenant des questions spéciales, fut donc rédigée et adressée à l’Observatoire de Cambridge, dans le Massachusetts. Cette ville, où fut fondée la première Université des États-Unis, est justement célèbre par son bureau astronomique. Là se trouvent réunis des savants du plus haut mérite ; là fonctionne la puissante lunette qui permit à Bond de résoudre la nébuleuse d’Andromède et à Clarke de découvrir le satellite de Sirius. Cet établissement célèbre justifiait donc à tous les titres la confiance du Gun-Club.</p>
         <p>Aussi, deux jours après, sa réponse, si impatiemment attendue, arrivait entre les mains du président Barbicane. Elle était conçue en ces termes :</p>
@@ -200,10 +187,7 @@ Nination
         <p>« J. -M. BELFAST, «—Directeur de l’Observatoire de Cambridge.—</p>
       </div>
       <div>
-        <head>V.
-<lb/>
-<lb/>Le roman de la lune
-<lb/></head>
+        <head>V. <lb/>Le roman de la lune</head>
         <p>Un observateur doué d’une vue infiniment pénétrante, et placé à ce centre inconnu autour duquel gravite le monde, aurait vu des myriades d’atomes remplir l’espace à l’époque chaotique de l’univers. Mais peu à peu, avec les siècles, un changement se produisit ; une loi d’attraction se manifesta, à laquelle obéirent les atomes errants jusqu’alors ; ces atomes se combinèrent chimiquement suivant leurs affinités, se firent molécules et formèrent ces amas nébuleux dont sont parsemées les profondeurs du ciel.</p>
         <p>Ces amas furent aussitôt animés d’un mouvement de rotation autour de leur point central. Ce centre, formé de molécules vagues, se prit tourner sur lui-même en se condensant progressivement ; d’ailleurs, suivant des lois immuables de la mécanique, à mesure que son volume diminuait par la condensation, son mouvement de rotation s’accélérait, et ces deux effets persistant, il en résulta une étoile principale, centre de l’amas nébuleux.</p>
         <p>En regardant attentivement, l’observateur eût alors vu les autres molécules de l’amas se comporter comme l’étoile centrale, se condenser à sa façon par un mouvement de rotation progressivement accéléré, et graviter autour d’elle sous forme d’étoiles innombrables. La nébuleuse, dont les astronomes comptent près de cinq mille actuellement, était formée.</p>
@@ -232,10 +216,7 @@ Nination
         <p>Tel était l’état des connaissances acquises sur le satellite de la Terre, que le Gun-Club se proposait de compléter à tous les points de vue, cosmographiques, géologiques, politiques et moraux.</p>
       </div>
       <div>
-        <head>VI.
-<lb/>
-<lb/>Ce qu’il n’est pas possible d’ignorer et ce qu’il n’est plus permis de croire dans les États-Unis
-<lb/></head>
+        <head>VI. <lb/>Ce qu’il n’est pas possible d’ignorer et ce qu’il n’est plus permis de croire dans les États-Unis</head>
         <p>La proposition Barbicane avait eu pour résultat immédiat de remettre à l’ordre du jour tous les faits astronomiques relatifs à l’astre des nuits. Chacun se mit à l’étudier assidûment. Il semblait que la Lune apparût pour la première fois sur l’horizon et que personne ne l’eût encore entrevue dans les cieux. Elle devint à la mode ; elle fut la lionne du jour sans en paraître moins modeste, et prit rang parmi les « étoiles » sans en montrer plus de fierté. Les journaux ravivèrent les vieilles anecdotes dans lesquelles ce « Soleil des loups » jouait un rôle ; ils rappelèrent les influences que lui prêtait l’ignorance des premiers âges ; ils le chantèrent sur tous les tons ; un peu plus, ils eussent cité de ses bons mots ; l’Amérique entière fut prise de sélénomanie.</p>
         <p>De leur côté, les revues scientifiques traitèrent plus spécialement les questions qui touchaient à l’entreprise du Gun-Club ; la lettre de l’Observatoire de Cambridge fut publiée par elles, commentée et approuvée sans réserve.</p>
         <p>Bref, il ne fut plus permis, même au moins lettré des Yankees, d’ignorer un seul des faits relatifs à son satellite, ni à la plus bornée des vieilles mistress d’admettre encore de superstitieuses erreurs à son endroit. La science leur arrivait sous toutes les formes ; elle les pénétrait par les yeux et les oreilles ; impossible d’être un âne...en astronomie.</p>
@@ -254,10 +235,7 @@ Nination
         <p>Restait en dernier lieu la classe superstitieuse des ignorants ; ceux-là ne se contentent pas d’ignorer, ils savent ce qui n’est pas, et à propos de la Lune ils en savaient long. Les uns regardaient son disque comme un miroir poli au moyen duquel on pouvait se voir des divers points de la Terre et se communiquer ses pensées. Les autres prétendaient que sur mille nouvelles Lunes observées, neuf cent cinquante avaient amené des changements notables, tels que cataclysmes, révolutions, tremblements de terre, déluges, etc. ; ils croyaient donc à l’influence mystérieuse de l’astre des nuits sur les destinées humaines ; ils le regardaient comme le « véritable contre poids » de l’existence ; ils pensaient que chaque Sélénite était rattaché à chaque habitant de la Terre par un lien sympathique ; avec le docteur Mead, ils soutenaient que le système vital lui est entièrement soumis, prétendant, sans en démordre, que les garçons naissent surtout pendant la nouvelle Lune, et les filles pendant le dernier quartier, etc. , etc. Mais enfin il fallut renoncer à ces vulgaires erreurs, revenir à la seule vérité, et si la Lune, dépouillée de son influence, perdit dans l’esprit de certains courtisans de tous les pouvoirs, si quelques dos lui furent tournés, l’immense majorité se prononça pour elle. Quant aux Yankees, ils n’eurent plus d’autre ambition que de prendre possession de ce nouveau continent des airs et d’arborer à son plus haut sommet le pavillon étoilé des États-Unis d’Amérique.</p>
       </div>
       <div>
-        <head>VII.
-<lb/>
-<lb/>L’hymne du boulet
-<lb/></head>
+        <head>VII. <lb/>L’hymne du boulet</head>
         <p>L’Observatoire de Cambridge avait, dans sa mémorable lettre du 7 octobre, traité la question au point de vue astronomique ; il s’agissait désormais de la résoudre mécaniquement. C’est alors que les difficultés pratiques eussent paru insurmontables en tout autre pays que l’Amérique. Ici ce ne fut qu’un jeu.</p>
         <p>Le président Barbicane avait, sans perdre de temps, nommé dans le sein du Gun-Club un Comité d’exécution. Ce Comité devait en trois séances élucider les trois grandes questions du canon, du projectile et des poudres ; il fut composé de quatre membres très savants sur ces matières : Barbicane, avec voix prépondérante en cas de partage, le général Morgan, le major Elphiston, et enfin l’inévitable J.-T. Maston, auquel furent confiées les fonctions de secrétaire-rapporteur.</p>
         <p>Le 8 octobre, le Comité se réunit chez le président Barbicane, 3 Republican-street. Comme il était important que l’estomac ne vînt pas troubler par ses cris une aussi sérieuse discussion, les quatre membres du Gun-Club prirent place à une table couverte de sandwiches et de théières considérables. Aussitôt J.-T. Maston vissa sa plume à son crochet de fer, et la séance commença.</p>
@@ -362,10 +340,7 @@ Nination
         <p>Ainsi se termina la première séance du Comité ; la question du projectile était définitivement résolue, et J.-T. Maston se réjouit fort de la pensée d’envoyer un boulet d’aluminium aux Sélénites, « ce qui leur donnerait une crâne idée des habitants de la Terre » !</p>
       </div>
       <div>
-        <head>VIII.
-<lb/>
-<lb/>L’histoire du canon
-<lb/></head>
+        <head>VIII. <lb/>L’histoire du canon</head>
         <p>Les résolutions prises dans cette séance produisirent un grand effet au-dehors. Quelques gens timorés s’effrayaient un peu à l’idée d’un boulet, pesant vingt mille livres, lancé à travers l’espace. On se demandait quel canon pourrait jamais transmettre une vitesse initiale suffisante à une pareille masse. Le procès verbal de la seconde séance du Comité devait répondre victorieusement à ces questions.</p>
         <p>Le lendemain soir, les quatre membres du Gun-Club s’attablaient devant de nouvelles montagnes de sandwiches et au bord d’un véritable océan de thé. La discussion reprit aussitôt son cours, et, cette fois, sans préambule.</p>
         <p>« Mes chers collègues, dit Barbicane, nous allons nous occuper de l’engin à construire, de sa longueur, de sa forme, de sa composition et de son poids. Il est probable que nous arriverons à lui donner des dimensions gigantesques ; mais si grandes que soient les difficultés, notre génie industriel en aura facilement raison. Veuillez donc m’écouter, et ne m’épargnez pas les objections à bout portant. Je ne les crains pas !</p>
@@ -438,10 +413,7 @@ Nination
         <p>Sur cette assurance de son président, le Comité se sépara, après avoir remis au lendemain soir sa troisième séance.</p>
       </div>
       <div>
-        <head>IX.
-<lb/>
-<lb/>La question des poudres
-<lb/></head>
+        <head>IX. <lb/>La question des poudres</head>
         <p>Restait à traiter la question des poudres. Le public attendait avec anxiété cette dernière décision. La grosseur du projectile, la longueur du canon étant données, quelle serait la quantité de poudre nécessaire pour produire l’impulsion ? Cet agent terrible, dont l’homme a cependant maîtrisé les effets, allait être appelé à jouer son rôle dans des proportions inaccoutumées.</p>
         <p>On sait généralement et l’on répète volontiers que la poudre fut inventée au XIVe siècle par le moine Schwartz, qui paya de sa vie sa grande découverte. Mais il est à peu près prouvé maintenant que cette histoire doit être rangée parmi les légendes du Moyen Age. La poudre n’a été inventée par personne ; elle dérive directement des feux grégeois, composés comme elle de soufre et de salpêtre. Seulement, depuis cette époque, ces mélanges, qui n’étaient que des mélanges fusants, se sont transformés en mélanges détonants.</p>
         <p>Mais si les érudits savent parfaitement la fausse histoire de la poudre, peu de gens se rendent compte de sa puissance mécanique. Or, c’est ce qu’il faut connaître pour comprendre l’importance de la question soumise au Comité.</p>
@@ -511,10 +483,7 @@ Nination
         <p>En 1847 Maynard, étudiant en médecine à Boston, a bien eu l’idée d’employer le collodion au traitement des plaies, mais le collodion était connu en 1846. C’est à un Français, un esprit très distingué, un savant tout à la fois peintre, poète, philosophe, helléniste et chimiste, M. Louis Ménard, que revient l’honneur de cette grande découverte.— J. V.]</p>
       </div>
       <div>
-        <head>X.
-<lb/>
-<lb/>Un ennemi sur vingt-cinq millions d’amis
-<lb/></head>
+        <head>X. <lb/>Un ennemi sur vingt-cinq millions d’amis</head>
         <p>Le public américain trouvait un puissant intérêt dans les moindres détails de l’entreprise du Gun-Club. Il suivait jour par jour les discussions du Comité. Les plus simples préparatifs de cette grande expérience, les questions de chiffres qu’elle soulevait, les difficultés mécaniques à résoudre, en un mot, « sa mise en train », voilà ce qui le passionnait au plus haut degré.</p>
         <p>Plus d’un an allait s’écouler entre le commencement des travaux et leur achèvement ; mais ce laps de temps ne devait pas être vide d’émotions ; l’emplacement à choisir pour le forage, la construction du moule, la fonte de la Columbiad, son chargement très périlleux, c’était là plus qu’il ne fallait pour exciter la curiosité publique. Le projectile, une fois lancé, échapperait aux regards en quelques dixièmes de seconde ; puis, ce qu’il deviendrait, comme il se comporterait dans l’espace, de quelle façon il atteindrait la Lune, c’est ce qu’un petit nombre de privilégiés verraient seuls de leurs propres yeux. Ainsi donc, les préparatifs de l’expérience, les détails précis de l’exécution en constituaient alors le véritable intérêt.</p>
         <p>Cependant, l’attrait purement scientifique de l’entreprise fut tout d’un coup surexcité par un incident.</p>
@@ -542,11 +511,11 @@ Nination
         <p>On voit à quelle exagération se laissait entraîner le capitaine Nicholl. Il était seul de son opinion. Aussi personne ne tint compte de ses malencontreuses prophéties. On le laissa donc crier à son aise, et jusqu’à s’époumoner, puisque cela lui convenait. Il se faisait le défenseur d’une cause perdue d’avance ; on l’entendait, mais on ne l’écoutait pas, et il n’enleva pas un seul admirateur au président du Gun-Club. Celui-ci, d’ailleurs, ne prit même pas la peine de rétorquer les arguments de son rival.</p>
         <p>Nicholl, acculé dans ses derniers retranchements, et ne pouvant même pas payer de sa personne dans sa cause, résolut de payer de son argent. Il proposa donc publiquement dans l’—Enquirer—de Richmond une série de paris conçus en ces termes et suivant une proportion croissante.</p>
         <p>Il paria :</p>
-        <p>1° Que les fonds nécessaires à l’entreprise du Gun-Club ne seraient pas faits, ci<space rend="tab">    </space>1000 dollars</p>
-        <p>2° Que l’opération de la fonte d’un canon de neuf cents pieds était impraticable et ne réussirait pas, ci<space rend="tab">    </space>2000—</p>
-        <p>3° Qu’il serait impossible de charger la Columbiad, et que le pyroxyle prendrait feu de lui-même sous la pression du projectile, ci<space rend="tab">    </space>3000—</p>
-        <p rend="margin noindent">4° Que la Columbiad éclaterait au premier coup, ci<space rend="tab">    </space>4000—</p>
-        <p>5° Que le boulet n’irait pas seulement six milles et retomberait quelques secondes après avoir été lancé, ci<space rend="tab">    </space>5000—</p>
+        <p>1° Que les fonds nécessaires à l’entreprise du Gun-Club ne seraient pas faits, ci<space rend="tab"> </space>1000 dollars</p>
+        <p>2° Que l’opération de la fonte d’un canon de neuf cents pieds était impraticable et ne réussirait pas, ci<space rend="tab"> </space>2000—</p>
+        <p>3° Qu’il serait impossible de charger la Columbiad, et que le pyroxyle prendrait feu de lui-même sous la pression du projectile, ci<space rend="tab"> </space>3000—</p>
+        <p rend="margin noindent">4° Que la Columbiad éclaterait au premier coup, ci<space rend="tab"> </space>4000—</p>
+        <p>5° Que le boulet n’irait pas seulement six milles et retomberait quelques secondes après avoir été lancé, ci<space rend="tab"> </space>5000—</p>
         <p>On le voit c’était une somme importante que risquait le capitaine dans son invincible entêtement. Il ne s’agissait pas moins de quinze mille dollars<note place="bottom">Quatre-vingt-un mille trois cents francs.</note>.</p>
         <p>Malgré l’importance du pari, le 19 mai, il reçut un pli cacheté, d’un laconisme superbe et conçu en ces termes :</p>
         <p>—Baltimore, 18 octobre—.</p>
@@ -554,10 +523,7 @@ Nination
         <p>BARBICANE.</p>
       </div>
       <div>
-        <head>XI.
-<lb/>
-<lb/>Floride et Texas
-<lb/></head>
+        <head>XI. <lb/>Floride et Texas</head>
         <p>Cependant, une question restait encore à décider : il fallait choisir un endroit favorable à l’expérience. Suivant la recommandation de l’Observatoire de Cambridge, le tir devait être dirigé perpendiculairement au plan de l’horizon, c’est-à-dire vers le zénith ; or, la Lune ne monte au zénith que dans les lieux situés entre 0° et 28° de latitude, en d’autres termes, sa déclinaison n’est que de 28<note place="bottom">La déclinaison d’un astre est sa latitude dans la sphère céleste ; l’ascension droite en est la longitude.</note>. Il s’agissait donc de déterminer exactement le point du globe où serait fondue l’immense Columbiad.</p>
         <p>Le 20 octobre, le Gun-Club étant réuni en séance générale, Barbicane apporta une magnifique carte des États-Unis de Z. Belltropp. Mais, sans lui laisser le temps de la déployer, J.-T. Maston avait demandé la parole avec sa véhémence habituelle, et parlé en ces termes :</p>
         <p>« Honorables collègues, la question qui va se traiter aujourd’hui a une véritable importance nationale, et elle va nous fournir l’occasion de faire un grand acte de patriotisme.</p>
@@ -610,10 +576,7 @@ Nination
         <p>« Eh bien ! qu’elle saute ! » répondirent les Floridiens avec un laconisme digne des temps antiques.</p>
       </div>
       <div>
-        <head>XII.
-<lb/>
-<lb/>Urbi et Orbi
-<lb/></head>
+        <head>XII. <lb/>Urbi et Orbi</head>
         <p>Les difficultés astronomiques, mécaniques, topographiques une fois résolues, vint la question d’argent. Il s’agissait de se procurer une somme énorme pour l’exécution du projet. Nul particulier, nul État même n’aurait pu disposer des millions nécessaires.</p>
         <p>Le président Barbicane prit donc le parti, bien que l’entreprise fût américaine, d’en faire une affaire d’un intérêt universel et de demander à chaque peuple sa coopération financière. C’était à la fois le droit et le devoir de toute la Terre d’intervenir dans les affaires de son satellite. La souscription ouverte dans ce but s’étendit de Baltimore au monde entier,—urbi et orbi—.</p>
         <p>Cette souscription devait réussir au-delà de toute espérance. Il s’agissait cependant de sommes à donner, non à prêter. L’opération était purement désintéressée dans le sens littéral du mot, et n’offrait aucune chance de bénéfice.</p>
@@ -663,9 +626,9 @@ Nination
         <p>Quant à l’Espagne, il lui fut impossible de réunir plus de cent dix réaux<note place="bottom">Cinquante-neuf francs quarante-huit centimes.</note>. Elle donna pour prétexte qu’elle avait ses chemins de fer à terminer. La vérité est que la science n’est pas très bien vue dans ce pays-là. Il est encore un peu arriéré. Et puis certains Espagnols, non des moins instruits, ne se rendaient pas un compte exact de la masse du projectile comparée à celle de la Lune ; ils craignaient qu’il ne vînt à déranger son orbite, à la troubler dans son rôle de satellite et provoquer sa chute à la surface du globe terrestre. Dans ce cas-là, il valait mieux s’abstenir. Ce qu’ils firent, à quelques réaux près.</p>
         <p>Restait l’Angleterre. On connaît la méprisante antipathie avec laquelle elle accueillit la proposition Barbicane. Les Anglais n’ont qu’une seule et même âme pour les vingt-cinq millions d’habitants que renferme la Grande-Bretagne. Ils donnèrent à entendre que l’entreprise du Gun-Club était contraire « au principe de non-intervention », et ils ne souscrivirent même pas pour un farthing.</p>
         <p>A cette nouvelle, le Gun-Club se contenta de hausser les épaules et revint à sa grande affaire. Quand l’Amérique du Sud, c’est-à-dire le Pérou, le Chili, le Brésil, les provinces de la Plata, la Colombie, eurent pour leur quote-part versé entre ses mains la somme de trois cent mille dollars<note place="bottom">Un million six cent vingt-six mille francs.</note>, il se trouva à la tête d’un capital considérable, dont voici le décompte :</p>
-        <p>Souscription des Etats-Unis<space rend="tab">    </space>4 000 000 dollars</p>
-        <p>Souscriptions étrangères<space rend="tab">    </space>1 446 675 dollars</p>
-        <p>Total<space rend="tab">    </space>5 446 675 dollars</p>
+        <p>Souscription des Etats-Unis<space rend="tab"> </space>4 000 000 dollars</p>
+        <p>Souscriptions étrangères<space rend="tab"> </space>1 446 675 dollars</p>
+        <p>Total<space rend="tab"> </space>5 446 675 dollars</p>
         <p>C’était donc cinq millions quatre cent quarante-six mille six cent soixante-quinze dollars<note place="bottom">Vingt-neuf millions cinq cent vingt mille neuf cent quatre-vingt-trois francs quarante centimes.</note> que le public versait dans la caisse du Gun-Club.</p>
         <p>Que personne ne soit surpris de l’importance de la somme. Les travaux de la fonte, du forage, de la maçonnerie, le transport des ouvriers, leur installation dans un pays presque inhabité, les constructions de fours et de bâtiments, l’outillage des usines, la poudre, le projectile, les faux frais, devaient, suivant les devis, l’absorber à peu près tout entière. Certains coups de canon de la guerre fédérale sont revenus à mille dollars ; celui du président Barbicane, unique dans les fastes de l’artillerie, pouvait bien coûter cinq mille fois plus.</p>
         <p>Le 20 octobre, un traité fut conclu avec l’usine de Goldspring, près New York, qui, pendant la guerre, avait fourni à Parrott ses meilleurs canons de fonte.</p>
@@ -673,10 +636,7 @@ Nination
         <p>Ce traité, fait double et de bonne foi, fut signé par I. Barbicane, président du Gun-Club, et J. Murchison, directeur de l’usine de Goldspring, qui approuvèrent l’écriture de part et d’autre.</p>
       </div>
       <div>
-        <head>XIII.
-<lb/>
-<lb/>Stone’s-hill
-<lb/></head>
+        <head>XIII. <lb/>Stone’s-hill</head>
         <p>Depuis le choix fait par les membres du Gun-Club au détriment du Texas, chacun en Amérique, où tout le monde sait lire, se fit un devoir d’étudier la géographie de la Floride. Jamais les libraires ne vendirent tant de—Bartram’s travel in Florida—, de—Roman’s natural history of East and West Florida—, de—William’s territory of Florida—, de—Cleland on the culture of the Sugar-Cane in East Florida—. Il fallut imprimer de nouvelles éditions. C’était une fureur.</p>
         <p>Barbicane avait mieux à faire qu’à lire ; il voulait voir de ses propres yeux et marquer l’emplacement de la Columbiad. Aussi, sans perdre un instant, il mit à la disposition de l’Observatoire de Cambridge les fonds nécessaires à la construction d’un télescope, et traita avec la maison Breadwill and Co. d’Albany, pour la confection du projectile en aluminium ; puis il quitta Baltimore, accompagné de J.-T. Maston, du major Elphiston et du directeur de l’usine de Goldspring.</p>
         <p>Le lendemain, les quatre compagnons de route arrivèrent à La Nouvelle-Orléans. Là ils s’embarquèrent immédiatement sur le—Tampico—, aviso de la marine fédérale, que le gouvernement mettait à leur disposition, et, les feux étant poussés, les rivages de la Louisiane disparurent bientôt à leurs yeux.</p>
@@ -724,10 +684,7 @@ Nination
         <p>« Cet emplacement est situé à trois cents toises au-dessus du niveau de la mer par 27°7’de latitude et 5°7’de longitude ouest<note place="bottom">Au méridien de Washington. La différence avec le méridien de Paris est de 79°22’. Cette longitude est donc en mesure française 83°25’.</note> ; il me paraît offrir par sa nature aride et rocailleuse toutes les conditions favorables à l’expérience ; c’est donc dans cette plaine que s’élèveront nos magasins, nos ateliers, nos fourneaux, les huttes de nos ouvriers, et c’est d’ici, d’ici même, répéta-t-il en frappant du pied le sommet de Stone’s-Hill, que notre projectile s’envolera vers les espaces du monde solaire !</p>
       </div>
       <div>
-        <head>XIV.
-<lb/>
-<lb/>Pioche et truelle
-<lb/></head>
+        <head>XIV. <lb/>Pioche et truelle</head>
         <p>Le soir même, Barbicane et ses compagnons rentraient à Tampa-Town, et l’ingénieur Murchison se réembarquait sur le—Tampico—pour La Nouvelle-Orléans. Il devait embaucher une armée d’ouvriers et ramener la plus grande partie du matériel. Les membres du Gun-Club demeurèrent à Tampa-Town, afin d’organiser les premiers travaux en s’aidant des gens du pays.</p>
         <p>Huit jours après son départ, le—Tampico—revenait dans la baie d’Espiritu-Santo avec une flottille de bateaux à vapeur. Murchison avait réuni quinze cents travailleurs. Aux mauvais jours de l’esclavage, il eût perdu son temps et ses peines. Mais depuis que l’Amérique, la terre de la liberté, ne comptait plus que des hommes libres dans son sein, ceux-ci accouraient partout où les appelait une main-d’œuvre largement rétribuée. Or, l’argent ne manquait pas au Gun-Club ; il offrait à ses hommes une haute paie, avec gratifications considérables et proportionnelles. L’ouvrier embauché pour la Floride pouvait compter, après l’achèvement des travaux, sur un capital déposé en son nom à la banque de Baltimore. Murchison n’eut donc que l’embarras du choix, et il put se montrer sévère sur l’intelligence et l’habileté de ses travailleurs. On est autorisé à croire qu’il enrôla dans sa laborieuse légion l’élite des mécaniciens, des chauffeurs, des fondeurs, des chaufourniers, des mineurs, des briquetiers et des manœuvres de tout genre, noirs ou blancs, sans distinction de couleur. Beaucoup d’entre eux emmenaient leur famille. C’était une véritable émigration.</p>
         <p>Le 31 octobre, à dix heures du matin, cette troupe débarqua sur les quais de Tampa-Town ; on comprend le mouvement et l’activité qui régnèrent dans cette petite ville dont on doublait en un jour la population. En effet, Tampa-Town devait gagner énormément à cette initiative du Gun-Club, non par le nombre des ouvriers, qui furent dirigés immédiatement sur Stone’s-Hill, mais grâce à cette affluence de curieux qui convergèrent peu à peu de tous les points du globe vers la presqu’île floridienne.</p>
@@ -758,10 +715,7 @@ Nination
         <p>Plusieurs ouvriers, il est vrai, payèrent de leur vie les imprudences inhérentes à ces dangereux travaux ; mais ces déplorables malheurs sont impossibles à éviter, et ce sont des détails dont les Américains se préoccupent assez peu. Ils ont plus souci de l’humanité en général que de l’individu en particulier. Cependant Barbicane professait les principes contraires, et il les appliquait en toute occasion. Aussi, grâce à ses soins, à son intelligence, à son utile intervention dans les cas difficiles, à sa prodigieuse et humaine sagacité, la moyenne des catastrophes ne dépassa pas celle des pays d’outre-mer cités pour leur luxe de précautions, entre autres la France, où l’on compte environ un accident sur deux cent mille francs de travaux.</p>
       </div>
       <div>
-        <head>XV.
-<lb/>
-<lb/>La fête de la fonte
-<lb/></head>
+        <head>XV. <lb/>La fête de la fonte</head>
         <p>Pendant les huit mois qui furent employés à l’opération du forage, les travaux préparatoires de la fonte avaient été conduits simultanément avec une extrême rapidité ; un étranger, arrivant à Stone’s-Hill, eût été fort surpris du spectacle offert à ses regards.</p>
         <p>A six cents yards du puits, et circulairement disposés autour de ce point central, s’élevaient douze cents fours à réverbère, larges de six pieds chacun et séparés l’un de l’autre par un intervalle d’une demi-toise. La ligne développée par ces douze cents fours offrait une longueur de deux milles<note place="bottom">Trois mille six cents mètres environ.</note>. Tous étaient construits sur le même modèle avec leur haute cheminée quadrangulaire, et ils produisaient le plus singulier effet. J.-T. Maston trouvait superbe cette disposition architecturale. Cela lui rappelait les monuments de Washington. Pour lui, il n’existait rien de plus beau, même en Grèce, « où d’ailleurs, disait-il, il n’avait jamais été ».</p>
         <p>On se rappelle que, dans sa troisième séance, le Comité se décida d’employer la fonte de fer pour la Columbiad, et spécialement la fonte grise. Ce métal est, en effet, plus tenace, plus ductile, plus doux, facilement alésable, propre à toutes les opérations de moulage, et, traité au charbon de terre, il est d’une qualité supérieure pour les pièces de grande résistance, telles que canons, cylindres de machines à vapeur, presses hydrauliques, etc.</p>
@@ -786,10 +740,7 @@ Nination
         <p>Midi sonna. Un coup de canon éclata soudain et jeta son éclair fauve dans les airs. Douze cents trous de coulée s’ouvrirent à la fois, et douze cents serpents de feu rampèrent vers le puits central, en déroulant leurs anneaux incandescents. Là ils se précipitèrent, avec un fracas épouvantable, à une profondeur de neuf cents pieds. C’était un émouvant et magnifique spectacle. Le sol tremblait, pendant que ces flots de fonte, lançant vers le ciel des tourbillons de fumée, volatilisaient en même temps l’humidité du moule et la rejetaient par les évents du revêtement de pierre sous la forme d’impénétrables vapeurs. Ces nuages factices déroulaient leurs spirales épaisses en montant vers le zénith jusqu’à une hauteur de cinq cents toises. Quelque sauvage, errant au-delà des limites de l’horizon, eût pu croire à la formation d’un nouveau cratère au sein de la Floride, et cependant ce n’était là ni une éruption, ni une trombe, ni un orage, ni une lutte d’éléments, ni un de ces phénomènes terribles que la nature est capable de produire ! Non ! l’homme seul avait créé ces vapeurs rougeâtres, ces flammes gigantesques dignes d’un volcan, ces trépidations bruyantes semblables aux secousses d’un tremblement de terre, ces mugissements rivaux des ouragans et des tempêtes, et c’était sa main qui précipitait, dans un abîme creusé par elle tout un Niagara, de métal en fusion.</p>
       </div>
       <div>
-        <head>XVI
-<lb/>
-<lb/>La columbiad
-<lb/></head>
+        <head>XVI <lb/>La columbiad</head>
         <p>L’opération de la fonte avait-elle réussi ? On en était réduit à de simples conjectures. Cependant tout portait à croire au succès, puisque le moule avait absorbé la masse entière du métal liquéfié dans les fours. Quoi qu’il en soit, il devait être longtemps impossible de s’en assurer directement.</p>
         <p>En effet, quand le major Rodman fondit son canon de cent soixante mille livres, il ne fallut pas moins de quinze jours pour en opérer le refroidissement. Combien de temps, dès lors, la monstrueuse Columbiad, couronnée de ses tourbillons de vapeurs, et défendue par sa chaleur intense, allait-elle se dérober aux regards de ses admirateurs ? Il était difficile de le calculer.</p>
         <p>L’impatience des membres du Gun-Club fut mise pendant ce laps de temps à une rude épreuve. Mais on n’y pouvait rien. J.-T. Maston faillit se rôtir par dévouement. Quinze jours après la fonte, un immense panache de fumée se dressait encore en plein ciel, et le sol brûlait les pieds dans un rayon de deux cents pas autour du sommet de Stone’s-Hill.</p>
@@ -817,10 +768,7 @@ Nination
         <p>J.-T. Maston ne se possédait plus ; s’il cria plus qu’il ne gesticula, s’il but plus qu’il ne mangea, c’est un point difficile à établir. En tout cas, il n’eût pas donné sa place pour un empire, « non, quand même le canon chargé amorcé, et faisant feu à l’instant, aurait dû l’envoyer par morceaux dans les espaces planétaires ».</p>
       </div>
       <div>
-        <head>XVII.
-<lb/>
-<lb/>Une dépêche télégraphique
-<lb/></head>
+        <head>XVII. <lb/>Une dépêche télégraphique</head>
         <p>Les grands travaux entrepris par le Gun-Club étaient, pour ainsi dire, terminés, et cependant, deux mois allaient encore s’écouler avant le jour où le projectile s’élancerait vers la Lune. Deux mois qui devaient paraître longs comme des années à l’impatience universelle ! Jusqu’alors les moindres détails de l’opération avaient été chaque jour reproduits par les journaux, que l’on dévorait d’un œil avide et passionné ; mais il était à craindre que désormais, ce « dividende d’intérêt » distribué au public ne fût fort diminué, et chacun s’effrayait de n’avoir plus à toucher sa part d’émotions quotidiennes.</p>
         <p>Il n’en fut rien ; l’incident le plus inattendu, le plus extraordinaire, le plus incroyable, le plus invraisemblable vint fanatiser à nouveau les esprits haletants et rejeter le monde entier sous le coup d’une poignante surexcitation. Un jour, le 30 septembre, à trois heures quarante-sept minutes du soir, un télégramme, transmis par le câble immergé entre Valentia (Irlande), Terre-Neuve et la côte américaine, arriva à l’adresse du président Barbicane.</p>
         <p>Le président Barbicane rompit l’enveloppe, lut la dépêche, et, quel que fût son pouvoir sur lui-même, ses lèvres pâlirent, ses yeux se troublèrent à la lecture des vingt mots de ce télégramme.</p>
@@ -831,10 +779,7 @@ Nination
         <p>MICHEL ARDAN.</p>
       </div>
       <div>
-        <head>XVIII.
-<lb/>
-<lb/>Le passager de l’« Atlanta »
-<lb/></head>
+        <head>XVIII. <lb/>Le passager de l’« Atlanta »</head>
         <p>Si cette foudroyante nouvelle, au lieu de voler sur les fils électriques, fût arrivée simplement par la poste et sous enveloppe cachetée, si les employés français, irlandais, terre-neuviens, américains n’eussent pas été nécessairement dans la confidence du télégraphe, Barbicane n’aurait pas hésité un seul instant. Il se serait tu par mesure de prudence et pour ne pas déconsidérer son œuvre. Ce télégramme pouvait cacher une mystification, venant d’un Français surtout. Quelle apparence qu’un homme quelconque fût assez audacieux pour concevoir seulement l’idée d’un pareil voyage ? Et si cet homme existait, n’était-ce pas un fou qu’il fallait enfermer dans un cabanon et non dans un boulet ?</p>
         <p>Mais la dépêche était connue, car les appareils de transmission sont peu discrets de leur nature, et la proposition de Michel Ardan courait déjà les divers États de l’Union. Ainsi Barbicane n’avait plus aucune raison de se taire. Il réunit donc ses collègues présents à Tampa-Town, et sans laisser voir sa pensée, sans discuter le plus ou moins de créance que méritait le télégramme, il en lut froidement le texte laconique.</p>
         <p>« Pas possible !— C’est invraisemblable !— Pure plaisanterie !— On s’est moqué de nous !— Ridicule !— Absurde ! » Toute la série des expressions qui servent à exprimer le doute, l’incrédulité, la sottise, la folie, se déroula pendant quelques minutes, avec accompagnement des gestes usités en pareille circonstance. Chacun souriait, riait, haussait les épaules ou éclatait de rire, suivant sa disposition d’humeur. Seul, J.-T. Maston eut un mot superbe.</p>
@@ -900,10 +845,7 @@ Nination
         <p>Mais alors les deux rivaux en popularité se serraient chaleureusement la main, et Michel Ardan tutoyait le président Barbicane.</p>
       </div>
       <div>
-        <head>XIX.
-<lb/>
-<lb/>Un meeting
-<lb/></head>
+        <head>XIX. <lb/>Un meeting</head>
         <p>Le lendemain, l’astre du jour se leva bien tard au gré de l’impatience publique. On le trouva paresseux, pour un Soleil qui devait éclairer une semblable fête. Barbicane, craignant les questions indiscrètes pour Michel Ardan, aurait voulu réduire ses auditeurs à un petit nombre d’adeptes, à ses collègues, par exemple. Mais autant essayer d’endiguer le Niagara. Il dut donc renoncer à ses projets et laisser son nouvel ami courir les chances d’une conférence publique. La nouvelle salle de la Bourse de Tampa-Town, malgré ses dimensions colossales, fut jugée insuffisante pour la cérémonie, car la réunion projetée prenait les proportions d’un véritable meeting.</p>
         <p>Le lieu choisit fut une vaste plaine située en dehors de la ville ; en quelques heures on parvint à l’abriter contre les rayons du soleil ; les navires du port riches en voiles, en agrès, en mâts de rechange, en vergues, fournirent les accessoires nécessaires à la construction d’une tente colossale. Bientôt un immense ciel de toile s’étendit sur la prairie calcinée et la défendit des ardeurs du jour. Là trois cent mille personnes trouvèrent place et bravèrent pendant plusieurs heures une température étouffante, en attendant l’arrivée du Français. De cette foule de spectateurs, un premier tiers pouvait voir et entendre ; un second tiers voyait mal et n’entendait pas ; quant au troisième, il ne voyait rien et n’entendait pas davantage. Ce ne fut cependant pas le moins empressé à prodiguer ses applaudissements.</p>
         <p>A trois heures, Michel Ardan fit son apparition, accompagné des principaux membres du Gun-Club. Il donnait le bras droit au président Barbicane, et le bras gauche à J.-T. Maston, plus radieux que le Soleil en plein midi, et presque aussi rutilant. Ardan monta sur une estrade, du haut de laquelle ses regards s’étendaient sur un océan de chapeaux noirs. Il ne paraissait aucunement embarrassé ; il ne posait pas ; il était là comme chez lui, gai, familier, aimable. Aux hurrahs qui l’accueillirent il répondit par un salut gracieux ; puis, de la main, réclama le silence, silence, il prit la parole en anglais, et s’exprima fort correctement en ces termes :</p>
@@ -940,10 +882,7 @@ Nination
         <p>Néanmoins, cette idée « éminemment pratique » eut un succès énorme ; la discussion fut suspendue pendant un bon quart d’heure, et longtemps, bien longtemps encore, on parla dans les États-Unis d’Amérique de la proposition formulée si énergiquement par le secrétaire perpétuel du Gun-Club.</p>
       </div>
       <div>
-        <head>XX.
-<lb/>
-<lb/>Attaque et riposte
-<lb/></head>
+        <head>XX. <lb/>Attaque et riposte</head>
         <p>Cet incident semblait devoir terminer la discussion. C’était le « mot de la fin », et l’on n’eût pas trouvé mieux. Cependant, quand l’agitation se fut calmée, on entendit ces paroles prononcées d’une voix forte et sévère :</p>
         <p>« Maintenant que l’orateur a donné une large part à la fantaisie, voudra-t-il bien rentrer dans son sujet, faire moins de théories et discuter la partie pratique de son expédition ?</p>
         <p>Tous les regards se dirigèrent vers le personnage qui parlait ainsi. C’était un homme maigre, sec, d’une figure énergique, avec une barbe taillée à l’américaine qui foisonnait sous son menton. A la faveur des diverses agitations produites dans l’assemblée, il avait peu à peu gagné le premier rang des spectateurs. Là, les bras croisés, l’œil brillant et hardi, il fixait imperturbablement le héros du meeting. Après avoir formulé sa demande, il se tut et ne parut pas s’émouvoir des milliers de regards qui convergeaient vers lui, ni du murmure désapprobateur excité par ses paroles. La réponse se faisant attendre, il posa de nouveau sa question avec le même accent net et précis, puis il ajouta :</p>
@@ -1053,10 +992,7 @@ Nination
         <p>Sur ces paroles froidement prononcées, le président du Gun-Club et le capitaine se séparèrent. Barbicane revint à sa demeure, mais au lieu de prendre quelques heures de repos, il passa la nuit à chercher les moyens d’éviter le contrecoup du projectile et de résoudre ce difficile problème posé par Michel Ardan dans la discussion du meeting.</p>
       </div>
       <div>
-        <head>XXI.
-<lb/>
-<lb/>Comment un français arrange une affaire
-<lb/></head>
+        <head>XXI. <lb/>Comment un français arrange une affaire</head>
         <p>Pendant que les conventions de ce duel étaient discutées entre le président et le capitaine, duel terrible et sauvage, dans lequel chaque adversaire devient chasseur d’homme, Michel Ardan se reposait des fatigues du triomphe. Se reposer n’est évidemment pas une expression juste, car les lits américains peuvent rivaliser pour la dureté avec des tables de marbre ou de granit.</p>
         <p>Ardan dormait donc assez mal, se tournant, se retournant entre les serviettes qui lui servaient de draps, et il songeait à installer une couchette plus confortable dans son projectile, quand un bruit violent vint l’arracher à ses rêves. Des coups désordonnés ébranlaient sa porte. Ils semblaient être portés avec un instrument de fer. De formidables éclats de voix se mêlaient à ce tapage un peu trop matinal.</p>
         <p>« Ouvre ! criait-on. Mais, au nom du Ciel, ouvre donc !</p>
@@ -1161,10 +1097,7 @@ Nination
         <p>« Hurrah ! bravo ! vivat ! hip ! hip ! hip ! s’écria Michel Ardan en tendant la main aux deux adversaires. Et maintenant que l’affaire est arrangée, mes amis, permettez-moi de vous traiter à la française. Allons déjeuner.</p>
       </div>
       <div>
-        <head>XXII.
-<lb/>
-<lb/>Le nouveau citoyen des états-unis
-<lb/></head>
+        <head>XXII. <lb/>Le nouveau citoyen des états-unis</head>
         <p>Ce jour-là toute l’Amérique apprit en même temps l’affaire du capitaine Nicholl et du président Barbicane, ainsi que son singulier dénouement. Le rôle joué dans cette rencontre par le chevaleresque Européen, sa proposition inattendue qui tranchait la difficulté, l’acceptation simultanée des deux rivaux, cette conquête du continent lunaire à laquelle la France et les États-Unis allaient marcher d’accord, tout se réunit pour accroître encore la popularité de Michel Ardan.</p>
         <p>On sait avec quelle frénésie les Yankees se passionnent pour un individu. Dans un pays où de graves magistrats s’attellent à la voiture d’une danseuse et la traînent triomphalement, que l’on juge de la passion déchaînée par l’audacieux Français ! Si l’on ne détela pas ses chevaux, c’est probablement parce qu’il n’en avait pas, mais toutes les autres marques d’enthousiasme lui furent prodiguées. Pas un citoyen qui ne s’unît à lui d’esprit et de cœur !—Ex pluribus unum—, suivant la devise des États-Unis.</p>
         <p>A dater de ce jour, Michel Ardan n’eut plus un moment de repos. Des députations venues de tous les coins de l’Union le harcelèrent sans fin ni trêve. Il dut les recevoir bon gré mal gré. Ce qu’il serra de mains, ce qu’il tutoya de gens ne peut se compter ; il fut bientôt sur les dents ; sa voix, enrouée dans des speechs innombrables, ne s’échappait plus de ses lèvres qu’en sons inintelligibles, et il faillit gagner une gastro-entérite à la suite des toasts qu’il dut porter à tous les comtés de l’Union. Ce succès eût grisé un autre dès le premier jour, mais lui sut se contenir dans une demi-ébriété spirituelle et charmante.</p>
@@ -1201,10 +1134,7 @@ Nination
         <p>A l’exemple de son chevaleresque compatriote le marquis de la Fayette, le gouvernement lui décernait le titre de citoyen des États-Unis d’Amérique.</p>
       </div>
       <div>
-        <head>XXIII.
-<lb/>
-<lb/>Le wagon-projectile
-<lb/></head>
+        <head>XXIII. <lb/>Le wagon-projectile</head>
         <p>Après l’achèvement de la célèbre Columbiad, l’intérêt public se rejeta immédiatement sur le projectile, ce nouveau véhicule destiné à transporter à travers l’espace les trois hardis aventuriers. Personne n’avait oublié que, par sa dépêche du 30 septembre, Michel Ardan demandait une modification aux plans arrêtés par les membres du Comité.</p>
         <p>Le président Barbicane pensait alors avec raison que la forme du projectile importait peu, car, après avoir traversé l’atmosphère en quelques secondes, son parcours devait s’effectuer dans le vide absolu. Le Comité avait donc adopté la forme ronde, afin que le boulet pût tourner sur lui-même et se comporter à sa fantaisie. Mais, dès l’instant qu’on le transformait en véhicule, c’était une autre affaire. Michel Ardan ne se souciait pas de voyager à la façon des écureuils ; il voulait monter la tête en haut, les pieds en bas, ayant autant de dignité que dans la nacelle d’un ballon, plus vite sans doute, mais sans se livrer à une succession de cabrioles peu convenables.</p>
         <p>De nouveaux plans furent donc envoyés à la maison Breadwill and Co. d’Albany, avec recommandation de les exécuter sans retard. Le projectile, ainsi modifié, fut fondu le 2 novembre et expédié immédiatement à Stone’s-Hill par les railways de l’Est. Le 10 il arriva sans accident au lieu de sa destination. Michel Ardan, Barbicane et Nicholl attendaient avec la plus vive impatience ce « wagon-projectile » dans lequel ils devaient prendre passage pour voler à la découverte d’un nouveau monde.</p>
@@ -1248,10 +1178,7 @@ Nination
         <p>Bientôt le secrétaire du Gun-Club apparut au sommet du cône dans une attitude triomphante. Il avait engraissé !</p>
       </div>
       <div>
-        <head>XXIV.
-<lb/>
-<lb/>Le télescope des montagnes rocheuses
-<lb/></head>
+        <head>XXIV. <lb/>Le télescope des montagnes rocheuses</head>
         <p>Le 20 octobre de l’année précédente, après la souscription close, le président du Gun-Club avait crédité l’Observatoire de Cambridge des sommes nécessaires à la construction d’un vaste instrument d’optique. Cet appareil, lunette ou télescope, devait être assez puissant pour rendre visible à la surface de la Lune un objet ayant au plus neuf pieds de largeur.</p>
         <p>Il y a une différence importante entre la lunette et le télescope ; il est bon de la rappeler ici. La lunette se compose d’un tube qui porte à son extrémité supérieure une lentille convexe appelée objectif, et à son extrémité inférieure une seconde lentille nommée oculaire, laquelle s’applique à l’œil de l’observateur. Les rayons émanant de l’objet lumineux traversent la première lentille et vont, par réfraction, former une image renversée à son foyer<note place="bottom">C’est le point où les rayons lumineux se réunissent après avoir été réfractés.</note>. Cette image, on l’observe avec l’oculaire, qui la grossit exactement comme le ferait une loupe. Le tube de la lunette est donc fermé à chaque extrémité par l’objectif et l’oculaire.</p>
         <p>Au contraire, le tube du télescope est ouvert à son extrémité supérieure. Les rayons partis de l’objet observé y pénètrent librement et vont frapper un miroir métallique concave, c’est-à-dire convergent. De là ces rayons réfléchis rencontrent un petit miroir qui les renvoie à l’oculaire, disposé de façon à grossir l’image produite.</p>
@@ -1278,10 +1205,7 @@ Nination
         <p>Mais le télescope des montagnes Rocheuses, avant de servir au Gun-Club, rendit d’immenses services à l’astronomie. Grâce à sa puissance de pénétration, les profondeurs du ciel furent sondées jusqu’aux dernières limites, le diamètre apparent d’un grand nombre d’étoiles put être rigoureusement mesuré, et M. Clarke, du bureau de Cambridge, décomposa le—crab nebula<note place="bottom">Nébuleuse qui apparaît sous la forme d’une écrevisse.</note>— du Taureau, que le réflecteur de Lord Rosse n’avait jamais pu réduire.</p>
       </div>
       <div>
-        <head>XXV.
-<lb/>
-<lb/>Derniers détails
-<lb/></head>
+        <head>XXV. <lb/>Derniers détails</head>
         <p>On était au 22 novembre. Le départ suprême devait avoir lieu dix jours plus tard. Une seule opération restait encore à mener à bonne fin, opération délicate, périlleuse, exigeant des précautions infinies, et contre le succès de laquelle le capitaine Nicholl avait engagé son troisième pari. Il s’agissait, en effet, de charger la Columbiad et d’y introduire les quatre cent mille livres de fulmi-coton. Nicholl avait pensé, non sans raison peut-être, que la manipulation d’une aussi formidable quantité de pyroxyle entraînerait de graves catastrophes, et qu’en tout cas cette masse éminemment explosive s’enflammerait d’elle-même sous la pression du projectile.</p>
         <p>Il y avait là de graves dangers encore accrus par l’insouciance et la légèreté des Américains, qui ne se gênaient pas, pendant la guerre fédérale, pour charger leurs bombes le cigare à la bouche. Mais Barbicane avait à cœur de réussir et de ne pas échouer au port ; il choisit donc ses meilleurs ouvriers, il les fit opérer sous ses yeux, il ne les quitta pas un moment du regard, et, à force de prudence et de précautions, il sut mettre de son côté toutes les chances de succès.</p>
         <p>Et d’abord il se garda bien d’amener tout son chargement à l’enceinte de Stone’s-Hill. Il le fit venir peu à peu dans des caissons parfaitement clos. Les quatre cent mille livres de pyroxyle avaient été divisées en paquets de cinq cents livres, ce qui faisait huit cents grosses gargousses confectionnées avec soin par les plus habiles artificiers de Pensacola. Chaque caisson pouvait en contenir dix et arrivait l’un après l’autre par le rail-road de Tampa-Town ; de cette façon il n’y avait jamais plus de cinq mille livres de pyroxyle à la fois dans l’enceinte. Aussitôt arrivé, chaque caisson était déchargé par des ouvriers marchant pieds nus, et chaque gargousse transportée à l’orifice de la Columbiad, dans laquelle on la descendait au moyen de grues manœuvrées à bras d’hommes. Toute machine à vapeur avait été écartée, et les moindres feux éteints à deux milles à la ronde. C’était déjà trop d’avoir à préserver ces masses de fulmi-coton contre les ardeurs du soleil, même en novembre. Aussi travaillait-on de préférence pendant la nuit, sous l’éclat d’une lumière produite dans le vide et qui, au moyen des appareils de Ruhmkorff, créait un jour artificiel jusqu’au fond de la Columbiad. Là, les gargousses étaient rangées avec une parfaite régularité et reliées entre elles au moyen d’un fil métallique destiné à porter simultanément l’étincelle électrique au centre de chacune d’elles.</p>
@@ -1318,10 +1242,7 @@ Nination
         <p>– C’est que vous perdiez vos deux autres paris ! De cette façon, nous serons sûrs de ne pas rester en route.</p>
       </div>
       <div>
-        <head>XXVI.
-<lb/>
-<lb/>Feu !
-<lb/></head>
+        <head>XXVI. <lb/>Feu !</head>
         <p>Le premier jour de décembre était arrivé, jour fatal, car si le départ du projectile ne s’effectuait pas le soir même, à dix heures quarante-six minutes et quarante secondes du soir, plus de dix-huit ans s’écouleraient avant que la Lune se représentât dans ces mêmes conditions simultanées de zénith et de périgée.</p>
         <p>Le temps était magnifique ; malgré les approches de l’hiver, le soleil resplendissait et baignait de sa radieuse effluve cette Terre que trois de ses habitants allaient abandonner pour un nouveau monde.</p>
         <p>Que de gens dormirent mal pendant la nuit qui précéda ce jour si impatiemment désiré ! Que de poitrines furent oppressées par le pesant fardeau de l’attente ! Tous les cœurs palpitèrent d’inquiétude, sauf le cœur de Michel Ardan. Cet impassible personnage allait et venait avec son affairement habituel, mais rien ne dénonçait en lui une préoccupation inaccoutumée. Son sommeil avait été paisible, le sommeil de Turenne, avant la bataille, sur l’affût d’un canon.</p>
@@ -1357,10 +1278,7 @@ Nination
         <p>Une détonation épouvantable, inouïe, surhumaine, dont rien ne saurait donner une idée, ni les éclats de la foudre, ni le fracas des éruptions, se produisit instantanément. Une immense gerbe de feu jaillit des entrailles du sol comme d’un cratère. La terre se souleva, et c’est à peine si quelques personnes purent un instant entrevoir le projectile fendant victorieusement l’air au milieu des vapeurs flamboyantes.</p>
       </div>
       <div>
-        <head>XXVII.
-<lb/>
-<lb/>Temps couvert
-<lb/></head>
+        <head>XXVII. <lb/>Temps couvert</head>
         <p>Au moment où la gerbe incandescente s’éleva vers le ciel à une prodigieuse hauteur, cet épanouissement de flammes éclaira la Floride entière, et, pendant un instant incalculable, le jour se substitua à la nuit sur une étendue considérable de pays. Cet immense panache de feu fut aperçu de cent milles en mer du golfe comme de l’Atlantique, et plus d’un capitaine de navire nota sur son livre de bord l’apparition de ce météore gigantesque.</p>
         <p>La détonation de la Columbiad fut accompagnée d’un véritable tremblement de terre. La Floride se sentit secouer jusque dans ses entrailles. Les gaz de la poudre, dilatés par la chaleur, repoussèrent avec une incomparable violence les couches atmosphériques, et cet ouragan artificiel, cent fois plus rapide que l’ouragan des tempêtes, passa comme une trombe au milieu des airs.</p>
         <p>Pas un spectateur n’était resté debout ; hommes, femmes, enfants, tous furent couchés comme des épis sous l’orage ; il y eut un tumulte inexprimable, un grand nombre de personnes gravement blessées, et J.-T. Maston, qui, contre toute prudence, se tenait trop en avant, se vit rejeté à vingt toises en arrière et passa comme un boulet au-dessus de la tête de ses concitoyens. Trois cent mille personnes demeurèrent momentanément sourdes et comme frappées de stupeur.</p>
@@ -1386,10 +1304,7 @@ Nination
         <p>Mais le 11 une de ces épouvantables tempêtes des régions intertropicales se déchaîna dans l’atmosphère. De grands vents d’est balayèrent les nuages amoncelés depuis si longtemps, et le soir, le disque à demi rongé de l’astre des nuits passa majestueusement au milieu des limpides constellations du ciel.</p>
       </div>
       <div>
-        <head>XXVIII.
-<lb/>
-<lb/>Un nouvel astre
-<lb/></head>
+        <head>XXVIII. <lb/>Un nouvel astre</head>
         <p>Cette nuit même, la palpitante nouvelle si impatiemment attendue éclata comme un coup de foudre dans les États de l’Union, et, de là, s’élançant à travers l’Océan, elle courut sur tous les fils télégraphiques du globe. Le projectile avait été aperçu, grâce au gigantesque réflecteur de Long’s-Peak.</p>
         <p>Voici la note rédigée par le directeur de l’Observatoire de Cambridge. Elle renferme la conclusion scientifique de cette grande expérience du Gun-Club.</p>
         <p>—Longs’s-Peak, 12 décembre.—</p>

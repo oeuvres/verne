@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-04T19:45:00+01:00-->
-<!-- ok -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -38,8 +36,7 @@
   <text>
     <body>
       <div>
-        <head>I.
-</head>
+        <head>I.</head>
         <p>Le 24 mai 1863, un dimanche, mon oncle, le professeur Lidenbrock, revint précipitamment vers sa petite maison située au numéro 19 de Königstrasse, l’une des plus anciennes rues du vieux quartier de Hambourg.</p>
         <p>La bonne Marthe dut se croire fort en retard, car le dîner commençait à peine à chanter sur le fourneau de la cuisine.</p>
         <p>« Bon, me dis-je, s’il a faim, mon oncle, qui est le plus impatient des hommes, va pousser des cris de détresse.</p>
@@ -75,8 +72,7 @@
         <p>Avec un pareil original, il n’y avait qu’à obéir. Je me précipitai donc dans son cabinet.</p>
       </div>
       <div>
-        <head>II.
-</head>
+        <head>II.</head>
         <p>Ce cabinet était un véritable musée. Tous les échantillons du règne minéral s’y trouvaient étiquetés avec l’ordre le plus parfait, suivant les trois grandes divisions des minéraux inflammables, métalliques et lithoïdes.</p>
         <p>Comme je les connaissais, ces bibelots de la science minéralogique ! Que de fois, au lieu de muser avec des garçons de mon âge, je m’étais plu à épousseter ces graphites, ces anthracites, ces houilles, ces lignites, ces tourbes ! Et les bitumes, les résines, les sels organiques qu’il fallait préserver du moindre atome de poussière ! Et ces métaux, depuis le fer jusqu’à l’or, dont la valeur relative disparaissait devant l’égalité absolue des spécimens scientifiques ! Et toutes ces pierres qui eussent suffi à reconstruire la maison de Königstrasse, même avec une belle chambre de plus, dont je me serais si bien arrangé !</p>
         <p>Mais, en entrant dans le cabinet, je ne songeais guère à ces merveilles. Mon oncle seul occupait ma pensée. Il était enfoui dans son large fauteuil garni de velours d’Utrecht, et tenait entre les mains un livre qu’il considérait avec la plus profonde admiration.</p>
@@ -126,8 +122,7 @@
         <p>J’en étais à ma dernière crevette, lorsqu’une voix retentissante m’arracha aux voluptés du dessert. Je ne fis qu’un bond de la salle dans le cabinet.</p>
       </div>
       <div>
-        <head>III.
-</head>
+        <head>III.</head>
         <p>« C’est évidemment du runique, disait le professeur en fronçant le sourcil. Mais il y a un secret, et je le découvrirai, sinon… »</p>
         <p>Un geste violent acheva sa pensée.</p>
         <p>« Mets-toi là, ajouta-t-il en m’indiquant la table du poing, et écris. »</p>
@@ -240,8 +235,7 @@
         <p>Puis, traversant le cabinet comme un boulet, descendant l’escalier comme une avalanche, il se précipita dans Königstrasse, et s’enfuit à toutes jambes.</p>
       </div>
       <div>
-        <head>IV.
-</head>
+        <head>IV.</head>
         <p>« Il est parti ? s’écria Marthe en accourant au bruit de la porte de la rue qui, violemment refermée, venait d’ébranler la maison tout entière.</p>
         <p>– Oui ! répondis-je, complètement parti !</p>
         <p>– Eh bien ! et son dîner ? fit la vieille servante.</p>
@@ -277,8 +271,7 @@
         <p>Il y avait un reste de feu dans la cheminée. Je saisis non seulement la feuille de papier, mais le parchemin de Saknussem ; d’une main fébrile j’allais précipiter le tout sur les charbons et anéantir ce dangereux secret, quand la porte du cabinet s’ouvrit. Mon oncle parut.</p>
       </div>
       <div>
-        <head>V.
-</head>
+        <head>V.</head>
         <p>Je n’eus que le temps de replacer sur la table le malencontreux document.</p>
         <p>Le professeur Lidenbrock paraissait profondément absorbé. Sa pensée dominante ne lui laissait pas un instant de répit ; il avait évidemment scruté, analysé l’affaire, mis en œuvre toutes les ressources de son imagination pendant sa promenade, et il revenait appliquer quelque combinaison nouvelle.</p>
         <p>En effet, il s’assit dans son fauteuil, et, la plume à la main, il commença à établir des formules qui ressemblaient à un calcul algébrique.</p>
@@ -339,8 +332,7 @@
         <p>– Et la tienne ! » répondit l’impitoyable professeur en entrant dans la salle à manger.</p>
       </div>
       <div>
-        <head>VI.
-</head>
+        <head>VI.</head>
         <p>À ces paroles, un frisson me passa par tout le corps. Cependant je me contins. Je résolus même de faire bonne figure. Des arguments scientifiques pouvaient seuls arrêter le professeur Lidenbrock ; or, il y en avait, et de bons, contre la possibilité d’un pareil voyage. Aller au centre de la terre ! Quelle folie ! Je réservai ma dialectique pour le moment opportun, et je m’occupai du repas.</p>
         <p>Inutile de rapporter les imprécations de mon oncle devant la table desservie. Tout s’expliqua. La liberté fut rendue à la bonne Marthe. Elle courut au marché et fit si bien, qu’une heure après ma faim était calmée, et je revenais au sentiment de la situation.</p>
         <p>Pendant le repas, mon oncle fut presque gai ; il lui échappait de ces plaisanteries de savant qui ne sont jamais bien dangereuses. Après le dessert, il me fit signe de le suivre dans son cabinet.</p>
@@ -418,8 +410,7 @@
         <p>– Cela est certain, répondit triomphalement mon oncle ; mais silence, entends-tu ! silence sur tout ceci, et que personne n’ait idée de découvrir avant nous le centre de la terre. »</p>
       </div>
       <div>
-        <head>VII.
-</head>
+        <head>VII.</head>
         <p>Ainsi se termina cette mémorable séance. Cet entretien me donna la fièvre. Je sortis du cabinet de mon oncle comme étourdi, et il n’y avait pas assez d’air dans les rues de Hambourg pour me remettre. Je gagnai donc les bords de l’Elbe, du côté du bac à vapeur qui met la ville en communication avec le chemin de fer de Hambourg.</p>
         <p>Étais-je convaincu de ce que je venais d’apprendre ? N’avais-je pas subi la domination du professeur Lidenbrock ? Devais-je prendre au sérieux sa résolution d’aller au centre du massif terrestre ? Venais-je d’entendre les spéculations insensées d’un fou ou les déductions scientifiques d’un grand génie ? En tout cela, où s’arrêtait la vérité, où commençait l’erreur ?</p>
         <p>Je flottais entre mille hypothèses contradictoires, sans pouvoir m’accrocher à aucune.</p>
@@ -502,8 +493,7 @@
         <p>Je serrai Graüben dans mes bras, et pris place dans la voiture. Marthe et la jeune fille, du seuil de la porte, nous adressèrent un dernier adieu ; puis les deux chevaux, excités par le sifflement de leur conducteur, s’élancèrent au galop sur la route d’Altona.</p>
       </div>
       <div>
-        <head>VIII.
-</head>
+        <head>VIII.</head>
         <p>Altona, véritable banlieue de Hambourg, est tête de ligne du chemin de fer de Kiel qui devait nous conduire au rivage des Belt. En moins de vingt minutes, nous entrions sur le territoire du Holstein.</p>
         <p>À six heures et demie la voiture s’arrêta devant la gare ; les nombreux colis de mon oncle, ses volumineux articles de voyage furent déchargés, transportés, pesés, étiquetés, rechargés dans le wagon de bagages, et à sept heures nous étions assis l’un vis-à-vis de l’autre dans le même compartiment. La vapeur siffla, la locomotive se mit en mouvement. Nous étions partis.</p>
         <p>Étais-je résigné ? Pas encore. Cependant l’air frais du matin, les détails de la route rapidement renouvelés par la vitesse du train me distrayaient de ma grande préoccupation.</p>
@@ -558,8 +548,7 @@
         <p>Et en effet, pendant cinq jours, je repris cet exercice vertigineux, et, bon gré mal gré, je fis des progrès sensibles dans l’art « des hautes contemplations ».</p>
       </div>
       <div>
-        <head>IX.
-</head>
+        <head>IX.</head>
         <p>Le jour du départ arriva. La veille, le complaisant M. Thomson nous avait apporté des lettres de recommandations pressantes pour le comte Trampe, gouverneur de l’Islande, M. Pietursson, le coadjuteur de l’évêque, et M. Finsen, maire de Reykjawik. En retour, mon oncle lui octroya les plus chaleureuses poignées de main.</p>
         <p>Le 2, à six heures du matin, nos précieux bagages étaient rendus à bord de la <hi rend="i">Valkyrie</hi>. Le capitaine nous conduisit à des cabines assez étroites et disposées sous une espèce de rouffle.</p>
         <p>« Avons-nous bon vent ? demanda mon oncle.</p>
@@ -612,8 +601,7 @@
         <p>Après une bonne promenade, lorsque je rentrai dans la maison de M. Fridriksson, mon oncle s’y trouvait déjà en compagnie de son hôte.</p>
       </div>
       <div>
-        <head>X.
-</head>
+        <head>X.</head>
         <p>Le dîner était prêt ; il fut dévoré avec avidité par le professeur Lidenbrock, dont la diète forcée du bord avait changé l’estomac en un gouffre profond. Ce repas, plus danois qu’islandais, n’eut rien de remarquable en lui-même ; mais notre hôte, plus islandais que danois, me rappela les héros de l’antique hospitalité. Il me parut évident que nous étions chez lui plus que lui-même.</p>
         <p>La conversation se fit en langue indigène, que mon oncle entremêlait d’allemand et M. Fridriksson de latin, afin que je pusse la comprendre. Elle roula sur des questions scientifiques, comme il convient à des savants ; mais le professeur Lidenbrock se tint sur la plus excessive réserve, et ses yeux me recommandaient, à chaque phrase, un silence absolu touchant nos projets à venir.</p>
         <p>Tout d’abord, M. Fridriksson s’enquit auprès de mon oncle du résultat de ses recherches à la bibliothèque.</p>
@@ -684,8 +672,7 @@
         <p>Cette importante conversation se termina quelques instants plus tard par de chaleureux remerciements du professeur allemand au professeur islandais. Pendant ce dîner, mon oncle venait d’apprendre des choses importantes, entre autres l’histoire de Saknussemm, la raison de son document mystérieux, comme quoi son hôte ne l’accompagnerait pas dans son expédition, et que dès le lendemain un guide serait à ses ordres.</p>
       </div>
       <div>
-        <head>XI.
-</head>
+        <head>XI.</head>
         <p>Le soir, je fis une courte promenade sur les rivages de Reykjawik, et je revins de bonne heure me coucher dans mon lit de grosses planches, où je dormis d’un profond sommeil.</p>
         <p>Quand je me réveillai, j’entendis mon oncle parler abondamment dans la salle voisine. Je me levai aussitôt et je me hâtai d’aller le rejoindre.</p>
         <p>Il causait en danois avec un homme de haute taille, vigoureusement découplé. Ce grand gaillard devait être d’une force peu commune. Ses yeux, percés dans une tête très grosse et assez naïve, me parurent intelligents. Ils étaient d’un bleu rêveur. De longs cheveux, qui eussent passé pour roux, même en Angleterre, tombaient sur ses athlétiques épaules. Cet indigène avait les mouvements souples, mais il remuait peu les bras, en homme qui ignorait ou dédaignait la langue des gestes. Tout en lui révélait un tempérament d’un calme parfait, non pas indolent, mais tranquille. On sentait qu’il ne demandait rien à personne, qu’il travaillait à sa convenance, et que, dans ce monde, sa philosophie ne pouvait être ni étonnée ni troublée.</p>
@@ -729,8 +716,7 @@
         <p rend="i">Et quacumque viam dederit fortuna sequamur.</p>
       </div>
       <div>
-        <head>XII.
-</head>
+        <head>XII.</head>
         <p>Nous étions partis par un temps couvert, mais fixe. Pas de fatigantes chaleurs à redouter, ni pluies désastreuses. Un temps de touristes.</p>
         <p>Le plaisir de courir à cheval à travers un pays inconnu me rendait de facile composition sur le début de l’entreprise. J’étais tout entier au bonheur de l’excursionniste fait de désirs et de liberté. Je commençais à prendre mon parti de l’affaire.</p>
         <p>« D’ailleurs, me disais-je, qu’est-ce que je risque ? de voyager au milieu du pays le plus curieux ! de gravir une montagne fort remarquable ! au pis-aller de descendre au fond d’un cratère éteint ? Il est bien évident que ce Saknussemm n’a pas fait autre chose. Quant à l’existence d’une galerie qui aboutisse au centre du globe, pure imagination ! pure impossibilité ! Donc, ce qu’il y a de bon à prendre de cette expédition, prenons-le, et sans marchander ! »</p>
@@ -775,8 +761,7 @@
         <p>Une demi-heure après, nous atteignions l’« aoalkirkja » de Gardär.</p>
       </div>
       <div>
-        <head>XIII.
-</head>
+        <head>XIII.</head>
         <p>Il aurait dû faire nuit, mais sous le soixante-cinquième parallèle, la clarté diurne des régions polaires ne devait pas m’étonner ; en Islande, pendant les mois de juin et juillet, le soleil ne se couche pas.</p>
         <p>Néanmoins la température s’était abaissée ; j’avais froid, et surtout faim. Bienvenu fut le « böer » qui s’ouvrit hospitalièrement pour nous recevoir.</p>
         <p>C’était la maison d’un paysan, mais, en fait d’hospitalité, elle valait celle d’un roi. À notre arrivée, le maître vint nous tendre la main, et, sans plus de cérémonie, il nous fit signe de le suivre.</p>
@@ -813,8 +798,7 @@
         <p>Le sol se ressentait du voisinage de la montagne dont les racines de granit sortaient de terre, comme celles d’un vieux chêne. Nous contournions l’immense base du volcan. Le professeur ne le perdait pas des yeux ; il gesticulait, il semblait le prendre au défi et dire : « Voilà donc le géant que je vais dompter ! » Enfin, après vingt-quatre heures de marche, les chevaux s’arrêtèrent d’eux-mêmes à la porte du presbytère de Stapi.</p>
       </div>
       <div>
-        <head>XIV.
-</head>
+        <head>XIV.</head>
         <p>Stapi est une bourgade formée d’une trentaine de huttes, et bâtie en pleine lave sous les rayons du soleil réfléchis par le volcan. Elle s’étend au fond d’un petit fjord encaissé dans une muraille du plus étrange effet.</p>
         <p>On sait que le basalte est une roche brune d’origine ignée. Elle affecte des formes régulières qui surprennent par leur disposition. Ici la nature procède géométriquement et travaille à la manière humaine, comme si elle eût manié l’équerre, le compas et le fil à plomb. Si partout ailleurs elle fait de l’art avec ses grandes masses jetées sans ordre, ses cônes à peine ébauchés, ses pyramides imparfaites, avec la bizarre succession de ses lignes, ici, voulant donner l’exemple de la régularité, et précédant les architectes des premiers âges, elle a créé un ordre sévère, que ni les splendeurs de Babylone ni les merveilles de la Grèce n’ont jamais dépassé.</p>
         <p>J’avais bien entendu parler de la Chaussée dos Géants en Irlande, et de la Grotte de Fingal dans l’une des Hébrides, mais le spectacle d’une substruction basaltique ne s’était pas encore offert à mes regards.</p>
@@ -862,8 +846,7 @@
         <p>Ce point réglé, Hans donna le signal du départ, et quelques instants après nous avions quitté Stapi.</p>
       </div>
       <div>
-        <head>XV.
-</head>
+        <head>XV.</head>
         <p>Le Sneffels est haut de cinq mille pieds ; il termine, par son double cône, une bande trachytique qui se détache du système orographique de l’île. De notre point de départ on ne pouvait voir ses deux pics se profiler sur le fond grisâtre du ciel. J’apercevais seulement une énorme calotte de neige abaissée sur le front du géant.</p>
         <p>Nous marchions en file, précédés du chasseur ; celui-ci remontait d’étroits sentiers où deux personnes n’auraient pas pu aller de front. Toute conversation devenait donc à peu près impossible.</p>
         <p>Au delà de la muraille basaltique du fjörd de Stapi, se présenta d’abord un sol de tourbe herbacée et fibreuse, résidu de l’antique végétation des marécages de la presqu’île ; la masse de ce combustible encore inexploité suffirait à chauffer pendant un siècle toute la population de l’Islande ; cette vaste tourbière, mesurée du fond de certains ravins, avait souvent soixante-dix pieds de haut et présentait des couches successives de détritus carbonisés, séparées par des feuillets de tuf ponceux.</p>
@@ -899,8 +882,7 @@
         <p>Enfin, à onze heures du soir, en pleine obscurité, le sommet du Sneffels fut atteint, et, avant d’aller m’abriter à l’intérieur du cratère, j’eus le temps d’apercevoir « le soleil de minuit » au plus bas de sa carrière, projetant ses pâles rayons sur l’île endormie à mes pieds.</p>
       </div>
       <div>
-        <head>XVI.
-</head>
+        <head>XVI.</head>
         <p>Le souper fut rapidement dévoré et la petite troupe se casa de son mieux. La couche était dure, l’abri peu solide, la situation fort pénible, à cinq mille pieds au-dessus du niveau de la mer. Cependant mon sommeil fut particulièrement paisible pendant cette nuit, l’une des meilleures que j’eusse passées depuis longtemps. Je ne rêvai même pas.</p>
         <p>Le lendemain on se réveilla à demi gelé par un air très vif, aux rayons d’un beau soleil. Je quittai ma couche de granit et j’allai jouir du magnifique spectacle qui se développait à mes regards.</p>
         <p>J’occupais le sommet de l’un des deux pics du Sneffels, celui du sud. De là ma vue s’étendait sur la plus grande partie de l’île ; l’optique, commune à toutes les grandes hauteurs, en relevait les rivages, tandis que les parties centrales paraissaient s’enfoncer. On eût dit qu’une de ces cartes en relief d’Helbesmer s’étalait sous mes pieds ; je voyais les vallées profondes se croiser en tous sens, les précipices se creuser comme des puits, les lacs se changer en étangs, les rivières se faire ruisseaux. Sur ma droite se succédaient les glaciers sans nombre et les pics multipliés, dont quelques-uns s’empanachaient de fumées légères. Les ondulations de ces montagnes infinies, que leurs couches de neige semblaient rendre écumantes, rappelaient à mon souvenir la surface d’une mer agitée. Si je me retournais vers l’ouest, l’Océan s’y développait dans sa majestueuse étendue, comme une continuation de ces sommets moutonneux. Où finissait la terre, où commençaient les flots, mon œil le distinguait à peine.</p>
@@ -950,8 +932,7 @@
         <p>Il était une heure et treize minutes du soir.</p>
       </div>
       <div>
-        <head>XVII.
-</head>
+        <head>XVII.</head>
         <p>Le véritable voyage commençait. Jusqu’alors les fatigues l’avaient emporté sur les difficultés ; maintenant celles-ci allaient véritablement naître sous nos pas.</p>
         <p>Je n’avais point encore plongé mon regard dans ce puits insondable où j’allais m’engouffrer. Le moment était venu. Je pouvais encore ou prendre mon parti de l’entreprise ou refuser de la tenter. Mais j’eus honte de reculer devant le chasseur. Hans acceptait si tranquillement l’aventure, avec une telle indifférence, une si parfaite insouciance de tout danger, que je rougis à l’idée d’être moins brave que lui. Seul, j’aurais entamé la série des grands arguments ; mais, en présence du guide, je me tus ; un de mes souvenirs s’envola vers ma jolie Virlandaise, et je m’approchai de la cheminée centrale.</p>
         <p>J’ai dit qu’elle mesurait cent pieds de diamètre, ou trois cents pieds de tour. Je me penchai au-dessus d’un roc qui surplombait, et je regardai. Mes cheveux se hérissèrent. Le sentiment du vide s’empara de mon être. Je sentis le centre de gravité se déplacer en moi et le vertige monter à ma tête comme une ivresse. Rien de plus capiteux que cette attraction de l’abîme. J’allais tomber. Une main me retint. Celle de Hans. Décidément, je n’avais pas pris assez de « leçons de gouffre » à la Frelsers-Kirk de Copenhague.</p>
@@ -999,8 +980,7 @@
         <p>Puis je m’endormis d’un profond sommeil.</p>
       </div>
       <div>
-        <head>XVIII.
-</head>
+        <head>XVIII.</head>
         <p>À huit heures du matin, un rayon du jour vint nous réveiller. Les mille facettes de lave des parois le recueillaient à son passage et l’éparpillaient comme une pluie d’étincelles.</p>
         <p>Cette lueur était assez forte pour permettre de distinguer les objets environnants.</p>
         <p>« Eh bien ! Axel, qu’en dis-tu ? s’écria mon oncle en se frottant les mains. As-tu jamais passé une nuit plus paisible dans notre maison de Königstrasse ? Plus de bruit de charrettes, plus de cris de marchands, plus de vociférations de bateliers !</p>
@@ -1065,8 +1045,7 @@
         <p>La température, qui aurait dû être de quatre-vingt-un degrés en cet endroit, était de quinze à peine. Cela donnait singulièrement à réfléchir.</p>
       </div>
       <div>
-        <head>XIX.
-</head>
+        <head>XIX.</head>
         <p>Le lendemain, mardi 30 juin, à six heures, la descente fut reprise.</p>
         <p>Nous suivions toujours la galerie de lave, véritable rampe naturelle, douce comme ces plans inclinés qui remplacent encore l’escalier dans les vieilles maisons. Ce fut ainsi jusqu’à midi dix-sept minutes, instant précis où nous rejoignîmes Hans, qui venait de s’arrêter.</p>
         <p>« Ah ! s’écria mon oncle, nous sommes parvenus à l’extrémité de la cheminée. »</p>
@@ -1117,8 +1096,7 @@
         <p>– Eh bien ! nous nous rationnerons, Axel.</p>
       </div>
       <div>
-        <head>XX.
-</head>
+        <head>XX.</head>
         <p>En effet, il fallut se rationner. Notre provision ne pouvait durer plus de trois jours. C’est ce que je reconnus le soir au moment du souper. Et, fâcheuse expectative, nous avions peu d’espoir de rencontrer quelque source vive dans ces terrains de l’époque de transition.</p>
         <p>Pendant toute la journée du lendemain la galerie déroula devant nos pas ses interminables arceaux. Nous marchions presque sans mot dire. Le mutisme de Hans nous gagnait.</p>
         <p>La route ne montait pas, du moins d’une façon sensible. Parfois même elle semblait s’incliner. Mais cette tendance, peu marquée d’ailleurs, ne devait pas rassurer le professeur, car la nature des couches ne se modifiait pas, et la période de transition s’affirmait davantage.</p>
@@ -1157,8 +1135,7 @@
         <p>Je n’osai lui répondre.</p>
       </div>
       <div>
-        <head>XXI.
-</head>
+        <head>XXI.</head>
         <p>Le lendemain, le départ eut lieu de grand matin. Il fallait se hâter. Nous étions à cinq jours de marche du carrefour.</p>
         <p>Je ne m’appesantirai pas sur les souffrances de notre retour. Mon oncle les supporta avec la colère d’un homme qui ne se sent pas le plus fort ; Hans avec la résignation de sa nature pacifique ; moi, je l’avoue, me plaignant et me désespérant ; je ne pouvais avoir de cœur contre cette mauvaise fortune.</p>
         <p>Ainsi que je l’avais prévu, l’eau fit tout à fait défaut à la fin du premier jour de marche. Notre provision liquide se réduisit alors à du genièvre, mais cette infernale liqueur brûlait le gosier, et je ne pouvais même en supporter la vue. Je trouvais la température étouffante. La fatigue me paralysait. Plus d’une fois, je faillis tomber sans mouvement. On faisait halte alors ; mon oncle ou l’Islandais me réconfortaient de leur mieux. Mais je voyais déjà que le premier réagissait péniblement contre l’extrême fatigue et les tortures nées de la privation d’eau.</p>
@@ -1211,8 +1188,7 @@
         <p>« Eh bien ! m’écriai-je, qu’il soit fait comme vous le désirez, et que Dieu récompense votre énergie surhumaine. Vous n’avez plus que quelques heures à tenter le sort. En route ! »</p>
       </div>
       <div>
-        <head>XXII.
-</head>
+        <head>XXII.</head>
         <p>La descente recommença cette fois par la nouvelle galerie. Hans marchait en avant, selon son habitude. Nous n’avions pas fait cent pas, que le professeur, promenant sa lampe le long des murailles, s’écriait :</p>
         <p>« Voilà les terrains primitifs ! nous sommes dans la bonne voie ! marchons ! marchons ! »</p>
         <p>Lorsque la terre se refroidit peu à peu aux premiers jours du monde, la diminution de son volume produisit dans l’écorce des dislocations, des ruptures, des retraits, des fendilles. Le couloir actuel était une fissure de ce genre, par laquelle s’épanchait autrefois le granit éruptif. Ses mille détours formaient un inextricable labyrinthe à travers le sol primordial.</p>
@@ -1238,8 +1214,7 @@
         <p>Ces mots, je les criais en moi-même. Ils n’allaient pas plus loin. Cependant, après le premier instant de terreur, j’eus honte de mes soupçons contre un homme dont la conduite n’avait rien eu jusque-là de suspect. Son départ ne pouvait être une fuite. Au lieu de remonter la galerie, il la descendait. De mauvais desseins l’eussent entraîné en haut, non en bas. Ce raisonnement me calma un peu, et je revins à un autre d’ordre d’idées. Hans, cet homme paisible, un motif grave avait pu seul l’arracher à son repos. Allait-il donc à la découverte ? Avait-il entendu pendant la nuit silencieuse quelque murmure dont la perception n’était pas arrivée jusqu’à moi ?</p>
       </div>
       <div>
-        <head>XXIII.
-</head>
+        <head>XXIII.</head>
         <p>Pendant une heure j’imaginai dans mon cerveau en délire toutes les raisons qui avaient pu faire agir le tranquille chasseur. Les idées les plus absurdes s’enchevêtrèrent dans ma tête. Je crus que j’allais devenir fou !</p>
         <p>Mais enfin un bruit de pas se produisit dans les profondeurs du gouffre. Hans remontait. La lumière incertaine commençait à glisser sur les parois, puis elle déboucha par l’orifice du couloir. Hans parut.</p>
         <p>Il s’approcha de mon oncle, lui mit la main sur l’épaule et l’éveilla doucement. Mon oncle se leva.</p>
@@ -1303,8 +1278,7 @@
         <p>J’oubliais vraiment qu’il fit nuit. Le chronomètre se chargea de me l’apprendre. Bientôt chacun de nous, suffisamment restauré et rafraîchi, s’endormit d’un profond sommeil.</p>
       </div>
       <div>
-        <head>XXIV.
-</head>
+        <head>XXIV.</head>
         <p>Le lendemain nous avions déjà oublié nos douleurs passées. Je m’étonnai tout d’abord de n’avoir plus soif, et j’en demandai la raison. Le ruisseau qui coulait à mes pieds en murmurant se chargea de me répondre.</p>
         <p>On déjeuna et l’on but de cette excellente eau ferrugineuse. Je me sentais tout ragaillardi et décidé à aller loin. Pourquoi un homme convaincu comme mon oncle ne réussirait-il pas, avec un guide industrieux comme Hans, et un neveu « déterminé » comme moi ? Voilà les belles idées qui se glissaient dans mon cerveau ! On m’eût proposé de remonter à la cime du Sneffels que j’aurais refusé avec indignation.</p>
         <p>Mais il n’était heureusement question que de descendre.</p>
@@ -1340,8 +1314,7 @@
         <p>Quatre jours plus tard, le samedi 18 juillet, le soir, nous arrivâmes à une espèce de grotte assez vaste ; mon oncle remit à Hans ses trois rixdales hebdomadaires, et il fut décidé que le lendemain serait un jour de repos.</p>
       </div>
       <div>
-        <head>XXV.
-</head>
+        <head>XXV.</head>
         <p>Je me réveillai donc, le dimanche matin, sans cette préoccupation habituelle d’un départ immédiat. Et, quoique ce fût au plus profond des abîmes, cela ne laissait pas d’être agréable. D’ailleurs, nous étions faits à cette existence de troglodytes. Je ne pensais guère au soleil, aux étoiles, à la lune, aux arbres, aux maisons, aux villes, à toutes ces superfluités terrestres dont l’être sublunaire s’est fait une nécessité. En notre qualité de fossiles, nous faisions fi de ces inutiles merveilles.</p>
         <p>La grotte formait une vaste salle. Sur son sol granitique coulait doucement le ruisseau fidèle. À une pareille distance de sa source, son eau n’avait plus que la température ambiante et se laissait boire sans difficulté.</p>
         <p>Après le déjeuner, le professeur voulut consacrer quelques heures à mettre en ordre ses notes quotidiennes.</p>
@@ -1413,8 +1386,7 @@
         <p>Le reste de la journée se passa en calculs et en conversation. Je fus toujours de l’avis du professeur Lidenbrock, et j’enviai la parfaite indifférence de Hans, qui, sans chercher les effets et les causes, s’en allait aveuglément où le menait la destinée.</p>
       </div>
       <div>
-        <head>XXVI.
-</head>
+        <head>XXVI.</head>
         <p>Il faut l’avouer, les choses jusqu’ici se passaient bien, et j’aurais eu mauvaise grâce à me plaindre. Si la « moyenne » des difficultés ne s’accroissait pas, nous ne pouvions manquer d’atteindre notre but. Et quelle gloire alors ! J’en étais arrivé à faire ces raisonnements à la Lidenbrock. Sérieusement. Cela tenait-il au milieu étrange dans lequel je vivais ? Peut-être.</p>
         <p>Pendant quelques jours, des pentes plus rapides, quelques-unes même d’une effrayante verticalité, nous engagèrent profondément dans le massif interne. Par certaines journées, on gagnait une lieue et demie à deux lieues vers le centre. Descentes périlleuses, pendant lesquelles l’adresse de Hans et son merveilleux sang-froid nous furent très utiles. Cet impassible Islandais se dévouait avec un incompréhensible sans-façon, et, grâce à lui, plus d’un mauvais pas fut franchi dont nous ne serions pas sortis seuls.</p>
         <p>Par exemple, son mutisme s’augmentait de jour en jour. Je crois même qu’il nous gagnait. Les objets extérieurs ont une action réelle sur le cerveau. Qui s’enferme entre quatre murs finit par perdre la faculté d’associer les idées et les mots. Que de prisonniers cellulaires devenus imbéciles, sinon fous, par le défaut d’exercice des facultés pensantes.</p>
@@ -1441,8 +1413,7 @@
         <p>Je foulais un granit sec et raboteux ! Le ruisseau ne coulait plus à mes pieds !</p>
       </div>
       <div>
-        <head>XXVII.
-</head>
+        <head>XXVII.</head>
         <p>Je ne puis peindre mon désespoir. Nul mot de la langue humaine ne rendrait mes sentiments. J’étais enterré vif, avec la perspective de mourir dans les tortures de la faim et de la soif.</p>
         <p>Machinalement je promenai mes mains brûlantes sur le sol. Que ce roc me sembla desséché !</p>
         <p>Mais comment avais-je abandonné le cours du ruisseau ? Car, enfin, il n’était plus là ! Je compris alors la raison de ce silence étrange, quand j’écoutai pour la dernière fois si quelque appel de mes compagnons ne parviendrait pas à mon oreille. Ainsi, au moment où mon premier pas s’engagea dans la route imprudente, je ne remarquai point cette absence du ruisseau. Il est évident qu’à ce moment, une bifurcation de la galerie s’ouvrit devant moi, tandis que le Hans-bach obéissant aux caprices d’une autre pente, s’en allait avec mes compagnons vers des profondeurs inconnues !</p>
@@ -1471,8 +1442,7 @@
         <p>Où me conduisit cette course insensée ? Je l’ignorerai toujours. Après plusieurs heures, sans doute à bout de forces, je tombai comme une masse inerte le long de la paroi, et je perdis tout sentiment d’existence !</p>
       </div>
       <div>
-        <head>XXVIII.
-</head>
+        <head>XXVIII.</head>
         <p>Quand je revins à la vie, mon visage était mouillé, mais mouillé de larmes. Combien dura cet état d’insensibilité, je ne saurais le dire. Je n’avais plus aucun moyen de me rendre compte du temps. Jamais solitude ne fut semblable à la mienne, jamais abandon si complet !</p>
         <p>Après ma chute, j’avais perdu beaucoup de sang. Je m’en sentais inondé ! Ah ! combien je regrettai de n’être pas mort « et que ce fût encore à faire ! » Je ne voulais plus penser. Je chassai toute idée et, vaincu par la douleur, je me roulai près de la paroi opposée.</p>
         <p>Déjà je sentais l’évanouissement me reprendre, et, avec lui, l’anéantissement suprême, quand un bruit violent vint frapper mon oreille. Il ressemblait au roulement prolongé du tonnerre, et j’entendis les ondes sonores se perdre peu a peu dans les lointaines profondeurs du gouffre.</p>
@@ -1569,8 +1539,7 @@
         <p>Tout à coup le terrain manqua sous mes pieds. Je me sentis rouler en rebondissant sur les aspérités d’une galerie verticale, un véritable puits. Ma tête porta sur un roc aigu, et je perdis connaissance.</p>
       </div>
       <div>
-        <head>XXIX.
-</head>
+        <head>XXIX.</head>
         <p>Lorsque je revins à moi, j’étais dans une demi-obscurité, étendu sur d’épaisses couvertures. Mon oncle veillait, épiant sur mon visage un reste d’existence. À mon premier soupir il me prit la main ; à mon premier regard il poussa un cri de joie.</p>
         <p>« Il vit ! il vit ! s’écria-t-il.</p>
         <p>– Oui, répondis-je d’une voix faible.</p>
@@ -1626,8 +1595,7 @@
         <p>Je m’habillai rapidement. Par surcroît de précaution, je m’enveloppai dans une des couvertures et je sortis de la grotte.</p>
       </div>
       <div>
-        <head>XXX.
-</head>
+        <head>XXX.</head>
         <p>D’abord je ne vis rien. Mes yeux, déshabitués de la lumière, se fermèrent brusquement. Lorsque je pus les rouvrir, je demeurai encore plus stupéfait qu’émerveillé.</p>
         <p>« La mer ! m’écriai-je.</p>
         <p>– Oui, répondit mon oncle, la mer Lidenbrock, et, j’aime à le croire, aucun navigateur ne me disputera l’honneur de l’avoir découverte et le droit de la nommer de mon nom ! »</p>
@@ -1681,8 +1649,7 @@
         <p>Après une heure passée dans la contemplation de ce merveilleux spectacle, nous reprîmes le chemin de la grève pour regagner la grotte, et ce fut sous l’empire des plus étranges pensées que je m’endormis d’un profond sommeil.</p>
       </div>
       <div>
-        <head>XXXI.
-</head>
+        <head>XXXI.</head>
         <p>Le lendemain je me réveillai complètement guéri. Je pensai qu’un bain me serait très salutaire, et j’allai me plonger pendant quelques minutes dans les eaux de cette Méditerranée. Ce nom, à coup sûr, elle le méritait entre tous.</p>
         <p>Je revins déjeuner avec un bel appétit. Hans s’entendait à cuisiner notre petit menu ; il avait de l’eau et du feu à sa disposition, de sorte qu’il put varier un peu notre ordinaire. Au dessert, il nous servit quelques tasses de café, et jamais ce délicieux breuvage ne me parut plus agréable à déguster.</p>
         <p>« Maintenant, dit mon oncle, voici l’heure de la marée, et il ne faut pas manquer l’occasion d’étudier ce phénomène.</p>
@@ -1755,8 +1722,7 @@
         <p>Le lendemain soir, grâce à l’habileté du guide, le radeau était terminé ; il avait dix pieds de long sur cinq de large ; les poutres de surtarbrandur, reliées entre elles par de fortes cordes, offraient une surface solide, et une fois lancée, cette embarcation improvisée flotta tranquillement sur les eaux de la mer Lidenbrock.</p>
       </div>
       <div>
-        <head>XXXII.
-</head>
+        <head>XXXII.</head>
         <p>Le 13 août, on se réveilla de bon matin. Il s’agissait d’inaugurer un nouveau genre de locomotion rapide et peu fatigant.</p>
         <p>Un mât fait de deux bâtons jumelés, une vergue formée d’un troisième, une voile empruntée à nos couvertures, composaient tout le gréement du radeau.</p>
         <p>Les cordes ne manquaient pas. Le tout était solide.</p>
@@ -1819,8 +1785,7 @@
         <p>À ces paroles, je me lève, je consulte l’horizon ; mais la ligne d’eau se confond toujours avec la ligne des nuages.</p>
       </div>
       <div>
-        <head>XXXIII.
-</head>
+        <head>XXXIII.</head>
         <p><hi rend="i">Samedi 15 août.</hi> – La mer conserve sa monotone uniformité. Nulle terre n’est en vue. L’horizon paraît excessivement reculé.</p>
         <p>J’ai la tête encore alourdie par la violence de mon rêve. Mon oncle n’a pas rêvé, lui, mais il est de mauvaise humeur. Il parcourt tous les points de l’espace avec sa lunette et se croise les bras d’un air dépité.</p>
         <p>Je remarque que le professeur Lidenbrock tend à redevenir l’homme impatient du passé, et je consigne le fait sur mon journal. Il a fallu mes dangers et mes souffrances pour tirer de lui quelque étincelle d’humanité ; mais, depuis ma guérison, la nature a repris le dessus. Et cependant, pourquoi s’emporter ? Le voyage ne s’accomplit-il pas dans les circonstances les plus favorables ? Est-ce que le radeau ne file pas avec une merveilleuse rapidité ?</p>
@@ -1885,8 +1850,7 @@
         <p>Quant à l’ichthyosaurus, a-t-il donc regagné sa caverne sous-marine, ou va-t-il reparaître à la surface de la mer ?</p>
       </div>
       <div>
-        <head>XXXIV.
-</head>
+        <head>XXXIV.</head>
         <p><hi rend="i">Mercredi 19 août.</hi> – Heureusement le vent, qui souffle avec force, nous a permis de fuir rapidement le théâtre du combat. Hans est toujours au gouvernail. Mon oncle, tiré de ses absorbantes idées par les incidents de ce combat, retombe dans son impatiente contemplation de la mer.</p>
         <p>Le voyage reprend sa monotone uniformité, que je ne tiens pas à rompre au prix des dangers d’hier.</p>
         <p><hi rend="i">Jeudi 20 août.</hi> – Brise N. -N. -E. assez inégale. Température chaude. Nous marchons avec une vitesse de trois lieues et demie à l’heure.</p>
@@ -1940,8 +1904,7 @@
         <p>Mais avant de déborder je fais quelques observations pour calculer la distance parcourue, et je les note sur mon journal. Nous avons franchi deux cent soixante-dix lieues de mer depuis Port-Graüben, et nous sommes à six cent vingt lieues de l’Islande, sous l’Angleterre.</p>
       </div>
       <div>
-        <head>XXXV.
-</head>
+        <head>XXXV.</head>
         <p><hi rend="i">Vendredi 21 août</hi>. – Le lendemain le magnifique geyser a disparu. Le vent a fraîchi, et nous a rapidement éloignés de l’îlot Axel. Les mugissements se sont éteints peu à peu.</p>
         <p>Le temps, s’il est permis de s’exprimer ainsi, va changer avant peu. L’atmosphère se charge de vapeurs, qui emportent avec elles l’électricité formée par l’évaporation des eaux salines, les nuages s’abaissent sensiblement et prennent une teinte uniformément olivâtre ; les rayons électriques peuvent à peine percer cet opaque rideau baissé sur le théâtre où va se jouer le drame des tempêtes.</p>
         <p>Je me sens particulièrement impressionné, comme l’est sur terre toute créature à l’approche d’un cataclysme. Les « cumulus<note place="bottom">Nuages de formes arrondies.</note> » entassés dans le sud présentent un aspect sinistre ; ils ont cette apparence « impitoyable » que j’ai souvent remarquée au début des orages. L’air est lourd, la mer est calme.</p>
@@ -1992,8 +1955,7 @@
         <p>Un bruit nouveau se fait entendre ! Évidemment, la mer qui se brise sur des rochers !… Mais alors…</p>
       </div>
       <div>
-        <head>XXXVI.
-</head>
+        <head>XXXVI.</head>
         <p>Ici se termine ce que j’ai appelé « le journal du bord », si heureusement sauvé du naufrage. Je reprends mon récit comme devant.</p>
         <p>Ce qui se passa au choc du radeau contre les écueils de la côte, je ne saurais le dire. Je me sentis précipité dans les flots, et si j’échappai à la mort, si mon corps ne fut pas déchiré sur les rocs aigus, c’est que le bras vigoureux de Hans me retira de l’abîme.</p>
         <p>Le courageux Islandais me transporta hors de la portée des vagues, sur un sable brûlant où je me trouvai côte à côte avec mon oncle.</p>
@@ -2068,8 +2030,7 @@
         <p>Ainsi donc, il ne fallait plus en douter, pendant la tempête une saute de vent s’était produite dont nous ne nous étions pas aperçus et avait ramené le radeau vers les rivages que mon oncle croyait laisser derrière lui.</p>
       </div>
       <div>
-        <head>XXXVII.
-</head>
+        <head>XXXVII.</head>
         <p>Il me serait impossible de peindre la succession des sentiments qui agitèrent le professeur Lidenbrock, la stupéfaction, l’incrédulité et enfin la colère. Jamais je ne vis un homme si décontenancé d’abord, si irrité ensuite. Les fatigues de la traversée, les dangers courus, tout était à recommencer ! Nous avions reculé au lieu de marcher en avant !</p>
         <p>Mais mon oncle reprit rapidement le dessus.</p>
         <p>« Ah ! la fatalité me joue de pareils tours ! s’écria-t-il. Les éléments conspirent contre moi ! L’air, le feu et l’eau combinent leurs efforts pour s’opposer à mon passage ! Eh bien ! l’on saura ce que peut ma volonté. Je ne céderai pas, je ne reculerai pas d’une ligne, et nous verrons qui l’emportera de l’homme ou de la nature ! »</p>
@@ -2101,8 +2062,7 @@
         <p>– Oui, neveu ! Ah ! M. Milne-Edwards ! Ah ! M. de Quatrefages ! que n’êtes-vous là où je suis, moi, Otto Lidenbrock ! »</p>
       </div>
       <div>
-        <head>XXXVIII.
-</head>
+        <head>XXXVIII.</head>
         <p>Pour comprendre cette évocation faite par mon oncle à ces illustres savants français, il faut savoir qu’un fait d’une haute importance en paléontologie s’était produit quelque temps avant notre départ.</p>
         <p>Le 28 mars 1863, des terrassiers fouillant sous la direction de M. Boucher de Perthes les carrières de Moulin-Quignon, près Abbeville, dans le département de la Somme, en France, trouvèrent une mâchoire humaine à quatorze pieds au-dessous de la superficie du sol. C’était le premier fossile de cette espèce ramené à la lumière du grand jour. Près de lui se rencontrèrent des haches de pierre et des silex taillés, colorés et revêtus par le temps d’une patine uniforme.</p>
         <p>Le bruit de cette découverte fut grand, non seulement en France, mais en Angleterre et en Allemagne. Plusieurs savants de l’Institut français, entre autres MM. Milne-Edwards et de Quatrefages, prirent l’affaire à cœur, démontrèrent l’incontestable authenticité de l’ossement en question, et se firent les plus ardents défenseurs de ce « procès de la mâchoire », suivant l’expression anglaise.</p>
@@ -2136,8 +2096,7 @@
         <p>En vérité, c’était un étonnant spectacle que celui de ces générations d’hommes et d’animaux confondus dans ce cimetière. Mais une question grave se présentait, que nous n’osions résoudre. Ces êtres animés avaient-ils glissé par une convulsion du sol vers les rivages de la mer Lidenbrock, alors qu’ils étaient déjà réduits en poussière ? Ou plutôt vécurent-ils ici, dans ce monde souterrain, sous ce ciel factice, naissant et mourant comme les habitants de la terre ? Jusqu’ici, les monstres marins, les poissons seuls, nous étaient apparus vivants ! Quelque homme de l’abîme errait-il encore sur ces grèves désertes ?</p>
       </div>
       <div>
-        <head>XXXIX.
-</head>
+        <head>XXXIX.</head>
         <p>Pendant une demi-heure encore, nos pieds foulèrent ces couches d’ossements. Nous allions en avant, poussés par une ardente curiosité. Quelles autres merveilles renfermait cette caverne, quels trésors pour la science ? Mon regard s’attendait à toutes les surprises, mon imagination à tous les étonnements.</p>
         <p>Les rivages de la mer avaient depuis longtemps disparu derrière les collines de l’ossuaire. L’imprudent professeur, s’inquiétant peu de s’égarer, m’entraînait au loin. Nous avancions silencieusement, baignés dans les ondes électriques. Par un phénomène que je ne puis expliquer, et grâce à sa diffusion, complète alors, la lumière éclairait uniformément les diverses faces des objets. Son foyer n’existait plus en un point déterminé de l’espace et elle ne produisait aucun effet d’ombre. On aurait pu se croire en plein midi et on plein été, au milieu des régions équatoriales, sous les rayons verticaux du soleil. Toute vapeur avait disparu. Les rochers, les montagnes lointaines, quelques masses confuses de forêts éloignées, prenaient un étrange aspect sous l’égale distribution du fluide lumineux. Nous ressemblions à ce fantastique personnage d’Hoffmann qui a perdu son ombre.</p>
         <p>Après une marche d’un mille, apparut la lisière d’une forêt immense, mais non plus un de ces bois de champignons qui avoisinaient Port-Graüben.</p>
@@ -2193,8 +2152,7 @@
         <p>« A. S. ! s’écria mon oncle. Arne Saknussemm ! Toujours Arne Saknussemm ! »</p>
       </div>
       <div>
-        <head>XL.
-</head>
+        <head>XL.</head>
         <p>Depuis le commencement du voyage, j’avais passé par bien des étonnements ; je devais me croire à l’abri des surprises et blasé sur tout émerveillement. Cependant, à la vue de ces deux lettres gravées là depuis trois cents ans, je demeurai dans un ébahissement voisin de la stupidité. Non seulement la signature du savant alchimiste se lisait sur le roc, mais encore le stylet qui l’avait tracée était entre mes mains. À moins d’être d’une insigne mauvaise foi, je ne pouvais plus mettre en doute l’existence du voyageur et la réalité de son voyage.</p>
         <p>Pendant que ces réflexions tourbillonnaient dans ma tête, le professeur Lidenbrock se laissait aller à un accès un peu dithyrambique à l’endroit d’Arne Saknussemm.</p>
         <p>« Merveilleux génie ! s’écriait-il, tu n’as rien oublié de ce qui pouvait ouvrir à d’autres mortels les routes de l’écorce terrestre, et tes semblables peuvent retrouver les traces que tes pieds ont laissées, il y trois siècles, au fond de ces souterrains obscurs ! À d’autres regards que les tiens, tu as réservé la contemplation de ces merveilles ! Ton nom gravé d’étapes en étapes conduit droit à son but le voyageur assez audacieux pour te suivre, et, au centre même de notre planète, il se trouvera encore inscrit de ta propre main. Eh bien ! moi aussi, j’irai signer de mon nom cette dernière page de granit ! Mais que, dès maintenant, ce cap vu par toi près de cette mer découverte par toi, soit à jamais appelé le cap Saknussemm ! »</p>
@@ -2246,8 +2204,7 @@
         <p>Il fallut bien me résigner et attendre encore pendant six grandes heures !</p>
       </div>
       <div>
-        <head>XLI.
-</head>
+        <head>XLI.</head>
         <p>Le lendemain, jeudi, 27 août, fut une date célèbre de ce voyage subterrestre. Elle ne me revient pas à l’esprit sans que l’épouvante ne fasse encore battre mon cœur. À partir de ce moment, notre raison, notre jugement, notre ingéniosité, n’ont plus voix au chapitre, et nous allons devenir le jouet des phénomènes de la terre.</p>
         <p>À six heures, nous étions sur pied. Le moment approchait de nous frayer par la poudre un passage à travers l’écorce de granit.</p>
         <p>Je sollicitai l’honneur de mettre le feu à la mine. Cela fait, je devais rejoindre mes compagnons sur le radeau qui n’avait point été déchargé ; puis nous prendrions du large, afin de parer aux dangers de l’explosion, dont les effets pouvaient ne pas se concentrer à l’intérieur du massif.</p>
@@ -2290,8 +2247,7 @@
         <p>Cependant, cette inondation soudaine ne dura pas. En quelques secondes je me trouvai à l’air libre que j’aspirai à pleins poumons. Mon oncle et Hans me serraient le bras à le briser, et le radeau nous portait encore tous les trois.</p>
       </div>
       <div>
-        <head>XLII.
-</head>
+        <head>XLII.</head>
         <p>Je suppose qu’il devait être alors dix heures du soir. Le premier de mes sens qui fonctionna après ce dernier assaut fut le sens de l’ouïe. J’entendis presque aussitôt, car ce fut acte d’audition véritable, j’entendis le silence se faire dans la galerie et succéder à ces mugissements qui, depuis de longues heures, remplissaient mes oreilles. Enfin ces paroles de mon oncle m’arrivèrent comme un murmure :</p>
         <p>« Nous montons !</p>
         <p>– Que voulez-vous dire ? m’écriai-je.</p>
@@ -2359,8 +2315,7 @@
         <p>Elle était affolée !</p>
       </div>
       <div>
-        <head>XLIII.
-</head>
+        <head>XLIII.</head>
         <p>Oui, affolée ! L’aiguille sautait d’un pôle à l’autre avec de brusques secousses, parcourait tous les points du cadran, et tournait, comme si elle eût été prise de vertige.</p>
         <p>Je savais bien que, d’après les théories les plus acceptées, l’écorce minérale du globe, n’est jamais dans un état de repos absolu ; les modifications amenées par la décomposition des matières internes, l’agitation provenant des grands courants liquides, l’action du magnétisme, tendent à l’ébranler incessamment, alors même que les êtres disséminés à sa surface ne soupçonnent pas son agitation. Ce phénomène ne m’aurait donc pas autrement effrayé, ou du moins il n’eût pas fait naître dans mon esprit une idée terrible.</p>
         <p>Mais d’autres faits, certains détails <hi rend="i">sui generis</hi>, ne purent me tromper plus longtemps. Les détonations se multipliaient avec une effrayante intensité. Je ne pouvais les comparer qu’au bruit que feraient un grand nombre de chariots entraînés rapidement sur le pavé. C’était un tonnerre continu.</p>
@@ -2417,8 +2372,7 @@
         <p>Je n’ai donc conservé aucun souvenir précis de ce qui se passa pendant les heures suivantes. J’ai le sentiment confus de détonations continues, de l’agitation du massif, d’un mouvement giratoire dont fut pris le radeau. Il ondula sur des flots de laves, au milieu d’une pluie de cendres. Les flammes ronflantes l’enveloppèrent. Un ouragan qu’on eût dit chassé d’un ventilateur immense activait les feux souterrains. Une dernière fois, la figure de Hans m’apparut dans un reflet d’incendie, et je n’eus plus d’autre sentiment que cette épouvante sinistre des condamnés attachés à la bouche d’un canon, au moment où le coup part et disperse leurs membres dans les airs.</p>
       </div>
       <div>
-        <head>XLIV.
-</head>
+        <head>XLIV.</head>
         <p>Quand je rouvris les yeux, je me sentis serré à la ceinture par la main vigoureuse du guide. De l’autre main il soutenait mon oncle. Je n’étais pas blessé grièvement, mais brisé plutôt par une courbature générale. Je me vis couché sur le versant d’une montagne, à deux pas d’un gouffre dans lequel le moindre mouvement m’eût précipité. Hans m’avait sauvé de la mort, pendant que je roulais sur les flancs du cratère.</p>
         <p>« Où sommes-nous ? » demanda mon oncle, qui me parut fort irrité d’être revenu sur terre.</p>
         <p>Le chasseur leva les épaules en signe d’ignorance.</p>
@@ -2485,8 +2439,7 @@
         <p>Du bout de ses doigts il pressa légèrement nos deux mains et se mit à sourire.</p>
       </div>
       <div>
-        <head>XLV.
-</head>
+        <head>XLV.</head>
         <p>Voici la conclusion d’un récit auquel refuseront d’ajouter foi les gens les plus habitués à ne s’étonner de rien. Mais je suis cuirassé d’avance contre l’incrédulité humaine.</p>
         <p>Nous fûmes reçus par les pêcheurs stromboliotes avec les égards dus à des naufragés. Ils nous donnèrent des vêtements et des vivres. Après quarante-huit heures d’attente, le 31 août, un petit speronare nous conduisit à Messine, où quelques jours de repos nous remirent de toutes nos fatigues.</p>
         <p>Le vendredi 4 septembre, nous nous embarquions à bord du <hi rend="i">Volturne</hi>, l’un des paquebots-postes des messageries impériales de France, et, trois jours plus tard, nous prenions terre à Marseille, n’ayant plus qu’une seule préoccupation dans l’esprit, celle de notre maudite boussole. Ce fait inexplicable ne laissait pas de me tracasser très sérieusement. Le 9 septembre au soir, nous arrivions à Hambourg.</p>
