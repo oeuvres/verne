@@ -12,8 +12,9 @@
       </titleStmt>
       <editionStmt>
         <p>Exercice dans le cadre du cours de Master Editions (Lille III, 2015-2016) </p>
+      </editionStmt>
       <sourceDesc>
-        <bibl>http://www.ebooksgratuits.org/pdf/verne_comte_chanteleine.pdf </bibl>
+        <bibl>http://www.ebooksgratuits.org/pdf/verne_comte_chanteleine.pdf</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -27,29 +28,8 @@
   </teiHeader>
   <text>
     <body>
-      <byline rend=" center">Jules Verne</byline>
-      <byline rend=" center">Le comte de Chanteleine</byline>
-      <byline rend=" center">Épisode de la révolution</byline>
-      <byline rend=" center">(1864)</byline>
-      <p rend="contents1">Chapitre I. Dix mois d’une guerre héroïque</p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064424">II. La route de Guérande</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064425">III. La traversée</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064426">IV. Le Château de Chanteleine</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064427">V. Quimper en 1793</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064428">VI. L’auberge du triangle égalitaire</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064429">VII. Le cimetière</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064430">VIII. La fuite</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064431">X. Douarnenez</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064432">X. L’île Tristan</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064433">XI. Quelques jours de bonheur</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064434">XII. Le départ</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064435">XIII. Le prêtre mystérieux</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064436">XIV. Les grottes de Morgat</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064437">XV. La confession</ref></p>
-      <p rend="contents1">Chapitre <ref target="#__RefHeading___Toc424064438">XVI. Le 9 thermidor</ref></p>
       <div type="chapter">
         <head>Chapitre I.
-<lb/>
 <lb/>Dix mois d’une guerre héroïque</head>
         <p>Le 24 février 1793, la Convention nationale décréta une levée supplémentaire de trois cent mille hommes pour résister à la coalition étrangère ; le 10 mars suivant, le tirage des conscrits devait avoir lieu à Saint-Florent, en Anjou, pour le contingent de cette commune.</p>
         <p>Ni la proscription des nobles, ni la mort de Louis XVI n’avaient pu émouvoir les paysans de l’Ouest ; mais la dispersion de leurs prêtres, la violation de leurs églises, l’intronisation des curés assermentés dans les paroisses, et enfin cette dernière mesure de la conscription, les poussèrent à bout.</p>
@@ -101,7 +81,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre II.
-<lb/>
 <lb/>La route de Guérande</head>
         <p>Une immense foule effrayée, éperdue, fuyait du côté de Guérande ; elle descendait les pentes de la ville comme un torrent, se heurtant aux angles, et rejaillissait au-delà du talus. Plus d’un achevait là de mourir, que le sabre des Bleus avait mutilé pendant la bataille. La confusion était inexprimable.</p>
         <p>Cependant, en moins d’une heure, la ville fut entièrement évacuée ; la résistance de Marigny avait donné aux fuyards le temps de rassembler femmes, vieillards, enfants et de les pousser sur la route. Ils pouvaient entendre au-dessus de leur tête le canon qui protégeait la retraite. Mais quand celui-ci vint à se taire, les Blancs accueillirent son silence par des cris de désespoir. Ils allaient avoir à leurs trousses toute l’armée ennemie. En effet, des coups de fusil plus nombreux, plus rapprochés, éclatèrent bientôt sur les flancs de la longue colonne, et les malheureux tombèrent en grand nombre pour ne plus se relever.</p>
@@ -236,7 +215,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre III.
-<lb/>
 <lb/>La traversée</head>
         <p>Kernan, comme il venait de le dire, n’était pas embarrassé de conduire une chaloupe ; il avait fait ses preuves comme pêcheur pendant sa jeunesse, et les côtes de Bretagne lui étaient familières depuis la pointe du Croisic jusqu’au cap Finistère. Pas un rocher qu’il ne connût, pas une anse, pas une baie qu’il n’eût fréquentée ! Il savait ses heures de marée et ne craignait ni écueil ni haut-fond.</p>
         <p>Cette barque que montaient les deux fugitifs était une chaloupe de pêche fine et basse de l’arrière, mais relevée de l’avant, et merveilleusement disposée pour tenir la mer, même par les gros temps ; elle portait deux voiles de couleur rouge, une misaine et un taille-vent.</p>
@@ -245,7 +223,7 @@
         <p>Le vent de <hi rend="i">surouë</hi> aidant, elle volait sur les flots avec rapidité. Bien que la brise fût très forte, le Breton n’avait pas voulu prendre un seul ris dans ses voiles, qui s’inclinaient parfois jusqu’à mouiller leurs ralingues ; mais, soit d’un coup de barre audacieux, soit en filant un peu de son écoute, Kernan relevait la barque et la rejetait dans le vent.</p>
         <p>À cinq heures du matin, elle passait entre Belle-Île et cette presqu’île de Quiberon qui, quelques mois plus tard, allait être inondée du sang français, à la honte de l’Angleterre.</p>
         <p>Quelques provisions de poisson fumé formaient l’approvisionnement de la chaloupe ; les deux fugitifs purent donc prendre un peu de nourriture ; ils n’avaient pas mangé depuis plus de quinze heures.</p>
-        <p rend="centre">Pendant les premiers moments de cette traversée, le comte de Chanteleine demeura taciturne ; il était en proie à une violente émotion. Son esprit mêlait confusément les scènes du passé à celles qu’il prévoyait dans l’avenir. Au moment où il courait au secours de sa femme et de sa fille, celles-ci lui apparaissaient de plus en plus menacées. Il discutait les chances d’un malheur possible, et il cherchait à se rappeler les dernières nouvelles qu’il avait reçues du château.</p>
+        <p>Pendant les premiers moments de cette traversée, le comte de Chanteleine demeura taciturne ; il était en proie à une violente émotion. Son esprit mêlait confusément les scènes du passé à celles qu’il prévoyait dans l’avenir. Au moment où il courait au secours de sa femme et de sa fille, celles-ci lui apparaissaient de plus en plus menacées. Il discutait les chances d’un malheur possible, et il cherchait à se rappeler les dernières nouvelles qu’il avait reçues du château.</p>
         <p>– Ce Karval, dit-il enfin à Kernan, est bien connu dans le pays, et, certes, s’il y reparaissait, les habitants du château le recevraient fort mal.</p>
         <p>– Certes ! répondit le Breton, et on ne manquerait pas de lui faire un mauvais parti. Mais si le gueux y vient, il n’y viendra pas seul, et, d’ailleurs, rien que sur une dénonciation de sa part on peut arrêter M<hi rend="sup">me</hi> la comtesse et ma nièce Marie. Deux pauvres femmes inoffensives ! Quel temps que celui où nous vivons !</p>
         <p>– Oui, terrible ! Kernan, un temps où la colère de Dieu ne nous épargne guère, mais il faut se soumettre à sa volonté. Heureux ceux qui, sans famille, n’ont à craindre que pour eux seuls ! Nous autres, Kernan, nous luttons, nous nous défendons, nous nous battons pour la sainte cause ! Mais nos mères, nos sœurs, nos filles, nos femmes ne peuvent que pleurer et prier.</p>
@@ -293,7 +271,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre IV.
-<lb/>
 <lb/>Le château de Chanteleine</head>
         <p>Le château de Chanteleine était situé à trois lieues du bourg du Fouesnant, entre Pont-l’Abbé et Plougastel, à moins d’une lieue de la côte de Bretagne.</p>
         <p>Les biens composant la propriété de Chanteleine appartenaient depuis un temps immémorial à la famille du comte, l’une des plus vieilles de Bretagne. Le château ne datait que du temps de Louis XIII, mais il était empreint de cette rudesse campagnarde que les murailles de granit donnent aux édifices ; on le sentait lourd, imposant, mais indestructible comme les roches de la côte. Cependant, il n’avait ni tours, ni mâchicoulis, ni poterne, ni guérite suspendue à l’angle des murs, comme des nids d’aigle, et il n’éveillait pas l’idée de forteresse ; dans la paisible terre de Bretagne, les seigneurs n’avaient jamais eu à se défendre contre personne, pas même contre leurs vassaux.</p>
@@ -373,10 +350,9 @@
       </div>
       <div type="chapter">
         <head>Chapitre V.
-<lb/>
 <lb/>Quimper en 1793</head>
         <p>Quimper avait vu tomber la première tête sous la hache républicaine, celle d’Alain Nedelec, et le clergé breton compta dans cette ville son premier martyr, l’évêque Conan de Saint-Luc. Depuis ce jour, Quimper fut livré à l’arbitraire des républicains et de la Municipalité.</p>
-        <p rend="centre">Il faut dire que les Bretons des villes se distinguèrent par leur furie républicaine ; ils furent hardis à se jeter dans le mouvement national ; ces énergiques natures ne connurent aucune borne dans le bien ni dans le mal ; aussi les premiers héros du 10 août, qui envahirent les Tuileries et suspendirent le roi Louis XVI, furent-ils les fédérés de Brest, de Morlaix, de Quimper, levés à la voix de l’Assemblée législative, quand le 11 juillet 1792, en présence de la Prusse, du Piémont et de l’Autriche, coalisés contre la France, elle déclara « la patrie en danger ».</p>
+        <p>Il faut dire que les Bretons des villes se distinguèrent par leur furie républicaine ; ils furent hardis à se jeter dans le mouvement national ; ces énergiques natures ne connurent aucune borne dans le bien ni dans le mal ; aussi les premiers héros du 10 août, qui envahirent les Tuileries et suspendirent le roi Louis XVI, furent-ils les fédérés de Brest, de Morlaix, de Quimper, levés à la voix de l’Assemblée législative, quand le 11 juillet 1792, en présence de la Prusse, du Piémont et de l’Autriche, coalisés contre la France, elle déclara « la patrie en danger ».</p>
         <p>Aussi leurs services furent si bien appréciés, que le Club breton de Paris forma le noyau du futur Club des jacobins ; et, plus tard, la section du faubourg Saint-Marceau prit, pour leur faire honneur, le titre de Section du Finistère.</p>
         <p>Quimper, entre autres, fut une des villes les plus agitées, ce qu’on n’eût guère attendu de ce chef-lieu enfoui au fond de la Basse-Bretagne. Les Amis de la Constitution s’y fondèrent et siégèrent dans l’ancienne chapelle des cordeliers. Les clubs s’y multiplièrent, et plus tard ce fut l’un d’eux qui décréta que les nourrissons quitteraient le sein de leur nourrice pour venir écouter les cris de <hi rend="i">Vive la Montagne</hi> ! et que les enfants apprendraient à parler en bégayant la Déclaration des droits de l’homme.</p>
         <p>Cependant, quand les administrateurs de Quimper, Kergariou en tête, virent la tournure des choses et où allait la Révolution, ils voulurent enrayer le mouvement ; ils interdirent certains journaux, tels que <hi rend="i">L’Ami du Peuple</hi> de Marat ; la commune de Paris envoya alors pour les mettre à la raison un proconsul ; mais à son arrivée, les Quimperrois l’emprisonnèrent au fort du Taureau, et protestèrent plus énergiquement encore que les girondins de Paris contre les montagnards de la Convention ; ils envoyèrent même avec Nantes deux cents volontaires à Paris pour appuyer leur protestation à main armée, ce qui amena un décret d’accusation en masse contre les administrations de la Bretagne. Mais, après la mort de Louis XVI, après l’exécution des girondins, quand la France fut prise de vertige, lorsque le régime de la Terreur s’établit, les républicains réactionnaires de la Bretagne furent débordés.</p>
@@ -473,14 +449,15 @@
       </div>
       <div type="chapter">
         <head>Chapitre VI.
-<lb/>
 <lb/>L’auberge du triangle-égalitaire</head>
         <p>La position de Kernan était terrible ; il fallait mettre le comte à l’abri de tout regard avant qu’il reprît connaissance. Ses premières paroles ne pouvaient manquer de le trahir ! Il redemanderait sa fille à grands cris et décèlerait le comte de Chanteleine sous l’habit du paysan breton.</p>
         <p>En courant à travers les rues, Kernan avisa une sorte d’auberge devant laquelle il s’arrêta, traînant ou plutôt portant son maître.</p>
         <p>L’auberge avait une enseigne ornée de tous les agréments de l’époque, tels que piques et faisceaux romains, avec ces mots :</p>
-        <p rend="centre">Au Triangle-Égalitaire</p>
-        <p rend="centre">CHEZ MUTIUS SCEVOLA</p>
-        <p rend="centre">Loge à pied et à cheval</p>
+        <p rend="center">
+          Au Triangle-Égalitaire
+          <lb/>CHEZ MUTIUS SCEVOLA
+          <lb/>Loge à pied et à cheval
+        </p>
         <p>« Une auberge de bandits, se dit-il, eh bien ! nous y serons plus en sûreté. D’ailleurs je n’ai pas le choix. »</p>
         <p>Il avait si peu le choix qu’il n’eût pas rencontré dans la ville un cabaret sans une enseigne civique.</p>
         <p>Il entra donc dans la salle basse, déposa son fardeau inerte sur une chaise et demanda une chambre. L’hôtelier, Mutius Scévola en personne, arriva :</p>
@@ -560,8 +537,8 @@
         <p>– Le vertueux Couthon !</p>
         <p>– Pas possible ?</p>
         <p>– Juges-en ! Ce matin, la machine allait tranquillement son train ; les paysans, les nobles, les prêtres, tout cela basculait avec une égalité républicaine ; la petite Chanteleine y avait passé, et il ne restait plus que deux ou trois condamnés, quand un bruit se produisit dans la foule ; un jeune homme, les cheveux en désordre, monté sur un cheval qui tombe mort sur place, accourt en criant :</p>
-        <p rend="centre">" – Grâce ! grâce pour ma sœur !</p>
-        <p rend="centre">" Il fend la foule, arrive auprès du citoyen Guermeur, il lui remet un papier signé <hi rend="i">Couthon</hi> et portant la grâce de sa sœur.</p>
+        <p>« – Grâce ! grâce pour ma sœur !</p>
+        <p>« Il fend la foule, arrive auprès du citoyen Guermeur, il lui remet un papier signé <hi rend="i">Couthon</hi> et portant la grâce de sa sœur.</p>
         <p>– Eh bien ?</p>
         <p>– Eh bien ! il n’y avait pas à résister ! et, cependant, ce garçon-là c’était un ci-devant !</p>
         <p>– Qui se nomme ?</p>
@@ -572,7 +549,7 @@
         <p>Et il a bien fallu la lui rendre ! Ainsi, si son cheval avait fait un faux pas en route, c’était fini !</p>
         <p>– C’est donc cela qui a causé du trouble dans la foule ?</p>
         <p>– Oui ; on criait :  « Non ! non ! »</p>
-        <p rend="centre">Mais Guermeur, devant la signature du vertueux Couthon, a dû s’incliner. N’importe ! c’est une tache, cela, pour le Comité de salut public.</p>
+        <p>Mais Guermeur, devant la signature du vertueux Couthon, a dû s’incliner. N’importe ! c’est une tache, cela, pour le Comité de salut public.</p>
         <p>– Eh bien ! répondit Kernan, il a eu de la chance, ce Trégolan… Et après ?</p>
         <p>– Après, il a emmené sa sœur, et on a continué la besogne !…</p>
         <p>– Eh bien ! à ta santé, Scévola ! dit Kernan.</p>
@@ -617,7 +594,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre VII.
-<lb/>
 <lb/>Le cimetière</head>
         <p>Le soir arriva. Le temps avait changé ; la neige tombait. À huit heures, le comte se leva et dit :</p>
         <p>– Il est temps, partons !</p>
@@ -737,7 +713,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre VIII.
-<lb/>
 <lb/>La fuite</head>
         <p>On peut se figurer quelle nuit le comte passa près de sa fille sauvée de la mort. S’il ressentit plus vivement alors la perte de la comtesse, s’il entretint Marie de sa pauvre mère, une sainte et une martyre, toutes ces douleurs furent pourtant mêlées d’une joie immense ; quelles prières de miséricorde il éleva vers le ciel pour sa femme morte, de reconnaissance pour sa fille vivante et pour son sauveur !</p>
         <p>Kernan avait dit au jeune homme :</p>
@@ -797,7 +772,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre X.
-<lb/>
 <lb/>Douarnenez</head>
         <p>Douarnenez, en l’an II de la République, ne comptait encore qu’une vingtaine de familles de pêcheurs ; la réunion de ces maisons, faites d’éclats de granit, offrait un pittoresque coup d’œil à qui arrivait par mer.</p>
         <p>Le bourg, longtemps caché derrière les sinuosités de la côte, apparaissait tout à coup, dominé par le clocher solitaire d’une église située au sommet d’une colline.</p>
@@ -869,7 +843,7 @@
         <p>Quant à lui, s’il était jamais obligé de fuir la Bretagne, il le ferait, il n’abandonnerait pas son maître ; mais assurément il y reviendrait accomplir certaine vengeance qui lui tenait au cœur. Seulement il n’en parlait jamais, et ne faisait aucune allusion à Karval.</p>
         <p>Pendant la pêche, on s’arrangeait toujours de façon à ce que la jeune fille ne fût jamais seule, et soit son père, soit le bonhomme Locmaillé, il y avait toujours quelqu’un près d’elle.</p>
         <p>D’ailleurs, l’arrivée des nouveaux venus dans le pays n’avait surpris personne ; on ne s’inquiétait aucunement de leur présence ; on les acceptait comme des parents du bonhomme Locmaillé, et, comme ils étaient fort serviables, on finit par les aimer. D’ailleurs, ils avaient peu de communication avec le dehors, et les bruits de la Révolution venaient expirer au seuil de leur cabane.</p>
-        <p rend="centre center">Le 1<hi rend="sup">er</hi> janvier 1794, Henry vint trouver la jeune fille en présence de son père et de Kernan, et lui offrit une petite bague, pour présent de nouvelle année.</p>
+        <p rend="center">Le 1<hi rend="sup">er</hi> janvier 1794, Henry vint trouver la jeune fille en présence de son père et de Kernan, et lui offrit une petite bague, pour présent de nouvelle année.</p>
         <p>– Acceptez, mademoiselle, lui dit-il d’une voix émue : cette bague vient de ma sœur.</p>
         <p>– Ah ! monsieur Henry, murmura Marie.</p>
         <p>Elle s’arrêta, regarda son père et Kernan, se jeta dans leurs bras en les mouillant de larmes ; puis elle revint vers le chevalier.</p>
@@ -879,7 +853,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre X.
-<lb/>
 <lb/>L’île Tristan</head>
         <p>Le mois de janvier s’écoula paisiblement, et les hôtes de Locmaillé reprirent peu à peu confiance. Trégolan se sentait chaque jour plus vivement attiré vers la jeune fille ; mais, Marie étant son obligée, il mettait à cacher son amour tout le soin qu’un autre, moins délicat, eût mis à l’afficher ; personne donc ne s’en doutait, si ce n’est peut-être Kernan, qui avait de bons yeux et qui se disait : « Cela se fera, et rien de plus heureux n’aura pu se faire. »</p>
         <p>Le village de Douarnenez était tranquille et ce calme ne fut troublé qu’une seule fois, et dans les circonstances suivantes.</p>
@@ -977,7 +950,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre XI.
-<lb/>
 <lb/>Quelques jours de bonheur</head>
         <p>Après cette terrible soirée, dans laquelle la colère de toute une population se déchaîna contre un seul homme, le village de Douarnenez reprit son calme habituel, et, il faut le dire, les pécheurs retournèrent à leurs travaux accoutumés avec plus de confiance ; depuis la mort du maudit, ils ne pensaient pas avoir à redouter les représailles des républicains, qui ne connaissaient rien de l’affaire. Il n’en était pas ainsi du comte et de ses amis ; ils devaient craindre que le premier acte de la liberté d’Yvenat ne fût une dénonciation en règle contre les habitants de Douarnenez. On pouvait donc s’attendre, un jour ou l’autre, à la visite des gardes nationaux du département et des forcenés des villes.</p>
         <p>De là un danger sérieux pour le comte et pour sa fille.</p>
@@ -1049,7 +1021,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre XII.
-<lb/>
 <lb/>Le départ</head>
         <p>On comprend l’effet que produisit la lecture de ces quelques mots sur ses auditeurs ! Marie ne put s’empêcher d’éclater en sanglots, et Henry ne parvint pas sans peine à la consoler.</p>
         <p>Où était allé le comte de Chanteleine ? pourquoi ce départ précipité ? pourquoi ce secret, que son fidèle Kernan n’avait pu percer ?</p>
@@ -1129,7 +1100,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre XIII.
-<lb/>
 <lb/>Le prêtre mystérieux</head>
         <p>En effet, cette absence de prêtres dans le département avait nécessairement suspendu l’exercice de la religion ; les populations des campagnes souffraient surtout de cet état de choses. Et cependant, plutôt que de reconnaître les assermentés, elles se renfermaient dans leurs maisons et fuyaient les églises ; aussi les enfants naissaient sans recevoir le baptême, les mourants mouraient sans avoir été administrés, les mariages ne pouvaient se célébrer ni religieusement, ni même civilement, car les troubles n’avaient pas même permis d’installer les bureaux de l’état civil.</p>
         <p>Cependant, pendant la dernière quinzaine d’avril, un changement manifeste se produisit dans les campagnes de la partie du Finistère comprise dans un rayon de quelques lieues autour de Douarnenez ; il devint bientôt évident qu’un prêtre était revenu dans le pays accomplir sa noble mission en bravant des dangers sans nombre.</p>
@@ -1170,7 +1140,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre XIV.
-<lb/>
 <lb/>Les grottes de Morgat</head>
         <p>Le cap de la Chèvre fait l’extrémité d’une longue pointe de terre formée par la courbure de la côte nord, et qui vient fermer en partie la baie de Douarnenez. Le promontoire couvre lui-même une sorte de petite baie intérieure, qui s’aperçoit parfaitement du bourg, un peu sur la gauche.</p>
         <p>C’est vers la partie centrale et sur une plage magnifique que se trouvent les célèbres grottes de Morgat. Il y en a plusieurs. Elles sont accessibles à marée basse, sauf la plus belle et la plus importante, dans laquelle on ne peut pénétrer qu’avec le flot.</p>
@@ -1260,11 +1229,7 @@
       </div>
       <div type="chapter">
         <head>Chapitre XV.
-<lb/>
 <lb/>La confession</head>
-        <p rend="figure">
-          <graphic url="verne_comte_chanteleine_delannoy-img/10000000000002470000020C21F00ECE3B1C9F1A.jpg"/>
-        </p>
         <p>Le retour de Kernan avait été, en effet, retardé par une rencontre inattendue. Il était neuf heures du soir ; il revenait désespéré ; on annonçait pour le lendemain l’exécution du ci-devant comte de Chanteleine. Karval, ne pouvant retrouver la jeune fille, avait enfin ordonné le supplice.</p>
         <p>Kernan était décidé à employer les moyens extrêmes pour enlever le comte à la fatale charrette qui le conduirait à l’échafaud. Mais, avant de prendre un parti, il voulut revoir le chevalier et sa nièce Marie, pour la dernière fois peut-être. Il marcha donc à grands pas, après avoir longtemps rôdé autour de la prison.</p>
         <p>Déjà il avait traversé le port de Brest, et il remontait les rues roides et détournées de Recouvrance, quand il aperçut, marchant devant lui, un homme dont la tournure le frappa. L’obscurité n’était pas encore assez grande pour qu’il pût s’y méprendre. Certains détails lui firent venir la pensée que cet homme était celui qu’il haïssait tant. Bientôt, il ne put en douter.</p>
@@ -1331,7 +1296,6 @@
       </div>
       <div type="chapter">
         <head>Chapitre XVI.
-<lb/>
 <lb/>Le 9 thermidor</head>
         <p>À minuit, Kernan rentrait au Porzik. Il déclara qu’il venait de tuer Karval. Marie, frissonnante, rentra dans sa chambre. Dès qu’elle fut partie, le Breton saisit le bras du chevalier.</p>
         <p>– C’est demain l’exécution, dit-il.</p>

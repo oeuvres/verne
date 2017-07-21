@@ -16,7 +16,9 @@
       <sourceDesc/>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1892"/>
+      </creation>
       <langUsage>
         <language ident="fr"/>
       </langUsage>

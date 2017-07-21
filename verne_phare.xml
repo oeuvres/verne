@@ -3,7 +3,7 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-03-05T11:39:08+01:00-->
 <!-- ok -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>

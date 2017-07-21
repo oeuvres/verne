@@ -3,7 +3,7 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-03-05T16:53:01+01:00-->
 <!-- petit nettoyage à faire -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1849,7 +1849,7 @@
 <lb/>Dans lequel Phileas Fogg engage une lutte directe contre la mauvaise chance</head>
         <p>En partant, le <hi rend="i">China</hi> semblait avoir emporté avec lui le dernier espoir de Phileas Fogg.</p> 
         <p>En effet, aucun des autres paquebots qui font le service direct entre l’Amérique et l’Europe, ni les transatlantiques français, ni les navires du « White-Star-line », ni les steamers de la Compagnie Imman, ni ceux de la ligne Hambourgeoise, ni autres, ne pouvaient servir les projets du gentleman.</p> 
-        <p>En effet, le <hi rend="i">Pereire</hi>, de la Compagnie transatlantique française – dont les admirables bâtiments égalent en vitesse et surpassent en confortable tous ceux des autres lignes, sans exception –, ne partait que le surlendemain, 14 décembre. Et d’ailleurs, de même que ceux de la Compagnie hambourgeoise, il n’allait pas directement à Liverpool ou à <hi rend="color_996600"><hi rend="b">Londres</hi></hi>, mais au Havre, et cette traversée supplémentaire du Havre à Southampton, en retardant Phileas Fogg, eût annulé ses derniers efforts.</p> 
+        <p>En effet, le <hi rend="i">Pereire</hi>, de la Compagnie transatlantique française – dont les admirables bâtiments égalent en vitesse et surpassent en confortable tous ceux des autres lignes, sans exception –, ne partait que le surlendemain, 14 décembre. Et d’ailleurs, de même que ceux de la Compagnie hambourgeoise, il n’allait pas directement à Liverpool ou à <hi rend="b">Londres</hi>, mais au Havre, et cette traversée supplémentaire du Havre à Southampton, en retardant Phileas Fogg, eût annulé ses derniers efforts.</p> 
         <p>Quant aux paquebots Imman, dont l’un, le <hi rend="i">City-of-Paris</hi>, mettait en mer le lendemain, il n’y fallait pas songer. Ces navires sont particulièrement affectés au transport des émigrants, leurs machines sont faibles, ils naviguent autant à la voile qu’à la vapeur, et leur vitesse est médiocre. Ils employaient à cette traversée de New York à l’Angleterre plus de temps qu’il n’en restait à Mr. Fogg pour gagner son pari.</p> 
         <p>De tout ceci le gentleman se rendit parfaitement compte en consultant son <hi rend="i">Bradshaw</hi>, qui lui donnait, jour par jour, les mouvements de la navigation transocéanienne.</p> 
         <p>Passepartout était anéanti. Avoir manqué le paquebot de quarante-cinq minutes, cela le tuait. C’était sa faute à lui, qui, au lieu d’aider son maître, n’avait cessé de semer des obstacles sur sa route ! Et quand il revoyait dans son esprit tous les incidents du voyage, quand il supputait les sommes dépensées en pure perte et dans son seul intérêt, quand il songeait que cet énorme pari, en y joignant les frais considérables de ce voyage devenu inutile, ruinait complètement Mr. Fogg, il s’accablait d’injures.</p> 

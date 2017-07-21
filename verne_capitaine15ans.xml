@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
-<!--Odette: 2016-03-04T11:57:00+01:00-->
-  <!-- Nettoyage rapide, beaucoup de lignes vides + retirer ligne ci-dessous pour lecture du doc -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
