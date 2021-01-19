@@ -38,7 +38,7 @@
       <div>
         <head>Première partie
 <lb/></head>
-        <div>
+        <div type="chapter">
           <head>I.
 <lb/>À bord du steam-boat « Shannon »
 <lb/></head>
@@ -142,7 +142,7 @@
           <p>Les fanaux s’éloignèrent, et le <hi rend="i">Shannon</hi> reprit sa marche, en obliquant vers la rive gauche. Trois milles au delà de Camdless-Bay, de l’autre côté du fleuve, il s’arrêtait à l’appontement de Jacksonville, afin de mettre à terre le plus grand nombre de ses passagers.</p>
           <p>Là, Walter Stannard débarqua en même temps que trois ou quatre de ces gens, dont Texar s’était séparé, une heure et demie avant, lorsque l’Indien était venu le prendre avec le squif. Il ne restait plus qu’une demi-douzaine de voyageurs à bord du steam-boat, les uns à destination de Pablo, petit bourg, bâti près du phare qui s’élève à l’entrée des bouches du Saint-John, les autres à destination de l’île Talbot, située au large de l’ouverture des passes de ce nom, les derniers, enfin, à destination du port de Fernandina. Le <hi rend="i">Shannon</hi> continua donc à battre les eaux du fleuve, dont il put franchir la barre sans accidents. Une heure après, il avait disparu au tournant de la crique Trout, où le Saint-John mêle ses lames déjà houleuses à la houle de l’Océan.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>II.
 <lb/>Camdless-Bay
 <lb/></head>
@@ -171,7 +171,7 @@
           <p>On le voit, ce domaine privé, spécial aux hôtes de Camdless-Bay, c’était une enclave merveilleusement agencée au milieu du vaste établissement de James Burbank. Ni le tapage des moulins à coton, ni les frémissements des scieries, ni les chocs de la hache sur les troncs d’arbres, ni aucun de ces bruits que comporte une exploitation si importante, ne parvenaient à franchir les palanques de l’enceinte. Seuls, les mille oiseaux de l’ornithologie floridienne pouvaient la dépasser en voltigeant d’arbre en arbre. Mais ces chanteurs ailés, dont le plumage rivalise avec les étincelantes fleurs de cette zone, n’étaient pas moins bien accueillis que les parfums dont la brise s’imprégnait en caressant les prairies et les forêts du voisinage.</p>
           <p>Telle était Camdless-Bay, la plantation de James Burbank, et l’une des plus riches de la Floride orientale.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>III.
 <lb/>Où en est la guerre de Sécession
 <lb/></head>
@@ -204,7 +204,7 @@
           <p>Le 5 novembre, le chenal a été balisé, et, après un échange de quelques coups de canon, Dupont pénètre dans la baie, sans pouvoir débarquer encore les troupes de Sherman. Le 7, avant midi, il attaque le fort Walker, puis le fort Beauregard. Il les écrase sous une grêle de ses plus gros obus. Les forts sont évacués. Les fédéraux en prennent possession presque sans combat, et Sherman occupe ce point si important pour la suite des opérations militaires. C'était un coup porté au cœur même des États esclavagistes. Les îles voisines tombent l’une après l’autre au pouvoir des fédéraux, même l’île Tybee et le fort Pulaski, lequel commande la rivière de Savannah. L'année finie, Dupont est maître des cinq grandes baies de North-Edisto, de Saint-Helena, de Port-Royal, de Tybee, de Warsaw, et de tout ce chapelet d’îlots semés sur la côte de la Caroline et de la Géorgie. Enfin, le 1<hi rend="sup">er</hi> janvier 1862, un dernier succès lui permet de réduire les ouvrages confédérés, élevés sur les rives du Coosaw.</p>
           <p>Telle était la situation des belligérants au commencement de février de l’année 1862. Tels étaient les progrès du gouvernement fédéral vers le Sud, au moment où les navires du commodore Dupont et les troupes de Sherman menaçaient la Floride.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>IV.
 <lb/>La famille Burbank
 <lb/></head>
@@ -281,7 +281,7 @@
           <p>Mêmes sentiments entre Gilbert et Mars. Adroit et vigoureux, le métis avait heureusement contribué à rendre son jeune maître habile à tous les exercices du corps. James Burbank ne pouvait que s’applaudir de l’avoir attaché à son fils.</p>
           <p>Ainsi, en aucun temps, la situation de Zermah et de Mars n’avait été si heureuse, et cela, au sortir des mains d’un Tickborn, après avoir risqué de tomber dans celles d’un Texar. – Ils ne devaient jamais l’oublier.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>V.
 <lb/>La Crique-Noire
 <lb/></head>
@@ -335,7 +335,7 @@
           <p>– Et… rien ?</p>
           <p>– Rien. »</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>VI.
 <lb/>Jacksonville
 <lb/></head>
@@ -417,7 +417,7 @@
           <p>« Ordre à M. James Burbank de se présenter en personne demain, 27 février, à onze heures du matin, à Court-Justice, devant les autorités de Jacksonville. »</p>
           <p>Rien de plus.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>VII.
 <lb/>Quand même !
 <lb/></head>
@@ -556,7 +556,7 @@
           <p>Comme la marée descendait, l’embarcation, retardée par le jusant, ne mit pas moins de deux heures à gagner le pier de Camdless-Bay, où James Burbank était attendu par sa famille. Quelle joie ce fut dans tout ce petit monde, en le revoyant. Il y avait tant de motifs de craindre qu’il ne fût retenu loin des siens !</p>
           <p>« Non ! dit-il à la petite Dy, qui l’embrassait. Je t’avais promis de revenir pour dîner, ma chérie, et, tu le sais bien, je ne manque jamais à mes promesses ! »</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>VIII.
 <lb/>La dernière esclave
 <lb/></head>
@@ -687,7 +687,7 @@
           <p>« Libre à ces conditions ? dit Zermah. Non, jamais ! Je refuse la liberté, et, puisqu’il le faut pour rester près de vous, mon maître, j’aime mieux redevenir esclave ! »</p>
           <p>Et, prenant son acte d’affranchissement, Zermah le déchira et tomba aux genoux de James Burbank.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>IX.
 <lb/>Attente
 <lb/></head>
@@ -778,7 +778,7 @@
           <p>Cependant des précautions sévères furent prises pour la nuit. Perry et les sous-régisseurs organisèrent des rondes à la lisière du domaine, et plus spécialement sur les rives du Saint-John. Les Noirs avaient été prévenus de se replier sur l’enceinte palissadée, en cas d’alerte, et un poste fut établi à la poterne extérieure.</p>
           <p>Plusieurs fois, James Burbank et ses amis se relevèrent, afin de s’assurer que leurs ordres étaient ponctuellement exécutés. Lorsque le soleil reparut, aucun incident n’avait troublé le repos des hôtes de Camdless-Bay.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>X.
 <lb/>La journée du 2 mars
 <lb/></head>
@@ -842,7 +842,7 @@
           <p>Cette éventualité, la plus grave de toutes, devait surtout préoccuper James Burbank. C'est pour cette raison qu’il avait résolu de mettre en sûreté sa femme, sa fille, Alice Stannard, confiées au dévouement de Zermah, dans cette retraite du Roc-des-Cèdres, située à un mille au-dessus de Camdless-Bay. S'ils devaient abandonner Castle-House aux assaillants, ce serait là que ses amis et lui essaieraient de rejoindre leur famille pour attendre que la sécurité fût assurée aux honnêtes gens de la Floride, sous la protection de l’armée fédérale.</p>
           <p>Aussi, une embarcation, cachée au milieu des roseaux du Saint-John et confiée à la garde de deux Noirs, attendait-elle à l’extrémité du tunnel qui mettait l’habitation en communication avec la crique Marino. Mais, avant d’en arriver à cette séparation, si elle devenait nécessaire, il fallait se défendre, il fallait résister pendant quelques heures – au moins jusqu’à la nuit. Grâce à l’obscurité, l’embarcation pourrait alors remonter secrètement le fleuve, sans courir le risque d’être poursuivie par les canots suspects que l’on voyait errer à la surface.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XI.
 <lb/>La soirée du 2 mars
 <lb/></head>
@@ -950,7 +950,7 @@
           <p>– Oui !… par Texar !… » répondit Alice.</p>
           <p>Puis elle s affaissa près de Mme Burbank.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XII.
 <lb/>Les six jours qui suivent
 <lb/></head>
@@ -1029,7 +1029,7 @@
           <p>En ce moment, on frappa légèrement à la porte principale de Castle-House, du côté de l’avenue qui conduisait à la rive du Saint-John.</p>
           <p>Un cri échappa à Miss Alice, qui s’élança vers cette porte. James Burbank voulut en vain retenir la jeune fille. Et, comme on n’avait pas encore répondu, un nouveau coup fut frappé plus distinctement.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XIII.
 <lb/>Pendant quelques heures
 <lb/></head>
@@ -1152,7 +1152,7 @@
           <p>« Viens, Mars », dit-il.</p>
           <p>Et tous deux, suivant la rive droite du fleuve, le long des berges de la plantation, marchèrent rapidement pendant une demi-heure. Ils ne rencontrèrent personne sur la route. Arrivés à l’endroit où ils avaient laissé leur gig, caché sous un amoncellement de roseaux, ils s’embarquèrent pour aller prendre le fil du courant qui devait les entraîner rapidement vers la barre du Saint-John.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XIV.
 <lb/>Sur le Saint-John
 <lb/></head>
@@ -1262,7 +1262,7 @@
           <p>« Fuis… Mars !… Fuis !… », cria-t-il une dernière fois.</p>
           <p>D'un coup de son coutelas, Mars se débarrassa de l’homme qui le tenait. Avant qu’on eût pu le ressaisir, l’intrépide mari de Zermah s’était précipité dans le fleuve. En vain chercha-t-on à le reprendre. Il venait de disparaître au milieu des tourbillons de la barre, dont les eaux tumultueuses se changent en torrents au retour de la marée montante.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XV.
 <lb/>Jugement
 <lb/></head>
@@ -1338,7 +1338,7 @@
       <div>
         <head>Deuxième partie
 <lb/></head>
-        <div>
+        <div type="chapter">
           <head>I.
 <lb/>Après l’enlèvement
 <lb/></head>
@@ -1423,7 +1423,7 @@
           <p>Zermah dut débarquer alors. Accablée de fatigue, la petite fille dormait entre ses bras. Elle ne se réveilla pas, même quand la métisse franchit la poterne du fortin et qu’elle eut été enfermée dans une des chambres attenant au réduit central.</p>
           <p>Dy, enveloppée d’une couverture qui traînait dans un coin, fut couchée sur une sorte de grabat. Zermah veilla près d’elle.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>II.
 <lb/>Singulière opération
 <lb/></head>
@@ -1522,7 +1522,7 @@
           <p>Quelques instants plus tard, le squif, conduit par l’Indien, quittait l’îlot, se dirigeait à travers les sombres sinuosités de la lagune, rejoignait une embarcation qui attendait l’Espagnol à l’ouverture de la crique sur le Saint-John. Squambô et son maître se séparèrent alors, après dernières recommandations faites. Puis Texar, emporté par le jusant, descendit rapidement dans la direction de Jacksonville.</p>
           <p>Ce fut là qu’il arriva au petit jour, et à temps pour mettre ses projets à exécution. En effet, à quelques jours de là, Mars disparaissait sous les eaux du Saint-John et Gilbert Burbank était condamné à mort.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>III.
 <lb/>La veille
 <lb/></head>
@@ -1630,7 +1630,7 @@
           <p>En effet, il ne fallait rien faire pendant le jour. Lorsque l’obscurité leur permettrait d’agir avec plus de sécurité, sans crainte d’être surpris, M. Stannard et M. Harvey essaieraient de rendre possible l’évasion des deux prisonniers avec la complicité de leur gardien. Ils seraient munis d’une somme d’argent si considérable que cet homme – ils l’espéraient du moins – ne pourrait résister à leurs offres, surtout, quand un seul coup de canon, parti de la flottille du commandant Stevens, pouvait mettre fin au pouvoir de l’Espagnol.</p>
           <p>Mais, la nuit arrivée, lorsque MM. Stannard et Harvey voulurent mettre leur projet à exécution, ils durent y renoncer. L'habitation était gardée à vue par une escouade de la milice, et ce fut en vain que tous deux en voulurent sortir.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>IV.
 <lb/>Coup de vent de nord-est
 <lb/></head>
@@ -1737,7 +1737,7 @@
           <p>– Oui !… il le faut ! » répondit Mars.</p>
           <p>Quelques instants plus tard, Texar était enfermé dans la cellule même où ses victimes avaient attendu l’heure de l’exécution.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>V.
 <lb/>Prise de possession
 <lb/></head>
@@ -1834,7 +1834,7 @@
           <p>Tel fut l’avis du commandant Stevens. Tel fut celui du commodore Dupont, dès que la plainte de James Burbank et la demande de poursuites contre l’Espagnol eurent été portées à sa connaissance.</p>
           <p>Aussi, le lendemain, 15 mars, une ordonnance fut-elle rendue, qui traduisait Texar devant le tribunal militaire sous la double prévention de pillage et de rapt. C'était devant le Conseil de guerre, siégeant à Saint-Augustine, que l’accusé aurait à répondre de ses attentats.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>VI.
 <lb/>Saint-Augustine
 <lb/></head>
@@ -1961,7 +1961,7 @@
           <p>En présence de l’alibi invoqué par l’accusé, le jugement du Conseil de guerre ne pouvait être douteux. Texar fut renvoyé des fins de la plainte portée contre lui, sur les deux chefs de pillage et d’enlèvement. Il sortit donc de la salle d’audience, la tête haute, au milieu des bruyants hurrahs de ses amis.</p>
           <p>Le soir même, l’Espagnol avait quitté Saint-Augustine, et nul n’aurait pu dire en quelle région de la Floride il était allé reprendre sa mystérieuse vie d’aventure.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>VII.
 <lb/>Derniers mots et dernier soupir
 <lb/></head>
@@ -2079,7 +2079,7 @@
           <p>– Texar !… »</p>
           <p>Ce fut le dernier mot de ce pauvre esclave, qui retomba mort sur la couche d’herbes.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>VIII.
 <lb/>De Camdless-Bay au lac Washington
 <lb/></head>
@@ -2163,7 +2163,7 @@
           <p>Heureusement, James Burbank et les siens furent si bien servis dans ces circonstances que, le 25 au soir, la distance entre le lac George et le lac Washington avait été franchie. Arrivée à la lisière de cet amas d’eaux stagnantes, l’embarcation dut faire halte. L'étroitesse du fleuve, le peu de profondeur de son cours, lui interdisaient de remonter plus avant vers le sud.</p>
           <p>En somme, les deux tiers étant faits, James Burbank et les siens ne se trouvaient plus qu’à cent quarante milles des Everglades.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>IX.
 <lb/>La grande cyprière
 <lb/></head>
@@ -2234,7 +2234,7 @@
           <p>Gilbert, lui aussi, avait subi l’impression commune. Mais, redressant la tête :</p>
           <p>« En avant ! » dit-il.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>X.
 <lb/>Rencontre
 <lb/></head>
@@ -2351,7 +2351,7 @@
           <p>Le fait n’en était pas moins absolument incompréhensible, comme tant d’autres qui se rapportaient à la vie privée de Texar. Il y avait encore là quelque inexplicable alibi, et on eût dit que l’Espagnol possédait véritablement le pouvoir de se dédoubler.</p>
           <p>Ce mystère s’éclaircirait-il ? on ne pouvait l’affirmer. Quoi qu’il en soit, il fallait s’emparer de Texar, et c’est à cela qu’allaient tendre les marins du capitaine Howick réunis aux compagnons de James Burbank.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XI.
 <lb/>Les Everglades
 <lb/></head>
@@ -2431,7 +2431,7 @@
           <p>Zermah vint alors reprendre sa place derrière la porte qui avait été refermée.</p>
           <p>Si elle ne pouvait rien voir de ce qui se passait dans la chambre, ni reconnaître l’interlocuteur de Texar, elle pouvait l’entendre. Et voici ce qu’elle entendit.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XII.
 <lb/>Ce qu’entend Zermah
 <lb/></head>
@@ -2561,7 +2561,7 @@
           <p>La malheureuse enfant étouffait. Il fallait la porter immédiatement au-dehors. Dans cette obscurité profonde, Zermah, affolée, la prit entre ses bras pour la ranimer de son propre souffle. Elle la sentit se débattre dans une sorte de convulsion. Elle jeta un cri… elle repoussa la porte de sa chambre…</p>
           <p>Deux hommes étaient là, debout, devant Squambô, mais si semblables de figure et de corps, que Zermah n’aurait pu reconnaître lequel des deux était Texar.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XIII.
 <lb/>Une vie double
 <lb/></head>
@@ -2612,7 +2612,7 @@
           <p>Inutile d’ajouter que Zermah avait tout compris, lorsqu’elle se trouva soudain en présence de ces hommes. La reconstitution du passé se fit instantanément dans son esprit. Stupéfaite en les regardant, elle restait immobile, comme enracinée au sol, tenant la petite fille dans ses bras. Heureusement, l’air plus abondant de cette chambre avait écarté de l’enfant tout danger de suffocation.</p>
           <p>Quant à Zermah, son apparition en présence des deux frères, ce secret qu’elle venait de surprendre, c’était pour elle un arrêt de mort.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XIV.
 <lb/>Zermah à l’œuvre
 <lb/></head>
@@ -2697,7 +2697,7 @@
           <p>Zermah n’eut qu’à se glisser entre les roseaux sur un espace de cinq ou six yards. Arrivée en cet endroit, elle s’arrêta…</p>
           <p>La barge était sur l’autre rive.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XV.
 <lb/>Les deux frères
 <lb/></head>
@@ -2798,7 +2798,7 @@
           <p>Une détonation retentit. La main dans la main, tous deux tombèrent.</p>
           <p>Ainsi finirent ces hommes, chargés de tous ces crimes qu’une extraordinaire ressemblance leur avait permis de commettre impunément depuis tant d’années. Le seul sentiment humain qu’ils eussent jamais éprouvé, cette farouche amitié de frère à frère qu’ils ressentaient l’un pour l’autre, les avait suivis jusque dans la mort.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>XVI.
 <lb/>Conclusion
 <lb/></head>

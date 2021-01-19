@@ -39,8 +39,8 @@
     <body>
       <div>
         <head>PREMIÈRE PARTIE.</head>
-        <div>
-          <head>I.
+        <div type="chapter">
+          <head>I.1.
 <lb/>
 <lb/>Le pigeon voyageur.</head>
           <p>Trieste, la capitale de l’Illyrie, se divise en deux villes très dissemblables : une ville neuve et riche, Theresienstadt, correctement bâtie au bord de cette baie sur laquelle l’homme a conquis son sous-sol ; une ville vieille et pauvre irrégulièrement construite, resserrée entre le Corso, qui la sépare de la première, et les pentes de la colline du Karst, dont le sommet est couronné par une citadelle d’aspect pittoresque.</p>
@@ -212,8 +212,8 @@
           <p>– Ainsi, cet argent va nous servir à quitter Trieste ?…</p>
           <p>– Non ! à y rester ! »</p>
         </div>
-        <div>
-          <head>II.
+        <div type="chapter">
+          <head>I.2.
 <lb/>
 <lb/>Le comte Mathias Sandorf.</head>
           <p>Les Hongrois, ce sont ces Magyars qui vinrent habiter le pays vers le neuvième siècle de l’ère chrétienne. Ils forment actuellement le tiers de la population totale de la Hongrie, – plus de cinq millions d’âmes. Qu’ils soient d’origine espagnole, égyptienne ou tartare, qu’ils descendent des Huns d’Attila ou des Finnois du Nord, – la question est controversée, – peu importe ! Ce qu’il faut surtout observer, c’est que ce ne sont point des Slaves, ce ne sont point des Allemands, et, vraisemblablement, ils répugneraient à le devenir.</p>
@@ -279,8 +279,8 @@
           <p>Vers les huit heures, lorsque le comte Sandorf et Étienne Bathory sortirent, l’un pour regagner sa demeure de la Corsia Stadion, l’autre pour retourner à l’hôtel Delorme, ils crurent remarquer que deux hommes les épiaient dans l’ombre, les suivaient à quelque distance et manœuvraient de manière à n’être point vus.</p>
           <p>Mathias Sandorf et son compagnon, voulant savoir à quoi s’en tenir, n’hésitèrent pas à marcher sur ces personnages à bon droit suspects ; mais ceux-ci les aperçurent et disparurent au coin de l’église Sant’Antonio, à l’extrémité du grand canal, avant qu’il eût été possible de les rejoindre.</p>
         </div>
-        <div>
-          <head>III.
+        <div type="chapter">
+          <head>I.3.
 <lb/>
 <lb/>La maison Toronthal.</head>
           <p>À Trieste, la « société » est presque nulle. Entre races différentes comme entre castes diverses, on se voit peu. Les fonctionnaires autrichiens ont la prétention d’occuper le premier rang, à quelque degré de la hiérarchie administrative qu’ils appartiennent. Ce sont, en général, des hommes distingués, instruits, bienveillants ; mais leur traitement est maigre, inférieur à leur situation, et ils ne peuvent lutter avec les négociants ou gens de finance. Ceux-ci, puisque les réceptions sont rares dans les familles riches, et que les réunions officielles font presque toujours défaut, sont donc obligés de se rejeter sur le luxe extérieur, – dans les rues de la ville, par la somptuosité de leurs équipages, – au théâtre, par l’opulence des toilettes et la profusion des diamants que leurs femmes exhibent dans les loges du Teatro Communale ou de l’Armonia.</p>
@@ -447,8 +447,8 @@
           <p>« Avant deux jours, il faut que je sois introduit dans la maison du comte Zathmar en qualité de comptable.</p>
           <p>– Il le faut en effet ! » répondit Silas Toronthal.</p>
         </div>
-        <div>
-          <head>IV.
+        <div type="chapter">
+          <head>I.4.
 <lb/>
 <lb/>Le billet chiffré.</head>
           <p>Deux jours après, Sarcany était installé dans la maison de Ladislas Zathmar. Il avait été présenté par Silas Toronthal, et, sur sa présentation, accepté par le comte Sandorf. Ainsi donc, complicité bien établie du banquier et de son agent dans les machinations ourdies par eux. But : la découverte d’un secret qui pouvait coûter la vie aux chefs de la conspiration. Résultat : comme prix de leur délation, une fortune tombant, pour une part, dans la poche d’un aventurier, prêt à tout pour la remplir, et pour l’autre, dans la caisse d’un banquier, arrivé au point de ne pouvoir faire honneur à ses engagements.</p>
@@ -662,8 +662,8 @@
           <p>Mais alors l’œuvre de délation était accomplie.</p>
           <p>Ce soir-là, vers huit heures, la police de Trieste envahit subitement la maison de Ladislas Zathmar. Toute résistance eût été impossible. Aussi, le comte Sandorf, le comte Zathmar, le professeur Bathory, Sarcany lui-même, qui ne protesta pas, d’ailleurs, et Borik, furent-ils arrêtés, sans que personne eût connaissance de leur arrestation.</p>
         </div>
-        <div>
-          <head>V.
+        <div type="chapter">
+          <head>I.5.
 <lb/>
 <lb/>Avant, pendant et après le jugement.</head>
           <p>L’Istrie, que les traités de 1815 ont fait entrer dans le royaume austro-hongrois, est une presqu’île triangulaire, dont l’isthme forme la base sur la plus grande largeur du triangle. Cette péninsule s’étend depuis le golfe de Trieste jusqu’au golfe de Quarnero, le long desquels se creusent des ports assez nombreux. Entre autres, presque à sa pointe sud, s’ouvre celui de Pola, dont le gouvernement s’occupait alors de faire un arsenal maritime de premier ordre.</p>
@@ -797,8 +797,8 @@
           <p>– Se venger ? Non !… Faire justice ! »</p>
           <p>Tout le comte Sandorf était dans ces mots.</p>
         </div>
-        <div>
-          <head>VI.
+        <div type="chapter">
+          <head>I.6.
 <lb/>
 <lb/>Le donjon de Pisino.</head>
           <p>La forteresse de Pisino est un des plus curieux spécimens de ces formidables bâtisses, qui furent élevées au moyen âge. Elle a très bon air avec son aspect féodal. Il ne manque que des chevaliers à ses larges salles voûtées, des châtelaines, vêtues de longues robes ramagées et coiffées de bonnets pointus, à ses fenêtres en ogive, des archers ou des arbalétriers aux mâchicoulis de ses galeries crénelées, aux embrasures de ses mangonneaux, aux herses de ses ponts-levis. L’œuvre de pierre est encore intacte ; mais le gouverneur avec son uniforme autrichien, les soldats dans leur tenue moderne, les gardiens et porte-clefs, qui n’ont plus rien du costume mi-partie jaune et rouge du vieux temps, mettent une note fausse au milieu de ces restes magnifiques d’une autre époque.</p>
@@ -914,8 +914,8 @@
           <p>Mathias Sandorf le vit passer près de lui, presque à le toucher, les bras étendus.</p>
           <p>À son tour, il dût lâcher le câble de fer qui lui brûlait les mains, et il tomba de plus de quarante pieds de hauteur dans le torrent de la Foïba, au fond de ce gouffre inconnu du Buco.</p>
         </div>
-        <div>
-          <head>VII.
+        <div type="chapter">
+          <head>I.7.
 <lb/>
 <lb/>Le torrent de la Foïba.</head>
           <p>Il était environ onze heures du soir. Les nuages orageux commençaient à se résoudre en de violentes averses. À la pluie se mêlaient d’énormes grêlons, qui mitraillaient les eaux de la Foïba et crépitaient sur les roches voisines. Les coups de feu, partis des embrasures du donjon, avaient cessé. À quoi bon user tant de balles contre les fugitifs ! La Foïba ne pouvait rendre que des cadavres, si même elle en rendait !</p>
@@ -1075,8 +1075,8 @@
           <p>– Je vous ai dit d’entrer, entrez donc ! » répondit le pêcheur.</p>
           <p>Et Andréa Ferrato referma la porte, au moment où l’escouade de police allait passer devant sa maison.</p>
         </div>
-        <div>
-          <head>VIII.
+        <div type="chapter">
+          <head>I.8.
 <lb/>
 <lb/>La maison du pêcheur Ferrato.</head>
           <p>Andréa Ferrato était Corse, originaire de Santa Manza, petit port de l’arrondissement de Sartène, situé derrière un retour de la pointe méridionale de l’île. Ce port, celui de Bastia et celui de Porto Vecchio sont les seuls qui s’ouvrent sur cette côte orientale, si capricieusement découpée, il y a quelques mille ans, maintenant uniformisée par le rongement continu des torrents, qui ont peu à peu détruit ses caps, comblé ses golfes, effacé ses anses, dévoré ses criques.</p>
@@ -1240,8 +1240,8 @@
           <p>Il était à peine sorti que la porte de la chambre voisine, occupée par les fugitifs, s’ouvrait. Le comte Sandorf, qui n’avait rien perdu de cette conversation, parut sur le seuil, et, s’avançant vers Andréa Ferrato, il lui dit à voix basse :</p>
           <p>« Cet homme est celui qui nous a dénoncés au brigadier de gendarmerie. Il nous connaît. Il nous a vus, quand nous avons débarqué sur le canal de Lème. Il nous a suivis jusqu’à Rovigno. Il sait évidemment que vous nous avez donné refuge dans votre maison. Donc, laissez-nous fuir à l’instant, ou nous sommes perdus… et vous aussi ! »</p>
         </div>
-        <div>
-          <head>IX.
+        <div type="chapter">
+          <head>I.9.
 <lb/>
 <lb/>Derniers efforts dans une dernière lutte.</head>
           <p>Andréa Ferrato était resté silencieux. Il n’avait rien trouvé à répondre au comte Sandorf. Son sang de Corse bouillonnait en lui. Il avait oublié les deux fugitifs pour lesquels il avait tant risqué jusqu’alors. Il ne pensait plus qu’à l’Espagnol, il ne voyait plus que Carpena !</p>
@@ -1304,8 +1304,8 @@
       </div>
       <div>
         <head>DEUXIÈME PARTIE.</head>
-        <div>
-          <head>I.
+        <div type="chapter">
+          <head>II.1.
 <lb/>
 <lb/>Pescade et Matifou.</head>
           <p>Quinze ans après les derniers événements qui terminent le prologue de cette histoire, le 24 mai 1882, c’était jour de fête à Raguse, l’une des principales villes des provinces dalmates.</p>
@@ -1405,8 +1405,8 @@
           <p>– Parle donc, mon Cap, et ne crains pas que l’on t’entende ! Évanoui, le public, évanoui ! »</p>
           <p>Cap Matifou s’assit sur son escabeau, et, de son vigoureux bras, mais doucement, comme s’il eût eu peur de le casser, il attira son brave petit compagnon près de lui.</p>
         </div>
-        <div>
-          <head>II.
+        <div type="chapter">
+          <head>II.2.
 <lb/>
 <lb/>Le lancement du trabacolo.</head>
           <p>« Ainsi, ça ne va pas ? demanda Cap Matifou.</p>
@@ -1542,8 +1542,8 @@
           <p>– Le docteur Antékirtt », répondit l’étranger. Puis, tous deux, après un salut, se séparèrent, pendant qu’on entendait les hurrahs et les applaudissements retentir dans l’arène des acrobates français.</p>
           <p>Et, ce soir-là, non seulement Cap Matifou mangea tout son content, c’est-à-dire comme quatre, mais il en resta pour un. Et ce fut assez pour le souper de son brave petit compagnon, Pointe Pescade.</p>
         </div>
-        <div>
-          <head>III.
+        <div type="chapter">
+          <head>II.3.
 <lb/>
 <lb/>Le docteur Antékirtt.</head>
           <p>Il est des gens qui donnent bien de l’occupation à la Renommée, cette femme-orchestre aux cent bouches, dont les trompettes portent leur nom aux quatre points cardinaux du monde.</p>
@@ -1695,8 +1695,8 @@
           <p>Cap Matifou ne put répondre que par un hochement de tête, sa bouche étant alors encombrée d’un énorme morceau de jambon grillé, qui disparut avec deux œufs frits dans les profondeurs de son estomac.</p>
           <p>« Rien que pour te voir manger, mon Cap, dit Pointe Pescade, quelle recette on ferait ! »</p>
         </div>
-        <div>
-          <head>IV.
+        <div type="chapter">
+          <head>II.4.
 <lb/>
 <lb/>La veuve d’Étienne Bathory.</head>
           <p>L’arrivée du docteur Antékirtt avait fait grand bruit, non seulement à Raguse, mais aussi dans toute la province dalmate. Les journaux, après avoir annoncé l’arrivée de la goélette au port de Gravosa, s’étaient jetés sur cette proie, qui promettait une série de chroniques affriolantes. Le propriétaire de la <hi rend="i">Savarèna</hi> ne pouvait donc échapper aux honneurs et en même temps aux inconvénients de la célébrité. Sa personnalité fut à l’ordre du jour. La légende s’en empara. On ignorait qui il était, d’où il venait, où il allait. Cela ne pouvait que piquer davantage la curiosité publique. Et, naturellement, quand on ne sait rien, le champ est plus vaste, l’imagination en profite, et ce fut à qui paraîtrait le mieux informé.</p>
@@ -1862,8 +1862,8 @@
           <p>Quoi qu’il en soit, le lendemain, les journaux annonçaient qu’un don anonyme de cent mille florins venait d’être fait aux hospices de la ville.</p>
           <p>C’était l’aumône du docteur Antékirtt, mais n’était-ce pas aussi l’aumône de la veuve, qui l’avait refusée pour son fils et pour elle ?</p>
         </div>
-        <div>
-          <head>V.
+        <div type="chapter">
+          <head>II.5.
 <lb/>
 <lb/>Divers incidents.</head>
           <p>Cependant le docteur ne devait pas se hâter de quitter Gravosa, ainsi que pouvait le croire Mme Bathory. Après avoir vainement tenté de venir en aide à la mère, il s’était promis de venir en aide au fils. Si, jusqu’alors, Pierre Bathory n’avait encore pu trouver la situation à laquelle devaient le conduire ses brillantes études, il ne refuserait sans doute pas les offres que voulait lui faire le docteur. Lui créer une position digne de ses talents, digne du nom qu’il portait, ce ne serait plus une aumône, cela ! Ce ne serait que la juste récompense due à ce jeune homme !</p>
@@ -2061,8 +2061,8 @@
           <p>L’adresse de cette dépêche était ainsi libellée :</p>
           <p>« Sarcany, bureau restant, Syracuse, Sicile. »</p>
         </div>
-        <div>
-          <head>VI.
+        <div type="chapter">
+          <head>II.6.
 <lb/>
 <lb/>Les bouches de Cattaro.</head>
           <p>Ainsi, la fatalité, qui joue un rôle prédominant dans les événements de ce monde, avait réuni en cette même ville de Raguse la famille Bathory et la famille Toronthal. Non seulement elle les avait réunies, mais, rapprochées l’une de l’autre, elles habitaient ce même quartier du Stradone. Puis, Sava Toronthal et Pierre Bathory s’étaient vus, rencontrés, aimés, – Pierre, le fils de l’homme qu’une délation avait envoyé à la mort, Sava, la fille de l’homme qui avait été le délateur !</p>
@@ -2197,8 +2197,8 @@
           <p>Le lendemain, 10 juin, à Raguse, les portes du grand salon de l’hôtel du Stradone s’ouvraient vers huit heures et demie du soir, et un domestique annonçait à haute voix :</p>
           <p>« Monsieur Sarcany. »</p>
         </div>
-        <div>
-          <head>VII.
+        <div type="chapter">
+          <head>II.7.
 <lb/>
 <lb/>Complications.</head>
           <p>Il y avait quatorze ans déjà, Silas Toronthal avait quitté Trieste pour venir s’établir à Raguse, en ce magnifique hôtel du Stradone. Dalmate d’origine, rien de plus naturel qu’il eût songé à retourner dans son pays natal, après s’être retiré des affaires.</p>
@@ -2291,8 +2291,8 @@
           <p>À ce moment, le docteur ferma les yeux du jeune mort ; puis, il se releva, quitta la chambre, et on aurait pu l’entendre murmurer cette sentence, empruntée aux légendes indiennes :</p>
           <p>« La mort ne détruit pas, elle ne rend qu’invisible ! »</p>
         </div>
-        <div>
-          <head>VIII.
+        <div type="chapter">
+          <head>II.8.
 <lb/>
 <lb/>Une rencontre dans le Stradone.</head>
           <p>Cette mort avait fait grand bruit par la ville ; mais personne ne put soupçonner la véritable cause du suicide de Pierre Bathory, ni surtout que Sarcany et Silas Toronthal eussent une part dans ce malheur.</p>
@@ -2436,8 +2436,8 @@
       </div>
       <div>
         <head>TROISIÈME PARTIE.</head>
-        <div>
-          <head>I.
+        <div type="chapter">
+          <head>III.1.
 <lb/>
 <lb/>Méditerranée.</head>
           <p>« La Méditerranée est belle, surtout par deux caractères : son cadre si harmonique, et la vivacité, la transparence de l’air et de la lumière… Telle qu’elle est, elle trempe admirablement l’homme. Elle lui donne la force sèche, la plus résistante ; elle fait les plus solides races. »</p>
@@ -2509,8 +2509,8 @@
           <p>Le docteur le regarda attentivement, non plus en ami, mais en médecin qui va décider s’il portera le fer ou le feu dans les chairs vives du malade. Puis, s’asseyant près de lui :</p>
           <p>« Tu veux connaître mon histoire, Pierre ? Écoute-moi donc ! »</p>
         </div>
-        <div>
-          <head>II.
+        <div type="chapter">
+          <head>III.2.
 <lb/>
 <lb/>Le passé et le présent.</head>
           <p>« Et d’abord l’histoire du docteur Antékirtt, qui commence au moment où le comte Mathias Sandorf vient de se précipiter dans les eaux de l’Adriatique.</p>
@@ -2624,8 +2624,8 @@
           <p>– Oui !… père !… » répondit Pierre Bathory.</p>
           <p>Et, on réalité, ce fut bien le sentiment paternel, uni au sentiment filial, qui se jeta dans les bras l’un de l’autre.</p>
         </div>
-        <div>
-          <head>III.
+        <div type="chapter">
+          <head>III.3.
 <lb/>
 <lb/>Ce qui se passait à Raguse.</head>
           <p>Tandis que ces faits s’accomplissaient à Antékirtta, voici quels sont les derniers événements dont Raguse fut le théâtre.</p>
@@ -2766,8 +2766,8 @@
           <p>« Demain, Borik, lui dit-elle, demain, nous irons ensemble au mariage de Sava et de Pierre ! »</p>
           <p>Mme Bathory avait perdu la raison.</p>
         </div>
-        <div>
-          <head>IV.
+        <div type="chapter">
+          <head>III.4.
 <lb/>
 <lb/>Sur les parages de Malte.</head>
           <p>Pendant que s’accomplissaient ces derniers événements qui le touchaient de si près, Pierre Bathory voyait son état s’améliorer de jour en jour. Bientôt il n’y eut plus à s’inquiéter de sa blessure, dont la guérison était presque complète.</p>
@@ -2863,8 +2863,8 @@
           <p>– Et vous vous nommez ?…</p>
           <p>– Luigi Ferrato ! »</p>
         </div>
-        <div>
-          <head>V.
+        <div type="chapter">
+          <head>III.5.
 <lb/>
 <lb/>Malte.</head>
           <p>Ainsi, c’était le fils du pêcheur de Rovigno, qui venait de dire son nom au docteur Antékirtt ! Par un hasard providentiel, c’était Luigi Ferrato, dont le courage et l’habileté venaient de sauver le steam-yacht, ses passagers, tout son équipage, d’une perte certaine !</p>
@@ -3041,8 +3041,8 @@
           <p>« Qu’il ne lui manque pas un cheveu au retour, non ! pas un cheveu, ou bien… »</p>
           <p>Ces derniers mots en disaient plus que tout ce qu’aurait pu dire Cap Matifou, s’il avait eu le talent de faire de longues phrases.</p>
         </div>
-        <div>
-          <head>VI.
+        <div type="chapter">
+          <head>III.6.
 <lb/>
 <lb/>Aux environs de Catane.</head>
           <p>Si l’homme eût été chargé de fabriquer le globe terrestre, il l’aurait sans doute monté sur un tour, il l’aurait fait mécaniquement, comme une bille de billard, sans lui laisser ni une aspérité ni une ride. Mais l’œuvre a été celle du Créateur. Aussi, sur la côte de Sicile, entre Aci-Reale et Catane, les caps, les récifs, les grottes, les roches, les montagnes ne manquent-ils pas à cet incomparable littoral.</p>
@@ -3196,8 +3196,8 @@
           <p>« Oui, c’est entendu ! Nous partirons demain et nous irons coucher à la Casa Inglese. »</p>
           <p>Sans doute, l’espion savait ce qu’il voulait savoir, car, un instant après, il avait disparu.</p>
         </div>
-        <div>
-          <head>VII.
+        <div type="chapter">
+          <head>III.7.
 <lb/>
 <lb/>La Casa Inglese.</head>
           <p>Le lendemain, vers une heure de l’après-midi, le docteur et Pierre Bathory se préparèrent à quitter le bord.</p>
@@ -3347,8 +3347,8 @@
       </div>
       <div>
         <head>QUATRIÈME PARTIE.</head>
-        <div>
-          <head>I.
+        <div type="chapter">
+          <head>IV.1.
 <lb/>
 <lb/>Le préside de Ceuta.</head>
           <p>Le 21 septembre, trois semaines après les derniers événements dont la province de Catane venait d’être le théâtre, un rapide steam-yacht – c’était le <hi rend="i">Ferrato –</hi>, naviguait par une jolie brise de nord-est entre la pointe d’Europe, qui est anglaise sur la terre d’Espagne, et la pointe de l’Almina, qui est espagnole sur la terre marocaine. Les quatre lieues de distance que l’on compte d’une pointe à l’autre, s’il faut en croire la mythologie, ce serait Hercule, un prédécesseur de M. de Lesseps, qui les aurait ouvertes au courant de l’Atlantique, en brisant d’un coup de massue cette portion du périple méditerranéen.</p>
@@ -3466,8 +3466,8 @@
           <p>« Oui !… Dimanche soir, avec la permission du gouverneur de Ceuta, Carpena sera à bord du <hi rend="i">Ferrato ! »</hi></p>
           <p>À huit heures, le steam-yacht quitta son mouillage, prit la direction du nord, et le mont Hacho, qui domine cette portion de la côte marocaine, eut bientôt disparu dans les bruines de la nuit.</p>
         </div>
-        <div>
-          <head>II.
+        <div type="chapter">
+          <head>IV.2.
 <lb/>
 <lb/>Une expérience du docteur.</head>
           <p>Le passager, auquel on n’a rien dit de la destination du navire qui le porte, ne peut deviner sur quel point du globe il met le pied, lorsqu’il débarque à Gibraltar.</p>
@@ -3669,8 +3669,8 @@
           <p>– Bien ! répondit le docteur. J’ai voulu que Carpena tombât du haut de ces roches, et il est tombé !… J’ai voulu qu’il dormît, et il dort !… Quand je voudrai qu’il se réveille, il se réveillera !… Maintenant, Luigi, fais lever l’ancre, et en route ! »</p>
           <p>La chaudière était en pression, l’appareillage se fit rapidement, et quelques minutes après, le <hi rend="i">Ferrato</hi>, après avoir gagné la pleine mer, mettait le cap sur Antékirtta.</p>
         </div>
-        <div>
-          <head>III.
+        <div type="chapter">
+          <head>IV.3.
 <lb/>
 <lb/>Dix-sept fois.</head>
           <p>« Dix-sept fois ?…</p>
@@ -3765,8 +3765,8 @@
           <p>– Pour ?</p>
           <p>– Pour Tétuan, où nous avons une dernière partie à jouer, et la belle, celle-là, la belle ! »</p>
         </div>
-        <div>
-          <head>IV.
+        <div type="chapter">
+          <head>IV.4.
 <lb/>
 <lb/>Le dernier enjeu.</head>
           <p>Les salons du Cercle des Étrangers – vulgairement le Casino – étaient ouverts depuis onze heures. Bien que le nombre des joueurs fût encore restreint, quelques tables de roulette commençaient à fonctionner.</p>
@@ -3918,8 +3918,8 @@
           <p>Pointe Pescade devait être moins longtemps à revenir qu’il ne le supposait. En moins de deux heures, il eut retrouvé l’<hi rend="i">Electric</hi>, mouillé dans une de ces anses désertes, que les brisants défendent contre la houle du large. Une heure après, la rapide embarcation arrivait devant l’étroite crique, où Cap Matifou, vu de la mer, apparaissait comme le mythologique Protée, paissant les troupeaux de Neptune.</p>
           <p>Un instant après, Silas Toronthal et Cap Matifou étaient à bord ; puis, sans même avoir été aperçu des douaniers ni des pêcheurs de la côte, l’<hi rend="i">Electric</hi>, lancé à toute vitesse, reprenait la direction d’Antékirtta.</p>
         </div>
-        <div>
-          <head>V.
+        <div type="chapter">
+          <head>IV.5.
 <lb/>
 <lb/>Aux bons soins de Dieu.</head>
           <p>Et maintenant, qu’il soit permis de prendre une vue d’ensemble de la colonie d’Antékirtta.</p>
@@ -4018,8 +4018,8 @@
           <p>« Lis », dit le docteur.</p>
           <p>Et il lui tendit la lettre de Borik.</p>
         </div>
-        <div>
-          <head>VI.
+        <div type="chapter">
+          <head>IV.6.
 <lb/>
 <lb/>L’apparition.</head>
           <p>Le steam-yacht appareilla un peu avant midi sous le commandement du capitaine Ködrik et du second Luigi Ferrato. Il n’avait pour passagers que le docteur, Pierre et Maria, chargée de donner ses soins à Mme Bathory pour le cas où il serait impossible de la transporter immédiatement de Carthage à Antékirtta.</p>
@@ -4128,8 +4128,8 @@
       </div>
       <div>
         <head>CINQUIÈME PARTIE.</head>
-        <div>
-          <head>I.
+        <div type="chapter">
+          <head>V.1.
 <lb/>
 <lb/>Poignée de main de Cap Matifou.</head>
           <p>Si le comte Mathias on le sait, avait voulu rester le docteur Antékirtt, sinon pour Pierre, du moins pour tout le personnel de la colonie, c’est qu’il entrait dans ses desseins de demeurer tel jusqu’à l’entier accomplissement de son œuvre. Aussi, lorsque le nom de sa fille fut tout à coup jeté par Mme Bathory, eut-il assez d’empire sur lui-même pour dominer son émotion. Cependant son cœur avait un instant cessé de battre, et, moins maître de lui, il fût tombé sur le seuil de la chapelle, comme s’il eût été frappé d’un coup de foudre.</p>
@@ -4246,8 +4246,8 @@
           <p>« À Tripoli ! » dit le docteur.</p>
           <p>Le soir même, tous avaient repris la mer. Si Sarcany ne pouvait tarder à atteindre la capitale de la Régence, du moins espéraient-ils n’y arriver que peu de jours après lui.</p>
         </div>
-        <div>
-          <head>II.
+        <div type="chapter">
+          <head>V.2.
 <lb/>
 <lb/>La fête des Cigognes.</head>
           <p>Le 23 novembre, la plaine de Soung-Ettelâtè, qui s’étend en dehors des murailles de Tripoli, offrait un curieux aspect. Si cette plaine est aride ou fertile, qui l’eût pu dire ce jour-là ? À sa surface, des tentes multicolores, empanachées de houppes et pavoisées de pavillons aux criardes couleurs ; des gourbis d’aspect misérable, dont les toiles passées et rapiécées ne devaient que très insuffisamment protéger leurs hôtes contre l’aigre bise du « gibly », vent sec soufflant du sud ; çà et là, des groupes de chevaux, garnis du riche harnachement oriental, des méharis allongeant sur le sable leur tête plate, semblable à une outre à moitié vide, de petits ânes gros comme de grands chiens, de grands chiens gros comme de petits ânes, des mules, portant l’énorme selle arabe dont le troussequin et le pommeau s’arrondissent comme les bosses du chameau ; puis, des cavaliers, le fusil en travers du dos, les genoux à la hauteur de la poitrine, les pieds engagés dans des étriers en forme de babouches, le double sabre à la ceinture, galopant au milieu d’une foule d’hommes, de femmes, d’enfants, sans s’inquiéter de ce qu’ils pouvaient écraser à leur passage ; enfin, des indigènes, presque uniformément vêtus du « haouly » barbaresque, sous lequel on ne saurait distinguer une femme d’un homme, si les hommes ne rattachaient pas les plis de cette couverture à leur poitrine au moyen d’un clou de cuivre, tandis que les femmes en font retomber le pan supérieur sur leur figure, de façon à n’y voir que de l’œil gauche, – costume qui varie suivant les classes, – pour les pauvres le simple manteau de laine sous lequel ils sont nus, pour les gens aisés la veste et la culotte large des Arabes, pour les riches de splendides ajustements, quadrillés de couleurs blanches et bleues, sur un second haouly de gaze, où le luisant de la soie se mêle au mat de la laine par-dessus la chemise pailletée d’or.</p>
@@ -4328,8 +4328,8 @@
           <p>Toutefois, l’émerveillement des spectateurs fut porté au comble, et leur enthousiasme s’acheva dans un immense hurrah qui dut s’entendre au-delà des limites de l’oasis. Aucun d’eux n’avait mis en doute que l’agile acrobate ne fût parti à travers l’espace pour le royaume des cigognes.</p>
           <p>Ce qui charme le plus les multitudes, n’est-ce pas ce qu’elles ne peuvent s’expliquer ?</p>
         </div>
-        <div>
-          <head>III.
+        <div type="chapter">
+          <head>V.3.
 <lb/>
 <lb/>La maison de Sîdi Hazam.</head>
           <p>Il était à peu près neuf heures du soir. Mousqueterie, musique, cris, tout avait cessé subitement. La foule commença à se dissiper peu à peu, les uns rentrant à Tripoli, les autres regagnant l’oasis de Menchié et les villages voisins de la province. Avant une heure, la plaine de Soung-Ettelâtè serait devenue silencieuse et vide. Tentes repliées, campements levés, nègres et berbères avaient déjà repris la route des diverses contrées de la Tripolitaine, tandis que les Senoûsistes se dirigeaient vers la Cyrénaïque et plus principalement sur le vilàyet de Ben-Ghâzi, afin d’y concentrer toutes les forces du calife.</p>
@@ -4445,8 +4445,8 @@
           <p>Quelques moments après, Sarcany, suivi d’une vingtaine d’hommes armés, se lançait sur les pas des fugitifs.</p>
           <p>Lorsque cette bande arriva à la petite anse où attendait l’<hi rend="i">Electric</hi>, le docteur était déjà à bord avec ses compagnons, et, en quelques tours d’hélice, la rapide embarcation fut hors de portée. Sava, restée seule avec le docteur et Pierre Bathory, venait de reprendre connaissance. Elle apprenait qu’elle était la fille du comte Mathias Sandorf !… Elle était dans les bras de son père !</p>
         </div>
-        <div>
-          <head>IV.
+        <div type="chapter">
+          <head>V.4.
 <lb/>
 <lb/>Antékirtta.</head>
           <p>Quinze heures après avoir quitté le littoral de la Tripolitaine, l’<hi rend="i">Electric 2</hi> était signalé par les vigies d’Antékirtta, et, dans l’après-midi, il venait mouiller au fond du port.</p>
@@ -4551,8 +4551,8 @@
           <p>La victoire était complète. Des deux mille assaillants, qui s’étaient jetés sur l’île, à peine quelques centaines purent-ils échapper au désastre et regagner les rivages de la Cyrénaïque.</p>
           <p>De longtemps, on pouvait l’espérer, Antékirtta ne serait plus menacée d’une descente de ces pirates.</p>
         </div>
-        <div>
-          <head>V.
+        <div type="chapter">
+          <head>V.5.
 <lb/>
 <lb/>Justice.</head>
           <p>Le comte Mathias Sandorf avait payé à Maria et à Luigi Ferrato sa dette de reconnaissance. Mme Bathory, Pierre, Sava, étaient enfin réunis. Après avoir récompensé, il ne restait plus qu’à punir.</p>
