@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[Seconde patrie]</title>
-        <author>Verne, Jules(1828-1905)</author>
+        <title>Seconde patrie</title>
+        <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt>
         <respStmt>
@@ -25,7 +25,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="">[1900]</date>
+        <date when="1900"/>
       </creation>
       <langUsage>
         <language ident="fr"/>

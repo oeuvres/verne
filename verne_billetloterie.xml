@@ -8,10 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Un billet de loterie</title>
-        <author>  Verne, Jules (1828-1905)
-<lb/>date:1886
-<lb/>source: http://www.ebooksgratuits.com/newsendbook.php?id=765&amp;format=so
-<lb/>copyeditor: Danel Isabelle </author>
+        <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt/>
       <publicationStmt>
@@ -20,7 +17,9 @@
       <sourceDesc/>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1886"/>
+      </creation>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
