@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-07T11:43:53+01:00-->
-<!-- légères erreurs d'inattention -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -40,10 +38,7 @@
       <div>
         <head>Première partie.</head>
         <div type="chapter">
-          <head>I.
-<lb/>
-<lb/>Toute une ville en joie.
-<lb/></head>
+          <head>I. Toute une ville en joie</head>
           <p>Un étranger, arrivé dans la principale cité de l’Illinois le matin du 3 avril 1897, aurait pu, à bon droit, se considérer comme le favori du Dieu des voyageurs. Ce jour-là, son carnet se fût enrichi de notes curieuses, propres à fournir la matière d’articles sensationnels. Et, assurément, s’il avait prolongé de quelques semaines d’abord, de quelques mois ensuite, son séjour à Chicago, il lui eût été donné de prendre sa part des émotions, des palpitations, des alternatives d’espoir et de désespoir, des enfièvrements, des ahurissements même de cette grande cité, qui n’avait plus l’entière possession d’elle-même.</p>
           <p>Dès huit heures, une foule énorme, toujours croissante, se portait dans la direction du vingt-deuxième quartier. L’un des plus riches, il est compris entre North Avenue et Division Street suivant le sens des parallèles, et suivant le sens des méridiens, entre North Halsted Street et Lake Shore Drive que baignent les eaux du Michigan. On le sait, les villes modernes des États-Unis orientent leurs rues conformément aux latitudes et aux longitudes, en leur imposant la régularité des lignes d’un échiquier.</p>
           <p>« Eh donc ! disait un agent de la police municipale, de faction à l’angle de Beethoven Street et de North Wells Street, est-ce que tout le populaire va envahir ce quartier ?… »</p>
@@ -122,10 +117,7 @@
           <p>Ce parc n’était pas un parc… C’était Oakswoods Cemetery, le plus vaste des onze cimetières de Chicago… Et ce char était un char funéraire, qui transportait à sa dernière demeure les dépouilles mortelles de William J. Hypperbone, l’un des membres de l’<hi rend="i">Excentric Club</hi>.</p>
         </div>
         <div type="chapter">
-          <head>II.
-<lb/>
-<lb/>William J. Hypperbone.
-<lb/></head>
+          <head>II. William J. Hypperbone</head>
           <p>De ce que MM. James T. Davidson, Gordon S. Allen, Harry B. Andrews, John I. Dickinson, Georges B. Higginbotham, Thomas R. Carlisle, ont été cités parmi les honorables groupes des personnages qui marchaient immédiatement derrière le char, il ne faudrait pas en induire qu’ils fussent les membres les plus en vue de l’<hi rend="i">Excentric Club</hi>.</p>
           <p>De fait, à vrai dire, ce qu’il y avait seulement d’excentrique dans leur manière de vivre en ce bas monde, c’était d’appartenir au dit club de Mohawk Street. Peut-être ces considérables fils de Jonathan, enrichis dans les multiples et fructueuses affaires de terrains, de salaisons, de pétrole, de chemins de fer, de mines, d’élevage, d’abatage, avaient-ils eu l’intention « d’épater » leurs compatriotes des cinquante et un États de l’Union, le nouveau et l’ancien monde par des extravagances ultra-américaines. Mais leur existence publique ou privée, il faut en convenir, n’offrait rien qui fût de nature à les signaler à l’attention de l’univers. Ils étaient là une cinquantaine, « valant un gros chiffre d’impôt », payant une cotisation élevée, sans relations suivies avec la société chicagoise, très assidus à leurs salons de lecture et de jeu, y lisant nombre de journaux et de revues, y jouant plus ou moins gros jeu comme dans tous les cercles, et se disant parfois, à propos de ce qu’ils avaient fait dans le passé et de ce qu’ils faisaient dans le présent :</p>
           <p>« Décidément nous ne sommes pas du tout… mais pas du tout excentriques ! »</p>
@@ -222,10 +214,7 @@
           <p>Et, maintenant, il n’y avait plus qu’à pénétrer dans l’enceinte des morts, et à déposer au fond de son tombeau, pour y dormir de l’éternel sommeil, celui qui fut William J. Hypperbone du <hi rend="i">Club Excentriques</hi>.</p>
         </div>
         <div type="chapter">
-          <head>III.
-<lb/>
-<lb/>Oakswood.
-<lb/></head>
+          <head>III. Oakswoods</head>
           <p>Ce nom d’Oakswoods indique que l’emplacement occupé par le cimetière fut autrefois couvert d’une forêt de chênes, l’arbre par excellence de ces vastes solitudes de l’Illinois, jadis dénommées Prairie State à cause de l’exubérance de sa végétation.</p>
           <p>De tous les monuments funéraires qu’il contenait – plusieurs de haut prix – aucun ne pouvait être comparé à celui que William J. Hypperbone avait fait édifier quelques années avant pour son usage personnel.</p>
           <p>On le sait, les cimetières américains, comme les cimetières anglais, sont de véritables parcs. Rien n’y manque de ce qui peut enchanter le regard, ni pelouses, ni ombrages, ni eaux courantes. Il ne semble pas que l’âme puisse s’y attrister. Les oiseaux y gazouillent plus joyeusement qu’ailleurs, peut-être parce que leur sécurité est complète en ces champs consacrés au suprême repos.</p>
@@ -278,10 +267,7 @@
           <p>La foule s’écoula lentement par les diverses issues du cimetière, désireuse de repos à la fin d’une si fatigante journée. Pendant quelques instants, un tumultueux bruit de pas troubla les rues avoisinantes, et la tranquillité régna enfin dans ce lointain quartier d’Oakswoods.</p>
         </div>
         <div type="chapter">
-          <head>IV.
-<lb/>
-<lb/>Les « Six ».
-<lb/></head>
+          <head>IV. Les « Six »</head>
           <p>Le lendemain, Chicago vaquait à ses multiples occupations. Les divers quartiers avaient repris leur physionomie quotidienne. Si la population ne se déroulait plus, comme la veille, le long des avenues et des boulevards, sur le passage d’un convoi funèbre, elle ne s’en intéressait pas moins aux surprises que lui réservait sans doute le testament de William J. Hypperbone. Quelles clauses renfermait-il, quelles obligations, bizarres ou non, imposait-il aux « Six », et comment seraient-ils mis en possession de son héritage, en admettant que tout cela n’aboutît pas à quelque mystification d’outre-tombe, bien digne d’un membre de l’<hi rend="i">Excentric Club ?…</hi></p>
           <p>Eh bien, cette éventualité, personne n’eût voulu l’admettre. On se refusait à croire que miss Lissy Wag, MM. Urrican, Kymbale, Titbury, Crabbe et Réal dussent ne trouver dans cette affaire que beaucoup de déceptions avec beaucoup de ridicule.</p>
           <p>Assurément, il y aurait eu un moyen très simple de satisfaire la curiosité publique, d’une part, et de l’autre d’arracher les intéressés à cette incertitude qui menaçait de leur couper l’appétit et le sommeil. Il suffisait d’ouvrir le testament et d’en prendre connaissance. Mais défense formelle était faite de procéder avant le 15 courant, et maître Tornbrock n’eût jamais consenti à enfreindre les conditions imposées par le testateur. Le 15 avril, dans la salle du théâtre de l’Auditorium, en présence de la nombreuse assistance qu’elle pourrait contenir, il serait donné lecture du testament de William J. Hypperbone – le 15 avril, à midi, – pas un jour plus tôt, pas une minute plus tard.</p>
@@ -400,10 +386,7 @@
           <p>Ce matin-là, suivant la condition imposée par le testament, en présence de M. Georges B. Higginbotham, assisté de maître Tornbrock, Lissy Wag, Max Réal, Tom Crabbe, Hermann Titbury, Harris T. Kymbale et Hodge Urrican vinrent déposer leur carte sur le tombeau de William J. Hypperbone. Puis la pierre sépulcrale fut rabattue sur le cercueil. L’excentrique défunt n’aurait plus à recevoir aucune visite au cimetière d’Oakswoods.</p>
         </div>
         <div type="chapter">
-          <head>V.
-<lb/>
-<lb/>Le testament.
-<lb/></head>
+          <head>V. Le testament</head>
           <p>Ce jour-là, dès le lever de l’aube, le dix-neuvième quartier fut envahi par la foule. En vérité, l’empressement du public ne semblait pas devoir être moindre que le jour où l’interminable cortège conduisait William J. Hypperbone à sa dernière demeure.</p>
           <p>Les treize cents trains quotidiens de Chicago avaient versé dès la veille des milliers de voyageurs dans la ville. Le temps promettait d’être superbe. Une fraîche brise matinale avait nettoyé le ciel des vapeurs de la nuit. Le soleil se balançait sur le lointain horizon du lac Michigan, zébré de quelques rides à sa surface, et dont le léger ressac caressait le littoral.</p>
           <p>C’était par Michigan Avenue et Congress Street qu’arrivait le tumultueux populaire se dirigeant vers un énorme édifice, surmonté à l’un de ses angles d’une massive tour carrée, haute de trois cent dix pieds.</p>
@@ -489,10 +472,7 @@
           <p>Cela parut singulier. Que cachait cette clause du codicille ? Mais il n’y avait pas à la discuter plus que les autres, et la foule, vivement impressionnée, comme disent les chroniqueurs, quitta l’Auditorium.</p>
         </div>
         <div type="chapter">
-          <head>VI.
-<lb/>
-<lb/>La carte mise en circulation.
-<lb/></head>
+          <head>VI. La carte mise en circulation</head>
           <p>Ce jour-là, les journaux du soir, et le lendemain, ceux du matin, furent arrachés à double et triple prix des mains des crieurs et des étalages. Si huit mille spectateurs avaient pu entendre la lecture du testament, des Américains par centaines de mille à Chicago, et par millions dans les États-Unis, dévorés de curiosité, n’avaient pas eu cette heureuse chance.</p>
           <p>Toutefois, bien que les articles, les interviews, les reportages, fussent de nature à satisfaire les masses dans une grande mesure, le vœu général réclamait impérieusement la publication d’une pièce qui accompagnait l’acte testamentaire.</p>
           <p>C’était la carte du Noble Jeu des États-Unis, dressée par William J. Hypperbone, et qui présentait une disposition identique à celle du Noble Jeu de l’Oie. Comment l’honorable membre de l’<hi rend="i">Excentric Club</hi> avait-il rangé les cinquante États de l’Union ?… Quels étaient ceux qui donneraient lieu à des retards, à des arrêts momentanés ou prolongés, à des recommencements de partie, à des retours en arrière, avec paiement de primes simples, doubles ou triples ?…</p>
@@ -649,10 +629,7 @@
           <p>Ce chiffre était celui de la case assignée par le testateur à l’État du Kansas.</p>
         </div>
         <div type="chapter">
-          <head>VII.
-<lb/>
-<lb/>Le premier partant.
-<lb/></head>
+          <head>VII. Le premier partant</head>
           <p>Le lendemain, la grande gare de Chicago présentait une animation particulière. D’où provenait cette animation ?… Évidemment de la présence d’un voyageur, en costume de touriste, son attirail de peintre au dos, suivi d’un jeune nègre porteur d’une légère valise et d’un sac en bandoulière, qui se préparait à prendre le train de huit heures dix du matin.</p>
           <p>Ce ne sont pas les railroads qui manquent à la République fédérale. Ils desservent son territoire en toutes les directions. Aux États-Unis, la valeur des chemins de fer dépasse cinquante-cinq milliards de francs, et sept cent mille agents sont employés à leur exploitation. Rien qu’à Chicago, il se fait un mouvement de trois cent mille voyageurs par jour, sans compter les dix mille tonnes de journaux et de lettres que les wagons y transportent annuellement.</p>
           <p>Il résulte de là que n’importe où le caprice des dés devait les envoyer à travers l’Union, aucun des sept partenaires ne serait embarrassé ni retardé pour s’y rendre. Et encore convient-il d’ajouter à ces multiples voies ferrées, les steamers, les steamboats, les bateaux des lacs, des canaux, des rivières. En ce qui regarde Chicago, il est facile d’y aller et non moins facile d’en partir.</p>
@@ -789,10 +766,7 @@
           <p>Ce fut donc au milieu des hurrahs, mais à son grand ennui, que le jeune peintre revint à l’hôtel. C’était là que lui serait apportée, dès qu’elle arriverait, la dépêche indiquant le second coup de dés tiré pour son compte, et qui devait l’envoyer… où ?… Où le voudraient les caprices de l’impénétrable Destin !</p>
         </div>
         <div type="chapter">
-          <head>VIII.
-<lb/>
-<lb/>Tom Crabbe entraîné par John Milner.
-<lb/></head>
+          <head>VIII. Tom Crabbe entraîné par John Milner</head>
           <p>Onze par cinq et six, ce n’était pas, en somme, un coup à dédaigner, du moment qu’un joueur n’amène pas neuf par six et trois ou par cinq et quatre pour aller à la vingt-sixième ou à la cinquante-troisième case.</p>
           <p>Ce qu’il y avait à regretter, peut-être, c’était que l’État indiqué par ce numéro onze fût précisément très éloigné de l’Illinois, et nul doute que Tom Crabbe en eût éprouvé quelque dépit, – ou du moins son entraîneur, John Milner.</p>
           <p>Le sort les envoyait au Texas, le plus vaste des territoires de l’Union, à lui seul d’une superficie supérieure à celle de la France. Or, cet État, situé au sud-ouest de la Confédération, confine au Mexique, dont il n’a été séparé qu’en 1835, après la bataille gagnée par le général Houston contre le général Santa-Anna.</p>
@@ -888,10 +862,7 @@
           <p>Tom Crabbe était redevenu la prodigieuse machine humaine, devant laquelle Corbett, Fitzsimons et autres boxeurs non moins célèbres, avaient tant de fois mordu la poussière.</p>
         </div>
         <div type="chapter">
-          <head>IX.
-<lb/>
-<lb/>Un et un font deux.
-<lb/></head>
+          <head>IX. Un et un font deux</head>
           <p>Ce matin-là, un hôtel, – ou pour mieux dire une auberge, l’auberge de <hi rend="i">Sandy Bar</hi>, et non des plus qualifiées, – recevait deux voyageurs, arrivés par le premier train à Calais, simple bourgade de l’État du Maine.</p>
           <p>Ces deux voyageurs, – un homme et une femme, visiblement éprouvés par les fatigues d’un long et pénible itinéraire, – se firent inscrire sous le nom de M. et Mrs Field. Ce nom, avec ceux de Smith, de Johnson et quelques autres d’usage courant, sont des plus communs parmi les familles d’origine anglo-saxonne. Aussi faut-il être doué de qualités extraordinaires, avoir acquis une situation considérable dans la politique, les arts ou les armes, être un génie en un mot, pour attirer l’attention publique, lorsqu’on s’appelle de ce nom vulgaire. Donc, M. et Mrs Field, cela ne disait rien, n’indiquait point des personnages de marque, et l’aubergiste les inscrivit sur son livre sans en exiger davantage.</p>
           <p>À cette époque, du reste, dans tous les États-Unis, aucuns noms n’étaient plus répandus, plus répétés par des millions de bouches, que ceux des partenaires et celui du fantaisiste membre de l’<hi rend="i">Excentric Club</hi>. Or, pas un des « Sept » ne se nommait Field. Donc, à Calais, il n’y avait pas plus à s’occuper de ces Field-là que de n’importe quels voyageurs. D’ailleurs ceux-ci ne payaient pas de mine, et le tenancier de l’auberge se demanda peut-être s’ils payeraient d’autre façon, lorsque sonnerait l’heure de régler la note.</p>
@@ -992,10 +963,7 @@
           <p>On l’avouera, voilà qui était autrement grave pour M. Titbury que s’il eût été envoyé à la cinquante-deuxième case, État du Missouri, dans la prison de Saint-Louis. Là, du moins, il aurait encore eu la possibilité d’être délivré par un de ses partenaires, tandis que dans la prison de Calais, et de par la volonté du juge R. T. Ordak, il resterait enfermé jusqu’à l’expiration de sa peine.</p>
         </div>
         <div type="chapter">
-          <head>X.
-<lb/>
-<lb/>Un reporter en voyage.
-<lb/></head>
+          <head>X. Un reporter en voyage</head>
           <p>Oui, messieurs, oui ! je considère ce match Hypperbone comme l’une des plus étonnantes éventualités nationales dont se sera enrichie l’histoire de notre glorieux pays ! Après la guerre de l’Indépendance, la guerre de Sécession, la proclamation de la doctrine de Monroe, l’application du bill Mac Kinley, c’est le fait le plus marquant que l’imagination d’un membre de l’<hi rend="i">Excentric Club</hi> ait imposé à l’attention du monde ! »</p>
           <p>Ainsi parlait Harris T. Kymbale en s’adressant aux voyageurs du train qui venait de quitter ce jour-là, 7 mai, la cité chicagoise. Le reporter de la <hi rend="i">Tribune</hi>, débordant de joie et de confiance, allait ainsi, pérorant de l’avant à l’arrière du wagon par le couloir central, puis d’un wagon à l’autre par la passerelle jetée entre eux, puis de la tête à la queue du convoi lancé à toute vapeur, qui contournait alors la rive méridionale du lac Michigan.</p>
           <p>Harris T. Kymbale était parti seul. Après avoir remercié ceux de ses confrères qui désiraient l’accompagner, il n’avait point accepté leurs offres. Non, pas même un domestique, – seul, tout seul. Lui, on le voit, ne cherchait pas à passer incognito comme Max Réal ou Hermann Titbury. Il mettait les gens dans la confidence et eût volontiers écrit sur son chapeau : <hi rend="i">Quatrième partenaire du match Hypperbone</hi> ! Un nombreux cortège l’avait conduit à la gare, honoré de ses hurrahs, accablé de ses souhaits de bon voyage. Et il était si bien entraîné, si confiant, on le savait si débrouillard, en même temps si audacieux, si déterminé, que déjà plusieurs paris avaient été engagés sur sa tête. On l’avait pris à un contre deux et même contre trois, – ce qui le flattait et ne laissait pas d’être de bon augure.</p>
@@ -1170,10 +1138,7 @@
           <p>« Bon ! fit-il, cent dollars… c’est cent dollars !… Puis… je n’avais pas confiance !… Un homme si sûr de lui !… Voyez-vous… je ne mettrais pas vingt-cinq cents sur sa tête ! »</p>
         </div>
         <div type="chapter">
-          <head>XI.
-<lb/>
-<lb/>Les transes de Jovita Foley.
-<lb/></head>
+          <head>XI. Les transes de Jovita Foley</head>
           <p>Lissy Wag était, par son numéro d’ordre, la cinquième à partir. Neuf jours allaient donc s’écouler entre celui où Max Réal avait quitté Chicago et celui où elle devrait quitter à son tour la métropole illinoise.</p>
           <p>En quelles impatiences elle passa cette interminable semaine, ou, pour dire le vrai, Jovita Foley la passa en son lieu et place ! Elle ne parvenait pas à la calmer. Son amie ne mangeait plus, elle ne dormait plus, elle ne vivait plus. Les préparatifs avaient été faits dès le lendemain du premier coup de dés, le 1<hi rend="sup">er</hi> du mois, à huit heures du matin, et, deux jours après, elle avait obligé Lissy Wag à l’accompagner jusqu’à la salle de l’Auditorium, où le second coup allait s’effectuer en présence d’une foule toujours aussi nombreuse, toujours aussi émotionnée. Puis les troisième et quatrième coups furent proclamés à la date des 5 et 7 mai. Quarante-huit heures encore, et le sort allait se prononcer sur les deux amies, car on ne les séparait pas l’une de l’autre : les deux jeunes filles ne faisaient qu’une seule et même personne.</p>
           <p>Il faut s’entendre, cependant. C’était Jovita Foley qui absorbait Lissy Wag, celle-ci étant réduite à ce rôle de mentor, prudent et raisonnable, qu’on ne veut jamais écouter.</p>
@@ -1372,10 +1337,7 @@
           <p>Chiffre heureux, s’il en fut, puisque la cinquième partenaire allait d’un bond à la vingt-sixième case, État du Wisconsin.</p>
         </div>
         <div type="chapter">
-          <head>XII.
-<lb/>
-<lb/>La cinquième partenaire.
-<lb/></head>
+          <head>XII. La cinquième partenaire</head>
           <p>« Ah ! chère Lissy, quel heureux… quel merveilleux coup de dés ! » s’écria l’impétueuse Jovita Foley.</p>
           <p>Et elle venait d’entrer dans la chambre, sans s’inquiéter, l’imprudente, de troubler la malade, qui reposait peut-être en ce moment.</p>
           <p>Lissy Wag était éveillée, toute pâle, et elle échangeait quelques paroles avec la bonne vieille dame assise près de son lit.</p>
@@ -1572,10 +1534,7 @@
           <p rend="right">« TORNBROCK. »</p>
         </div>
         <div type="chapter">
-          <head>XIII.
-<lb/>
-<lb/>Aventures du commodore Urrican.
-<lb/></head>
+          <head>XIII. Aventures du commodore Urrican</head>
           <p>C’était à huit heures du matin, le 11 mai, que le commodore Urrican avait eu communication du nombre de points de ce sixième tirage qui le concernait, et, à neuf heures vingt-cinq minutes, il avait quitté Chicago.</p>
           <p>Pas de temps perdu, on le voit, et il n’en fallait point perdre, étant donnée cette obligation de se trouver avant l’expiration des quinze jours à l’extrémité même de la presqu’île floridienne.</p>
           <p>Neuf par quatre et cinq l’un des meilleurs coups de la partie ! Du premier bond, l’heureux joueur était envoyé à la cinquante-troisième case. Il est vrai, sur la carte dressée par William J. Hypperbone, c’était l’État de la Floride qui occupait cette case, le plus éloigné dans le sud-est de la République Nord-Américaine.</p>
@@ -1692,10 +1651,7 @@
           <p>La <hi rend="i">Chicola</hi>, vent debout, louvoyait de manière à conserver l’abri de la terre. La traversée en serait allongée sans doute ; mais les tempêtes du golfe sont redoutables, et un léger bâtiment ne peut s’aventurer loin des ports, des baies, des criques, des embouchures de rivières ou de creeks si multipliés sur le littoral floridien, accessibles aux navires de petit tonnage. Au surplus, la <hi rend="i">Chicola</hi> aurait toujours une anse, un trou, où se réfugier pendant quelques heures. Il est vrai, ce serait du temps perdu, et Hodge Urrican n’en avait que bien peu à perdre.</p>
         </div>
         <div type="chapter">
-          <head>XIV.
-<lb/>
-<lb/>Suite des aventures du commodore Urrican.
-<lb/></head>
+          <head>XIV. Suite des aventures du commodore Urrican</head>
           <p>La brise tint toute la journée et toute la nuit, avec une tendance à calmir. Si elle passait à l’opposé, cela permettrait de faire route sous une meilleure allure, avec plus de vitesse. Par malheur, le lendemain elle tomba graduellement. À la surface de cette mer au calme blanc, la <hi rend="i">Chicola</hi>, bien que couverte de toile, ne gagna, qu’une vingtaine de milles vers le sud-est. Il fallut même garnir les avirons afin de ne pas être rejeté au large dans le golfe. Il y eut là quarante-huit heures de navigation presque nulle. Le commodore se dévorait les poings d’impatience, sans parler à personne, – pas même à Turk.</p>
           <p>Cependant, le 22, soutenue par le courant golfier, la <hi rend="i">Chicola</hi> filait à la hauteur de Tampa, un port de cinq à six mille habitants, où les navires d’un certain tonnage trouvent un sûr abri en prolongeant ce littoral, semé de récifs et de vasières, mais il restait encore à une cinquantaine de milles dans l’est, et la goélette n’aurait pu le rallier, pour suivre la côté floridienne jusqu’à sa pointe, sans éprouver du retard.</p>
           <p>D’ailleurs, après les calmes de la veille, il y avait lieu de prévoir, à l’aspect du ciel, une prochaine modification de l’état atmosphérique.</p>
@@ -1814,10 +1770,7 @@
           <p>« Allons, se dit Turk, mieux vaut que mon pauvre maître n’en revienne pas, car il ne se relèverait jamais d’un coup pareil ! »</p>
         </div>
         <div type="chapter">
-          <head>XV.
-<lb/>
-<lb/>La situation au 27 mai.
-<lb/></head>
+          <head>XV. La situation au 27 mai</head>
           <p>On n’a pas oublié que, primitivement, suivant l’acte testamentaire de William J. Hypperbone, le nombre des joueurs du Noble Jeu des États-Unis d’Amérique avait été fixé à six, élus par le sort. Ces « Six », suivant les instructions de maître Tornbrock, avaient figuré dans le cortège funèbre autour du char de l’excentrique personnage.</p>
           <p>On n’a pas oublié non plus que, lors de la séance du 15 avril, où le notaire donna lecture dudit testament dans la salle de l’Auditorium, un codicille très inattendu fit intervenir un septième partenaire, uniquement désigné par les initiales X K Z. Ce nouveau venu était-il sorti de l’urne comme les autres concurrents, ou avait-il été imposé par la seule volonté du défunt ?… on ne savait. Quoi qu’il en soit, cette clause du codicille, si formelle, nul ne pouvait songer à l’éluder. Le sieur X K Z – l’homme masqué, – jouissait des mêmes droits que les anciens Six, et, s’il gagnait l’énorme héritage, personne ne serait fondé à lui en disputer la possession.</p>
           <p>C’est donc par application de cette clause que, le 13 courant, à huit heures du matin, maître Tornbrock avait procédé à un septième tour de dés, et – cela est rappelé pour mémoire – le nombre des points obtenus, neuf par six et trois, obligeait le sieur X K Z à se rendre au Wisconsin. Or, si le partenaire inconnu n’était pas possédé de ce goût immodéré des voyages, de cet amour des déplacements qui dévorait le reporter de la <hi rend="i">Tribune</hi>, s’il était réfractaire à toute passion locomotrice, il devait se déclarer satisfait. En quelques heures de chemin de fer, il atteindrait Milwaukee, et, pour peu qu’elle y fût encore lorsqu’il y arriverait, Lissy Wag devrait lui céder la place et recommencer la partie.</p>
@@ -1888,10 +1841,7 @@
       <div>
         <head>Seconde partie.</head>
         <div type="chapter">
-          <head>I.
-<lb/>
-<lb/>Le parc national.
-<lb/></head>
+          <head>I. Le parc national</head>
           <p>C’était le 15 mai, à midi, au Post Office de Fort Riley, que Max Réal avait reçu le télégramme envoyé le jour même de Chicago. Dix, par cinq et cinq, tel avait été le nombre de points de ce tirage, qui s’appliquait au second coup de dés du premier partenaire.</p>
           <p>À compter de la huitième case, État du Kansas, avec dix points, le joueur tombe sur une des cases de l’Illinois. Aussi la règle l’oblige-t-elle à doubler ce nombre, de telle sorte que vingt points le conduisent à la vingt-huitième case, État du Wyoming.</p>
           <p>« Une heureuse chance ! dit Max Réal, lorsque Tommy et lui furent rentrés à l’hôtel.</p>
@@ -1953,10 +1903,7 @@
           <p>Tel est le domaine, sans rival au monde, dont Max Réal parcourut les vallées, les cañons, les fonds lacustres, allant de merveille en merveille, d’admiration en admiration. Dans cet angle du Wyoming, arrosé par le Fire Hole et le Yellowstone supérieur, dont le sol frémit sous le pied comme les tôles d’une chaudière, se mélangent, s’amalgament, se combinent, les substances telluriques sous l’action des feux internes inépuisablement alimentés au foyer central, et dont les mugissements s’échappent par mille bouches. Là se produisent les phénomènes les plus inattendus, semblables à ces effets scéniques d’une féerie provoqués par la baguette du magicien, au milieu des prodiges de ce Parc National du Yellowstone, dont on ne saurait trouver l’équivalent en n’importe quelle autre contrée du globe.</p>
         </div>
         <div type="chapter">
-          <head>II.
-<lb/>
-<lb/>Pris l’un pour l’autre.
-<lb/></head>
+          <head>II. Pris l’un pour l’autre</head>
           <p>– Je ne crois pas qu’il soit arrivé…</p>
           <p>– Et pour quelle raison ne le croyez-vous pas ?</p>
           <p>– Parce que mon journal n’en a rien dit.</p>
@@ -2066,10 +2013,7 @@
           <p>Et si jamais Cincinnati eut l’occasion de recouvrer ce surnom de Porcopolis que venait de lui ravir Chicago, ce fut bien ce 30 mai 1897 !</p>
         </div>
         <div type="chapter">
-          <head>III.
-<lb/>
-<lb/>À pas de tortue.
-<lb/></head>
+          <head>III. À pas de tortue</head>
           <p>« Reçu de M. Hermann Titbury, de Chicago, la somme de trois cents dollars, en paiement de l’amende à laquelle il a été condamné par jugement du 14 mai courant, pour infraction à la loi sur les boissons alcooliques.</p>
           <p rend="center">« Calais, Maine, ce 19 mai 1897.</p>
           <p rend="right">« Le greffier,</p>
@@ -2240,10 +2184,7 @@
           <p>Et ce fut là tout ce que M. Titbury put obtenir de cet original shérif de la cité mormone !</p>
         </div>
         <div type="chapter">
-          <head>IV.
-<lb/>
-<lb/>Le pavillon vert.
-<lb/></head>
+          <head>IV. Le pavillon vert</head>
           <p>Le Pavillon Vert était celui d’Harris T. Kymbale, le pavillon que l’on plantait sur les cartes pour marquer son arrivée dans tel ou tel État, et qui avait été attribué au quatrième partenaire en raison du rang que cette couleur occupe dans le spectre solaire. Le chroniqueur en chef de la <hi rend="i">Tribune</hi> s’en montrait très satisfait. N’était-ce pas la couleur de l’espérance ?…</p>
           <p>Au reste, il aurait eu mauvaise grâce à se plaindre du sort qui le favorisait comme touriste et comme joueur. Après avoir été, par son premier coup de douze, envoyé au New Mexico, voici que le point de dix par quatre et six lui réservait la vingt-deuxième case, South Carolina, aux frontières du territoire fédéral, et plus spécialement Charleston, sa métropole. Il n’ignorait pas, d’ailleurs, que les parieurs se le disputaient dans les agences, qu’il était demandé sur tous les marchés du monde, pris à un contre neuf, – cote qu’aucun de ses concurrents n’avait jamais atteinte, – et partout proclamé grand favori.</p>
           <p>Heureusement, en quittant Santa Fé, le reporter n’avait point entendu Isidorio, le très pratique conducteur du stage, formuler cette déclaration qu’il ne voudrait pas risquer vingt-cinq cents sur ses chances, et il était tout confiant en son étoile.</p>
@@ -2352,10 +2293,7 @@
           <p>« Hurrah pour Harris T. Kymbale !… Hurrah pour le quatrième partant !… Hurrah pour le Pavillon Vert !… Hurrah pour le grand favori du match Hypperbone !… »</p>
         </div>
         <div type="chapter">
-          <head>V.
-<lb/>
-<lb/>Les grottes du Kentucky.
-<lb/></head>
+          <head>V. Les grottes du Kentucky</head>
           <p>D’après les cours du marché du 26 mai, à Chicago, – et les autres villes allaient suivre, – le Lissy Wag fut demandé avec un certain entrain, et monta même à trois contre sept. Si, au début, la hausse n’avait pas été en sa faveur, c’est qu’il était à craindre qu’une jeune fille n’eût pas assez d’endurance pour résister aux fatigues de ces déplacements successifs, et, en outre, sa maladie vint encore diminuer le peu de confiance qu’elle inspirait.</p>
           <p>Or, la santé de la cinquième partenaire ne laissait plus rien à désirer. De plus, le second coup de douze avait été très heureux puisque, par six redoublé, il l’envoyait au Kentucky. D’une part, ce voyage ne comportait que quelques centaines de milles, et de l’autre, le Kentucky occupait la trente-huitième case sur la carte. Il résultait de là que Lissy Wag, en deux bonds, avait franchi plus de la moitié des soixante-trois cases. Aussi ne s’étonnera-t-on pas que Jovita Foley agitât triomphalement le pavillon jaune attribué à son amie, et qu’elle le vit déjà planté sur les millions de William J. Hypperbone !</p>
           <p>Donc, à supposer que Lissy Wag se fût intéressée à ce que l’on augurait de ses chances, au revirement qui avait ramené à elle la faveur du public, elle aurait pu s’en montrer fière dès son retour à Chicago.</p>
@@ -2455,10 +2393,7 @@
           <p>C’était la case de la prison, où, après avoir payé une triple prime, allait rester la malheureuse Lissy Wag jusqu’au moment où un non moins malheureux partenaire viendrait la délivrer en prenant sa place !</p>
         </div>
         <div type="chapter">
-          <head>VI.
-<lb/>
-<lb/>La vallée de la mort.
-<lb/></head>
+          <head>VI. La vallée de la mort</head>
           <p>Le 1<hi rend="sup">er</hi> juin, dans la matinée, au sortir de Stakton, petite ville californienne, située dans l’ancien bassin lacustre du San Joachim, un train filait à toute vitesse en direction du sud-est.</p>
           <p>Ce train, uniquement composé d’une locomotive, d’un wagon et d’un fourgon, était parti en dehors des indications de l’horaire, trois bonnes heures avant celui qui traverse les territoires méridionaux de la Californie, ligne de Sacramento à la frontière de l’Arizona.</p>
           <p>L’État de Californie occupe le deuxième rang dans la Confédération américaine avec une superficie de cent cinquante-huit mille milles carrés. Il est limité au nord et au sud par deux degrés de latitude, à l’est par une ligne brisée dont l’angle s’appuie au lac de Tahoo et la Colorado River, à l’ouest par l’Océan Pacifique, qui baigne son littoral sur une étendue de six cents milles. Si l’on répand sur ce vaste territoire une population de douze cent mille âmes, très mélangée, d’origines européenne, américaine, asiatique, immigration due à la découverte des mines d’or, après le traité de 1848 par lequel le Mexique céda le domaine californien à la République fédérale, on n’y trouvera qu’une densité assez faible d’habitants.</p>
@@ -2547,10 +2482,7 @@
           <p>Et après avoir été expédié en Floride, puis en Californie, Hodge Urrican n’avait qu’un pas à faire pour gagner la vingt-sixième case, cet État de Wisconsin qui confine à l’Illinois et que n’occupait alors aucun des partenaires. Sa cote remonta dans l’échelle des agences, et il fut repris à égalité avec Tom Crabbe et Max Réal.</p>
         </div>
         <div type="chapter">
-          <head>VII.
-<lb/>
-<lb/>À la maison de South Halstedt Street.
-<lb/></head>
+          <head>VII. À la maison de South Halstedt Street</head>
           <p>Le 1<hi rend="sup">er</hi> juin, la porte de la maison de South Halsted Street, numéro 3997, à Chicago, s’ouvrait dès huit heures du matin devant un jeune homme qui portait sur le dos son attirail de peintre, et que suivait un jeune nègre, sa valise à la main.</p>
           <p>Quelle fut la surprise et aussi la joie de M<hi rend="sup">me</hi> Réal, lorsque son cher fils entra dans sa chambre, et qu’elle put le serrer entre ses bras.</p>
           <p>« Toi, Max… comment… c’est toi ?…</p>
@@ -2686,10 +2618,7 @@
           <p rend="right">« MAX RÉAL. »</p>
         </div>
         <div type="chapter">
-          <head>VIII.
-<lb/>
-<lb/>Le coup du révérend Hunter.
-<lb/></head>
+          <head>VIII. Le coup du révérend Hunter</head>
           <p>Si quelqu’un paraissait moins indiqué que personne pour la quarante-septième case, État de Pennsylvanie, pour Philadelphie, la principale cité de l’État, la plus importante de l’Union, après Chicago et New York, c’était assurément ce Tom Crabbe, brute de nature et boxeur de son métier.</p>
           <p>Mais le sort n’en fait jamais d’autres, dit l’adage populaire, et au lieu de Max Réal, d’Harris T. Kymbale, de Lissy Wag, si capables d’admirer les magnificences de cette métropole, c’était cet être stupide qu’il y envoyait en compagnie de son entraîneur John Milner. Jamais le défunt membre de l’<hi rend="i">Excentric Club</hi> n’aurait prévu cela.</p>
           <p>On n’y pouvait rien, d’ailleurs. Les dés avaient parlé dès les premières heures du 31 mai. Le point de douze par six et six s’était lancé sur le fil télégraphique entre Chicago et Cincinnati. Aussi le deuxième partenaire prit-il ses mesures pour quitter immédiatement l’ancienne Porcopolis.</p>
@@ -2777,10 +2706,7 @@
           <p>Quant à John Milner, une joue gonflée, un œil frit, il ramena Tom Crabbe à Philadelphie, où tous deux, confinés dans une chambre d’hôtel cachèrent leur honte, en attendant l’arrivée de la prochaine dépêche.</p>
         </div>
         <div type="chapter">
-          <head>IX.
-<lb/>
-<lb/>Deux cents dollars par jours.
-<lb/></head>
+          <head>IX. Deux cents dollars par jour</head>
           <p>Un fétiche aux époux Titbury ?… Certes le besoin s’en faisait sentir, et ne fût-ce que le bout de la corde qui aurait servi à pendre ce brigand de Bill Arrol, il serait le bien venu. Or, ainsi que l’avait déclaré le magistrat de Great Salt Lake City, il fallait le prendre pour le pendre, et il ne semblait pas qu’il dût l’être de sitôt.</p>
           <p>Certes, ce fétiche, qui eût assuré à Hermann Titbury le gain de la partie, n’aurait pas été payé trop cher au prix des trois mille dollars qui lui avaient été volés à <hi rend="i">Cheap Hotel.</hi> Mais, en attendant, le Pavillon Bleu ne possédait plus un cent, et furieux et non moins désappointé des réponses ironiques du shérif, il quitta le poste de police pour rejoindre Mrs Titbury.</p>
           <p>« Eh bien, Hermann, lui demanda-t-elle, ce coquin, ce misérable Inglis ?…</p>
@@ -2914,10 +2840,7 @@
           <p>Cela, c’était le secret de l’avenir. En attendant, les jours s’écoulaient, et si, le match terminé, M. et Mrs Titbury n’avaient plus qu’à retourner dans l’Illinois, après avoir payé la formidable note d’<hi rend="i">Excelsior Hotel</hi>, jointe aux dépenses antérieures, songe-t-on à ce que leur aurait coûté cette folie de figurer parmi les « Sept » du match Hypperbone !</p>
         </div>
         <div type="chapter">
-          <head>X.
-<lb/>
-<lb/>Les pérégrinations d’Harris T. Kymbale.
-<lb/></head>
+          <head>X. Les pérégrinations d’Harris T. Kymbale</head>
           <p>Si les époux Titbury, si le commodore Urrican, ne se plaignaient pas sans raison de la déveine qui s’attachait à leurs personnes, il semble bien que le reporter en chef de la <hi rend="i">Tribune</hi> aurait eu, lui aussi, le droit de se plaindre dans une certaine mesure. Une première fois, le coup de dés du début l’avait obligé d’aller au pont du Niagara, État de New York et d’y payer une prime, puis, de là à Santa Fé, la capitale du New Mexico. Et voici que ce nouveau coup le mettait en demeure de gagner d’abord le Nebraska, et ensuite l’État de Washington, situé à l’extrémité ouest du territoire de la Confédération.</p>
           <p>En effet, à Charleston de la Caroline du Sud, où il venait d’être si chaleureusement accueilli, Harris T. Kymbale avait reçu, le 4 juin, le télégramme qui le concernait. Le point de dix par six et quatre, redoublé, l’expédiait de la vingt-deuxième case à la quarante-deuxième.</p>
           <p>Cette dernière, c’était celle du Nebraska, choisi par le défunt pour le labyrinthe du Noble Jeu de l’Oie. Or, – ce qui ne laissait pas d’être grave, c’est que le partenaire, après s’y être rendu et avoir payé une double prime, devrait rétrograder à la trentième, occupée par l’État de Washington. Il est vrai, cet itinéraire du South Carolina au Washington passait par le Nebraska.</p>
@@ -3050,10 +2973,7 @@
           <p>Le protégé de saint Cycle était arrivé à temps, grâce au dévouement et à l’énergie de ses compagnons. Quant à MM. Will Stanton et Robert Flock, avec quinze lieues parcourues en quarante-six minutes et trente-trois secondes, ils battaient le record de vitesse des cinq parties du monde !</p>
         </div>
         <div type="chapter">
-          <head>XI.
-<lb/>
-<lb/>La prison du Missouri.
-<lb/></head>
+          <head>XI. La prison du Missouri</head>
           <p>C’était le 6 juin, à <hi rend="i">Mammoth Hotel</hi>, après les six jours passés aux grottes du Kentucky, que Lissy Wag avait reçu la nouvelle fatale. Le point de sept, par quatre et trois, doublé, l’envoyait dans la cinquante-deuxième case, Missouri.</p>
           <p>Le voyage ne serait ni fatigant ni long. Les deux États confinent à l’angle de Cairo. De Mammoth Caves à Saint-Louis, à peine deux cent cinquante milles, huit à dix heures de chemin de fer, pas davantage. Mais quel désappointement, quelle ruine !</p>
           <p>« Malheur… malheur !… s’écria Jovita Foley. Mieux aurait valu d’être envoyées, comme le commodore Urrican, à l’extrémité de la Floride, ou comme M. Kymbale au fond du Washington !… Au moins n’aurions-nous pas cessé de prendre part à cette abominable partie…</p>
@@ -3226,10 +3146,7 @@
           <p>Quant à Max Réal, il avait le temps de se rendre de Saint-Louis à Richmond entre le 14 et le 22 juin. Aussi ne se pressa-t-il point de partir. Et pourquoi ?… Parce qu’il voulait connaître le tirage du 20 qui concernait Lissy Wag. Peut-être la jeune fille serait-elle envoyée dans l’un des États voisins, où il lui serait si agréable de s’arrêter pendant quelques jours…</p>
         </div>
         <div type="chapter">
-          <head>XII.
-<lb/>
-<lb/>Sensationel fait divers pour la <hi rend="i">Tribune</hi>.
-<lb/></head>
+          <head>XII. Sensationnel fait divers pour la <hi rend="i">Tribune</hi></head>
           <p>Harris T. Kymbale, on s’en souvient, était, de sa personne, dans le bureau du télégraphe d’Olympia, avant que le midi du 18 juin eût été se perdre dans les oubliettes du passé. Il se trouvait donc à son poste, brisé de fatigue, éreinté moralement et physiquement, et comment s’en étonner après cette merveilleuse performance des cyclistes professionnels Will Stanton et Robert Flock ? Tombé presque évanoui sur un banc du Post Office, il avait cependant pu répondre : « Présent », lorsque l’employé avait dit : « Un télégramme pour Harris T. Kymbale. »</p>
           <p>Quelques minutes plus tard, ayant recouvré l’entière possession de lui-même, grâce à un énergique mélange de wisky et de gin, il prit connaissance du télégramme ainsi conçu :</p>
           <p xml:lang="en" rend="right">Chicago, 8 h. 13.</p>
@@ -3347,10 +3264,7 @@
           <p>Et c’est ainsi que fut inaugurée la section du <hi rend="i">railroad</hi> entre Medary et Sioux Falls City, l’Éden des divorces en Amérique.</p>
         </div>
         <div type="chapter">
-          <head>XIII.
-<lb/>
-<lb/>Les derniers coups du match Hypperbone.
-<lb/></head>
+          <head>XIII. Les derniers coups du match Hypperbone</head>
           <p>Il est inutile de dépeindre l’état d’âme de Lissy Wag, lorsque la jeune fille se sépara de Max Réal pour aller prendre sa place à Richmond. Partie dans la soirée du 13, elle ne pouvait se douter que, dès le lendemain, le sort ferait pour Max Réal ce qu’il avait fait pour elle, – c’est-à-dire lui rendre la liberté, et lui donner l’occasion de « se remettre en ligne » sur le vaste champ de courses des États-Unis d’Amérique.</p>
           <p>En proie à de si vives émotions, renfermée en elle-même, Lissy Wag s’était blottie en un coin du wagon, et Jovita Foley, assise près d’elle, n’essaya point de troubler sa compagne par d’inopportunes conversations.</p>
           <p>De Saint-Louis à Richmond, on ne compte au plus que sept cents milles à travers le Missouri, le Kentucky, la Virginie occidentale et la Virginie orientale. Ce fut donc dans la matinée du 14 que les deux voyageuses atteignirent Richmond, où elles devraient attendre le prochain télégramme du notaire Tornbrock. On sait, d’autre part, que Max Réal avait résolu de ne quitter Saint-Louis que le jour où le tirage du 20 aurait été proclamé, dans la pensée qu’il pourrait peut-être rencontrer Lissy Wag sur sa route, lorsqu’il irait à Philadelphie remplacer Tom Crabbe.</p>
@@ -3494,10 +3408,7 @@
           <p>Et, maintenant, le pavillon rouge flottait au-dessus de cet Illinois, quatorze fois répété sur la carte du Noble Jeu des États-Unis d’Amérique.</p>
         </div>
         <div type="chapter">
-          <head>XIV.
-<lb/>
-<lb/>La cloche d’Oakswoods
-<lb/></head>
+          <head>XIV. La cloche d’Oakswoods</head>
           <p>Un coup de tonnerre, qui serait entendu de toutes les parties du globe terrestre, n’eût pas produit plus d’effet que ce coup de dés, sorti du cornet de maître Tornbrock, à huit heures sonnant, le 24 juin, dans la salle de l’Auditorium. Les milliers de spectateurs, qui assistaient à ce tirage, – avec la pensée qu’il pourrait être le dernier du match Hypperbone, – le proclamèrent dans tous les quartiers de la cité chicagoise, et des milliers de télégrammes le répandirent aux quatre coins de l’Ancien et du Nouveau-Monde.</p>
           <p>C’était donc l’homme masqué, le partenaire de la dernière heure, l’intrus du codicille, en un mot ou plutôt en trois lettres, cet X K Z, qui gagnait la partie, et, avec la partie, les soixante millions de dollars !</p>
           <p>Et n’y avait-il pas lieu d’observer comment s’était accomplie la marche de ce favori de la fortune ?… Tandis que tant de malheurs frappaient ses six concurrents, celui-ci confiné dans l’hôtellerie, celui-là obligé d’acquitter le péage au pont du Niagara, l’un perdu dans le labyrinthe, l’autre précipité au fond du puits, trois d’entre eux condamnés à la prison, tous ayant eu des primes à payer, X K Z avait toujours marché d’un pas sûr, allant de l’Illinois au Wisconsin, du Wisconsin au District de Columbia, du District de Columbia au Minnesota, et du Minnesota au but, sans avoir eu à débourser une seule prime, et dans un rayon restreint, d’où économie de fatigues et de dépenses au cours de ses faciles voyages !</p>
@@ -3569,10 +3480,7 @@
           <p>Ce jour-là, à dix heures dix-sept du matin, le bruit se répandit que la cloche sonnait à toute volée au monument funèbre de William J. Hypperbone, dans le cimetière d’Oakswoods.</p>
         </div>
         <div type="chapter">
-          <head>XV.
-<lb/>
-<lb/>Dernière excentricité.
-<lb/></head>
+          <head>XV. Dernière excentricité</head>
           <p>On ne saurait imaginer avec quelle rapidité s’était répandue cette nouvelle. Chaque maison de Chicago eût été munie d’un timbre téléphonique en communication avec un appareil installé chez le gardien d’Oakswoods, que les dix-sept cent mille habitants de la métropole illinoise ne l’eussent apprise ni plus promptement ni plus simultanément.</p>
           <p>Et tout d’abord, en quelques minutes, le cimetière fut envahi par la population des quartiers voisins. Puis la foule afflua de toutes parts. Une demi-heure après, la circulation était absolument interrompue à partir de Washington Park. Le gouverneur de l’État, John Hamilton, prévenu en toute hâte, envoya de fortes escouades de la milice, qui pénétrèrent non sans peine dans le cimetière et en firent sortir nombre de curieux, de telle façon que l’accès en restât libre.</p>
           <p>Et la cloche sonnait toujours au clocher du superbe monument de William J. Hypperbone.</p>

@@ -34,7 +34,7 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
+    <front>
       <div>
         <head>Préface
 <lb/>Jules Verne vu par Léon Blum</head>
@@ -45,10 +45,11 @@
         <p>Ses premiers livres, les plus courts, <hi rend="i">le Tour du Monde en Quatre-Vingts Jours</hi> ou <hi rend="i">de la Terre à la Lune</hi>, sont restés, je crois, les meilleurs. Mais c’est une œuvre qu’il faut juger dans son ensemble plutôt qu’en détail, et par ses résultats plutôt que par sa qualité intrinsèque. Or, en fait, elle a exercé pendant quarante ans, sur les enfants de ce pays et de l’Europe entière, une influence qu’aucune autre œuvre n’a certainement égalée. Et cette influence fut bonne dans la mesure où l’on en peut juger aujourd’hui. Elle a été, tout à la fois, un instrument d’éducation positive et de développement moral. Elle a propagé, avec le goût de l’aventure, le goût de la recherche scientifique, la confiance dans la force supérieure de la raison. Elle a développé la notion de l’effort, mais utile et sans violence, du succès, mais tempéré par la douceur et l’équité, de l’énergie individuelle, mais asservie à l’intelligence. Elle a instruit et distrait les enfants sans favoriser aucun des instincts mauvais de l’homme.</p>
         <p rend="right i">Léon Blum. </p>
       </div>
-      <div>
-        <head>I.
-<lb/>
-<lb/>L’oasis de gabès</head>
+      
+    </front>
+    <body>
+      <div type="chapter">
+        <head>I. L’oasis de Gabès</head>
         <p>« Que sais-tu ?…</p>
         <p>– Je sais ce que j’ai entendu dans le port…</p>
         <p>– On parlait du navire qui vient chercher… qui emmènera Hadjar ?…</p>
@@ -175,10 +176,8 @@
         <p>– Oui… et aussi le vieux frère… et aussi Coupe-à-cœur », déclara le marchef.</p>
         <p>Puis les deux officiers reprirent leur route en remontant vers le bordj, tandis que le marchef Nicol et ses hommes redescendaient vers les bas quartiers de Gabès.</p>
       </div>
-      <div>
-        <head>II.
-<lb/>
-<lb/>Hadjar</head>
+      <div type="chapter">
+        <head>II. Hadjar</head>
         <p>Les Touareg, de race berbère, habitaient l’Ixham, pays compris entre le Touat, cette vaste oasis saharienne située à cinq cents kilomètres au sud-est du Maroc, Tombouctou au midi, le Niger à l’ouest et le Fezzan à l’est. Mais, à l’époque où se passe cette histoire, ils avaient dû se déplacer vers les régions plus orientales du Sahara. Au commencement du XXe siècle, leurs nombreuses tribus, les unes presque sédentaires, les autres absolument nomades, se rencontraient alors au milieu de ces plaines, plates et sablonneuses, désignées par le nom d’« outtâ » en langue arabe, au Soudan et jusque dans les contrées où le désert algérien confine au désert tunisien.</p>
         <p>Or, depuis un certain nombre d’années, après l’abandon des travaux de la mer intérieure dans ce pays de l’Arad, qui s’étend à l’ouest de Gabès, et dont le capitaine Roudaire avait étudié la création, le résident général et le bey de Tunis avaient amené des Touareg à venir se cantonner dans les oasis autour des chotts. On avait conçu l’espoir que, grâce à leurs qualités guerrières, ils deviendraient peut-être comme les gendarmes du désert. Vain espoir, les Imohagh avaient continué à mériter leur sobriquet injurieux de « Touareg », c’est-à-dire « brigands de nuit », sous lequel ils avaient été craints et redoutés dans tout le Soudan, et, au surplus, si la création de la mer Saharienne venait à être reprise, il n’était pas douteux qu’ils ne se missent à la tête des tribus absolument hostiles à l’inondation des chotts.</p>
         <p>D’ailleurs, si, ouvertement du moins, le Targui (singulier de Touareg) faisait le métier de conducteur pour les caravanes, et même de protecteur, pillard par instinct, pirate par nature, sa réputation était trop fâcheusement établie pour ne pas inspirer toute défiance. Est-ce que, voilà bien des années déjà, le major Faing, alors qu’il parcourait ces dangereuses contrées du pays noir, ne risqua pas d’être massacré dans une attaque de ces redoutables indigènes ? En 1881, pendant cette expédition partie de Ouargla sous les ordres du commandant Flatters, ce courageux officier et ses compagnons ne périrent-ils pas à Bir-el-Gharama ? Les autorités militaires de l’Algérie et de la Tunisie devaient se tenir constamment sur la défensive et refouler sans relâche ces tribus qui formaient une population assez nombreuse.</p>
@@ -223,10 +222,8 @@
         <p>L’expédition avait alors rallié le littoral, et le prisonnier était enfermé dans le bordj de Gabès en attendant son transport à Tunis, où il serait déféré à la justice militaire.</p>
         <p>Tels sont les événements qui s’étaient passés avant le début de cette histoire. Le capitaine Hardigan, après un court voyage à Tunis, venait de rentrer à Gabès ainsi qu’on l’a vu, et le soir même où le Chanzy mouillait dans le golfe de la Petite-Syrte.</p>
       </div>
-      <div>
-        <head>III.
-<lb/>
-<lb/>L’évasion</head>
+      <div type="chapter">
+        <head>III. L’évasion</head>
         <p>Après le départ des deux officiers, du maréchal des logis-chef et des spahis, Horeb se glissa le long de la margelle du puits et vint en observer les approches.</p>
         <p>Lorsque le bruit des pas se fut éteint, en haut comme en bas du sentier, le Targui fit signe à ses compagnons de le suivre.</p>
         <p>Djemma, son fils et Ahmet le rejoignirent aussitôt en remontant une sinueuse ruelle, bordée de vieilles masures inhabitées, qui obliquait vers le bordj.</p>
@@ -334,10 +331,8 @@
         <p>Cela ne put être établi.</p>
         <p>C’est en vain, d’ailleurs, que des recherches furent faites aux environs de l’oasis. Aucune trace du fugitif ne put être relevée. Ni les plaines du Djerid, ni les eaux de la Petite-Syrte ne le rendirent vivant ou mort.</p>
       </div>
-      <div>
-        <head>IV.
-<lb/>
-<lb/>La mer saharienne</head>
+      <div type="chapter">
+        <head>IV. La mer Saharienne</head>
         <p>Après avoir adressé ses sincères compliments à l’assistance qui avait répondu à son appel, après avoir remercié les officiers, les fonctionnaires français et tunisiens qui, avec les notables de Gabès, honoraient l’assemblée de leur présence, M. de Schaller parla comme il suit :</p>
         <p>« Il faut en convenir, Messieurs, grâce aux progrès de la science, toute confusion entre l’histoire et la légende tend à devenir de plus en plus impossible. L’une finit par faire justice de l’autre. Celle-ci appartient aux poètes, celle-là appartient aux savants et chacun d’eux possède une clientèle spéciale. Tout en reconnaissant les mérites de la légende, aujourd’hui je suis obligé de la reléguer dans le domaine de l’imagination et d’en revenir aux réalités prouvées par les observations scientifiques. »</p>
         <p>La nouvelle salle du Casino de Gabès eût difficilement réuni un public mieux disposé à suivre le conférencier dans ses démonstrations intéressantes. L’auditoire était acquis d’avance au projet dont il allait l’entretenir. Aussi ses paroles furent-elles, dès le début, accueillies par un murmure flatteur. Seuls quelques-uns des indigènes, mêlés à ce public, semblaient garder une réserve prudente. C’est que, en effet, le projet dont M. de Schaller se préparait à faire l’historique n’était point vu d’un bon œil depuis un demi-siècle par les tribus sédentaires ou nomades du Djerid.</p>
@@ -384,10 +379,8 @@
         <p>« Ce n’est pas que mes appréhensions soient graves, du côté des indigènes, malgré la complication due au cantonnement de quelques partis de Touareg sur les territoires du sud, événement qui aura peut-être son bon côté. – Les Bédouins du désert n’ont-ils pas été de bons collaborateurs lors du percement de l’isthme de Suez ? – Pour le moment ils semblent donc tranquilles, mais gardent l’œil ouvert, et il ne faudrait pas trop se fier à leur apparente inertie. Avec un soldat brave et expérimenté comme le capitaine Hardigan, sûr des hommes qu’il commande, et très au courant des mœurs et coutumes des bizarres habitants de ces contrées, croyez-moi, nous n’aurons rien à craindre. Au retour nous vous communiquerons des observations absolument précises, et nous établirons, avec une stricte exactitude, le devis de l’achèvement de l’entreprise. De la sorte vous pourrez vous associer à la gloire et, j’ose le dire, au bénéfice d’une entreprise grandiose, aussi heureuse que patriotique, condamnée dans ses débuts, mais que, grâce à vous, nous réaliserons, pour l’honneur et la prospérité de la patrie qui nous aidera et qui, comme déjà dans le Sud-Oranais, saura faire, des tribus encore hostiles, les gardiens les plus fidèles et les plus sûrs de notre incomparable conquête sur la nature.</p>
         <p>« Messieurs, vous savez qui je suis, et vous savez aussi quelles forces j’apporte à cette grande œuvre, forces financières et forces intellectuelles dont l’union étroite a raison de tous les obstacles. Nous réussirons, groupés autour de la Société nouvelle, je vous le garantis, là où ont échoué nos devanciers, moins bien armés que nous, et c’est ce que j’ai tenu à vous dire avant mon départ pour le sud. Avec une entière confiance dans le succès et une constante énergie, dont vous ne doutez pas, le reste ira de soi et c’est ainsi que, cent ans après que le drapeau français fut planté sur la kasbah d’Alger, nous verrons notre flottille française évoluer sur la mer Saharienne et ravitailler nos postes du désert. »</p>
       </div>
-      <div>
-        <head>V.
-<lb/>
-<lb/>La caravane</head>
+      <div type="chapter">
+        <head>V. La caravane</head>
         <p>Après le retour de l’expédition projetée, ainsi que l’avait annoncé M. de Schaller à la réunion du casino, les travaux seraient repris avec ordre et énergie et les eaux du golfe seraient enfin introduites à travers le nouveau canal par le percement du seuil de Gabès. Mais, auparavant, il était indispensable de vérifier sur place tout ce qui restait des anciens travaux et, pour cela, il avait paru bon de parcourir toute cette partie du Djerid, de suivre le tracé du premier canal jusqu’à son débouché dans le chott Rharsa, le tracé du second jusqu’à son débouché du chott Rharsa dans le chott Melrir à travers les chotts de moindre importance qui les séparent, puis de faire le tour de ce dernier après jonction avec une colonne de travailleurs embauchés à Biskra, et de fixer l’emplacement des divers ports de la mer Saharienne.</p>
         <p>Pour la mise en valeur des deux millions cinq cent mille hectares de terres concédés par l’État à la Compagnie Franco-étrangère et pour le rachat éventuel des travaux effectués par cette Compagnie, ainsi que de ce qui restait à pied d’œuvre du matériel important, une puissante société s’était créée sous la direction d’un Conseil d’administration dont le siège était à Paris. Le public semblait faire bon accueil aux actions et obligations émises par la nouvelle société. La Bourse les tenait à un cours élevé que justifiaient les succès financiers obtenus dans de grandes affaires et dans des travaux publics des plus utiles par ceux qui étaient à sa tête.</p>
         <p>L’avenir de cette œuvre, l’une des plus considérables du milieu du vingtième siècle, paraissait donc être assuré sous tous les rapports.</p>
@@ -458,10 +451,8 @@
         <p>Et assurément, au temps où les bêtes parlaient et disaient sans doute moins de bêtises que les hommes, Va-d’l’avant et Coupe-à-cœur auraient répondu :</p>
         <p>« À demain… marchef… à demain ! »</p>
       </div>
-      <div>
-        <head>VI.
-<lb/>
-<lb/>De Gabès à Tozeur</head>
+      <div type="chapter">
+        <head>VI. De Gabès à Tozeur</head>
         <p>Le 17 mars, dès cinq heures du matin, l’expédition quittait Gabès, alors que le soleil, se levant sur l’horizon de la Petite-Syrte, faisait étinceler les longues plaines sablonneuses de la région des chotts.</p>
         <p>Le temps était beau, une légère brise du nord traversait l’espace en chassant quelques nuages qui se dissipaient avant d’atteindre l’horizon opposé.</p>
         <p>Du reste, la période hivernale prenait déjà fin. C’est avec une remarquable régularité que les saisons se succèdent sous le climat de l’Afrique orientale. La période des pluies, l’« ech-chta », n’occupe guère que les mois de janvier et de février. L’été, avec ses températures excessives, va de mai à octobre sous la prédominance des vents qui varient du nord-est au nord-ouest. M. de Schaller et ses compagnons partaient donc à une époque favorable. La campagne de reconnaissance serait assurément terminée avant les terribles chaleurs qui rendent si pénible le cheminement à travers les outtâ sahariennes.</p>
@@ -525,10 +516,8 @@
         <p>– Je n’aime à m’appuyer que sur des faits bien établis, sur des observations précises, conclut l’ingénieur. Mais, en vérité, plus j’ai étudié le sol de cette région, plus je le trouve dans des conditions anormales, et il y a à se demander quels changements pourront se produire avec le temps et grâce à des éventualités qu’on ne saurait prévoir ! Mais, en attendant, contentons-nous, tout en réservant l’avenir, de pouvoir réaliser ce magnifique projet de la mer Saharienne. »</p>
         <p>Après nombre d’étapes à Limagnes, à Seftimi, à Bou-Abdallah, bourgades situées sur la langue de terre qui se prolonge entre le Fedjedj et le Djerid, l’expédition acheva l’exploration du premier canal jusqu’à Tozeur, où elle s’arrêta dans la soirée du 30 mars.</p>
       </div>
-      <div>
-        <head>VII.
-<lb/>
-<lb/>Tozeur et Nefta</head>
+      <div type="chapter">
+        <head>VII. Tozeur et Nefta</head>
         <p>« Ici, disait ce soir-là le marchef Nicol au brigadier Pistache et à M. François, nous sommes dans le pays des dattes par excellence, en véritable « Datterie », comme l’appelle mon capitaine, et comme le nommeraient mes camarades Va-d’l’avant et Coupe-à-cœur, s’ils avaient reçu le don de la parole…</p>
         <p>– Bon, répondit Pistache, les dattes sont partout les dattes, et qu’on les cueille à Gabès ou à Tozeur, pourvu qu’elles proviennent d’un dattier… N’est-il pas vrai, monsieur François ?… »</p>
         <p>On disait toujours « monsieur François » quand on s’adressait à ce personnage. Son maître lui-même ne s’exprimait pas autrement, et M. François y tenait dans sa dignité naturelle.</p>
@@ -606,10 +595,8 @@
         <p>Le soleil n’avait pas encore paru au-dessus de l’horizon, lorsque, les hommes rassemblés, les chevaux et les chariots prêts, le signal du départ fut donné. La douzaine de kilomètres que mesure le canal depuis Nefta jusqu’au coude était franchie dans la première étape, et la distance du coude au Rharsa dans la seconde.</p>
         <p>Aucun incident pendant la route, et il était environ six heures du soir lorsque le capitaine Hardigan fit halte au fond de la crique où le canal complètement achevé débouchait sur le chott.</p>
       </div>
-      <div>
-        <head>VIII.
-<lb/>
-<lb/>Le chott rharsa</head>
+      <div type="chapter">
+        <head>VIII. Le chott Rharsa</head>
         <p>Le campement, cette nuit du 4 au 5 avril, fut établi au pied des dunes, d’un relief assez accusé, qui encadraient le fond de la crique. L’endroit ne présentait aucun abri. Les derniers arbres de cette région désolée avaient été dépassés par la petite troupe à trois ou quatre kilomètres de là, entre Nefta et le chott. C’était le désert sablonneux où s’ébauchaient à peine quelques traces de végétation, le Sahara dans toute son aridité.</p>
         <p>Les tentes avaient été dressées. Les chariots, ravitaillés à Nefta, assuraient pour plusieurs jours la nourriture des hommes et des chevaux. D’ailleurs, en contournant le Rharsa, l’ingénieur s’arrêterait dans les oasis, assez nombreuses sur ses bords, où le fourrage frais se rencontrerait en abondance, et qu’on eût vainement cherchées à l’intérieur du chott.</p>
         <p>C’est ce que M. de Schaller expliquait au capitaine Hardigan et au lieutenant Villette, alors réunis sous la même tente, avant de prendre leur part du repas que se préparait à servir M. François. Un plan du Rharsa, déposé sur la table, permettait d’en reconnaître la configuration. Ce chott, dont la limite méridionale s’écarte peu du trente-quatrième parallèle, s’arrondit vers le nord à travers la région que bordent les montagnes d’Aurès, aux approches de la bourgade de Chebika. Sa plus grande longueur, mesurée précisément sur ce trente-quatrième degré de latitude, se chiffre par soixante kilomètres, mais sa superficie submersible ne couvre que treize cents kilomètres carrés, soit, comme le dit l’ingénieur, de trois à quatre mille fois l’étendue du Champ-de-Mars à Paris.</p>
@@ -713,10 +700,8 @@
         <p>Pendant la nuit suivante, le campement ne fut point troublé par les Touareg qui ne reparurent pas aux environs.</p>
         <p>Dans l’après-midi du lendemain, 10 avril, le détachement fit halte à l’endroit où commençait le second canal qui réunissait les deux chotts.</p>
       </div>
-      <div>
-        <head>IX.
-<lb/>
-<lb/>Le second canal</head>
+      <div type="chapter">
+        <head>IX. Le second canal</head>
         <p>Le second canal, reliant le Rharsa et le Melrir au chott Djerid, avait une longueur environ trois fois moindre que celle du premier. D’autre part, tandis que le relief du sol entre Gabès et le Rharsa présentait des cotes depuis quarante-six jusqu’à quinze mètres, il ne dépassait pas dix mètres entre les deux derniers chotts, au seuil d’Asloudje.</p>
         <p>Il importe de noter aussi que, outre le Rharsa et le Melrir, il existait des dépressions longues de quelques kilomètres, dont la principale était le chott d’El Asloudje, et qui avaient été utilisées pour la percée du canal.</p>
         <p>Le creusement du second canal avait donc demandé moins de temps que celui du premier, et présenté moins de difficultés également. Aussi ne fut-il entrepris que plus tard. Les travaux définitifs pouvant être repris, avec la province de Constantine comme base d’opération et de ravitaillement, il avait été convenu, avant le départ de Gabès, que M. de Schaller trouverait sur le Melrir, à la fin du deuxième canal, sous la conduite d’un agent très compétent des Ponts et Chaussées, un chantier occupé par des hommes qui, après le trajet en chemin de fer jusqu’à Biskra et en caravane le long de la Farfaria, se mettraient en communication avec lui sitôt installés en cet endroit.</p>
@@ -817,10 +802,8 @@
         <p>Les chevaux furent vigoureusement poussés, et, comme le chien prenait les devants, Nicol ne put empêcher son cheval de se lancer sur les traces de Coupe-à-cœur.</p>
         <p>D’ailleurs, tous prirent le galop, et ce fut au milieu d’un nuage de poussière que les spahis firent halte au débouché du canal. Là, pas plus qu’au Rharsa, aucune trace de l’arrivée de l’équipe qui devait venir de Biskra, et quelles furent la surprise, la stupéfaction de l’ingénieur et de ses compagnons, en voyant le chantier bouleversé, la tranchée comblée en partie, tout passage fermé par un barrage de sable, et, par conséquent, l’impossibilité matérielle, pour les eaux, de se déverser dans les profondeurs du Melrir, sans une réorganisation complète des travaux sur ce point !</p>
       </div>
-      <div>
-        <head>X.
-<lb/>
-<lb/>Au kilomètre 347</head>
+      <div type="chapter">
+        <head>X. Au kilomètre 347</head>
         <p>Il avait été question d’appeler Roudaire-Ville le point où aboutissait le second canal sur le Melrir. Puis, comme le canal, en somme, avait pour terminus réel le bord occidental du chott Melrir, on avait pensé à remplacer son nom de ce côté par celui du Président de la Compagnie Franco-étrangère, et à réserver celui de Roudaire pour le port à établir du côté de Mraïer ou de Sétil, en connexion avec le Transsaharien ou une ligne ferrée s’y rattachant. Enfin, comme son nom avait été donné à la crique du Rharsa, l’habitude s’était conservée d’appeler ce point le kilomètre 347.</p>
         <p>De cette tranchée de la dernière section, il ne restait plus vestige. Les sables y étaient amoncelés dans toute sa largeur et sur une étendue de plus de cent mètres. Que le creusement n’eût pas été entièrement terminé en cet endroit, c’était admissible. Mais, à cette époque – et M. de Schaller ne l’ignorait point – c’est tout au plus si un bourrelet de médiocre épaisseur aurait dû barrer l’extrémité du canal et quelques jours auraient suffi pour l’éventrer. Évidemment des troupes de nomades endoctrinées, fanatisées, avaient passé par là et avaient ravagé et détruit, en une journée peut-être, ce que le temps avait si bien épargné.</p>
         <p>Immobile sur un étroit plateau qui dominait le canal à sa jonction avec le chott, muet, les deux officiers près de lui, tandis que le détachement stationnait au pied de la dune, l’ingénieur, ne pouvant en croire ses yeux, contemplait mélancoliquement tout ce désastre.</p>
@@ -908,10 +891,8 @@
         <p>Le voyage d’exploration autour du Melrir était donc momentanément suspendu.</p>
         <p>Telles furent les dispositions arrêtées d’un commun accord entre l’ingénieur et le capitaine Hardigan. Mézaki n’y fit aucune objection, approuvant fort l’envoi du lieutenant Villette et des cavaliers à l’oasis de Gizeb. Il assurait que les ouvriers n’hésiteraient pas à revenir au chantier dès qu’ils connaîtraient la présence de l’ingénieur et du capitaine. On verrait d’ailleurs, s’il ne conviendrait pas d’y appeler un fort détachement de maghzen de Biskra, qui garderait le chantier jusqu’au jour où les premières eaux du golfe de Gabès inonderaient le Melrir.</p>
       </div>
-      <div>
-        <head>XI.
-<lb/>
-<lb/>Une excursion de douze heures</head>
+      <div type="chapter">
+        <head>XI. Une excursion de douze heures</head>
         <p>À sept heures du matin, le lieutenant Villette et ses hommes quittaient le campement. La journée s’annonçait lourde et chaude, avec menace d’orage, un de ces violents météores qui assaillent souvent les plaines du Djerid. Mais il n’y avait pas de temps à perdre, et M. de Schaller, avec raison, tenait à retrouver Pointar et son personnel.</p>
         <p>Il va sans dire que le marchef montait Va-d’l’avant, et que Va-d’l’avant était accompagné de Coupe-à-cœur.</p>
         <p>Au départ, les spahis avaient chargé sur leurs chevaux des vivres pour la journée, et, d’ailleurs, sans pousser jusqu’à Zeribet, à l’oasis de Gizeb la nourriture eût été assurée.</p>
@@ -1046,10 +1027,8 @@
         <p>Ainsi le campement avait été attaqué, et, à n’en pas douter, Mézaki n’était intervenu que pour favoriser cette nouvelle attaque au même endroit, en entraînant le lieutenant Villette et ses spahis dans la direction de Gizeb…</p>
         <p>Il va de soi que l’Arabe n’avait pas rejoint. Quant à Coupe-à-cœur, le maréchal des logis-chef l’appela vainement, et toutes les heures de la nuit s’écoulèrent sans qu’il eût reparu au campement de Goléah.</p>
       </div>
-      <div>
-        <head>XII.
-<lb/>
-<lb/>Ce qui s’était passé</head>
+      <div type="chapter">
+        <head>XII. Ce qui s’était passé</head>
         <p>Après le départ du lieutenant Villette pour l’oasis de Gizeb, l’ingénieur avait commencé à prendre ses dispositions pour un séjour qui pouvait se prolonger.</p>
         <p>En effet, personne n’avait songé à suspecter Mézaki, personne ne doutait que, le soir même, Pointar et lui seraient de retour à la section avec un certain nombre d’ouvriers ramenés par le lieutenant Villette.</p>
         <p>On ne l’a point oublié, il ne restait au kilomètre 347, en comptant M. de Schaller et le capitaine Hardigan, que dix hommes, le brigadier Pistache, M. François, quatre spahis et les deux conducteurs de chariots. Tous s’occupèrent aussitôt de préparer un campement à la lisière de l’oasis, dans le voisinage du chantier. Là furent conduits les chariots ; puis, le matériel déchargé, on dressa les tentes comme d’habitude. Quant aux chevaux, les conducteurs et les spahis leur choisirent un pâturage, où ils devaient trouver une abondante nourriture. En ce qui concerne le détachement, il avait des vivres pour plusieurs jours encore. D’autre part, il était probable que Pointar, ses contremaîtres et ses ouvriers, ne reviendraient pas sans rapporter tout ce dont ils avaient besoin, et que la bourgade de Zeribet avait pu aisément leur fournir.</p>
@@ -1128,10 +1107,8 @@
         <p>En un instant, tout fut pillé, et les chevaux furent entraînés vers le Melrir.</p>
         <p>Les prisonniers, séparés les uns des autres, dans l’impossibilité de communiquer, étaient poussés à la surface du chott, suivis du chien qui s’était lancé sur leurs traces. Et ils étaient déjà loin lorsque le lieutenant Villette arrivait au campement, où il ne trouvait plus trace des hommes qu’il avait quittés le matin, et des chevaux sans doute échappés pendant l’ouragan.</p>
       </div>
-      <div>
-        <head>XIII.
-<lb/>
-<lb/>L’oasis de Zenfig</head>
+      <div type="chapter">
+        <head>XIII. L’oasis de Zenfig</head>
         <p>Dans son plan géométral, le chott Melrir, en y comprenant au nord les marécages de Farfaria, au sud d’autres dépressions de même nature comme le chott Merouan, affecte assez bien la forme d’un triangle rectangle. Du nord à l’est son hypoténuse dessine une ligne presque droite depuis la direction de Tahir-Nassou jusqu’au point au-dessous du trente-quatrième degré et de l’extrémité du second canal. Son grand côté, accidenté capricieusement, court le long dudit degré et est prolongé comme à l’est par des chotts secondaires. À l’ouest son petit côté monte vers la bourgade de Tahir-Nassou, en suivant à peu près une direction parallèle à la ligne du Transsaharien, projeté en prolongement de la ligne Philippeville-Constantine-Batna-Biskra, dont le tracé devait être modifié pour éviter un embranchement la reliant à un port de la mer nouvelle, sur la rive opposée à l’arrivée du deuxième canal.</p>
         <p>La largeur de cette grande dépression – moins étendue cependant que la surface du Djerid et du Fedjedj – mesure cinquante-cinq kilomètres entre le point terminus de la dernière section du canal et le port à établir sur la côte occidentale en un point à fixer définitivement entre le Signal de Chegga et l’oued Itel, – le projet d’atteindre Meraïer, située plus au sud, semblant abandonné. Mais elle ne peut être inondée que sur six mille kilomètres carrés, soit six cent mille hectares, le restant de sa superficie ayant une cote supérieure au niveau de la Méditerranée. En réalité, la nouvelle mer occuperait huit mille kilomètres carrés dans le cadre des deux chotts, et cinq mille émergeraient après le complet remplissage du Rharsa et du Melrir.</p>
         <p>Ces parties non inondées deviendraient donc des îles. Elles formeraient à l’intérieur du Melrir comme une sorte d’archipel comprenant deux grandes îles. La première, nommée l’Hinguiz, figurerait un rectangle coudé au milieu du chott qu’il diviserait en deux parties, l’autre occuperait l’extrême portion comprise entre les deux côtés de l’angle droit près de Strarie. Quant aux îlots, c’est principalement vers le sud-est qu’ils se rangeraient en lignes parallèles. Lorsque les navires se hasarderaient à travers les passes de cet archipel, ils devraient s’en rapporter sévèrement aux levées hydrographiques établies pour diminuer les risques de cette dangereuse navigation.</p>
@@ -1204,10 +1181,8 @@
         <p>Les marches de ce 15 avril se firent donc dans des conditions meilleures que la veille, et, vers le soir, Sohar s’arrêtait à l’oasis de Zenfig avec ses prisonniers.</p>
         <p>Et quelles furent leur surprise à tous, leurs inquiétudes trop justifiées, lorsqu’ils se trouvèrent en présence de Hadjar !</p>
       </div>
-      <div>
-        <head>XIV.
-<lb/>
-<lb/>En captivité</head>
+      <div type="chapter">
+        <head>XIV. En captivité</head>
         <p>L’habitation dans laquelle furent conduits les prisonniers de Sohar était l’ancien bordj de la bourgade. Depuis nombre d’années déjà il tombait en ruine. Ses murailles délabrées couronnaient un tertre de moyenne altitude sur la lisière septentrionale de l’oasis. Jadis, ce château, un simple fort, avait servi aux Touareg de Zenfig, lors des grandes luttes que les tribus soutinrent entre elles dans toute la région du Djerid. Mais, après la pacification, on ne s’était plus occupé ni de le réparer ni de l’entretenir en bon état.</p>
         <p>Un « sour » ébréché en maint endroit, servait d’enceinte à ce bordj qu’une « souma’ah », sorte de minaret décoiffé de son extrême pointe, surmontait encore et d’où la vue pouvait largement s’étendre en tous sens.</p>
         <p>Cependant, si délabré qu’il fût, le bordj offrait encore quelques parties habitables au centre de la construction. Deux ou trois salles accédant sur une cour intérieure, sans meubles, sans tentures, séparées par d’épaisses parois, pouvaient abriter contre les rafales de la bonne et les froids de la mauvaise saison.</p>
@@ -1312,10 +1287,8 @@
         <p>« Bien… bien… Coupe-à-cœur », dit le brigadier.</p>
         <p>Le capitaine et ses compagnons n’avaient plus à s’inquiéter de ce misérable qui gisait sans vie à cette place, et, d’un pas rapide, ils suivirent, la lisière de l’Hinguiz en se dirigeant vers l’est du Melrir.</p>
       </div>
-      <div>
-        <head>XV.
-<lb/>
-<lb/>En fuite</head>
+      <div type="chapter">
+        <head>XV. En fuite</head>
         <p>C’était après avoir mûrement réfléchi sur ce qu’il y avait à faire à la suite d’une évasion que le capitaine Hardigan avait pris cette direction de l’est. À l’opposé, sans doute, un peu au-delà de la lisière occidentale du Melrir, se trouvait la piste fréquentée de Touggourt que suivait le tracé du Transsaharien, et d’où il aurait été facile de gagner Biskra avec sécurité en temps ordinaire. Mais cette partie du chott, il ne la connaissait pas, étant venu par l’est de Goléah à Zenfig, et remonter L’Hinguiz vers l’ouest, c’était non seulement l’inconnu, mais le risque d’y rencontrer des gens postés par Hadjar pour surveiller les troupes pouvant arriver de Biskra par ce côté. D’ailleurs le parcours était à peu près égal entre Zenfig et le terminus du canal. Les ouvriers pouvaient être revenus en force au chantier. Et puis, à rallier Goléah, peut-être rejoindrait-on le détachement du lieutenant Villette qui devait plutôt effectuer ses recherches en cette portion du Djerid… Enfin, de ce côté s’était élancé Coupe-à-cœur à travers l’oasis, et comme le pensait le brigadier, il avait « ses raison pour cela ! » et ne convenait-il pas de s’en rapporter la sagacité de Coupe-à-cœur ? Aussi avait-il dit :</p>
         <p>« Mon capitaine, il n’y a qu’à le suivre ! Il ne se trompera pas !… Et d’ailleurs, il y voit la nuit comme le jour !… Je vous l’affirme, c’est un chien qui a des yeux de chat !…</p>
         <p>– Suivons-le », avait répondu le capitaine Hardigan.</p>
@@ -1387,10 +1360,8 @@
         <p>« En route !… dit le capitaine.</p>
         <p>– Oui… en route… bonne troupe ! » répondit le brigadier Pistache qui, non sans raison, crut devoir modifier ainsi la vieille locution populaire.</p>
       </div>
-      <div>
-        <head>XVI.
-<lb/>
-<lb/>Le tell</head>
+      <div type="chapter">
+        <head>XVI. Le tell</head>
         <p>Il était un peu plus de sept heures lorsque le capitaine Hardigan et ses compagnons quittèrent la pointe. La nature particulière du sol commandait de n’avancer qu’avec grande précaution. Les efflorescences de sa surface ne permettaient pas de reconnaître s’il offrait une résistance suffisante et si, à chaque pas, on ne risquait pas de s’enliser dans une fondrière.</p>
         <p>L’ingénieur, d’après les sondages du capitaine Roudaire et ceux qu’il avait faits lui-même, savait à quoi s’en tenir sur la composition de ces terrains dont la couche forme le fond des sebkha et des chotts. À la partie supérieure s’étend une croûte salifère, sujette à de certaines oscillations très sensibles. Au-dessous, les sables se mélangent de marnes, parfois fluides, où l’eau entre pour les deux tiers, ce qui leur enlève toute consistance. Parfois les sondes ne rencontrent la roche qu’à de grandes profondeurs. Il n’y a donc pas lieu de s’étonner si hommes et chevaux disparaissaient dans ces couches semi-liquides, comme si le sol se dérobait sous eux, et sans qu’il fût possible de leur porter secours.</p>
         <p>Il eût été à souhaiter que, au sortir de l’Hinguiz, les fugitifs retrouvassent les empreintes du passage de Hadjar et de sa troupe de Touareg à travers cette partie du chott. Des traces de pas sur la croûte blanche n’auraient pas encore eu le temps de s’effacer, puisque ni le vent ni la pluie n’avaient balayé l’est du Melrir depuis quelques jours. Dans ce cas, il n’y aurait eu qu’à les suivre pour ne point s’écarter des passes bien connues des indigènes jusqu’à l’oasis de Goléah, vers laquelle vraisemblablement se dirigeait le chef targui. Mais ce fut en vain que M. de Schaller rechercha ces vestiges, et il fallut en conclure que la bande n’avait pas longé jusqu’à son extrême pointe les bords de l’Hinguiz.</p>
@@ -1468,10 +1439,8 @@
         <p>Le jour allait enfin paraître. Mais les quelques clartés qui se dessinaient à l’orient du chott étaient bien pâles, et il semblait qu’un épais rideau de brumes se tendit à l’horizon.</p>
         <p>Tous, debout au pied des arbres, le regard fixé dans cette direction, n’attendaient que les premières lueurs de l’aube pour reconnaître la situation. Mais, par une malchance déplorable, ils furent déçus dans leur attente !</p>
       </div>
-      <div>
-        <head>XVII.
-<lb/>
-<lb/>Dénouement</head>
+      <div type="chapter">
+        <head>XVII. Dénouement</head>
         <p>Une sorte de brouillard s’étendait au-dessus et autour de la dune, et si épais que les premiers rayons ne pourraient le dissoudre. On ne se voyait pas à quatre pas, et les branches des arbres étaient noyées dans ces lourdes vapeurs.</p>
         <p>« Décidément, le diable s’en mêle ! s’écria le brigadier.</p>
         <p>– Je suis porté à le croire » répondit M. François.</p>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="https://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Un capitaine de quinze ans </title>
+        <title>Un capitaine de quinze ans</title>
         <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt>
@@ -2982,7 +2982,7 @@
           <p>Neuf mois après, son corps, transporté par ses fidèles serviteurs au prix de fatigues inouïes, arrivait à Zanzibar, et, le 12 avril 1874, il était inhumé dans l’abbaye de Westminster, au milieu de ceux de ses grands hommes que l’Angleterre honore à l’égal de ses rois.</p>
         </div>
         <div type="chapter">
-          <head>II.15. Ou peut conduire une manticore</head>
+          <head>II.15. Où peut conduire une manticore</head>
           <p>À quelle planche de salut un malheureux ne se raccroche-t-il pas ! Quelle lueur d’espoir, si vague qu’elle soit, les yeux du condamné ne cherchent-ils pas à surprendre !</p>
           <p>Il en avait été ainsi de Mrs. Weldon, et l’on comprendra ce qu’elle dut éprouver, lorsqu’elle apprit, de la bouche même d’Alvez, que le docteur Livingstone venait de succomber dans un petit village du Bangouéolo. Il lui sembla qu’elle était plus isolée que jamais, qu’une sorte de lien qui la rattachait au voyageur, et avec lui au monde civilisé, venait de se rompre. La planche de salut fuyait sous sa main, la lueur d’espoir s’éteignait à ses yeux. Tom et ses compagnons avaient quitté Kazonndé pour la région des lacs. D’Hercule, pas la moindre nouvelle. Mrs. Weldon ne pouvait décidément compter sur personne... il lui fallait donc en revenir à la proposition de Negoro, en essayant de l’amender et d’en assurer le résultat définitif.</p>
           <p>Le 14 juin, au jour fixé par lui, Negoro se présentait à la hutte de Mrs. Weldon.</p>

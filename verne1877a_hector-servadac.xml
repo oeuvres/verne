@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-06T15:09:37+01:00-->
-<!-- fautes d'inattention -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -39,10 +37,7 @@
       <div>
         <head>Première partie</head>
         <div type="chapter">
-          <head>
-            <hi rend="b">Chapitre I 
-<lb/>Le comte : « voici ma carte. » – Le capitaine : « voici la mienne. »</hi>
-          </head>
+          <head>Chapitre I. Le comte : « voici ma carte. » – Le capitaine : « voici la mienne. »</head>
           <p>« Non, capitaine, il ne me convient pas de vous céder la place !</p>
           <p>– Je le regrette, monsieur le comte, mais vos prétentions ne modifieront pas les miennes !</p>
           <p>– Vraiment ?</p>
@@ -127,8 +122,7 @@
           <p>Mais tout l’effort poétique du capitaine Servadac ne put le mener au-delà, et quand, à six heures, il fut de retour au gourbi, il ne tenait encore que son premier quatrain.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre II
-<lb/>Dans lequel on photographie physiquement et moralement le capitaine Servadac et son ordonnance Ben-Zouf</head>
+          <head>Chapitre II. Dans lequel on photographie physiquement et moralement le capitaine Servadac et son ordonnance Ben-Zouf</head>
           <p>Cette année-là et à cette date, on pouvait lire sur ses états de service, au ministère de la Guerre :</p>
           <p>« Servadac (Hector), né le 19 juillet 18.., à Saint-Trélody, canton et arrondissement de Lespare, département de la Gironde. »</p>
           <p>« Fortune : Douze cents francs de rente. »</p>
@@ -159,8 +153,7 @@
           <p>À cette observation, les yeux de Ben-Zouf avaient lancé deux éclairs, et, depuis ce jour, sa butte et son capitaine s’étaient indistinctement confondus dans son cœur.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre III
-<lb/>Où l’on verra que l’inspiration poétique du capitaine Servadac est interrompue par un choc malencontreux</head>
+          <head>Chapitre III. Où l’on verra que l’inspiration poétique du capitaine Servadac est interrompue par un choc malencontreux</head>
           <p>Un gourbi n’est autre chose qu’une sorte de hutte, construite en boulins, et recouverte d’un chaume que les indigènes appellent « driss ». C’est un peu plus que la tente de l’Arabe nomade, mais beaucoup moins que l’habitation faite de pierres ou de briques.</p>
           <p>Le gourbi habité par le capitaine Servadac n’était donc, à tout prendre, qu’une cahute, et il n’aurait pas suffi aux besoins de ses hôtes, s’il n’eût attenu à un ancien poste, construit en pierres, qui servait au logement de Ben-Zouf et de deux chevaux. Ce poste avait été précédemment occupé par un détachement du génie, et il renfermait encore une certaine quantité d’outils, tels que pioches, pics, pelles, etc.</p>
           <p>Certes, le confortable laissait à désirer dans ce gourbi, mais ce n’était qu’un campement provisoire. D’ailleurs, ni le capitaine ni son ordonnance n’étaient difficiles en matière de nourriture et de logement.</p>
@@ -198,8 +191,7 @@
           <p>Ce dernier mot n’était pas prononcé, que le capitaine Servadac et Ben-Zouf étaient précipités la face contre terre avec une effroyable violence.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IV
-<lb/>Qui permet au lecteur de multiplier à l’infini les points d’exclamation et d’interrogation !</head>
+          <head>Chapitre IV. Qui permet au lecteur de multiplier à l’infini les points d’exclamation et d’interrogation !</head>
           <p>Pourquoi, à ce moment même, l’horizon s’était-il si étrangement et si subitement modifié, que l’œil exercé d’un marin n’eût pu reconnaître la ligne circulaire sur laquelle devaient se confondre le ciel et l’eau ?</p>
           <p>Pourquoi la mer élevait-elle alors ses lames à une hauteur que les savants avaient refusé d’admettre jusqu’alors ?</p>
           <p>Pourquoi, au milieu des craquements du sol qui se déchirait, s’était-il produit un épouvantable fracas, composé de bruits divers, tels que grincements dus à une dislocation violente de la charpente du globe, mugissements des eaux entrechoquées à une profondeur anormale, sifflements des nappes d’air aspirées comme elles le sont dans un cyclone ?</p>
@@ -211,8 +203,7 @@
           <p>Qui eût pu le dire ? et restait-il même un seul des habitants sur le globe terrestre pour répondre à ces questions ?</p>
         </div>
         <div type="chapter">
-          <head>Chapitre V
-<lb/>Dans lequel il est parlé de quelques modifications apportées à l’ordre physique, sans qu’on puisse en indiquer la cause</head>
+          <head>Chapitre V. Dans lequel il est parlé de quelques modifications apportées à l’ordre physique, sans qu’on puisse en indiquer la cause</head>
           <p>Cependant, aucun changement ne semblait s’être produit dans cette portion du littoral algérien, bornée à l’ouest par la rive droite du Chéliff et au nord par la Méditerranée. Bien que la commotion eût été très violente, ni sur cette fertile plaine, peut-être un peu bossuée çà et là, ni sur la ligne capricieuse de la falaise, ni sur la mer qui s’agitait outre mesure, rien n’indiquait qu’une modification eût altéré leur aspect physique. Le poste de pierre, sauf en quelques parties de la muraille assez profondément disjointes, avait suffisamment résisté. Quant au gourbi, il s’était aplati sur le sol comme un château de cartes au souffle d’un enfant, et ses deux hôtes gisaient sans mouvement sous le chaume affaissé.</p>
           <p>Ce fut deux heures seulement après la catastrophe, que le capitaine Servadac reprit connaissance. Il eut tout d’abord quelque peine à rassembler ses souvenirs, mais les premiers mots qu’il prononça – cela ne surprendra personne – furent les derniers de ce fameux rondeau, qui avaient été si extraordinairement coupés sur ses lèvres : « … je le jure, Et pour… » Puis aussitôt : « Ah çà, dit-il, qu’est-il arrivé ? »</p>
           <p>À cette demande qu’il s’adressa, il lui était assez difficile de répondre. Soulevant alors le bras, il parvint à défoncer la couverture de paille, et sa tête apparut hors du chaume. Le capitaine Servadac regarda d’abord autour de lui.</p>
@@ -346,8 +337,7 @@
           <p>Mais c’est à peine si le capitaine Servadac, devenu très sérieux, eut le temps d’observer les changements qui avaient si profondément altéré l’aspect physique de cette région. L’astre radieux, arrivé sur l’horizon de l’est, y tomba brusquement, comme fait un boulet dans la mer. On eût été sous les tropiques, au 21 septembre ou au 21 mars, à cette époque où le soleil coupe l’écliptique, que le passage du jour à la nuit ne se fût pas opéré plus rapidement. Ce soir-là, il n’y eut pas de crépuscule, et, le lendemain, il était probable qu’il n’y aurait pas d’aurore. Terre, mer, ciel, tout s’ensevelit instantanément dans une obscurité profonde.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VI
-<lb/>Qui engage le lecteur à suivre le capitaine Servadac pendant sa première excursion sur son nouveau domaine</head>
+          <head>Chapitre VI. Qui engage le lecteur à suivre le capitaine Servadac pendant sa première excursion sur son nouveau domaine</head>
           <p>Le caractère aventureux du capitaine Servadac étant donné, on accordera sans peine qu’il ne se montrât point définitivement abasourdi de tant d’événements extraordinaires. Seulement, moins indifférent que Ben-Zouf, il aimait assez à savoir le pourquoi des choses. L’effet lui importait peu, mais à cette condition que la cause lui fût connue. À l’entendre, être tué par un boulet de canon n’était rien, du moment que l’on savait en vertu de quelles lois de balistique et par quelle trajectoire il vous arrivait en pleine poitrine. Telle était sa manière d’envisager les faits de ce monde. Aussi, après s’être préoccupé, autant que le comportait son tempérament, des conséquences du phénomène qui s’était produit, il ne songeait plus guère qu’à en découvrir la cause.</p>
           <p>« Pardieu ! s’écria-t-il, au moment où la nuit se faisait subitement, il faudra voir cela au grand jour… en admettant que le jour, grand ou petit, revienne, car je veux qu’un loup me croque si je sais où s’en est allé le soleil !</p>
           <p>– Mon capitaine, dit alors Ben-Zouf, sans vous commander, que faisons-nous maintenant ?</p>
@@ -426,8 +416,7 @@
           <p>– Et mon rondeau ? dit le capitaine Servadac en se couchant. C’était bien la peine de tant m’escrimer à le faire ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VII
-<lb/>Dans lequel Ben-Zouf croit devoir se plaindre de la négligence du gouverneur général à son égard</head>
+          <head>Chapitre VII. Dans lequel Ben-Zouf croit devoir se plaindre de la négligence du gouverneur général à son égard</head>
           <p>Dix minutes après, le gouverneur général et la « population » dormaient profondément dans une des chambres du poste, le gourbi ne s’étant pas encore relevé de ses ruines. Cependant, le sommeil de l’officier fut légèrement troublé par cette pensée que, s’il avait constaté tant d’effets nouveaux, les causes premières lui étaient toujours inconnues. Sans être autrement cosmographe, un effort de sa mémoire lui rappela certaines lois générales qu’il croyait avoir oubliées. Il se demanda donc si un changement dans l’inclinaison de l’axe terrestre sur l’écliptique n’avait pas engendré ces phénomènes. Mais, si un pareil changement eût expliqué le déplacement des mers et peut-être celui des points cardinaux, il n’avait pu produire l’accourcissement des jours, ni la diminution de l’intensité de la pesanteur à la surface du globe. Hector Servadac dut bientôt renoncer à cette hypothèse, – ce qui ne laissa pas de le tracasser fort, car il était, comme on dit, au bout de son rouleau. Mais, sans doute, la série des singularités n’était pas close, et il était possible que quelque autre étrangeté le mît sur la voie. Il espérait, du moins.</p>
           <p>Le lendemain, le premier soin de Ben-Zouf fut de préparer un bon déjeuner. Il fallait se refaire, que diable ! Lui avait faim comme trois millions d’Algériens. C’était le cas ou jamais d’en finir avec une douzaine d’œufs, que le cataclysme qui avait « cassé le pays » avait cependant respectés. Avec un bon plat de ce couscoussou que l’ordonnance savait préparer remarquablement, cela ferait un excellent repas.</p>
           <p>Or, le fourneau était là, dans le poste, la casserole de cuivre luisait comme si elle sortait des mains du fourbisseur, l’eau fraîche attendait dans une de ces grandes alcarazas dont l’évaporation perlait la surface. Avec trois minutes d’immersion dans l’eau bouillante, Ben-Zouf se chargeait d’obtenir d’excellents œufs à la coque.</p>
@@ -499,8 +488,7 @@
           <p>« Mais, si ce n’est pas la lune, qu’est-ce donc alors ? s’écria le capitaine Servadac en frappant du pied. Ce n’est pas Vénus, ce n’est pas Mercure, puisque ces deux planètes n’ont pas de satellites ! Et, cependant, il s’agit là d’une planète dont l’orbite est contenue dans celle de la terre, puisqu’elle accompagne le soleil dans son mouvement apparent ! Mais, mordioux ! si ce n’est ni Vénus ni Mercure, ce ne peut être que la lune, et, si c’est la lune, où diable a-t-elle volé ce satellite-là ? »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VIII
-<lb/>Où il est question de Vénus et de Mercure, qui menacent de devenir des planètes d’achoppement</head>
+          <head>Chapitre VIII. Où il est question de Vénus et de Mercure, qui menacent de devenir des planètes d’achoppement</head>
           <p>Le soleil reparut bientôt, et tout le fourmillement des étoiles s’effaça devant son intense irradiation. Plus d’observations possibles. Il fallait les remettre aux nuits prochaines, si l’état du ciel le permettait.</p>
           <p>Quant à ce disque dont la lueur s’était glissée à travers la couche de nuages, le capitaine Servadac en avait en vain cherché quelque trace. Il avait disparu, soit que son éloignement, soit que les détours d’une course vagabonde l’eussent entraîné au-delà des limites du regard.</p>
           <p>Le temps était décidément devenu magnifique. Le vent s’était presque complètement calmé, après avoir sauté à l’ancien ouest. Le soleil se levait toujours sur son nouvel horizon et se couchait à l’opposé avec une exactitude remarquable. Les jours et les nuits étaient mathématiquement de six heures, – d’où cette conséquence que le soleil ne s’écartait point du nouvel équateur, dont le cercle passait par l’île Gourbi.</p>
@@ -571,8 +559,7 @@
           <p>– Dame, puisque nous sommes philosophes ! » répondit Ben-Zouf.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IX
-<lb/>Dans lequel le capitaine Servadac pose une série de demandes qui restent sans réponses</head>
+          <head>Chapitre IX. Dans lequel le capitaine Servadac pose une série de demandes qui restent sans réponses</head>
           <p>Hector Servadac s’était élancé hors du poste, et, à toutes jambes, il avait gagné le haut de la falaise.</p>
           <p>Un bâtiment était en vue de l’île, ce n’était pas douteux, et il se trouvait alors à moins de dix kilomètres de la côte ; mais la convexité actuelle de la terre, raccourcissant le rayon de vue, ne laissait encore apercevoir que le haut d’une mâture au-dessus des flots.</p>
           <p>Cependant, quoique la coque du navire ne fût pas visible, ce que l’on apercevait du gréement devait permettre de reconnaître à quelle catégorie de bâtiments il appartenait. C’était évidemment une goélette, et d’ailleurs, deux heures après qu’elle eut été signalée par Ben-Zouf, elle était absolument reconnaissable.</p>
@@ -649,8 +636,7 @@
           <p>Le 31 janvier, Ben-Zouf, un peu ému, il en convenait, et « investi de tous les pouvoirs du gouverneur », fit ses adieux au capitaine Servadac. Il lui recommanda, au cas où, par hasard, il pousserait jusqu’à Montmartre, de voir si la « montagne » n’avait pas été déplacée par quelque phénomène, et la <hi rend="i">Dobryna</hi>, sortant de l’étroite crique sous l’action de son hélice, flotta bientôt en pleine mer.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre X
-<lb/>Où, la lunette aux yeux, la sonde à la main, on cherche à retrouver quelques vestiges de la province d’Alger</head>
+          <head>Chapitre X. Où, la lunette aux yeux, la sonde à la main, on cherche à retrouver quelques vestiges de la province d’Alger</head>
           <p>La <hi rend="i">Dobryna</hi>, admirablement et solidement construite dans les chantiers de l’île de Wight, était une excellente embarcation de deux cents tonneaux, qui eût parfaitement suffi à un voyage de circumnavigation. Colomb et Magellan n’eurent jamais, à beaucoup près, de navires ni aussi grands ni aussi sûrs, lorsqu’ils s’aventurèrent à travers l’Atlantique et le Pacifique. En outre, la <hi rend="i">Dobryna</hi> avait pour plusieurs mois de vivres dans ses cambuses, – ce qui, le cas échéant, lui permettrait de faire le tour de la Méditerranée sans être obligée à se ravitailler en route. Il faut ajouter qu’il n’avait pas été nécessaire d’accroître son lest à l’île Gourbi. En effet, si elle pesait moins, comme tous les objets matériels, depuis la catastrophe, l’eau qui la portait pesait moins aussi. Le rapport des deux poids était donc exactement le même, et la <hi rend="i">Dobryna</hi> se trouvait dans les mêmes conditions de navigabilité.</p>
           <p>Le comte Timascheff n’était pas marin. Aussi, la direction, sinon le commandement de la goélette, appartenait-elle au lieutenant Procope.</p>
           <p>Ce lieutenant était un homme de trente ans. Né sur les terres du comte, fils d’un serf affranchi bien avant le fameux édit du tsar Alexandre, par reconnaissance autant que par amitié, il appartenait corps et âme à son ancien maître. Excellent marin, ayant appris son métier à bord des navires de l’État et sur les bâtiments de commerce, il était pourvu du brevet de lieutenant, lorsqu’il passa sur la <hi rend="i">Dobryna</hi>. C’était à bord de cette goélette que le comte Timascheff naviguait la plus grande partie de l’année, parcourant la Méditerranée pendant l’hiver, pendant l’été sillonnant les mers du Nord.</p>
@@ -699,8 +685,7 @@
           <p>Il fallut enfin revenir au nord, et la <hi rend="i">Dobryna</hi>, virant cap pour cap, se retrouva dans les eaux de l’ancienne Méditerranée, sans avoir retrouvé aucun vestige de ce qui constituait autrefois la province d’Alger.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XI
-<lb/>Où le capitaine Servadac retrouve, épargné par la catastrophe, un îlot qui n’est qu’une tombe</head>
+          <head>Chapitre XI. Où le capitaine Servadac retrouve, épargné par la catastrophe, un îlot qui n’est qu’une tombe</head>
           <p>L’engloutissement subit d’une importante portion de la colonie algérienne ne pouvait donc être mis en doute. C’était même plus qu’une simple disparition de terres au fond des eaux. Il semblait que les entrailles du globe, entrouvertes pour l’anéantir, se fussent refermées sur un territoire tout entier. En effet, le massif rocheux de la province s’était abîmé sans avoir laissé aucune trace, et un sol nouveau, fait d’une substance inconnue, avait remplacé le fond de sable sur lequel reposait la mer.</p>
           <p>Quant à la cause qui avait provoqué cet effroyable cataclysme, elle échappait toujours aux explorateurs de la <hi rend="i">Dobryna</hi>. Il s’agissait donc de reconnaître, maintenant, où était la limite de ces désastres.</p>
           <p>Après sérieuse discussion, il fut convenu que la goélette continuerait sa marche vers l’est et longerait la ligne que traçait autrefois le continent africain sur cette mer dont on ne retrouvait plus les limites. La navigation se faisait sans trop de difficultés, et il fallait profiter des chances qu’offraient alors un temps favorable et un vent propice.</p>
@@ -764,8 +749,7 @@
           <p>Les trois explorateurs quittèrent alors le marabout, puis le rocher désert. Le canot les ramena à bord, et la <hi rend="i">Dobryna</hi>, remettant le cap au sud, perdit bientôt de vue le tombeau du roi Louis IX, seul point de la province tunisienne qu’eut épargné l’inexplicable catastrophe.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XII
-<lb/>Dans lequel, après avoir agi en marin, le lieutenant Procope s’en remet à la volonté de Dieu</head>
+          <head>Chapitre XII. Dans lequel, après avoir agi en marin, le lieutenant Procope s’en remet à la volonté de Dieu</head>
           <p>C’était vers le sud que les cormorans, effarouchés, avaient pris leur vol en fuyant le marabout. Cette direction indiquait peut-être qu’il existait vers le midi quelque terre peu éloignée. De là, un espoir auquel se rattachèrent les explorateurs de la <hi rend="i">Dobryna</hi>.</p>
           <p>Quelques heures après avoir quitté l’îlot, la goélette naviguait sur ces eaux nouvelles, dont les couches peu profondes recouvraient actuellement toute cette presqu’île du Dakhul, qui séparait autrefois la baie de Tunis du golfe de H’Amamât.</p>
           <p>Deux jours plus tard, après avoir vainement cherché la côte du Sahel tunisien, elle atteignait le trente-quatrième parallèle, qui aurait dû traverser en cet endroit le golfe de Gabès.</p>
@@ -831,8 +815,7 @@
           <p>Une coupée de la falaise, large de quarante pieds au plus, venait d’apparaître entre deux murs à pic. C’était un refuge, sinon un passage. La <hi rend="i">Dobryna</hi>, évoluant alors sous la main du lieutenant Procope, poussée par le vent et la mer, s’y précipita !… Peut-être n’en devait-elle plus jamais sortir !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIII
-<lb/>Où il est question du brigadier Murphy, du major Oliphant, du caporal Pim, et d’un projectile qui se perd au-delà de l’horizon</head>
+          <head>Chapitre XIII. Où il est question du brigadier Murphy, du major Oliphant, du caporal Pim, et d’un projectile qui se perd au-delà de l’horizon</head>
           <p>« Je prendrai votre fou si vous voulez bien le permettre, dit le brigadier Murphy, qui, après deux jours d’hésitation, se décida enfin à jouer ce coup, longuement médité.</p>
           <p>– Je le permets, puisque je ne puis l’empêcher », répondit le major Oliphant, absorbé dans la contemplation de l’échiquier.</p>
           <p>Cela se passait dans la matinée du 17 février – ancien calendrier –, et la journée entière s’écoula avant que le major Oliphant eût répondu au coup du brigadier Murphy.</p>
@@ -930,8 +913,7 @@
           <p>Et, en effet, l’étamine blanche, sur laquelle s’écartèle la croix bleue de Russie, flottait à la corne de la goélette.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIV
-<lb/>Qui montre une certaine tension dans les relations internationales et aboutit à une déconvenue géographique</head>
+          <head>Chapitre XIV. Qui montre une certaine tension dans les relations internationales et aboutit à une déconvenue géographique</head>
           <p>La goélette accosta rapidement l’îlot, et les Anglais purent lire à son tableau d’arrière le nom de <hi rend="i">Dobryna</hi>.</p>
           <p>Un retour des roches formait dans la partie sud une petite crique, qui n’aurait pu contenir quatre bateaux de pêche, mais la goélette y devait trouver un mouillage suffisant et même sûr, à la condition que les vents du sud et de l’ouest ne vinssent pas à fraîchir. Elle entra donc dans cette crique. L’ancre fut mouillée, et un canot à quatre avirons, portant le comte Timascheff et le capitaine Servadac, accosta bientôt le littoral de l’îlot.</p>
           <p>Le brigadier Murphy et le major Oliphant, raides et guindés, attendaient gravement.</p>
@@ -1034,8 +1016,7 @@
           <p>En vérité, devant ce nouveau phénomène, qui plaçait Gibraltar là où, géographiquement, aurait dû se trouver Corfou, le comte Timascheff et le capitaine Servadac ne devaient plus avoir qu’une pensée : regagner, l’un la Russie, l’autre la France. C’est pourquoi la <hi rend="i">Dobryna</hi> appareilla immédiatement, et, deux heures après, on ne voyait plus rien de ce qui restait de Gibraltar.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XV
-<lb/>Dans lequel on discute pour arriver à découvrir une vérité dont on s’approche peut-être</head>
+          <head>Chapitre XV. Dans lequel on discute pour arriver à découvrir une vérité dont on s’approche peut-être</head>
           <p>Les premières heures de la navigation furent employées à discuter les conséquences du fait nouveau et inattendu qui venait de se révéler. S’ils ne devaient pas en déduire la vérité tout entière, du moins le comte, le capitaine et le lieutenant Procope allaient-ils pénétrer plus avant dans le mystère de leur étrange situation.</p>
           <p>En effet, que savaient-ils maintenant, et d’une manière incontestable ? C’est que la <hi rend="i">Dobryna</hi>, partant de l’île Gourbi, c’est-à-dire du premier degré de longitude occidentale, n’avait été arrêtée par le nouveau littoral qu’au treizième degré de longitude orientale. C’était donc, en somme, un parcours de quinze degrés. En y ajoutant la longueur de ce détroit qui lui avait livré passage à travers le continent inconnu, soit trois degrés et demi environ, plus la distance qui séparait l’autre extrémité de ce détroit de Gibraltar, soit à peu près quatre degrés, plus enfin celle qui séparait Gibraltar de l’île Gourbi, soit sept degrés, cela faisait en tout vingt-neuf degrés.</p>
           <p>Donc, partie de l’île Gourbi et revenue à son point de départ, après avoir suivi sensiblement le même parallèle, en d’autres termes, après avoir décrit une circonférence entière, la <hi rend="i">Dobryna</hi> avait approximativement franchi vingt-neuf degrés.</p>
@@ -1118,8 +1099,7 @@
           <p>– Si ce n’est, répondit Hector Servadac, que l’auteur du document est enchanté de ce nouvel état de choses et trouve que tout est pour le mieux dans le meilleur des mondes impossibles. »</p>
         </div>
         <div type="chapter">
-          <head><hi rend="b">Chapitre XVI
-</hi><lb/>Dans lequel on verra le capitaine Servadac tenir dans sa main tout ce qui reste d’un vaste continent</head>
+          <head>Chapitre XVI. Dans lequel on verra le capitaine Servadac tenir dans sa main tout ce qui reste d’un vaste continent</head>
           <p>La <hi rend="i">Dobryna</hi>, cependant, après avoir contourné l’énorme promontoire qui lui barrait la route du nord, se dirigeait vers l’endroit où devait se projeter le cap de Creus.</p>
           <p>Les explorateurs causaient, on pourrait dire jour et nuit, de ces étranges choses. Le nom de Gallia revenait fréquemment dans leurs discussions, et insensiblement, presque inconsciemment, il prenait pour eux la valeur d’un nom géographique, c’est-à-dire celui de l’astéroïde qui les emportait dans le monde solaire.</p>
           <p>Mais ces discussions ne pouvaient leur faire oublier qu’ils s’occupaient d’opérer une reconnaissance, devenue indispensable, du littoral méditerranéen. Aussi la goélette suivait-elle toujours, en le rasant d’aussi près que possible, le nouveau cadre de ce bassin qui, très vraisemblablement, formait l’unique mer de Gallia.</p>
@@ -1173,8 +1153,7 @@
           <p>– Oui, capitaine, et maintenant elle devra être la nôtre ! </p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVII
-<lb/>Qui pourrait sans inconvénient être très justement intitulé : du même aux mêmes</head>
+          <head>Chapitre XVII. Qui pourrait sans inconvénient être très justement intitulé : du même aux mêmes</head>
           <p>Il ne restait plus aux navigateurs de la <hi rend="i">Dobryna</hi> qu’à revenir à l’île Gourbi. Cet étroit domaine était, vraisemblablement, la seule portion de l’ancien sol qui pût recevoir et nourrir ceux que le nouvel astre emportait dans le monde solaire.</p>
           <p>« Et, après tout, se dit le capitaine Servadac, c’est presque un morceau de la France ! »</p>
           <p>Ce projet de retour à l’île Gourbi fut donc discuté, et il allait être adopté, lorsque le lieutenant Procope fit observer que le nouveau périmètre de la Méditerranée n’était pas encore entièrement reconnu.</p>
@@ -1253,8 +1232,7 @@
           <p>Quelques heures plus tard, la vigie de la <hi rend="i">Dobryna</hi> avait enfin connaissance de l’île Gourbi.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVIII
-<lb/>Qui traite de l’accueil fait au gouverneur général de l’île Gourbi et des événements qui se sont accomplis pendant son absence</head>
+          <head>Chapitre XVIII. Qui traite de l’accueil fait au gouverneur général de l’île Gourbi et des événements qui se sont accomplis pendant son absence</head>
           <p>La goélette avait quitté l’île le 31 janvier, et elle y revenait le 5 mars, après trente-cinq jours de traversée, – l’année terrestre ayant été bissextile. À ces trente-cinq jours répondaient soixante-dix jours galliens, puisque le soleil avait passé soixante-dix fois au méridien de l’île.</p>
           <p>Hector Servadac éprouva quelque émotion en s’approchant de cet unique fragment du sol algérien qui eût échappé au désastre. Plusieurs fois, pendant cette longue absence, il s’était demandé s’il le retrouverait à cette place, et avec lui son fidèle Ben-Zouf. Ce doute, il pouvait être fondé à l’éprouver au milieu de tant de phénomènes cosmiques qui avaient si profondément modifié la surface de Gallia.</p>
           <p>Mais, les craintes de l’officier d’état-major ne se réalisèrent pas. L’île Gourbi était là, et même – détail assez bizarre –, avant d’atteindre le port du Chéliff, Hector Servadac put constater qu’un nuage d’un aspect tout particulier se développait à une centaine de pieds au-dessus du sol de son domaine. Lorsque la goélette ne fut plus qu’à quelques encablures de la côte, ce nuage apparut comme une masse épaisse qui s’abaissait et s’élevait automatiquement dans l’atmosphère. Le capitaine Servadac reconnut alors que ce n’était point là une agglomération de vapeurs réduites à l’état vésiculaire, mais une agglomération d’oiseaux, pressés dans l’air comme les bandes de harengs le sont dans l’eau. De cette énorme nuée s’échappaient des cris assourdissants, auxquels répondaient, d’ailleurs, de fréquentes détonations.</p>
@@ -1359,8 +1337,7 @@
           <p>– Ne nous montrons pas trop difficiles ! » répondit le capitaine Servadac.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIX
-<lb/>Dans lequel le capitaine Servadac est reconnu gouverneur général de Gallia à l’unanimité des voix, y compris la sienne</head>
+          <head>Chapitre XIX. Dans lequel le capitaine Servadac est reconnu gouverneur général de Gallia à l’unanimité des voix, y compris la sienne</head>
           <p>Les Espagnols venus à bord de la <hi rend="i">Hansa</hi> étaient au nombre de dix, en comptant un jeune garçon de douze ans, nommé Pablo, sauvé avec eux. Ils firent un respectueux accueil à celui que Ben-Zouf leur avait annoncé comme le gouverneur général de la province, et, après son départ de la clairière, ils reprirent leurs travaux.</p>
           <p>Pendant ce temps, le capitaine Servadac et ses compagnons, suivis à distance respectueuse par Isac Hakhabut, se dirigeaient vers la partie du littoral à laquelle avait atterri la <hi rend="i">Hansa</hi>.</p>
           <p>La situation était bien connue désormais. De l’ancienne terre, il ne restait que l’île Gourbi, plus quatre îlots : Gibraltar, occupé par les Anglais, Ceuta, abandonné par les Espagnols, Madalena, où la petite Italienne avait été recueillie, et le tombeau de saint Louis, sur la rive tunisienne. Autour de ces points respectés, s’étendait la mer Gallienne, comprenant environ la moitié de l’ancienne Méditerranée, et à laquelle des falaises rocheuses, de substance et d’origine inconnues, faisaient un cadre infranchissable.</p>
@@ -1429,8 +1406,7 @@
           <p>– Oui, Ben-Zouf, répondit le capitaine Servadac ; mais qu’il s’exprime en français, en russe, en espagnol, en italien ou en allemand, c’est toujours argent qu’il parle ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XX
-<lb/>Qui tend à prouver qu’en regardant bien, on finit toujours par apercevoir un feu à l’horizon</head>
+          <head>Chapitre XX. Qui tend à prouver qu’en regardant bien, on finit toujours par apercevoir un feu à l’horizon</head>
           <p>Le lendemain, 6 mars, sans plus se préoccuper de savoir ce que croyait ou ce que ne croyait pas Isac Hakhabut, le capitaine Servadac donna ordre de conduire la <hi rend="i">Hansa</hi> au port du Chéliff. D’ailleurs, le juif ne fit aucune observation, car ce déplacement de la tartane sauvegardait ses intérêts. Mais il espérait bien débaucher secrètement deux ou trois matelots de la goélette, afin de gagner Alger ou tout autre port de la côte.</p>
           <p>Les travaux furent immédiatement entrepris en vue d’un prochain hivernage. Ces travaux étaient, d’ailleurs, facilités par la plus grande force musculaire que les travailleurs pouvaient développer. Ils étaient faits à ces phénomènes de moindre attraction, comme aussi à cette décompression de l’air, qui avait activé leur respiration, et ils ne s’en apercevaient même plus.</p>
           <p>Les Espagnols, aussi bien que les Russes, se mirent donc à la besogne avec ardeur. On commença par approprier aux besoins de la petite colonie le poste, qui, jusqu’à nouvel ordre, devait servir de logement commun. C’est là que vinrent demeurer les Espagnols, les Russes restant sur leur goélette, et le juif à bord de sa tartane.</p>
@@ -1495,8 +1471,7 @@
           <p>« Ah ! Ciel secourable ! s’écria le capitaine Servadac, je ne t’en demandais pas tant ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XXI
-<lb/>Où l’on verra quelle charmante surprise la nature fait, un beau soir, aux habitants de Gallia</head>
+          <head>Chapitre XXI. Où l’on verra quelle charmante surprise la nature fait, un beau soir, aux habitants de Gallia</head>
           <p>C’était, en effet, une merveilleuse habitation, toute chauffée, tout éclairée, que cette caverne, où le petit monde de Gallia trouverait aisément place. Et non seulement Hector Servadac et « ses sujets », comme disait volontiers Ben-Zouf, pourraient s’y loger confortablement, mais les deux chevaux du capitaine et un nombre assez considérable d’animaux domestiques auraient là un abri contre le froid jusqu’à la fin de l’hiver gallien, – si cet hiver devait jamais avoir un terme.</p>
           <p>Cette énorme excavation – cela fut aussitôt reconnu – n’était, à vrai dire, que l’épanouissement formé par une vingtaine de boyaux qui, après s’être ramifiés à l’intérieur du massif, venaient y aboutir. L’air chaud s’y propageait à une température remarquablement élevée. On eût dit vraiment que la chaleur transsudait à travers les pores minéraux du mont. Donc, sous ces épaisses voûtes, à l’abri de toutes les intempéries d’un climat polaire, bravant les froids de l’espace, si bas qu’ils pussent descendre, tous les êtres animés du nouvel astre devaient trouver un refuge assuré, – tant que le volcan se maintiendrait en activité. Mais, ainsi que le fit justement observer le comte Timascheff, aucun autre mont ignivome n’avait été signalé pendant le voyage de la <hi rend="i">Dobryna</hi> sur le périmètre de la nouvelle mer, et si cette unique bouche servait d’exutoire aux feux intérieurs de Gallia, l’éruption pouvait évidemment durer pendant des siècles.</p>
           <p>Il s’agissait donc de ne perdre ni un jour, ni même une heure. Pendant que la <hi rend="i">Dobryna</hi> pouvait naviguer encore, il fallait retourner à l’île Gourbi, en « déménager » lestement, transporter sans retard à leur nouveau domicile hommes et animaux, y emmagasiner céréales et fourrages, et s’installer définitivement sur la Terre-Chaude, – nom très justifié, qui fut donné à cette portion volcanique du promontoire.</p>
@@ -1562,8 +1537,7 @@
           <p>Et, en effet, la lune sortait des brumes de la nuit et apparaissait pour la première fois sur l’horizon de Gallia !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XXII
-<lb/>Qui se termine par une petite expérience assez curieuse de physique amusante</head>
+          <head>Chapitre XXII. Qui se termine par une petite expérience assez curieuse de physique amusante</head>
           <p>La lune ! Si c’était la lune, pourquoi avait-elle disparu ? Et si elle reparaissait, d’où venait-elle ? Jusqu’alors, aucun satellite n’avait accompagné Gallia dans son mouvement de translation autour du soleil. L’infidèle Diane venait-elle donc d’abandonner la terre pour passer au service du nouvel astre ?</p>
           <p>« Non ! c’est impossible, dit le lieutenant Procope. La terre est à plusieurs millions de lieues de nous, et la lune n’a pas discontinué de graviter autour d’elle !</p>
           <p>– Eh ! nous n’en savons rien, fit observer Hector Servadac. Pourquoi la lune ne serait-elle pas tombée depuis peu dans le centre d’attraction de Gallia, et devenue son satellite ?</p>
@@ -1627,8 +1601,7 @@
           <p>La mer Gallienne venait de se solidifier sur sa surface tout entière </p>
         </div>
         <div type="chapter">
-          <head>Chapitre XXIII
-<lb/>Qui traite d’un événement de haute importance, lequel met en émoi toute la colonie Gallienne</head>
+          <head>Chapitre XXIII. Qui traite d’un événement de haute importance, lequel met en émoi toute la colonie Gallienne</head>
           <p>Au 23 mars, trois heures après le coucher du soleil, la lune se leva sur l’horizon opposé, et les Galliens purent voir qu’elle entrait déjà dans son dernier quartier.</p>
           <p>Ainsi, en quatre jours, le satellite de Gallia était passé de syzygie en quadrature, ce qui lui assignait une période de visibilité d’une semaine environ, et, par conséquent, des lunaisons de quinze à seize jours. Donc, pour Gallia, les mois lunaires avaient diminué de moitié comme les jours solaires.</p>
           <p>Trois jours plus tard, le 26, la lune entrait en conjonction avec le soleil et disparaissait dans son irradiation.</p>
@@ -1687,8 +1660,7 @@
           <p>« Formentera. »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XXIV
-<lb/>Dans lequel le capitaine Servadac et le lieutenant Procope apprennent enfin le mot de cette énigme cosmographique</head>
+          <head>Chapitre XXIV. Dans lequel le capitaine Servadac et le lieutenant Procope apprennent enfin le mot de cette énigme cosmographique</head>
           <p>« FORMENTERA ! » s’écrièrent presque à la fois le comte Timascheff et le capitaine Servadac.</p>
           <p>Ce nom était celui d’une petite île du groupe des Baléares, situé dans la Méditerranée. Il indiquait d’une façon précise le point qu’occupait alors l’auteur des documents. Mais que faisait là ce Français, et, s’il y était, vivait-il encore ?</p>
           <p>C’était évidemment de Formentera même que ce savant avait lancé les diverses notices, dans lesquelles il indiquait les positions successives de ce fragment du globe terrestre qu’il nommait Gallia.</p>
@@ -1788,8 +1760,7 @@
       <div>
         <head>DEUXIÈME PARTIE</head>
         <div type="chapter">
-          <head>Chapitre I
-<lb/>Dans lequel on présente sans cérémonie le trente-sixième habitant du sphéroïde gallien</head>
+          <head>Chapitre I. Dans lequel on présente sans cérémonie le trente-sixième habitant du sphéroïde gallien</head>
           <p>Le trente-sixième habitant de Gallia venait enfin d’apparaître sur la Terre-Chaude. Les seuls mots, à peu près incompréhensibles, qu’il eût encore prononcés, étaient ceux-ci.</p>
           <p>« C’est ma comète, à moi ! C’est ma comète ! »</p>
           <p>Que signifiait cette réponse ? Voulait-elle dire que ce fait, inexplicable jusqu’ici, la projection dans l’espace d’un énorme fragment détaché de la terre, était dû au choc d’une comète ? Y avait-il donc eu rencontre sur l’orbite terrestre ? Ce nom de Gallia, auquel des deux astéroïdes le solitaire de Formentera l’avait-il donné, à l’astre chevelu ou au bloc lancé à travers le monde solaire ? Cette question ne pouvait être résolue que par le savant qui venait de réclamer si énergiquement « sa comète » !</p>
@@ -1873,8 +1844,7 @@
           <p>Palmyrin Rosette pouvait seul élucider tout à fait le problème !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre II
-<lb/>Dont le dernier mot apprend au lecteur ce que, sans doute, il avait déjà deviné</head>
+          <head>Chapitre II. Dont le dernier mot apprend au lecteur ce que, sans doute, il avait déjà deviné</head>
           <p>Ainsi s’acheva cette journée du 19 avril. Pendant que leurs chefs discutaient de cette façon, les colons vaquaient à leurs affaires habituelles. L’introduction inattendue du professeur sur la scène gallienne n’était pas pour les préoccuper à ce point. Les Espagnols, insouciants par nature, les Russes, confiants dans leur maître, s’inquiétaient peu des effets et des causes. Si Gallia devait revenir un jour à la terre ou s’ils devaient y vivre, c’est-à-dire y mourir, ils ne se préoccupaient guère de l’apprendre ! Aussi, pendant la nuit qui vint, ne perdirent-ils pas une heure de sommeil et reposèrent-ils comme des philosophes que rien ne peut émouvoir.</p>
           <p>Ben-Zouf, métamorphosé en infirmier, ne quitta pas le chevet du professeur Rosette. Il en avait fait sa chose. Il s’était engagé à le remettre sur pied. Son honneur était en jeu. Aussi, comme il le dorlotait ! À la moindre occasion, quelles puissantes gouttes de cordial il lui administrait ! Comme il comptait ses soupirs ! Comme il guettait les paroles qui s’échappaient de ses lèvres ! La vérité oblige à dire que le nom de Gallia revenait souvent dans le sommeil agité de Palmyrin Rosette, les intonations variant de l’inquiétude à la colère. Le professeur rêvait-il donc qu’on voulait lui voler sa comète, qu’on lui contestait la découverte de Gallia, qu’on le chicanait sur la priorité de ses observations et de ses calculs ? c’était vraisemblable. Palmyrin Rosette était de ces gens qui ragent, même en dormant.</p>
           <p>Mais, si attentif que fût le garde-malade, il ne surprit rien, dans ces paroles incohérentes, qui fût de nature à résoudre le grand problème. D’autre part, le professeur dormit toute la nuit, et ses soupirs, légers au début, se changèrent bientôt en ronflements sonores, du meilleur augure !</p>
@@ -1999,8 +1969,7 @@
           <p>– Sur l’astre que j’ai appelé Gallia, répondit Palmyrin Rosette d’un ton triomphant. Vous êtes sur ma comète ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre III
-<lb/>Quelques variations sur le vieux thème si connu des comètes du monde solaire et autres</head>
+          <head>Chapitre III. Quelques variations sur le vieux thème si connu des comètes du monde solaire et autres</head>
           <p>Lorsque le professeur Palmyrin Rosette faisait une conférence sur la cométographie, voici comment, d’après les meilleurs astronomes, il définissait les comètes :</p>
           <p>« Astres composés d’un point central qu’on appelle noyau, d’une nébulosité qu’on appelle chevelure, d’une traînée lumineuse qu’on appelle queue, – lesdits astres n’étant visibles pour les habitants de la terre que dans une partie de leur cours, grâce à la très grande excentricité de l’orbite qu’ils décrivent autour du soleil. »</p>
           <p>Puis, Palmyrin Rosette ne manquait jamais d’ajouter que sa définition était rigoureusement exacte, – à cela près, toutefois, que ces astres pouvaient se passer soit de noyau, soit de queue, soit de chevelure, et n’en être pas moins des comètes.</p>
@@ -2096,8 +2065,7 @@
           <p>« Sans doute, ainsi que le dit plus tard Palmyrin Rosette, sans doute, mais nous avons tiré la boule blanche. »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IV
-<lb/>Dans lequel on verra Palmyrin Rosette tellement enchanté de son sort que cela donne beaucoup à réfléchir</head>
+          <head>Chapitre IV. Dans lequel on verra Palmyrin Rosette tellement enchanté de son sort que cela donne beaucoup à réfléchir</head>
           <p>« La comète ! » tels étaient les derniers mots prononcés par le professeur. Puis il avait regardé ses auditeurs en fronçant le sourcil, comme si l’un d’eux eût eu la pensée de lui contester ses droits de propriété sur Gallia. Peut-être même se demandait-il à quel titre ces intrus, rangés autour de lui, s’étaient installés sur son domaine.</p>
           <p>Cependant, le capitaine Servadac, le comte Timascheff et le lieutenant Procope étaient restés silencieux. Ils tenaient enfin la vérité, dont ils avaient pu s’approcher de si près. On se rappelle quelles furent les hypothèses successivement admises après discussions : d’abord, changement de l’axe de rotation de la terre et modification de deux points cardinaux ; puis, fragment détaché du sphéroïde terrestre et emporté dans l’espace ; enfin comète inconnue qui, après avoir effleuré la terre, en avait enlevé quelques parcelles et les entraînait peut-être jusque dans le monde sidéral.</p>
           <p>Le passé, on le connaissait. Le présent, on le voyait. Que serait l’avenir ? Cet original de savant l’avait-il pressenti ? Hector Servadac et ses compagnons hésitaient à le lui demander.</p>
@@ -2195,8 +2163,7 @@
           <p>– Oui, messieurs, répondit Palmyrin Rosette en frappant du pied. Nous sommes bien où nous sommes, et, si cela ne dépendait que de moi, Gallia ne reviendrait jamais à la terre ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre V
-<lb/>Dans lequel l’élève Servadac est assez malmené par le professeur Palmyrin Rosette</head>
+          <head>Chapitre V. Dans lequel l’élève Servadac est assez malmené par le professeur Palmyrin Rosette</head>
           <p>Ainsi donc, pour ces chercheurs, pour ces inventeurs d’hypothèses, tout était clair à présent, tout était expliqué. Ils se trouvaient emportés sur une comète, gravitant dans le monde solaire. Après le choc, c’était la terre, fuyant dans l’espace, que le capitaine Servadac avait entrevue derrière l’épaisse couche de nuages. C’était le globe terrestre qui avait provoqué cette importante et unique marée dont la mer Gallienne avait subi l’influence.</p>
           <p>Mais enfin cette comète devait revenir à la terre, – du moins le professeur l’affirmait. Toutefois, ses calculs étaient-ils assez précis pour que ce retour fût mathématiquement assuré ? On conviendra que les Galliens devaient conserver bien des doutes à cet égard.</p>
           <p>Les jours suivants furent employés à l’installation du nouveau venu. C’était, heureusement, l’un de ces hommes, peu difficiles aux choses de la vie, qui s’accommodent de tout. Vivant jour et nuit dans les cieux, parmi les étoiles, courant après les astres vagabonds de l’espace, les questions de logement et de nourriture – son café à part –, le préoccupaient assez peu. Il n’eut pas même l’air de remarquer cette ingéniosité que les colons avaient déployée dans les aménagements de Nina-Ruche.</p>
@@ -2329,8 +2296,7 @@
           <p>C’était le 31 juillet de l’année terrestre.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VI
-<lb/>Dans lequel on verra que Palmyrin Rosette est fondé à trouver insuffisant le matériel de la colonie</head>
+          <head>Chapitre VI. Dans lequel on verra que Palmyrin Rosette est fondé à trouver insuffisant le matériel de la colonie</head>
           <p>Cependant, Gallia continuait à circuler dans les espaces interplanétaires sous l’influence attractive du soleil. Rien jusqu’alors n’avait gêné ses mouvements. La planète Nérina, qu’elle avait prise à son service en traversant la zone des astéroïdes, lui restait fidèle et accomplissait consciencieusement sa petite révolution bimensuelle. Il semblait que tout dût aller sans encombre pendant la durée de l’année gallienne.</p>
           <p>Mais la grande préoccupation des habitants involontaires de Gallia était toujours celle-ci : reviendrait-on à la terre ? L’astronome ne s’était-il pas trompé dans ses calculs ? Avait-il bien déterminé la nouvelle orbite de la comète et la durée de sa révolution autour du soleil ?</p>
           <p>Palmyrin Rosette était si ombrageux qu’on ne pouvait lui demander de revoir le résultat de ses observations.</p>
@@ -2408,8 +2374,7 @@
           <p>« Ohé ! Nabuchodonosor ! » cria Ben-Zouf.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VII
-<lb/>Où l’on verra qu’Isac trouve une magnifique occasion de prêter son argent à plus de dix-huit cents pour cent</head>
+          <head>Chapitre VII. Où l’on verra qu’Isac trouve une magnifique occasion de prêter son argent à plus de dix-huit cents pour cent</head>
           <p>À la voix de Ben-Zouf, la porte du capot d’arrière s’ouvrit, et Isac Hakhabut se montra à mi-corps.</p>
           <p>« Qui va là ? cria-t-il tout d’abord. Que me veut-on ? Il n’y a personne ! Je n’ai rien à prêter ni à vendre ! »</p>
           <p>Telles furent les hospitalières paroles qui accueillirent les visiteurs.</p>
@@ -2541,8 +2506,7 @@
           <p>« Messieurs, ce ne sont pas deux cent trente francs que j’emporte, c’est de quoi faire exactement un kilogramme et un mètre ! </p>
         </div>
         <div type="chapter">
-          <head>Chapitre VIII
-<lb/>Dans lequel le professeur et ses élèves jonglent avec les sextillions, les quintillions et autres multiples des milliards</head>
+          <head>Chapitre VIII. Dans lequel le professeur et ses élèves jonglent avec les sextillions, les quintillions et autres multiples des milliards</head>
           <p>Un quart d’heure plus tard, les visiteurs de la <hi rend="i">Hansa</hi> étaient réunis dans la salle commune, et les dernières paroles prononcées par le professeur allaient avoir leur explication.</p>
           <p>Sur l’ordre du professeur, Ben-Zouf avait enlevé divers objets déposés sur la table, et fait place nette. Les pièces d’argent, empruntées au juif Hakhabut, furent déposées sur cette table, suivant leur valeur, deux piles de vingt pièces de cinq francs, une pile de dix pièces de deux francs, et une pile de vingt pièces de cinquante centimes.</p>
           <p>« Messieurs, dit Palmyrin Rosette, très satisfait de lui-même, puisque vous n’avez pas eu la prévoyance, au moment du choc, de sauver un mètre et un poids d’un kilogramme de l’ancien matériel terrestre, j’ai dû songer au moyen de remplacer ces deux objets qui me sont indispensables pour calculer l’attraction, la masse et la densité de ma comète. »</p>
@@ -2656,8 +2620,7 @@
           <p>– À rien ! répondit le capitaine Servadac, et c’est précisément ce qui en fait le charme ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IX
-<lb/>Dans lequel il sera uniquement question de Jupiter, surnommé le grand troubleur de comètes</head>
+          <head>Chapitre IX. Dans lequel il sera uniquement question de Jupiter, surnommé le grand troubleur de comètes</head>
           <p>En effet, Palmyrin Rosette n’avait fait que de l’art pour l’art. Il connaissait les éphémérides de la comète, sa marche dans les espaces interplanétaires, la durée de sa révolution autour du soleil. Le reste, masse, densité, attraction, et même la valeur métallique de Gallia, ne pouvait intéresser que lui et non ses compagnons, désireux surtout de retrouver la terre au point de son orbite et à la date indiquée.</p>
           <p>On laissa donc le professeur à ses travaux de science pure.</p>
           <p>Le lendemain était le 1<hi rend="sup">er</hi> août, ou, pour emprunter le langage de Palmyrin Rosette, le 63 avril gallien. Pendant ce mois, la comète, qui allait faire seize millions cinq cent mille lieues, devait s’éloigner à cent quatre-vingt-dix sept millions de lieues du soleil. Il lui fallait parcourir encore quatre-vingt et un millions de lieues sur sa trajectoire, pour atteindre le point aphélie, au 15 janvier. À partir de ce point, elle tendrait à se rapprocher du soleil.</p>
@@ -2724,8 +2687,7 @@
           <p>Gallia, suivant son immuable trajectoire, continuait de graviter autour du soleil et, conséquemment, à marcher vers la terre.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre X
-<lb/>Dans lequel il sera nettement établi qu’il vaut mieux trafiquer sur la terre que sur Gallia</head>
+          <head>Chapitre X. Dans lequel il sera nettement établi qu’il vaut mieux trafiquer sur la terre que sur Gallia</head>
           <p>« Mordioux ! je crois que nous l’avons échappé belle ! » s’écria le capitaine Servadac, lorsque le désappointement du professeur lui eut démontré que tout péril s’était évanoui.</p>
           <p>Puis, s’adressant à ses compagnons, non moins satisfaits que lui-même :</p>
           <p>« Qu’est-ce que nous aurons fait, en somme ? Un simple voyage dans le monde solaire, un voyage de deux ans ! Mais on en fait sur terre qui durent davantage ! Donc, jusqu’ici, nous n’avons pas à nous plaindre, et, puisque tout marchera convenablement désormais, avant quinze mois nous aurons réintégré notre sphéroïde habituel.</p>
@@ -2834,8 +2796,7 @@
           <p>Quand j’entends résonner le canon !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XI
-<lb/>Dans lequel le monde savant de Gallia se lance, en idée, au milieu des infinis de l’espace</head>
+          <head>Chapitre XI. Dans lequel le monde savant de Gallia se lance, en idée, au milieu des infinis de l’espace</head>
           <p>Un mois s’écoula. Gallia continuait à graviter, emportant son petit monde avec elle. Petit monde, en effet, mais peu accessible jusqu’alors à l’influence des passions humaines ! La cupidité, l’égoïsme n’y étaient représentés que par Hakhabut, ce triste échantillon de la race humaine, et c’était la seule tache que l’on pût relever à ce microcosme séparé de l’humanité.</p>
           <p>Après tout, ces Galliens ne devaient se considérer que comme des passagers, faisant un voyage de circumnavigation dans le monde solaire. De là, cette pensée de s’installer à bord aussi confortablement que possible, mais temporairement. Ce tour du monde achevé, après deux ans d’absence, leur navire accosterait l’ancien sphéroïde, et si les calculs du professeur étaient d’une absolue justesse – mais il fallait qu’ils le fussent –, ils quitteraient la comète pour remettre le pied sur les continents terrestres.</p>
           <p>Il est vrai que l’arrivée du navire Gallia à la terre, « son port d’attache », ne s’opérerait sans doute qu’au prix de difficultés extrêmes, de dangers vraiment terribles. Mais c’était une question à traiter plus tard et qui viendrait en son temps.</p>
@@ -2883,8 +2844,7 @@
           <p>Non ! Gallia ne devait jamais quitter le monde solaire, ni perdre la terre de vue. Et, après avoir décrit un orbe de six cent trente millions de lieues environ, elle n’aurait fait cependant qu’un insignifiant voyage dans cet univers dont l’immensité est sans limites.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XII
-<lb/>Comment on célébra le 1<hi rend="sup">er</hi> janvier sur Gallia, et de quelle façon se termina ce jour de fête</head>
+          <head>Chapitre XII. Comment on célébra le 1<hi rend="sup">er</hi> janvier sur Gallia, et de quelle façon se termina ce jour de fête</head>
           <p>Cependant, avec l’éloignement progressif de Gallia, le froid s’accroissait notablement. Déjà la température s’était abaissée au-delà de quarante-deux degrés au-dessous de glace. Dans ces conditions, les thermomètres à mercure n’auraient pu être utilisés, puisque le mercure se solidifie à quarante-deux degrés. Le thermomètre à alcool de la <hi rend="i">Dobryna</hi> fut donc mis en usage, et sa colonne tomba à cinquante-trois degrés au-dessous de glace.</p>
           <p>En même temps, l’effet prévu par le lieutenant Procope s’était manifesté sur les bords de cette crique, dans laquelle les deux navires avaient été mis en état d’hivernage. Les couches glacées, par un mouvement lent, mais irrésistible, s’étaient épaissies sous la carène de la <hi rend="i">Hansa</hi> et de la <hi rend="i">Dobryna</hi>. Près du promontoire de roches qui les abritait, la goélette et la tartane, surélevées dans leur cuvette de glace, atteignaient déjà un niveau de cinquante pieds au-dessus de la mer Gallienne. La <hi rend="i">Dobryna</hi>, plus légère que la tartane, la dominait quelque peu. Aucune force humaine n’eût pu empêcher ce travail de surélévation de s’accomplir.</p>
           <p>Le lieutenant Procope fut très inquiet du sort réservé à la goélette. Tous les objets qu’elle contenait avaient été enlevés. Il ne restait plus que la coque, la mâture et la machine ; mais cette coque, dans le cas de certaines éventualités, n’était-elle pas destinée à donner refuge à la petite colonie ? Si, au dégel, elle se brisait dans une chute impossible à prévenir, et si les Galliens étaient obligés de quitter la Terre-Chaude, quelle autre embarcation la pourrait remplacer ?</p>
@@ -2941,8 +2901,7 @@
           <p>Ainsi finit sur Gallia ce premier jour de l’année terrestre, si joyeusement commencé !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIII
-<lb/>Dans lequel le capitaine Servadac et ses compagnons font la seule chose qu’il y eut à faire</head>
+          <head>Chapitre XIII. Dans lequel le capitaine Servadac et ses compagnons font la seule chose qu’il y eût à faire</head>
           <p>Les Galliens passèrent le reste de la nuit, c’est-à-dire les quelques heures qui précédaient le jour, dans d’inexprimables appréhensions. Palmyrin Rosette, chassé par le froid, avait dû quitter son observatoire et se réfugier dans les galeries de Nina-Ruche. C’était peut-être l’occasion ou jamais de lui demander s’il persévérait encore dans cette idée de courir le monde solaire sur son inhabitable comète ; mais il eût répondu affirmativement sans doute. S’il rageait et à quel point, cela ne saurait se dire.</p>
           <p>En même temps que lui, Hector Servadac et ses compagnons avaient dû chercher asile dans les plus profondes galeries du massif. La grande salle, si largement ouverte à l’air extérieur, n’était plus tenable. L’humidité de ses parois se changeait déjà en cristaux, et, quand bien même on fût parvenu à boucher la vaste ouverture que fermait autrefois le rideau de laves, la température y eût été insoutenable.</p>
           <p>Au fond des obscures galeries, une demi-chaleur se propageait encore. L’équilibre ne s’était pas établi entre le dedans et le dehors, mais cela ne pouvait tarder à se faire. On sentait que le calorique se retirait peu à peu. Le mont était comme un cadavre dont les extrémités se refroidissent pendant que le cœur résiste au froid de la mort.</p>
@@ -3002,8 +2961,7 @@
           <p>Cinq jours plus tard, le 15 janvier, Gallia passait à son aphélie, à l’extrémité du grand axe de son orbite, et elle gravitait alors à deux cent vingt millions de lieues du soleil.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIV
-<lb/>Qui prouve que les humains ne sont pas faits pour graviter à deux cent vingt millions de lieues du soleil</head>
+          <head>Chapitre XIV. Qui prouve que les humains ne sont pas faits pour graviter à deux cent vingt millions de lieues du soleil</head>
           <p>Gallia allait donc, à partir de ce jour, remonter peu à peu sur sa courbe elliptique et avec une vitesse croissante. Tout être vivant à sa surface était désormais enfoui dans le massif volcanique, à l’exception des treize Anglais de Gibraltar.</p>
           <p>Comment ceux-ci, volontairement demeurés sur leur îlot, avaient-ils supporté cette première moitié de l’hiver gallien ? Mieux, sans doute – c’était l’opinion générale –, que les habitants de la Terre-Chaude. En effet, ils n’avaient pas été forcés d’emprunter à un volcan la chaleur de ses laves pour l’approprier aux besoins de la vie. Leur réserve de charbons et de vivres était très abondante. Ni la nourriture ni le combustible n’avaient dû leur manquer. Le poste qu’ils occupaient, solidement casematé, avec ses épais murs de pierre, les avait évidemment protégés contre les plus forts abaissements de la température. Bien chauffés, ils n’avaient pas eu froid ; bien nourris, ils n’avaient pas eu faim, et leurs vêtements ne pouvaient qu’être devenus trop étroits. Le brigadier Murphy et le major Oliphant avaient dû se porter les coups les plus savants sur le champ clos de l’échiquier. Il n’était donc douteux pour personne que les choses ne se fussent passées à Gibraltar convenablement et confortablement. En tout cas, l’Angleterre n’aurait que des éloges pour ces deux officiers et ces onze soldats, restés fidèlement à leur poste.</p>
           <p>Le capitaine Servadac et ses compagnons, s’ils eussent été menacés de périr par le froid, eussent pu certainement se réfugier à l’îlot de Gibraltar. La pensée de le faire leur en était venue. Ils auraient, sans aucun doute, été reçus hospitalièrement sur cet îlot, bien que le premier accueil eût laissé à désirer. Les Anglais n’étaient pas hommes à abandonner leurs semblables sans leur prêter assistance. Aussi, en cas de nécessité absolue, les colons de la Terre-Chaude n’auraient-ils pas hésité à émigrer vers Gibraltar. Mais c’eût été un long voyage sur l’immense champ de glace, sans abri, sans feu, et, de ceux qui l’auraient entrepris, tous ne seraient peut-être pas arrivés au but ! Aussi, ce projet ne pouvait-il être mis à exécution que dans un cas désespéré, et, tant que le volcan produirait une chaleur suffisante, il était bien entendu que l’on n’abandonnerait pas la Terre-Chaude.</p>
@@ -3066,8 +3024,7 @@
           <p>– Non, mon ami, répondit le comte Timascheff. Aucune puissance humaine ne peut déranger la disposition géométrique de l’univers. Quel désordre, si chacun pouvait modifier la marche de sa planète ! Mais Dieu ne l’a pas voulu, et je crois qu’il a sagement fait. »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XV
-<lb/>Où se fait le récit des premières et dernières relations qui s’établirent entre Palmyrin Rosette et Isac Hakhabut</head>
+          <head>Chapitre XV. Où se fait le récit des premières et dernières relations qui s’établirent entre Palmyrin Rosette et Isac Hakhabut</head>
           <p>Le mois de septembre arriva. Il était encore impossible d’abandonner les obscures mais chaudes retraites du sous-sol gallien pour réintégrer le domicile de Nina-Ruche. Les abeilles eussent été certainement gelées dans leurs anciens alvéoles.</p>
           <p>Heureusement et malheureusement à la fois, le volcan ne menaçait pas de se remettre en activité.</p>
           <p>Heureusement, car une éruption soudaine eût pu surprendre les Galliens dans la cheminée centrale, seul conduit réservé au passage des laves.</p>
@@ -3212,8 +3169,7 @@
           <p>– Eh ! Gallia est toujours où elle doit être ! répondit Palmyrin Rosette. Elle va directement à la terre, et nous avec !… et aussi ce maudit Isac !… que Dieu confonde ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVI
-<lb/>Dans lequel le capitaine Servadac et Ben-Zouf partent et reviennent comme ils étaient partis</head>
+          <head>Chapitre XVI. Dans lequel le capitaine Servadac et Ben-Zouf partent et reviennent comme ils étaient partis</head>
           <p>Cela était vrai. Depuis qu’il avait entrepris son honnête commerce de cabotage, Isac Hakhabut vendait à faux poids. L’homme étant connu, cela n’étonnera personne. Mais le jour où de vendeur il était devenu acheteur, son improbité s’était retournée contre lui. Le principal instrument de sa fortune était ce peson, faux d’un quart, comme cela fut reconnu, – ce qui permit au professeur de reprendre ses calculs, en les rétablissant sur une base juste.</p>
           <p>Lorsque, sur la terre, ce peson marquait un poids d’un kilogramme, en réalité l’objet ne pesait que sept cent cinquante grammes. Donc, au poids qu’il avait indiqué pour Gallia, il fallait retrancher un quart. On comprend donc que les calculs du professeur, se basant sur une masse de la comète trop forte d’un quart, ne pouvaient s’accorder avec les positions vraies de Nérina, puisque c’était la masse de Gallia qui l’influençait.</p>
           <p>Palmyrin Rosette, satisfait d’avoir consciencieusement rossé Isac Hakhabut, se remit aussitôt à la besogne pour en finir avec Nérina.</p>
@@ -3352,8 +3308,7 @@
           <p>On se rappelle que le professeur avait repris la série de ses observations et de ses calculs sur Nérina. Or, il venait de les terminer et tenait enfin tous les éléments de son satellite !… Mais Nérina, qui aurait dû reparaître la veille, n’était pas revenue sur l’horizon de Gallia. Captée sans doute par quelque astéroïde plus puissant, elle s’était échappée en traversant la zone des planètes télescopiques !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVII
-<lb/>Qui traite de la grande question du retour à la terre et de la proposition hardie qui fut faite par le lieutenant Procope</head>
+          <head>Chapitre XVII. Qui traite de la grande question du retour à la terre et de la proposition hardie qui fut faite par le lieutenant Procope</head>
           <p>À son retour, Hector Servadac fit connaître au comte Timascheff le résultat de sa visite aux Anglais. Il ne lui cacha pas que Ceuta avait été vendu par les Espagnols, qui, d’ailleurs, n’avaient aucun droit de le vendre, et il ne tut que ses projets personnels.</p>
           <p>Il fut donc convenu que, puisque les Anglais ne voulaient pas venir à la Terre-Chaude, on se passerait de leur concours. Ils étaient prévenus. À eux de s’en tirer comme ils l’entendraient.</p>
           <p>Restait donc à traiter cette grave question de la nouvelle rencontre qui devait se produire entre la comète et le sphéroïde terrestre.</p>
@@ -3460,8 +3415,7 @@
           <p>Sous l’action d’une expansion intérieure, elle s’était dédoublée, ainsi qu’avait fait autrefois la comète Gambart. Un énorme fragment, détaché d’elle-même, avait été lancé dans l’espace, et il emportait avec lui les Anglais de Ceuta et les Anglais de Gibraltar !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVIII
-<lb/>Dans lequel on verra que les galliens se préparent à contempler d’un peu haut l’ensemble de leur astéroïde</head>
+          <head>Chapitre XVIII. Dans lequel on verra que les galliens se préparent à contempler d’un peu haut l’ensemble de leur astéroïde</head>
           <p>Quelles pouvaient être les conséquences de ce grave événement au point de vue de Gallia ? Le capitaine Servadac et ses compagnons n’osaient encore répondre à cette question.</p>
           <p>Le soleil revint promptement sur l’horizon, et d’autant plus promptement que le dédoublement avait tout d’abord produit ce résultat : si le sens du mouvement de rotation de Gallia n’était pas modifié, si la comète se mouvait toujours sur son axe de l’orient à l’occident, la durée de cette rotation diurne avait diminué de moitié. L’intervalle entre deux levers du soleil n’était plus que de six heures au lieu de douze. Six heures après avoir paru sur l’horizon, l’astre radieux se couchait sur l’horizon opposé.</p>
           <p>« Mordioux ! avait dit le capitaine Servadac, cela nous fait une année de deux mille huit cents jours !</p>
@@ -3572,8 +3526,7 @@
           <p>Les derniers liens furent alors coupés, et la montgolfière s’éleva majestueusement dans l’atmosphère.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIX
-<lb/>Dans lequel on chiffre, minute par minute, les sensations et impressions des passagers de la nacelle</head>
+          <head>Chapitre XIX. Dans lequel on chiffre, minute par minute, les sensations et impressions des passagers de la nacelle</head>
           <p>La montgolfière atteignit une hauteur de deux mille cinq cents mètres. Le lieutenant Procope résolut de la maintenir dans cette zone. Un foyer en fil de fer, suspendu à l’appendice inférieur de l’appareil et chargé d’herbe sèche, pouvait être allumé facilement et conserver l’air intérieur au degré de raréfaction voulue pour que la montgolfière ne s’abaissât pas.</p>
           <p>Les passagers de la nacelle regardèrent sous eux, autour d’eux, au-dessus d’eux.</p>
           <p>Au-dessous s’étendait une large partie de la mer Gallienne, qui semblait former un bassin concave. Dans le nord, un point isolé, c’était l’île Gourbi.</p>
@@ -3624,8 +3577,7 @@
           <p>En même temps, Gallia fuyait obliquement par la tangente, et, contre toute prévision, après avoir effleuré seulement le globe terrestre, elle disparaissait dans l’est du monde.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XX
-<lb/>Qui, contrairement à toutes les règles du roman, ne se termine pas par le mariage du héros</head>
+          <head>Chapitre XX. Qui, contrairement à toutes les règles du roman, ne se termine pas par le mariage du héros</head>
           <p>« Ah ! mon capitaine, l’Algérie !</p>
           <p>– Et Mostaganem, Ben-Zouf ! »</p>
           <p>Telles furent les deux exclamations qui s’échappèrent à la fois de la bouche du capitaine Servadac et de celle de son ordonnance, dès que leurs compagnons et eux eurent repris connaissance. Par un miracle, impossible à expliquer comme tous les miracles, ils étaient sains et saufs. « Mostaganem ! l’Algérie ! » avaient dit le capitaine Servadac et son ordonnance. Et ils ne pouvaient se tromper, ayant été pendant plusieurs années en garnison dans cette partie de la province. Ils revenaient donc presque à l’endroit d’où ils étaient partis, après un voyage de deux ans à travers le monde solaire ! Un hasard étonnant – est-ce bien un hasard, puisque Gallia et la terre se rencontraient à la même seconde sur le même point de l’écliptique ? – les ramenait presque à leur point de départ. Ils n’étaient pas à deux kilomètres de Mostaganem ! Une demi-heure plus tard, le capitaine Servadac et tous ses compagnons faisaient leur entrée dans la ville.</p>

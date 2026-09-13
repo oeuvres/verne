@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Dix heures de chasse </title>
+        <title>Dix heures de chasse</title>
         <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt>
@@ -43,7 +44,7 @@
         <p>C’est par application de cet axiome que je fus invité à faire mes premières armes sur des terrains réservés du département de la Somme, sans en être propriétaire.</p>
         <p>On était à la fin du mois d’août, en 1859, si je ne me trompe. Un arrêté préfectoral venait de fixer au lendemain l’ouverture de la chasse.</p>
         <p>Dans notre ville d’Amiens, où il n’est si mince boutiquier, ni petit artisan, qui ne possède un fusil quelconque, avec lequel il va écumer la grande route des faubourgs – depuis six semaines, à tout le moins, cette date solennelle était impatiemment attendue.</p>
-        <p>Les sportsmen du métier, ceux qui « croient que c’est arrivé », tout comme les tireurs de troisième et de quatrième ordre, les adroits qui tuent aussi bien sans viser que les maladroits qui visent sans jamais tuer, enfin les mazettes non moins « diligents » que les chasseurs<seg rend="appleconvertedspace"> </seg><hi rend="i">di primo cartello</hi>, se préparaient en vue de cette ouverture, s’équipaient, s’approvisionnaient, s’entraînaient, ne pensant que pour penser caille, ne parlant que pour parler lièvre, ne rêvant que pour rêver perdreaux ! Femme, enfants, famille, amis, tout était oublié ! Politique, art, littérature, agriculture, commerce, tout s’effaçait devant les préoccupations de ce grand jour, dans lequel allaient s’illustrer les fanatiques de ce que l’immortel Joseph Prudhomme a cru pouvoir appeler un « divertissement barbare ! » Or, il se trouva que, parmi les quelques amis que je comptais à Amiens, il y en avait un, chasseur déterminé, mais charmant garçon, quoique fonctionnaire. Seulement, s’il se disait quelque peu rhumatisant, lorsqu’il s’agissait d’aller à son bureau, il se retrouvait singulièrement ingambe, quand un congé de huit jours lui permettait de faire l’ouverture.</p>
+        <p>Les sportsmen du métier, ceux qui « croient que c’est arrivé », tout comme les tireurs de troisième et de quatrième ordre, les adroits qui tuent aussi bien sans viser que les maladroits qui visent sans jamais tuer, enfin les mazettes non moins « diligents » que les chasseurs <hi rend="i">di primo cartello</hi>, se préparaient en vue de cette ouverture, s’équipaient, s’approvisionnaient, s’entraînaient, ne pensant que pour penser caille, ne parlant que pour parler lièvre, ne rêvant que pour rêver perdreaux ! Femme, enfants, famille, amis, tout était oublié ! Politique, art, littérature, agriculture, commerce, tout s’effaçait devant les préoccupations de ce grand jour, dans lequel allaient s’illustrer les fanatiques de ce que l’immortel Joseph Prudhomme a cru pouvoir appeler un « divertissement barbare ! » Or, il se trouva que, parmi les quelques amis que je comptais à Amiens, il y en avait un, chasseur déterminé, mais charmant garçon, quoique fonctionnaire. Seulement, s’il se disait quelque peu rhumatisant, lorsqu’il s’agissait d’aller à son bureau, il se retrouvait singulièrement ingambe, quand un congé de huit jours lui permettait de faire l’ouverture.</p>
         <p>Cet ami se nommait Brétignot.</p>
         <p>Quelques jours avant la grande date, Brétignot vint me trouver, moi qui ne pensais à mal.</p>
         <p>« Vous n’avez jamais chassé ? me dit-il avec ce ton de supériorité qui comprend deux parties de bienveillance contre huit de dédain.</p>

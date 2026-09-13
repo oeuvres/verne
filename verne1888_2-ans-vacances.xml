@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -35,7 +35,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>Préface</head>
         <p>Bien des Robinsons ont déjà tenu en éveil la curiosité de nos jeunes lecteurs. Daniel de Foë, dans son immortel Robinson Crusoé, a mis en scène l’homme seul ; Wyss, dans son Robinson suisse, la famille ; Cooper, dans Le Cratère, la société avec ses éléments multiples. Dans l’Île mystérieuse, j’ai mis des savants aux prises avec les nécessités de cette situation. On a imaginé encore le Robinson de douze ans, le Robinson des glaces, le Robinson des jeunes filles, etc. Malgré le nombre infini des romans qui composent le cycle des Robinsons, il m’a paru que, pour le parfaire, il restait à montrer une troupe d’enfants de huit à treize ans, abandonnés dans une île, luttant pour la vie au milieu des passions entretenues par les différences de nationalité, – en un mot, un pensionnat de Robinsons.</p>
         <p>D’autre part, dans le Capitaine de quinze ans, j’avais entrepris de montrer ce que peuvent la bravoure et l’intelligence d’un enfant aux prises avec les périls et les difficultés d’une responsabilité au-dessus de son âge. Or, j’ai pensé que si l’enseignement contenu dans ce livre pouvait être profitable à tous, il devait être complété.</p>
@@ -43,8 +43,10 @@
         <p>Jules Verne</p>
       </div>
       <div type="chapter">
-        <head>Chapitre I
-<lb/>La tempête. – Un schooner désemparé. – Quatre jeunes garçons sur le pont du Sloughi. – La misaine en lambeaux. – Visite à l’intérieur du yacht. – Le mousse à demi étranglé. – Une lame par l’arrière. – La terre à travers les brumes du matin. – Le banc de récifs.</head>
+        <head>Chapitre I</head>
+<argument>
+  <p>La tempête. – Un schooner désemparé. – Quatre jeunes garçons sur le pont du Sloughi. – La misaine en lambeaux. – Visite à l’intérieur du yacht. – Le mousse à demi étranglé. – Une lame par l’arrière. – La terre à travers les brumes du matin. – Le banc de récifs.</p>
+</argument>
         <p>Pendant la nuit du 9 mars 1860, les nuages, se confondant avec la mer, limitaient à quelques brasses la portée de la vue.</p>
         <p>Sur cette mer démontée, dont les lames déferlaient en projetant des lueurs livides, un léger bâtiment fuyait presque à sec de toile.</p>
         <p>C’était un yacht de cent tonneaux – un schooner, – nom que portent les goélettes en Angleterre et en Amérique.</p>
@@ -167,8 +169,10 @@
         <p>S’il n’était plus en pleine mer, il était encore à un quart de mille de la grève.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre II
-<lb/>Au milieu du ressac. – Briant et Doniphan. – La côte observée. – Préparatifs de sauvetage. – Le canot disputé. – Du haut du mât de misaine. – Courageuse tentative de Briant. – Un effet de mascaret.</head>
+        <head>Chapitre II</head>
+<argument>
+  <p>Au milieu du ressac. – Briant et Doniphan. – La côte observée. – Préparatifs de sauvetage. – Le canot disputé. – Du haut du mât de misaine. – Courageuse tentative de Briant. – Un effet de mascaret.</p>
+</argument>
         <p>En ce moment, l’espace, dégagé du rideau des brumes, permettait au regard de s’étendre sur un vaste rayon autour du schooner. Les nuages chassaient toujours avec une extrême rapidité ; la bourrasque n’avait encore rien perdu de sa fureur. Peut-être, pourtant, frappait-elle de ses derniers coups ces parages inconnus de l’Océan Pacifique.</p>
         <p>C’était à espérer, car la situation n’offrait pas moins de périls que pendant la nuit, alors que le Sloughi se débattait contre les violences du large. Réunis les uns près des autres, ces enfants devaient se croire perdus lorsque quelque lame déferlait par-dessus les bastingages et les couvrait d’écume. Les chocs étaient d’autant plus rudes que le schooner ne pouvait s’y dérober. Toutefois, s’il tressaillait à chaque coup jusque dans sa membrure, il ne paraissait point que son bordé se fût ouvert, ni en talonnant à l’accore des récifs, ni au moment où il s’était pour ainsi dire encastré entre les têtes de roches. Briant et Gordon, après être descendus dans les chambres, s’étaient rendus compte que l’eau ne pénétrait pas à l’intérieur de la cale.</p>
         <p>Ils rassurèrent donc du mieux qu’ils le purent leurs camarades, – les petits particulièrement.</p>
@@ -290,8 +294,10 @@
         <p>En moins d’une minute, au milieu des bouillonnements de cette masse d’eau, le Sloughi, porté jusqu’au centre de la grève, vint buter contre un renflement de sable, à deux cents pieds en avant des premiers arbres massés au bas de la falaise. Et là, il resta immobile – sur la terre ferme, cette fois – pendant que la mer, en se retirant, laissait toute la grève à sec.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre III
-<lb/>La pension Chairman à Auckland. – Grands et petits. – Vacances en mer. – Le schooner Sloughi. – La nuit du 15 février. – En dérive. – Abordage. – Tempête. – Enquête à Auckland. – Ce qui reste du schooner.</head>
+        <head>Chapitre III</head>
+<argument>
+  <p>La pension Chairman à Auckland. – Grands et petits. – Vacances en mer. – Le schooner Sloughi. – La nuit du 15 février. – En dérive. – Abordage. – Tempête. – Enquête à Auckland. – Ce qui reste du schooner.</p>
+</argument>
         <p>À cette époque, la pension Chairman était l’une des plus estimées de la ville d’Auckland, capitale de la Nouvelle-Zélande, importante colonie anglaise du Pacifique. On y comptait une centaine d’élèves, appartenant aux meilleures familles du pays. Les Maoris, qui sont les indigènes de cet archipel, n’auraient pu y faire admettre leurs enfants pour lesquels, d’ailleurs, d’autres écoles étaient réservées. Il n’y avait à la pension Chairman que de jeunes Anglais, Français, Américains, Allemands, fils des propriétaires, rentiers, négociants ou fonctionnaires du pays. Ils y recevaient une éducation très complète, identique à celle qui est donnée dans les établissements similaires du Royaume-Uni.</p>
         <p>L’archipel de la Nouvelle-Zélande se compose de deux îles principales : au nord, Ika-Na-Mawi ou Île du Poisson, au sud, Tawaï-Ponamou ou Terre du Jade-Vert. Séparées par le détroit de Cook, elles gisent entre le trente-quatrième et le quarante-cinquième parallèle sud – position équivalente à celle qu’occupe, dans l’hémisphère boréal, la partie de l’Europe comprenant la France et le nord de l’Afrique.</p>
         <p>L’île d’Ika-Na-Mawi, très déchiquetée dans sa partie méridionale, forme une sorte de trapèze irrégulier, qui se prolonge vers le nord-ouest, suivant une courbe terminée par le cap Van-Diemen.</p>
@@ -353,8 +359,10 @@
         <p>Sur ces débris se lisaient encore trois ou quatre lettres du nom de Sloughi. Il parut donc certain que le yacht avait dû être démoli par quelque coup de mer, et que, par suite de cet accident, il s’était perdu corps et biens à une douzaine de milles au large de la Nouvelle-Zélande.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre IV
-<lb/>Première exploration du littoral. – Briant et Gordon à travers le bois. – Vaine tentative pour découvrir une grotte. – Inventaire du matériel. – Provisions, armes, vêtements, literie, ustensiles, outils, instruments. – Premier déjeuner. – Première nuit.</head>
+        <head>Chapitre IV</head>
+<argument>
+  <p>Première exploration du littoral. – Briant et Gordon à travers le bois. – Vaine tentative pour découvrir une grotte. – Inventaire du matériel. – Provisions, armes, vêtements, literie, ustensiles, outils, instruments. – Premier déjeuner. – Première nuit.</p>
+</argument>
         <p>La côte était déserte, ainsi que l’avait reconnu Briant lorsqu’il était en observation sur les barres du mât de misaine. Depuis une heure, le schooner gisait sur la grève dans sa souille de sable, et aucun indigène n’avait encore été signalé. Ni sous les arbres qui se massaient en avant de la falaise, ni près des bords du rio, empli par les eaux de la marée montante, on ne voyait une maison, une cabane, une hutte. Pas même d’empreinte de pied humain à la surface de la grève, que les relais de mer bordaient d’un long cordon de varechs. À l’embouchure de la petite rivière, aucune embarcation de pêche. Enfin, nulle fumée se contournant dans l’air sur tout le périmètre de la baie compris entre les deux promontoires du sud et du nord.</p>
         <p>En premier lieu, Briant et Gordon eurent la pensée de s’enfoncer à travers les groupes d’arbres, afin d’atteindre la falaise pour la gravir, si c’était possible.</p>
         <p>« Nous voilà à terre, c’est déjà quelque chose ! dit Gordon. Mais quelle est cette terre, qui semble inhabitée…</p>
@@ -422,8 +430,10 @@
         <p>En somme, ces jeunes garçons n’étaient point dépourvus des ressources qui ne font que trop souvent défaut aux naufragés sur les parages déserts ! En l’état où ils se trouvaient, des hommes valides et industrieux auraient eu bien des chances de se tirer d’affaire. Mais, eux, dont le plus âgé avait quatorze ans à peine, s’ils étaient condamnés à demeurer de longues années dans ces conditions, parviendraient-ils à subvenir aux besoins de leur existence ?… Il était permis d’en douter !</p>
       </div>
       <div type="chapter">
-        <head>Chapitre V
-<lb/>Île ou continent ? – Excursion. – Briant part seul. – Les amphibies. – Les bandes de manchots. – Déjeuner. – Du haut du cap. – Les trois îlots du large. – Une ligne bleue à l’horizon. – Retour au Sloughi.</head>
+        <head>Chapitre V</head>
+<argument>
+  <p>Île ou continent ? – Excursion. – Briant part seul. – Les amphibies. – Les bandes de manchots. – Déjeuner. – Du haut du cap. – Les trois îlots du large. – Une ligne bleue à l’horizon. – Retour au Sloughi.</p>
+</argument>
         <p>Île ou continent ? C’était toujours la grave question dont se préoccupaient Briant, Gordon, Doniphan, que leur caractère et leur intelligence faisaient véritablement les chefs de ce petit monde. Songeant à l’avenir, quand les plus jeunes ne s’attachaient qu’au présent, ils s’entretenaient souvent à ce sujet. En tout cas, que cette terre fût insulaire ou continentale, il était manifeste qu’elle n’appartenait point à la zone des tropiques. Cela se voyait à sa végétation, chênes, hêtres, bouleaux, aunes, pins et sapins de diverses sortes, nombreuses myrtacées ou saxifragées, qui ne sont point les arbres ou arbustes répandus dans les régions centrales du Pacifique. Il semblait même que ce territoire devait être un peu plus haut en latitude que la Nouvelle-Zélande, plus rapproché du pôle austral par conséquent. On pouvait donc craindre que les hivers y fussent très rigoureux. Déjà un épais tapis de feuilles mortes couvrait le sol dans le bois qui s’étendait au pied de la falaise. Seuls, les pins et sapins avaient conservé leur ramure qui se renouvelle de saison en saison sans se dépouiller jamais.</p>
         <p>« C’est pourquoi, fit observer Gordon, le lendemain du jour où le Sloughi avait été transformé en demeure sédentaire, il me paraît sage de ne pas s’installer définitivement sur cette partie de la côte !</p>
         <p>– C’est mon avis, répondit Doniphan. Si nous attendons la mauvaise saison, il sera trop tard pour gagner quelque endroit habité, pour peu que nous ayons à faire des centaines de milles !</p>
@@ -521,8 +531,10 @@
         <p>Un quart d’heure après, Briant était descendu sur la grève, et, reprenant le chemin qu’il avait suivi dans la matinée, avant cinq heures il arrivait au Sloughi, où ses camarades attendaient impatiemment son retour.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre VI
-<lb/>Discussion. – Excursion projetée et remise. – Mauvais temps. – La pêche. – Les fucus gigantesques. – Costar et Dole à cheval sur un coursier peu rapide. – Les préparatifs pour le départ. – À genoux devant la Croix du Sud.</head>
+        <head>Chapitre VI</head>
+<argument>
+  <p>Discussion. – Excursion projetée et remise. – Mauvais temps. – La pêche. – Les fucus gigantesques. – Costar et Dole à cheval sur un coursier peu rapide. – Les préparatifs pour le départ. – À genoux devant la Croix du Sud.</p>
+</argument>
         <p>Le soir même, après souper, Briant fit connaître aux grands le résultat de son exploration. Elle se résumait à ceci : dans la direction de l’est, au delà de la zone des forêts, il avait très visiblement aperçu une ligne d’eau qui se dessinait du nord au sud. Que ce fût un horizon de mer, cela ne lui paraissait pas douteux. Ainsi, c’était bien sur une île, non sur un continent, qu’était venu si malencontreusement s’échouer leSloughi !</p>
         <p>Tout d’abord, Gordon et les autres accueillirent avec une vive émotion l’affirmation de leur camarade. Quoi ! ils étaient sur une île, et tout moyen leur manquait pour en sortir ! Ce projet qu’ils avaient formé d’aller chercher vers l’est la route d’un continent, il y fallait renoncer ! Ils en seraient réduits à attendre le passage d’un navire en vue de cette côte ! Était-il donc vrai que là fût désormais leur unique chance de salut ?…</p>
         <p>« Mais Briant ne s’est-il pas trompé dans son observation ? fit observer Doniphan.</p>
@@ -632,8 +644,10 @@
         <p>Et alors, les petits s’agenouillèrent devant cette Croix du Sud, comme ils l’eussent fait devant la croix d’une chapelle ! Ne leur disait-elle pas de prier le tout-puissant Créateur de ces merveilles célestes et de mettre leur espoir en lui ?</p>
       </div>
       <div type="chapter">
-        <head>Chapitre VII
-<lb/>Le bois de bouleaux. – Du haut de la falaise. – À travers la forêt. – Un barrage sur le creek. – Le rio conducteur. – Campement pour la nuit. – L’ajoupa. – La ligne bleuâtre. – Phann se désaltère.</head>
+        <head>Chapitre VII</head>
+<argument>
+  <p>Le bois de bouleaux. – Du haut de la falaise. – À travers la forêt. – Un barrage sur le creek. – Le rio conducteur. – Campement pour la nuit. – L’ajoupa. – La ligne bleuâtre. – Phann se désaltère.</p>
+</argument>
         <p>Briant, Doniphan, Wilcox et Service avaient quitté le campement du Sloughi à sept heures du matin. Le soleil, montant sur un ciel sans nuages, annonçait une de ces belles journées que le mois d’octobre réserve parfois aux habitants des zones tempérées dans l’hémisphère boréal. La chaleur ni le froid n’étaient à craindre. Si quelque obstacle devait retarder ou arrêter la marche, il serait uniquement dû à la nature du sol.</p>
         <p>Tout d’abord, les jeunes explorateurs prirent obliquement à travers la grève, de manière à gagner le pied de la falaise. Gordon leur avait conseillé d’emmener Phann, dont l’instinct pourrait leur être très utile, et voilà pourquoi l’intelligent animal faisait partie de l’expédition.</p>
         <p>Un quart d’heure après le départ, les quatre jeunes garçons avaient disparu sous le couvert du bois, qui fut rapidement franchi. Quelque menu gibier voletait sous les arbres. Mais, comme il ne s’agissait point de perdre son temps à le poursuivre, Doniphan, résistant à ses instincts, eut la sagesse de s’abstenir. Phann, lui-même, finit par comprendre qu’il se dépensait en allées et venues inutiles, et se tint près de ses maîtres, sans s’écarter plus qu’il ne convenait à son rôle d’éclaireur.</p>
@@ -742,8 +756,10 @@
         <p>C’était un lac qui s’étendait jusqu’à l’horizon dans l’est… Ce n’était point une mer !</p>
       </div>
       <div type="chapter">
-        <head>Chapitre VIII
-<lb/>Reconnaissance dans l’ouest du lac. – En descendant la rive. – Autruches entrevues. – Un rio qui sort du lac. – Nuit tranquille. – Le contrefort de la falaise. – Une digue. – Débris de canot. – L’inscription. – La caverne.</head>
+        <head>Chapitre VIII</head>
+<argument>
+  <p>Reconnaissance dans l’ouest du lac. – En descendant la rive. – Autruches entrevues. – Un rio qui sort du lac. – Nuit tranquille. – Le contrefort de la falaise. – Une digue. – Débris de canot. – L’inscription. – La caverne.</p>
+</argument>
         <p>Ainsi, l’importante question, de laquelle dépendait le salut des jeunes naufragés, n’était pas définitivement résolue. Que cette prétendue mer fût un lac, nul doute à cet égard. Mais n’était-il pas possible que ce lac appartînt à une île ? En prolongeant l’exploration au delà, ne serait-ce pas une véritable mer que l’on découvrirait – une mer qu’il n’y aurait aucun moyen de franchir ?</p>
         <p>Toutefois, ce lac présentait des dimensions assez considérables, puisqu’un horizon de ciel – c’est ce que fit observer Doniphan – se dessinait sur les trois quarts de son périmètre. Il était très admissible, dès lors, qu’on devait être sur un continent non sur une île.</p>
         <p>« Ce serait donc le continent américain sur lequel nous aurions fait naufrage, dit Briant.</p>
@@ -833,8 +849,10 @@
         <p>Ainsi, à cette place, était venu mourir le malheureux qui avait vécu dans cette caverne, pendant bien des années sans doute, et ce sauvage abri, dont il avait fait sa demeure, n’avait pas même été son tombeau !</p>
       </div>
       <div type="chapter">
-        <head>Chapitre IX
-<lb/>Visite à la caverne. – Meubles et ustensiles. – Les bolas et le lazo. – La montre. – Le cahier presque illisible. – La carte du naufragé. – Où l’on est. – Retour au campement. – La rive droite du rio. – La fondrière. – Les signaux de Gordon.</head>
+        <head>Chapitre IX</head>
+<argument>
+  <p>Visite à la caverne. – Meubles et ustensiles. – Les bolas et le lazo. – La montre. – Le cahier presque illisible. – La carte du naufragé. – Où l’on est. – Retour au campement. – La rive droite du rio. – La fondrière. – Les signaux de Gordon.</p>
+</argument>
         <p>Briant, Doniphan, Wilcox et Service gardaient un profond silence. Quel était l’homme qui était venu mourir en cet endroit ? Était-ce un naufragé, auquel les secours avaient manqué jusqu’à sa dernière heure ? À quelle nation appartenait-il ? Était-il arrivé jeune sur ce coin de terre ? Y était-il mort vieux ? Comment avait-il pu subvenir à ses besoins ? Si c’était un naufrage qui l’avait jeté là, d’autres que lui avaient-ils survécu à la catastrophe ? Puis, était-il resté seul après la mort de ses compagnons d’infortune ? Les divers objets, trouvés dans la caverne, provenaient-ils de son bâtiment, ou les avait-il fabriqués de ses mains ?</p>
         <p>Que de questions dont la solution resterait peut-être à jamais ignorée !</p>
         <p>Et, entre toutes, une des plus graves ! Puisque c’était sur un continent que cet homme avait trouvé refuge, pourquoi n’avait-il pas gagné quelque ville de l’intérieur, quelque port du littoral ? Le rapatriement présentait-il donc de telles difficultés, de tels obstacles, qu’il n’avait pu les vaincre ? La distance à parcourir était-elle si grande qu’il fallût la considérer comme infranchissable ? Ce qui était certain, c’est que ce malheureux était tombé, affaibli par la maladie ou par l’âge, qu’il n’avait pas eu la force de regagner sa caverne, qu’il était mort au pied de cet arbre !… Et si les moyens lui avaient manqué pour aller chercher le salut vers le nord ou vers l’est de ce territoire, ne manqueraient-ils pas également aux jeunes naufragés du Sloughi ?</p>
@@ -920,8 +938,10 @@
         <p>Excellente idée, sans laquelle cette nuit-là, Briant, Doniphan, Wilcox et Service n’auraient pu se reposer de leurs fatigues dans les couchettes du yacht.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre X
-<lb/>Récit de l’exploration. – On se décide à quitter le Sloughi. – Déchargement et démolition du yacht. – Une bourrasque qui l’achève. – Campés sous la tente. – Construction d’un radeau. – Chargement et embarquement. – Deux nuits sur le rio. – Arrivée à French-den.</head>
+        <head>Chapitre X</head>
+<argument>
+  <p>Récit de l’exploration. – On se décide à quitter le Sloughi. – Déchargement et démolition du yacht. – Une bourrasque qui l’achève. – Campés sous la tente. – Construction d’un radeau. – Chargement et embarquement. – Deux nuits sur le rio. – Arrivée à French-den.</p>
+</argument>
         <p>On se figure aisément quel accueil fut fait à Briant et à ses trois compagnons. Gordon, Cross, Baxter, Garnett et Webb leur ouvrirent les bras, tandis que les petits leur sautaient au cou. Ce fut un échange de cris de joie et de bonnes poignées de main. Phann prit sa part de cette cordiale réception en mêlant ses aboiements aux hurrahs des enfants. Oui ! cette absence avait paru longue !</p>
         <p>« Se sont-ils donc égarés ?… Sont-ils tombés entre les mains des indigènes ?… Ont-ils été attaqués par quelques carnassiers ! » Voilà ce que se demandaient ceux qui étaient restés au campement du Sloughi.</p>
         <p>Mais Briant, Doniphan, Wilcox et Service étaient de retour ; il n’y avait plus qu’à connaître les incidents de leur expédition. Néanmoins, comme ils étaient très fatigués par cette longue journée de marche, le récit fut remis au lendemain.</p>
@@ -1017,8 +1037,10 @@
         <p>Enfin, dans l’après-midi du lendemain, avec l’aide de la marée qui dura jusqu’à trois heures et demie du soir, le radeau arriva en vue du lac et vint accoster au pied de la berge, devant la porte de French-den.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XI
-<lb/>Premières dispositions à l’intérieur de French-den. – Déchargement du radeau. – Visite à la tombe du naufragé. – Gordon et Doniphan. – Le fourneau de la cuisine. – Gibier de poil et de plume. – Le nandû. – Projets de Service. – Approche de la mauvaise saison.</head>
+        <head>Chapitre XI</head>
+<argument>
+  <p>Premières dispositions à l’intérieur de French-den. – Déchargement du radeau. – Visite à la tombe du naufragé. – Gordon et Doniphan. – Le fourneau de la cuisine. – Gibier de poil et de plume. – Le nandû. – Projets de Service. – Approche de la mauvaise saison.</p>
+</argument>
         <p>Le débarquement se fit aux cris de joie des petits, pour qui tout changement de la vie ordinaire équivalait à un jeu nouveau. Dole gambadait sur la berge comme un jeune chevreau ; Iverson et Jenkins couraient du côté du lac, tandis que Costar, prenant Moko à part, lui disait :</p>
         <p>« Tu nous as promis un bon dîner, mousse ?</p>
         <p>– Eh bien, vous vous en passerez, monsieur Costar, répondit Moko.</p>
@@ -1147,8 +1169,10 @@
         <p>En effet, l’hiver venu, il y aurait bien des mauvais jours pendant lesquels ni grands ni petits ne pourraient mettre le pied dehors, et il importait qu’ils ne s’écoulassent pas sans profit. En attendant, ce qui gênait surtout les hôtes de French-den, c’était l’étroitesse de cette unique salle dans laquelle tous avaient dû s’entasser. Il fallait donc aviser, sans retard, aux moyens de donner à la caverne des dimensions suffisantes.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XII
-<lb/>Agrandissement de French-den. – Bruit suspect. – Disparition de Phann. – Réapparition de Phann. – Appropriation et aménagement du hall. – Mauvais temps. – Noms donnés. – L’île Chairman. – Le chef de la colonie.</head>
+        <head>Chapitre XII</head>
+<argument>
+  <p>Agrandissement de French-den. – Bruit suspect. – Disparition de Phann. – Réapparition de Phann. – Appropriation et aménagement du hall. – Mauvais temps. – Noms donnés. – L’île Chairman. – Le chef de la colonie.</p>
+</argument>
         <p>Pendant leurs dernières excursions, les jeunes chasseurs avaient plusieurs fois examiné la falaise, dans l’espoir d’y trouver une autre excavation. S’ils l’eussent découverte, elle aurait pu servir de magasin général et recevoir le reste du matériel qu’il avait fallu laisser au dehors. Or, les recherches n’ayant point abouti, on dut en revenir à ce projet d’agrandir la demeure actuelle, en creusant une ou plusieurs chambres contiguës à la caverne de Jean Baudoin.</p>
         <p>Dans le granit, ce travail eût été certainement infaisable ; mais, dans ce calcaire que le pic ou la pioche entameraient aisément, il n’offrirait pas de difficulté. Sa durée importait peu. Il y aurait là de quoi occuper les longues journées d’hiver, et tout pouvait être terminé avant le retour de la belle saison, s’il ne se produisait ni éboulement ni infiltration – ce qui était surtout à craindre.</p>
         <p>D’ailleurs, il ne serait point nécessaire d’employer la mine. Les outils suffiraient, puisqu’ils avaient suffi, lorsqu’il s’était agi de forer la paroi pour ajuster le tuyau du fourneau de cuisine. En outre, Baxter avait déjà pu, non sans peine, élargir l’orifice de French-den, de manière à y adapter avec ses ferrures une des portes du Sloughi. De plus, à droite et à gauche de l’entrée, deux étroites fenêtres, ou plutôt deux sortes d’embrasures, avaient été percées dans la paroi – ce qui permettait au jour et à l’air de circuler plus largement à l’intérieur.</p>
@@ -1289,8 +1313,10 @@
         <p>Et voilà comment Gordon fut proclamé chef de la petite colonie de l’île Chairman.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XIII
-<lb/>Le programme d’études. – Observation du dimanche. – Pelotes de neiges. – Doniphan et Briant. – Grands froids. – La question du combustible. – Excursion à Traps-woods. – Excursion à la baie Sloughi. – Phoques et pingouins. – Une exécution publique.</head>
+        <head>Chapitre XIII</head>
+<argument>
+  <p>Le programme d’études. – Observation du dimanche. – Pelotes de neiges. – Doniphan et Briant. – Grands froids. – La question du combustible. – Excursion à Traps-woods. – Excursion à la baie Sloughi. – Phoques et pingouins. – Une exécution publique.</p>
+</argument>
         <p>À partir de ce mois de mai, la période hivernale s’était définitivement établie dans les parages de l’île Chairman. Quelle en serait sa durée ? Cinq mois, au moins, si l’île se trouvait plus haute en latitude que la Nouvelle-Zélande. Aussi, les précautions allaient être prises par Gordon de manière à se garder contre les redoutables éventualités d’un long hiver.</p>
         <p>En tout cas, voici ce que le jeune Américain avait déjà noté parmi ses observations météorologiques : l’hiver n’avait commencé qu’avec le mois de mai, c’est-à-dire deux mois avant le juillet de la zone australe qui correspond au janvier de la zone boréale. On pouvait en conclure qu’il finirait deux mois après, par conséquent vers le milieu de septembre. Toutefois, en dehors de cette période, il faudrait encore compter avec les tempêtes qui sont si fréquentes pendant l’équinoxe. Ainsi, il était probable que les jeunes colons seraient confinés à French-den jusqu’aux premiers jours d’octobre, sans pouvoir entreprendre aucune longue excursion à travers ou autour de l’île Chairman.</p>
         <p>Pour organiser la vie intérieure dans les meilleures conditions, Gordon se mit en devoir d’élaborer un programme d’occupations quotidiennes.</p>
@@ -1405,8 +1431,10 @@
         <p>Au 10 septembre, il y avait six mois que le Sloughi s’était perdu sur les récifs de l’île Chairman.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XIV
-<lb/>Derniers coups de l’hiver. – Le chariot. – Retour du printemps. – Service et son nandû. – Préparatifs d’une expédition au nord. – Les terriers. – Stop-river. – Faune et flore. – L’extrémité de Family-lake. – Sandy-desert.</head>
+        <head>Chapitre XIV</head>
+<argument>
+  <p>Derniers coups de l’hiver. – Le chariot. – Retour du printemps. – Service et son nandû. – Préparatifs d’une expédition au nord. – Les terriers. – Stop-river. – Faune et flore. – L’extrémité de Family-lake. – Sandy-desert.</p>
+</argument>
         <p>Avec la belle saison qui s’annonçait, les jeunes colons allaient pouvoir mettre à exécution quelques-uns des projets conçus pendant les longs loisirs de l’hiver.</p>
         <p>Vers l’ouest – cela n’était que trop évident – aucune terre n’avoisinait l’île. Au nord, au sud, à l’ouest, en était-il ainsi, et cette île faisait-elle partie d’un archipel ou d’un groupe du Pacifique ? Non, sans doute, si l’on s’en rapportait à la carte de François Baudoin. Néanmoins, des terres pouvaient se trouver dans ces parages, bien que le naufragé ne les eût pas aperçues, par la raison qu’il ne possédait ni lunette, ni lorgnette, et que, du haut d’Auckland-hill, c’est à peine si la vue embrassait un horizon de quelques milles ? Les jeunes garçons, mieux armés pour observer la mer au large, découvriraient peut-être ce que le survivant du Duguay-Trouin n’avait pas eu la possibilité d’entrevoir.</p>
         <p>Étant donnée sa configuration, l’île Chairman ne mesurait pas plus d’une douzaine de milles dans sa partie centrale, à l’est de French-den. À l’opposé de Sloughi-bay, le littoral étant échancré, il conviendrait de pousser la reconnaissance dans cette direction.</p>
@@ -1497,8 +1525,10 @@
         <p>Pendant cette première nuit, rien ne vint troubler le silence de Sandy-desert.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XV
-<lb/>Route à suivre pour le retour. – Excursion vers l’ouest. – Trulca et algarrobe. – Arbre à thé. – Le torrent de Dike-creek. – Vigognes. – Nuit troublée. – Guanaques. – Adresse de Baxter à lancer le lazo. – Retour à French-den.</head>
+        <head>Chapitre XV</head>
+<argument>
+  <p>Route à suivre pour le retour. – Excursion vers l’ouest. – Trulca et algarrobe. – Arbre à thé. – Le torrent de Dike-creek. – Vigognes. – Nuit troublée. – Guanaques. – Adresse de Baxter à lancer le lazo. – Retour à French-den.</p>
+</argument>
         <p>À deux cents pas de la crique se dressait une dune, haute d’une cinquantaine de pieds – observatoire tout indiqué pour que Gordon et ses camarades pussent prendre une plus large vue de la région.</p>
         <p>Dès que le soleil fut levé, ils se hâtèrent de gravir cette dune jusqu’à sa crête.</p>
         <p>De ce point, la lunette fut immédiatement braquée dans la direction du nord.</p>
@@ -1626,8 +1656,10 @@
         <p>Le petit Costar, qui jouait sur Sport-terrace, signala l’approche de Gordon. Aussitôt, Briant et les autres s’empressèrent d’accourir, et de joyeux hurrahs accueillirent le retour des explorateurs, après ces quelques jours d’absence.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XVI
-<lb/>Briant inquiet de Jacques. – Construction de l’enclos et de la basse-cour. – Sucre d’érable. – Destruction des renards. – Nouvelle expédition à Sloughi-bay. – Le chariot attelé. – Massacre des phoques. – Les fêtes de Noël. – Hurrah pour Briant.</head>
+        <head>Chapitre XVI</head>
+<argument>
+  <p>Briant inquiet de Jacques. – Construction de l’enclos et de la basse-cour. – Sucre d’érable. – Destruction des renards. – Nouvelle expédition à Sloughi-bay. – Le chariot attelé. – Massacre des phoques. – Les fêtes de Noël. – Hurrah pour Briant.</p>
+</argument>
         <p>Tout s’était bien passé à French-den pendant l’absence de Gordon. Le chef de la petite colonie n’avait qu’à se louer de Briant, auquel les petits témoignaient une très sincère affection. N’eût été son caractère hautain et jaloux, Doniphan, lui aussi, aurait apprécié – à leur juste valeur – les qualités de son camarade ; mais cela n’était pas, et grâce à l’ascendant qu’il avait pris sur Wilcox, Webb et Cross, ceux-ci le soutenaient volontiers, lorsqu’il s’agissait de faire opposition au jeune Français, si différent par l’allure et le caractère de ses compagnons d’origine anglo-saxonne.</p>
         <p>Briant n’y prenait garde, du reste. Il faisait ce qu’il considérait comme son devoir, sans jamais se préoccuper de ce que l’on pensait de lui. Son plus gros souci, c’était l’inexplicable attitude de son frère.</p>
         <p>Dernièrement, Briant avait encore pressé Jacques de questions, sans obtenir d’autre réponse que celle-ci :</p>
@@ -1734,8 +1766,10 @@
         <p>Briant ne put se défendre d’une profonde émotion, lorsque les hurrahs retentirent en son honneur – hurrahs qui ne trouvèrent pas d’écho dans le cœur de Doniphan.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XVII
-<lb/>Préparatifs en vue du prochain hiver. – Proposition de Briant. – Départ de Briant, de Jacques et de Moko. – Traversée du Family-lake. – L’East-river. – Un petit port à l’embouchure. – La mer dans l’est. – Jacques et Briant. – Retour à French-den.</head>
+        <head>Chapitre XVII</head>
+<argument>
+  <p>Préparatifs en vue du prochain hiver. – Proposition de Briant. – Départ de Briant, de Jacques et de Moko. – Traversée du Family-lake. – L’East-river. – Un petit port à l’embouchure. – La mer dans l’est. – Jacques et Briant. – Retour à French-den.</p>
+</argument>
         <p>Huit jours après commençait l’année 1861, et, pour cette partie de l’hémisphère austral, c’était en plein cœur de l’été que débutait le nouvel an.</p>
         <p>Il y avait près de dix mois que les jeunes naufragés du Sloughi avaient été jetés sur leur île, à dix-huit cents lieues de la Nouvelle-Zélande !</p>
         <p>Pendant cette période, on doit le reconnaître, leur situation s’était peu à peu améliorée. Il semblait même qu’ils fussent désormais assurés de subvenir à tous les besoins de la vie matérielle. Mais c’était toujours l’abandon sur une terre inconnue ! Les secours du dehors – les seuls qu’ils pussent espérer – arriveraient-ils enfin, et arriveraient-ils avant l’achèvement de la belle saison ? La colonie serait-elle condamnée à subir les rigueurs d’un second hiver antarctique ? Jusqu’ici, à la vérité, la maladie ne l’avait point éprouvée. Tous, petits et grands, s’étaient aussi bien portés que possible. Grâce à la prudence de Gordon, qui y tenait la main – ce qui ne laissait pas de provoquer parfois des récriminations contre sa sévérité – aucune imprudence, aucun excès, n’avaient été commis. Pourtant ne fallait-il pas compter avec les affections auxquelles n’échappent que rarement les enfants de cet âge, particulièrement les plus jeunes ? En somme, si le présent était acceptable, l’avenir restait toujours gros d’inquiétudes. À tout prix – et c’est à quoi Briant songeait sans cesse – il eût voulu quitter l’île Chairman ! Or, avec l’unique embarcation que l’on possédait, avec cette frêle yole, comment se hasarder à entreprendre une traversée qui pouvait être longue, si l’île n’appartenait pas à un des groupes du Pacifique, ou si le continent le plus voisin se trouvait à quelques centaines de milles ? Lors même que deux ou trois des plus hardis se fussent dévoués pour aller chercher une terre dans l’est, que de chances il y avait pour qu’ils ne parvinssent pas à l’atteindre ! Quant à construire un navire assez grand pour traverser ces parages du Pacifique, le pouvaient-ils ? Non, assurément ! Cela était au-dessus de leurs forces, et Briant ne savait qu’imaginer pour le salut de tous !</p>
@@ -1869,8 +1903,10 @@
         <p>Vers six heures du soir, après une heureuse traversée, pendant laquelle Briant ni Jacques n’étaient guère sortis de leur mutisme, la yole fut signalée par Garnett, qui pêchait sur les bords du lac. Quelques instants plus tard, elle accostait la digue, et Gordon accueillait avec empressement le retour de ses camarades.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XVIII
-<lb/>Le marais salant. – Les échasses. – Visite au South-moors. – En prévision de l’hiver. – Différents jeux. – Entre Doniphan et Briant. – Intervention de Gordon. – Inquiétudes pour l’avenir. – Élection du 10 juin.</head>
+        <head>Chapitre XVIII</head>
+<argument>
+  <p>Le marais salant. – Les échasses. – Visite au South-moors. – En prévision de l’hiver. – Différents jeux. – Entre Doniphan et Briant. – Intervention de Gordon. – Inquiétudes pour l’avenir. – Élection du 10 juin.</p>
+</argument>
         <p>À propos de cette scène, surprise par Moko entre son frère et lui, Briant avait jugé bon de garder le silence – même vis-à-vis de Gordon. Quant au récit de son expédition, il le fit à ses camarades, alors réunis dans le hall. Il décrivit la côte orientale de l’île Chairman sur toute cette partie qui circonscrivait Deception-bay, le cours de l’East-river à travers les forêts voisines du lac, si riches en essences d’arbres verts. Il affirma que l’installation eût été plus aisée sur ce littoral que sur celui de l’ouest, tout en ajoutant qu’il n’y avait pas lieu d’abandonner French-den. En ce qui concernait cette portion du Pacifique, il ne s’y trouvait aucune terre en vue. Briant mentionna, cependant, cette tache blanchâtre qu’il avait aperçue au large et dont il ne s’expliquait pas la présence au-dessus de l’horizon. Très probablement, ce n’était qu’une volute de vapeurs, et il serait opportun de s’en assurer, lorsqu’on irait visiter Deception-bay. En somme – ce qui ne paraissait que trop certain –, c’est que l’île Chairman n’était voisine d’aucune terre dans ces parages, et, sans doute, plusieurs centaines de milles la séparaient du continent ou des archipels les plus rapprochés.</p>
         <p>Il convenait donc de reprendre avec courage la lutte pour la vie, en attendant que le salut vînt du dehors, puisqu’il semblait improbable que les jeunes colons pussent l’avoir jamais dans leurs propres mains. Chacun se remit au travail. Toutes les mesures tendirent à se préserver contre les rigueurs du prochain hiver. Briant s’y appliqua même avec plus de zèle qu’il ne l’avait fait jusqu’alors. Cependant on sentait qu’il était devenu moins communicatif et que lui aussi, à l’exemple de son frère, montrait une propension à se tenir à l’écart. Gordon, en constatant ce changement de caractère, observa aussi que Briant cherchait à mettre Jacques en avant, dans toutes les occasions où il y avait quelque courage à déployer, quelque danger à courir – ce que Jacques acceptait d’ailleurs avec empressement. Toutefois, comme Briant ne dit jamais rien qui pût engager Gordon à l’interroger à ce sujet, celui-ci se tint sur la réserve, bien qu’il fût porté à croire qu’une explication avait dû avoir lieu entre les deux frères.</p>
         <p>Le mois de février s’écoula en travaux de diverses sortes. Wilcox ayant signalé une remontée de saumons vers les eaux douces du Family-lake, on en prit un certain nombre au moyen de filets tendus d’une rive à l’autre du rio Zealand. La nécessité de les conserver exigeait que l’on se procurât une assez grande quantité de sel. Cela occasionna plusieurs voyages à Sloughi-bay, où Baxter et Briant établirent un petit marais salant – simple carré, ménagé entre les plis du sable, et dans lequel se déposait le sel, après que les eaux de la mer s’étaient évaporées sous l’action des rayons solaires.</p>
@@ -1980,8 +2016,10 @@
         <p>À partir de ce jour, Briant était pour une année le chef des jeunes colons de l’île Chairman.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XIX
-<lb/>Le mât de signaux. – Grands froids. – Le flamant. – Le pâturage. – Adresse de Jacques. – Désobéissance de Doniphan et de Cross. – Le brouillard. – Jacques dans les brumes. – Les coups de canon de French-den. – Les points noirs. – Attitude de Doniphan.</head>
+        <head>Chapitre XIX</head>
+<argument>
+  <p>Le mât de signaux. – Grands froids. – Le flamant. – Le pâturage. – Adresse de Jacques. – Désobéissance de Doniphan et de Cross. – Le brouillard. – Jacques dans les brumes. – Les coups de canon de French-den. – Les points noirs. – Attitude de Doniphan.</p>
+</argument>
         <p>Ce que ses compagnons avaient voulu en portant leur choix sur Briant, c’était rendre justice à son caractère serviable, au courage dont il faisait preuve en toutes les occasions d’où dépendait le sort de la colonie, à son infatigable dévouement pour l’intérêt général. Depuis le jour où il avait, pour ainsi dire, pris le commandement du schooner, pendant cette traversée de la Nouvelle-Zélande à l’île Chairman, il n’avait jamais reculé devant le danger ou la peine. Quoiqu’il fût d’une nationalité différente, tous l’aimaient, grands et petits, – ces derniers principalement, dont il s’était incessamment occupé avec tant de zèle, et qui avaient unanimement voté pour lui. Seuls, Doniphan, Cross, Wilcox et Webb se refusaient à reconnaître les qualités de Briant ; mais, au fond, ils savaient parfaitement qu’ils étaient injustes envers le plus méritant de leurs camarades.</p>
         <p>Bien qu’il prévît que ce choix accentuerait encore la dissidence qui existait déjà, bien qu’il pût craindre que Doniphan et ses partisans ne prissent quelque résolution regrettable, Gordon ne ménagea pas ses félicitations à Briant. D’une part, il avait l’esprit trop équitable pour ne point approuver le choix qui avait été fait, et de l’autre, il préférait n’avoir plus à s’occuper que de la comptabilité de French-den.</p>
         <p>Dès ce jour-là, cependant, il fut visible que Doniphan et ses trois amis étaient résolus à ne point supporter cet état de choses, quoique Briant se fût promis de ne leur fournir aucune occasion de se porter à quelque excès.</p>
@@ -2114,8 +2152,10 @@
         <p>Et il ne prit même pas la main que lui tendait si cordialement son camarade.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XX
-<lb/>Une halte à la pointe sud du lac. – Doniphan, Cross, Webb et Wilcox. – Séparation. – La région des Downs-lands. – L’East-river. – En descendant la rive gauche. – Arrivée à l’embouchure.</head>
+        <head>Chapitre XX</head>
+<argument>
+  <p>Une halte à la pointe sud du lac. – Doniphan, Cross, Webb et Wilcox. – Séparation. – La région des Downs-lands. – L’East-river. – En descendant la rive gauche. – Arrivée à l’embouchure.</p>
+</argument>
         <p>Six semaines après ces événements, vers cinq heures du soir, quatre des jeunes colons venaient de s’arrêter à l’extrémité méridionale du Family-lake.</p>
         <p>On était au 10 octobre. L’influence de la belle saison se faisait sentir. Sous les arbres, revêtus d’une verdure toute fraîche, le sol avait repris sa couleur printanière. Une jolie brise ridait légèrement la surface du lac, encore éclairée des derniers rayons du soleil qui effleuraient la vaste plaine des South-moors, dont une étroite grève de sable formait la bordure. De nombreux oiseaux passaient en bandes criardes, regagnant leurs nocturnes abris à l’ombre des bois ou dans les anfractuosités de la falaise. Divers groupes d’arbres à feuilles persistantes, des pins, des chênes verts, et, non loin, une sapinière de quelques acres, rompaient seuls la monotone aridité de cette partie de l’île Chairman. Le cadre végétal du lac était brisé en cet endroit et, pour retrouver l’épais rideau des forêts, il eût fallu remonter pendant plusieurs milles l’une ou l’autre des deux rives latérales.</p>
         <p>En ce moment, un bon feu, allumé au pied d’un pin maritime, projetait son odorante fumée, que le vent repoussait au-dessus du marécage. Une couple de canards rôtissaient devant un foyer flambant, ménagé entre deux pierres. Après souper, ces quatre garçons n’auraient plus qu’à s’envelopper de leurs couvertures, et, tandis que l’un d’eux veillerait, les trois autres dormiraient tranquillement jusqu’au jour.</p>
@@ -2191,8 +2231,10 @@
         <p>Aussi, après avoir jeté quelques brassées de bois dans le foyer, Doniphan vint-il s’étendre au pied de l’arbre. Là, ses yeux se fermèrent aussitôt pour ne se rouvrir qu’au moment où le soleil montait sur un large horizon de mer qui se dessinait à l’affleurement du ciel.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXI
-<lb/>Exploration de Deception-bay. – Bear-rock-harbour. – Projets de retour à French-den. – Reconnaissance au nord de l’île. – Le North-creek. – Beechs-forest. – Effroyable bourrasque. – Nuit d’hallucinations. – Au jour levant.</head>
+        <head>Chapitre XXI</head>
+<argument>
+  <p>Exploration de Deception-bay. – Bear-rock-harbour. – Projets de retour à French-den. – Reconnaissance au nord de l’île. – Le North-creek. – Beechs-forest. – Effroyable bourrasque. – Nuit d’hallucinations. – Au jour levant.</p>
+</argument>
         <p>Le premier soin de Doniphan, de Wilcox, de Webb et de Cross fut de descendre la rive du cours d’eau jusqu’à son embouchure. De là, leurs regards se promenèrent avidement sur cette mer qu’ils voyaient pour la première fois. Elle était non moins déserte que sur le littoral opposé.</p>
         <p>« Et cependant, fit observer Doniphan, si, comme nous avons lieu de le croire, l’île Chairman n’est pas éloignée du continent américain, les navires, qui sortent du détroit de Magellan et remontent vers les ports du Chili et du Pérou, doivent passer dans l’est ! Raison de plus pour nous fixer sur la côte de Deception-bay, et, quoique Briant l’ait nommée ainsi, j’espère bien qu’elle ne justifiera pas longtemps ce nom de mauvais augure ! »</p>
         <p>Peut-être, en faisant cette remarque, Doniphan cherchait-il des excuses ou au moins des prétextes à sa rupture avec ses camarades de French-den. Tout bien considéré, d’ailleurs, c’était sur cette partie du Pacifique, à l’orient de l’île Chairman, que devaient plutôt paraître des navires à destination des ports du Sud-Amérique.</p>
@@ -2281,8 +2323,10 @@
         <p>Quant à cette partie de la côte, sur laquelle les naufragés du Severn avaient été jetés par la tempête, c’était la mer qui en limitait l’horizon.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXII
-<lb/>Une idée de Briant. – Joie des petits. – Construction d’un cerf-volant. – Expérience interrompue. – Kate. – Les survivants du Severn. – Dangers que courent Doniphan et ses camarades. – Dévouement de Briant. – Tous réunis.</head>
+        <head>Chapitre XXII</head>
+<argument>
+  <p>Une idée de Briant. – Joie des petits. – Construction d’un cerf-volant. – Expérience interrompue. – Kate. – Les survivants du Severn. – Dangers que courent Doniphan et ses camarades. – Dévouement de Briant. – Tous réunis.</p>
+</argument>
         <p>On n’a point oublié dans quelles conditions Doniphan, Webb, Cross et Wilcox avaient quitté French-den. Depuis leur départ, la vie des jeunes colons était devenue bien triste. Avec quel profond chagrin tous avaient vu se produire cette séparation, dont les conséquences pouvaient être si fâcheuses dans l’avenir ! Certes, Briant n’avait rien à se reprocher, et, cependant, peut-être était-il plus affecté que les autres, puisque c’était à son sujet que la scission avait eu lieu.</p>
         <p>En vain Gordon cherchait-il à le consoler en lui disant :</p>
         <p>« Ils reviendront, Briant, et plus tôt qu’ils ne le pensent ! Si entêté que soit Doniphan, les circonstances seront plus fortes que lui ! Avant la mauvaise saison, je parierais qu’ils nous auront rejoints à French-den ! »</p>
@@ -2439,8 +2483,10 @@
         <p>Avec quelle joie Gordon et les autres accueillirent les absents, quand, vers quatre heures du matin, ils débarquèrent à la digue du rio Zealand ! Si de grands dangers les menaçaient, du moins, ils étaient tous à French-den !</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXIII
-<lb/>La situation telle qu’elle est. – Précautions prises. – La vie modifiée. – L’arbre à vache. – Ce qu’il importerait de savoir. – Une proposition de Kate. – Briant obsédé par une idée. – Son projet. – Discussion. – À demain.</head>
+        <head>Chapitre XXIII</head>
+<argument>
+  <p>La situation telle qu’elle est. – Précautions prises. – La vie modifiée. – L’arbre à vache. – Ce qu’il importerait de savoir. – Une proposition de Kate. – Briant obsédé par une idée. – Son projet. – Discussion. – À demain.</p>
+</argument>
         <p>La colonie était donc au complet, et même accrue d’un nouveau membre – cette bonne Kate, jetée à la suite d’un effroyable drame de mer sur les grèves de l’île Chairman. De plus, l’accord allait maintenant régner à French-den – accord que rien ne devait désormais troubler. Si Doniphan éprouvait encore quelque regret de ne point être le chef des jeunes colons, du moins leur était-il revenu tout entier. Oui, cette séparation de deux ou trois jours avait porté ses fruits. Plus d’une fois déjà, sans rien dire à ses camarades, sans vouloir avouer ses torts, alors que l’amour-propre parlait chez lui plus haut que l’intérêt, il n’en avait pas moins compris à quelle sottise le menait son entêtement. D’autre part, Wilcox, Cross et Webb n’étaient pas sans éprouver la même impression. Aussi, après le dévouement dont Briant avait fait preuve envers lui, Doniphan s’était-il abandonné à ses bons sentiments, dont il ne devait plus jamais se départir.</p>
         <p>D’ailleurs, de très sérieux dangers menaçaient French-den, exposé aux attaques de sept malfaiteurs, vigoureux et armés. Sans doute, l’intérêt de Walston était de chercher à quitter promptement l’île Chairman ; mais, s’il venait à soupçonner l’existence d’une petite colonie, bien pourvue de tout ce qui lui manquait, il ne reculerait pas devant une agression où toutes les chances seraient pour lui. Les jeunes colons durent s’astreindre à prendre de minutieuses précautions, à ne plus s’éloigner du rio Zealand, à ne pas se hasarder aux environs du Family-lake sans nécessité tant que Walston et sa bande n’auraient pas quitté l’île.</p>
         <p>Et d’abord, il y eut lieu de savoir si, pendant leur retour des Severn-shores à Bear-rock, Doniphan, Cross, Webb et Wilcox n’avaient rien remarqué qui fût de nature à leur faire soupçonner la présence des matelots du Severn ?</p>
@@ -2541,8 +2587,10 @@
         <p>Et Briant serra la main de Gordon.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXIV
-<lb/>Premier essai. – Agrandissement de l’appareil. – Deuxième essai. – Remise au lendemain. – Proposition de Briant. – Proposition de Jacques. – L’aveu. – L’idée de Briant. – Dans les airs au milieu de la nuit. – Ce qui apparaît. – Le vent fraîchit. – Dénouement.</head>
+        <head>Chapitre XXIV</head>
+<argument>
+  <p>Premier essai. – Agrandissement de l’appareil. – Deuxième essai. – Remise au lendemain. – Proposition de Briant. – Proposition de Jacques. – L’aveu. – L’idée de Briant. – Dans les airs au milieu de la nuit. – Ce qui apparaît. – Le vent fraîchit. – Dénouement.</p>
+</argument>
         <p>Dès le matin du 25 novembre, Briant et Baxter se mirent à l’œuvre. Avant de donner à l’appareil des dimensions plus considérables, il parut bon de savoir quel poids il aurait la force d’enlever, tel qu’il était. Cela permettrait d’arriver par tâtonnements, faute de formules scientifiques à lui donner la surface suffisante pour supporter – non compris le sien propre – un poids qui ne devrait pas être inférieur à cent vingt ou cent trente livres.</p>
         <p>Il ne fut pas nécessaire d’attendre la nuit pour faire cette première expérience. En ce moment, la brise soufflait du sud-ouest, et Briant se dit qu’il n’y aurait aucun inconvénient à en profiter, à la condition de retenir le cerf-volant à une faible hauteur, de façon qu’il ne pût être aperçu de la rive orientale du lac.</p>
         <p>L’opération réussit à souhait ; il fut constaté que l’appareil, sous l’action d’un vent ordinaire, soulevait un sac pesant vingt livres. Un peson, provenant du matériel du Sloughi, avait permis d’obtenir très exactement ce poids.</p>
@@ -2673,8 +2721,10 @@
         <p>Pendant ce temps, le cerf-volant, délesté de son poids, avait disparu dans le nord-est, entraîné par la brise comme une gigantesque épave de l’air.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXV
-<lb/>La chaloupe du Severn. – Costar malade. – Le retour des hirondelles. – Découragement. – Les oiseaux de proie. – Le guanaque tué d’une balle. – Le culot de pipe. – Surveillance plus active. – Violent orage. – Une détonation au dehors. – Un cri de Kate.</head>
+        <head>Chapitre XXV</head>
+<argument>
+  <p>La chaloupe du Severn. – Costar malade. – Le retour des hirondelles. – Découragement. – Les oiseaux de proie. – Le guanaque tué d’une balle. – Le culot de pipe. – Surveillance plus active. – Violent orage. – Une détonation au dehors. – Un cri de Kate.</p>
+</argument>
         <p>Le lendemain, après une nuit pendant laquelle Moko était resté de garde à French-den, les jeunes colons, fatigués de leurs émotions de la veille, ne se réveillèrent que fort tard. Aussitôt levés, Gordon, Doniphan, Briant et Baxter passèrent dans Store-room, où Kate vaquait à ses travaux habituels.</p>
         <p>Là, ils s’entretinrent de la situation, qui ne laissait pas d’être très inquiétante.</p>
         <p>En effet – ainsi que le fit observer Gordon – il y avait déjà plus de quinze jours que Walston et ses compagnons étaient sur l’île. Donc, si les réparations de la chaloupe n’étaient point encore faites, c’est qu’ils manquaient des outils indispensables à une besogne de ce genre.</p>
@@ -2759,8 +2809,10 @@
         <p>C’était Evans, le master du Severn.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXVI
-<lb/>Kate et le master. – Le récit d’Evans. – Après l’échouage de la chaloupe. – Walston au port de Bear-rock. – Le cerf-volant. – French-den découvert. – Fuite d’Evans. – La traversée du rio. – Projets. – Proposition de Gordon. – Les terres dans l’est. – L’île Chairman-Hanovre.</head>
+        <head>Chapitre XXVI</head>
+<argument>
+  <p>Kate et le master. – Le récit d’Evans. – Après l’échouage de la chaloupe. – Walston au port de Bear-rock. – Le cerf-volant. – French-den découvert. – Fuite d’Evans. – La traversée du rio. – Projets. – Proposition de Gordon. – Les terres dans l’est. – L’île Chairman-Hanovre.</p>
+</argument>
         <p>Tout d’abord, Gordon, Briant, Doniphan étaient restés immobiles, à cette apparition si inattendue d’Evans. Puis, par un mouvement instinctif, ils s’élancèrent vers le master comme au-devant d’un sauveur.</p>
         <p>C’était un homme de vingt-cinq à trente ans, épaules larges, torse vigoureux, œil vif, front découvert, physionomie intelligente et sympathique, démarche ferme et résolue, figure que cachait en partie les broussailles d’une barbe inculte, qui n’avait pu être taillée depuis le naufrage du Severn.</p>
         <p>À peine entré, Evans se retourna et vint appuyer son oreille contre la porte qu’il avait refermée vivement. N’entendant rien au dehors, il s’avança au milieu du hall. Là, il regarda à la lueur du fanal suspendu à la voûte ce petit monde qui l’entourait, et murmura ces mots :</p>
@@ -2897,8 +2949,10 @@
         <p>Le master Evans avait remis au lendemain de compléter ses explications en indiquant sur l’atlas quelle était la position exacte de l’île Hanovre, et, tandis que Moko et Gordon veillaient, la nuit s’écoula tranquillement à French-den.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXVII
-<lb/>Le détroit de Magellan. – Les terres et les îles qui le bordent. – Les stations qui y sont établies. – Projets d’avenir. – La force ou la ruse ? – Rock et Forbes. – Les faux naufragés. – Accueil hospitalier. – Entre onze heures et minuit. – Un coup de feu d’Evans. – Intervention de Kate.</head>
+        <head>Chapitre XXVII</head>
+<argument>
+  <p>Le détroit de Magellan. – Les terres et les îles qui le bordent. – Les stations qui y sont établies. – Projets d’avenir. – La force ou la ruse ? – Rock et Forbes. – Les faux naufragés. – Accueil hospitalier. – Entre onze heures et minuit. – Un coup de feu d’Evans. – Intervention de Kate.</p>
+</argument>
         <p>Un canal, long de trois cent quatre-vingts milles environ, dont la courbure se dessine de l’ouest à l’est, depuis le cap des Vierges sur l’Atlantique jusqu’au cap de Los Pilares sur le Pacifique, – encadré de côtes très accidentées, – dominé par des montagnes de trois mille pieds au-dessus du niveau de la mer, – creusé de baies au fond desquelles se multiplient les ports de refuge, – riches en aiguades où les navires peuvent sans peine renouveler leur provision d’eau, – bordé de forêts épaisses où le gibier abonde, – retentissant du fracas des chutes qui se précipitent par milliers dans ses innombrables criques, – offrant aux navires venus de l’est ou de l’ouest un passage plus court que celui de Lemaire entre la Terre des États et la Terre de Feu, et moins battu des tempêtes que celui du cap Horn, – tel est ce détroit de Magellan que l’illustre navigateur portugais découvrit en l’année 1520.</p>
         <p>Les Espagnols, qui furent seuls à visiter les terres magellaniques pendant un demi-siècle, fondèrent sur la presqu’île de Brunswick l’établissement de Port-Famine. Aux Espagnols succédèrent les Anglais avec Drake, Cavendish, Chidley, Hawkins ; puis les Hollandais avec de Weert, de Cord, de Noort, avec Lemaire et Schouten qui découvrirent en 1610 le détroit de ce nom. Enfin, de 1696 à 1712, les Français y apparaissent avec Degennes, Beauchesne-Gouin, Frezier, et, depuis cette époque, ces parages s’ouvrirent aux navigateurs les plus célèbres de la fin du siècle, Anson, Cook, Byron, Bougainville et autres.</p>
         <p>Dès lors, le détroit de Magellan devint une voie fréquentée pour le passage d’un Océan à l’autre – surtout depuis que la navigation à vapeur, qui ne connaît ni les vents défavorables ni les courants contraires, eût permis de le traverser dans des conditions de navigation exceptionnelles.</p>
@@ -2994,8 +3048,10 @@
         <p>Puis, la porte de Store-room ayant été refermée et barricadée, tous restèrent sur le qui-vive jusqu’au jour.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXVIII
-<lb/>Interrogatoire de Forbes. – La situation. – Une reconnaissance projetée. – Évaluation des forces. – Reste de campement. – Briant disparu. – Doniphan à son secours. – Grave blessure. – Cris du côté de French-den. – Apparition de Forbes. – Un coup de canon de Moko.</head>
+        <head>Chapitre XXVIII</head>
+<argument>
+  <p>Interrogatoire de Forbes. – La situation. – Une reconnaissance projetée. – Évaluation des forces. – Reste de campement. – Briant disparu. – Doniphan à son secours. – Grave blessure. – Cris du côté de French-den. – Apparition de Forbes. – Un coup de canon de Moko.</p>
+</argument>
         <p>Le lendemain, si fatigante qu’eût été cette nuit sans sommeil, personne n’eut la pensée de prendre une heure de repos. Il n’était pas douteux, maintenant, que Walston emploierait la force, puisque la ruse avait échoué. Rock, échappé au coup de feu du master, avait dû le rejoindre et lui apprendre que, ses agissements étant découverts, il ne pourrait plus pénétrer dans French-den sans en forcer les portes.</p>
         <p>Dès l’aube, Evans, Briant, Doniphan et Gordon sortirent du hall, en se tenant sur leurs gardes. Avec le lever du soleil, les brumes matinales se condensaient peu à peu et découvraient le lac que ridait une légère brise de l’est.</p>
         <p>Tout était tranquille aux abords de French-den, du côté du rio Zealand aussi bien que du côté de Traps-woods. À l’intérieur de l’enclos, les animaux domestiques allaient et venaient comme à l’ordinaire. Phann, qui courait sur Sport-terrace, ne donnait aucun signe d’inquiétude.</p>
@@ -3119,8 +3175,10 @@
         <p>Et maintenant, à l’exception des deux misérables, qui avaient disparu sous les massifs de Traps-woods, l’île Chairman était délivrée des meurtriers du Severn, entraînés vers la mer par le courant du rio Zealand !</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXIX
-<lb/>Réaction. – Les héros de la bataille. – La fin d’un malheureux. – Excursion dans la forêt. – Convalescence de Doniphan. – Au port de Bear-rock. – Le radoubage. – Le départ du 12 février. – En descendant le rio Zealand. – Salut à Sloughi-bay. – La dernière pointe de l’île Chairman.</head>
+        <head>Chapitre XXIX</head>
+<argument>
+  <p>Réaction. – Les héros de la bataille. – La fin d’un malheureux. – Excursion dans la forêt. – Convalescence de Doniphan. – Au port de Bear-rock. – Le radoubage. – Le départ du 12 février. – En descendant le rio Zealand. – Salut à Sloughi-bay. – La dernière pointe de l’île Chairman.</p>
+</argument>
         <p>Une ère nouvelle commençait maintenant pour les jeunes colons de l’île Chairman.</p>
         <p>Après avoir lutté jusqu’alors pour assurer leur existence dans des conditions assez critiques, c’était à l’œuvre de la délivrance qu’ils allaient travailler en tentant un dernier effort pour revoir leurs familles et leur pays.</p>
         <p>Après la surexcitation causée par les incidents de la lutte, il s’était produit en eux une réaction bien naturelle. Ils furent comme accablés de leur succès, auquel ils ne pouvaient croire. Le danger passé, il leur apparaissait plus grand qu’il ne leur avait semblé, – en réalité, tel qu’il était. Certes, après le premier engagement sur la lisière de Traps-woods, leurs chances s’étaient accrues dans une certaine mesure. Mais, sans l’intervention si inattendue de Forbes, Walston, Book et Brandt leur échappaient ! Moko n’aurait pas osé envoyer ce coup de mitraille, qui eût atteint Jacques et Costar en même temps que leurs ravisseurs !… Que se serait-il passé ensuite ?… À quel compromis aurait-il fallu consentir pour délivrer les deux enfants ?</p>
@@ -3206,8 +3264,10 @@
         <p>L’extrême pointe de l’île Chairman venait de s’effacer à l’horizon du nord.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXX
-<lb/>Entre les canaux. – Retards par suite de vents contraires. – Le détroit. – Le steamer Grafton. – Retour à Auckland. – Accueil dans la capitale de la Nouvelle-Zélande. – Evans et Kate. – Conclusion.</head>
+        <head>Chapitre XXX</head>
+<argument>
+  <p>Entre les canaux. – Retards par suite de vents contraires. – Le détroit. – Le steamer Grafton. – Retour à Auckland. – Accueil dans la capitale de la Nouvelle-Zélande. – Evans et Kate. – Conclusion.</p>
+</argument>
         <p>Il n’y a pas lieu de rapporter par le menu ce voyage à travers les canaux de l’archipel magellanique. Il ne fut marqué par aucun incident de quelque importance. Le temps demeura constamment au beau. D’ailleurs, dans ces passes, larges de six à sept milles, la mer n’eût pas eu le temps de se lever au souffle d’une bourrasque.</p>
         <p>Tous ces canaux étaient déserts, et, au surplus, mieux valait ne point rencontrer les naturels de ces parages, qui ne sont pas toujours d’humeur hospitalière. Une ou deux fois, pendant la nuit, des feux furent signalés à l’intérieur des îles, mais aucun indigène ne se montrait sur les grèves.</p>
         <p>Le 11 février, la chaloupe, qui avait toujours été servie par un vent favorable, déboucha dans le détroit de Magellan par le canal de Smyth, entre la côte ouest de l’île de la Reine Adélaïde et les hauteurs de la terre du Roi Guillaume. À droite s’élevait le pic Sainte-Anne. À gauche, au fond de la baie de Beaufort, s’étageaient quelques-uns de ces magnifiques glaciers, dont Briant avait entrevu l’un des plus élevés à l’est de l’île Hanovre – à laquelle les jeunes colons donnaient toujours le nom d’île Chairman.</p>

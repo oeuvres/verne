@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-06T20:17:48+01:00-->
-<!-- ok -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[La Jangada  huit cent lieues sur l’Amazone]</title>
+        <title>La Jangada</title>
         <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt>
@@ -36,8 +34,7 @@
       <div>
         <head>Premier épisode</head>
         <div type="chapter">
-          <head>Chapitre I.
-<lb/>Un capitaine des bois</head>
+          <head>Chapitre I. Un capitaine des bois</head>
           <p rend="italic">« Phyjslyddqfdzxgasgzzqqehxgkfndrxujugiocytdxvksbxhhuypo hdvyrymhuhpuydkjoxphetozsletnpmvffovpdpajxhyynojyggayme qynfuqlnmvlyfgsuzmqiztlbqgyugsqeubvnrcredgruzblrmxyuhqhp zdrrgcrohepqxufivvrplphonthvddqfhqsntzhhhnfepmqkyuuexktog zgkyuumfvijdqdpzjqsykrplxhxqrymvklohhhotozvdksppsuvjhd. » </p>
           <p>L’homme qui tenait à la main le document, dont ce bizarre assemblage de lettres formait le dernier alinéa, resta quelques instants pensif, après l’avoir attentivement relu.</p>
           <p>Le document comptait une centaine de ces lignes, qui n’étaient pas même divisées par mots. Il semblait avoir été écrit depuis des années, et, sur la feuille d’épais papier que couvraient ces hiéroglyphes, le temps avait déjà mis sa patine jaunâtre.</p>
@@ -85,8 +82,7 @@
           <p>À la dixième aspiration, ses yeux se fermaient, la pipe lui échappait des doigts, et il s’endormait, ou plutôt il tombait dans une sorte de torpeur qui n’était pas du vrai sommeil.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre II.
-<lb/>Voleur et volé</head>
+          <head>Chapitre II. Voleur et volé</head>
           <p>Torrès dormait depuis une demi-heure environ, lorsqu’un bruit se fit entendre sous les arbres. C’était un bruit de pas légers, comme si quelque visiteur eût marché pieds nus, en prenant certaines précautions pour ne pas être entendu. Se mettre en garde contre toute approche suspecte aurait été le premier soin de l’aventurier, si ses yeux eussent été ouverts en ce moment. Mais ce n’était pas là de quoi l’éveiller, et celui qui s’avançait put arriver en sa présence, à dix pas de l’arbre, sans avoir été aperçu.</p>
           <p>Ce n’était point un homme, c’était un « guariba ».</p>
           <p>De tous ces singes à queue prenante qui hantent les forêts du Haut-Amazone, sahuis aux formes gracieuses, sajous cornus, monos à poils gris, sagouins qui ont l’air de porter un masque sur leur face grimaçante, le guariba est sans contredit le plus original. D’humeur sociable, peu farouche, très différent en cela du « mucura » féroce et infect, il a le goût de l’association et marche le plus ordinairement en troupe. C’est lui dont la présence se signale au loin par ce concert de voix monotones, qui ressemble aux prières psalmodiées des chantres. Mais, si la nature ne l’a pas créé méchant, il ne faut pas qu’on l’attaque sans précaution. En tout cas, ainsi qu’on va le voir, un voyageur endormi ne laisse pas d’être exposé, lorsqu’un guariba le surprend dans cette situation et hors d’état de se défendre.</p>
@@ -182,8 +178,7 @@
           <p>Et, ces paroles prononcées, le capitaine des bois, se dirigeant vers le sud, de manière à regagner la rive gauche du fleuve par le plus court, disparut dans l’épaisse forêt.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre III.
-<lb/>La famille Garral</head>
+          <head>Chapitre III. La famille Garral</head>
           <p>Le village d’Iquitos est situé près de la rive gauche de l’Amazone, à peu près sur le soixante-quatorzième méridien, dans cette partie du grand fleuve qui porte encore le nom de Marânon, et dont le lit sépare le Pérou de la République de l’Équateur, à cinquante-cinq lieues vers l’ouest de la frontière brésilienne.</p>
           <p>Iquitos a été fondé par les missionnaires, comme toutes ces agglomérations de cases, hameaux ou bourgades, qui se rencontrent dans le bassin de l’Amazone. Jusqu’à la dix-septième année de ce siècle, les Indiens Iquitos, qui en formèrent un moment l’unique population, s’étaient reportés à l’intérieur de la province, assez loin du fleuve. Mais, un jour, les sources de leur territoire se tarissent sous l’influence d’une éruption volcanique, et ils sont dans la nécessité de venir se fixer sur la gauche du Marânon. La race s’altéra bientôt par suite des alliances qui furent contractées avec les Indiens riverains, Ticunas ou Omaguas, et, aujourd’hui, Iquitos ne compte plus qu’une population mélangée, à laquelle il convient d’ajouter quelques Espagnols et deux ou trois familles de métis.</p>
           <p>Une quarantaine de huttes, assez misérables, que leur toit de chaume rend à peine dignes du nom de chaumières, voilà tout le village, très pittoresquement groupé, d’ailleurs, sur une esplanade qui domine d’une soixantaine de pieds les rives du fleuve. Un escalier, fait de troncs transversaux, y accède, et il se dérobe aux yeux du voyageur, tant que celui-ci n’a pas gravi cet escalier, car le recul lui manque. Mais une fois sur la hauteur, on se trouve devant une enceinte peu défensive d’arbustes variés et de plantes arborescentes, rattachées par des cordons de lianes, que dépassent çà et là des têtes de bananiers et de palmiers de la plus élégante espèce.</p>
@@ -230,8 +225,7 @@
           <p>Quant aux serviteurs, on en comptait de deux sortes : les Indiens, au nombre d’une centaine, employés à gages pour les travaux de la fazenda, et les noirs, en nombre double, qui n’était pas libres encore, mais dont les enfants ne naissaient plus esclaves. Joam Garral avait précédé dans cette voie le gouvernement brésilien. En ce pays, d’ailleurs, plus qu’en tout autre, les nègres venus du Benguela, du Congo, de la Côte d’Or, ont toujours été traités avec douceur, et ce n’était pas à la fazenda d’Iquitos qu’il eût fallu chercher ces tristes exemples de cruauté, si fréquents sur les plantations étrangères.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre IV.
-<lb/>Hésitations</head>
+          <head>Chapitre IV. Hésitations</head>
           <p>Manoel aimait la sœur de son ami Benito, et la jeune fille répondait à son affection. Tous deux avaient pu s’apprécier : ils étaient vraiment dignes l’un de l’autre.</p>
           <p>Lorsqu’il ne lui fut plus permis de se tromper aux sentiments qu’il éprouvait pour Minha, Manoel s’en était tout d’abord ouvert à Benito.</p>
           <p>« Ami Manoel, avait aussitôt répondu l’enthousiaste jeune homme, tu as joliment raison de vouloir épouser ma sœur ! Laisse-moi agir ! Je vais commencer par en parler à notre mère, et je crois pouvoir te promettre que son consentement ne se fera pas attendre ! »</p>
@@ -290,8 +284,7 @@
           <p>« Allons à la bibliothèque, dit-elle ! Prenons tous les livres, toutes les cartes qui peuvent nous faire connaître ce bassin magnifique ! Il ne s’agit pas de voyager en aveugles ! Je veux tout voir et tout savoir de ce roi des fleuves de la terre ! »</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre V.
-<lb/>L’Amazone</head>
+          <head>Chapitre V. L’Amazone</head>
           <p>« Le plus grand fleuve du monde entier<note place="bottom">L’affirmation de Benito, vraie à cette époque, où de nouvelles découvertes n’avaient pas été faites encore, ne peut plus être tenue pour exacte aujourd’hui. Le Nil et le Missouri-Mississipi, d’après les derniers relèvements, paraissent avoir un cours supérieur en étendue à celui de l’Amazone.</note> ! » disait le lendemain Benito à Manoel Valdez.</p>
           <p>Et à ce moment, tous deux, assis sur la berge, à la limite méridionale de la fazenda, regardaient passer lentement ces molécules liquides qui, parties de l’énorme chaîne des Andes, allaient se perdre à huit cents lieues de là, dans l’océan Atlantique.</p>
           <p>« Et le fleuve qui débite à la mer le volume d’eau le plus considérable ! répondit Manoel.</p>
@@ -344,8 +337,7 @@
           <p>– Oui, Benito, répondit Manoel, mais bien long aussi, puisque Minha ne doit être ma femme qu’au terme du voyage ! »</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre VI.
-<lb/>Toute une forêt par terre</head>
+          <head>Chapitre VI. Toute une forêt par terre</head>
           <p>La famille de Joam Garral était donc en joie. Ce magnifique trajet sur l’Amazone allait s’accomplir dans des conditions charmantes. Non seulement le fazender et les siens partaient pour un voyage de quelques mois, mais, ainsi qu’on le verra, ils devaient être accompagnés d’une partie du personnel de la ferme.</p>
           <p>Sans doute, en voyant tout le monde heureux autour de lui, Joam Garral oublia les préoccupations qui semblaient troubler sa vie. À partir de ce jour, sa résolution étant fermement arrêtée, il fut un autre homme, et, lorsqu’il eut à s’occuper des préparatifs du voyage, il reprit son activité d’autrefois. Ce fut une vive satisfaction pour les siens de le revoir à l’œuvre. L’être moral réagit contre l’être physique, et Joam Garral redevint ce qu’il était dans ses premières années, vigoureux, solide. Il se retrouva l’homme qui a toujours vécu au grand air, en cette vivifiante atmosphère des forêts, des champs, des eaux courantes.</p>
           <p>Au surplus, les quelques semaines qui devaient précéder le départ allaient être bien remplies.</p>
@@ -385,8 +377,7 @@
           <p>Quant à Manoel, il se partageait autant que possible entre l’habitation, où Yaquita et sa fille ne perdaient pas une heure, et le théâtre du défrichement, sur lequel Benito voulait l’entraîner plus qu’il ne lui convenait. Mais, en somme, le partage fut très inégal, et cela se comprend.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre VII.
-<lb/>En suivant une liane</head>
+          <head>Chapitre VII. En suivant une liane</head>
           <p>Un dimanche, cependant, le 26 mai, les jeunes gens résolurent de prendre quelque distraction. Le temps était superbe, l’atmosphère s’imprégnait des fraîches brises venues de la Cordillère, qui adoucissaient la température. Tout invitait à faire une excursion dans la campagne.</p>
           <p>Benito et Manoel offrirent donc à la jeune fille de les accompagner à travers les grands bois qui bordaient la rive droite de l’Amazone, à l’opposé de la fazenda.</p>
           <p>C’était une façon de prendre congé des environs d’Iquitos, qui sont charmants. Les deux jeunes gens iraient en chasseurs, mais en chasseurs, qui ne quitteraient pas leurs compagnes pour courir après le gibier, on pouvait là-dessus s’en rapporter à Manoel, – et les jeunes filles, car Lina ne pouvait se séparer de sa maîtresse, iraient en simples promeneuses, qu’une excursion de deux à trois lieues n’était pas pour effrayer.</p>
@@ -527,8 +518,7 @@
           <p>Le pauvre diable, redevenu alerte, fut mis au courant de ce qui s’était passé. Il remercia chaudement Lina de la bonne idée qu’elle avait eue de suivre cette liane, et tous reprirent le chemin de la fazenda, où Fragoso fut accueilli de manière à n’avoir plus ni l’envie ni le besoin de recommencer sa triste besogne !</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre VIII.
-<lb/>La Jangada</head>
+          <head>Chapitre VIII. La Jangada</head>
           <p>Le demi-mille carré de forêt était abattu. Aux charpentiers revenait maintenant le soin de disposer sous forme de radeau les arbres plusieurs fois séculaires qui gisaient sur la grève.</p>
           <p>Facile besogne, en vérité ! Sous la direction de Joam Garral, les Indiens attachés à la fazenda allaient déployer leur adresse, qui est incomparable. Qu’il s’agisse de bâtisse ou de construction maritime, ces indigènes sont, sans contredit, d’étonnants ouvriers. Ils n’ont qu’une hache et une scie, ils opèrent sur des bois tellement durs que le tranchant de leur outil s’y ébrèche, et pourtant, troncs qu’il faut équarrir, poutrelles à dégager de ces énormes stipes, planches et madriers, à débiter sans l’aide d’une scierie mécanique, tout cela s’accomplit aisément sous leur main adroite, patiente, douée d’une prodigieuse habileté naturelle.</p>
           <p>Les cadavres d’arbres n’avaient pas été tout d’abord lancés dans le lit de l’Amazone. Joam Garral avait l’habitude de procéder autrement. Aussi, tout cet amas de troncs avait-il été symétriquement rangé sur une large grève plate, qu’il avait fait encore surbaisser, au confluent du Nanay et du grand fleuve. C’était là que la jangada allait être construite ; c’était là que l’Amazone se chargerait de la mettre à flot, lorsque le moment serait venu de la conduire à destination.</p>
@@ -582,8 +572,7 @@
           <p>– C’est inutile, mon ami, répondit Minha en souriant. Manoel m’a offert un bouquet et je m’en contente ! – Il est vrai, ajouta-t-elle en montrant l’habitation enfouie sous les fleurs, il est vrai qu’il a caché notre maison dans son bouquet de fiançailles ! »</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre IX.
-<lb/>Le soir du 5 juin</head>
+          <head>Chapitre IX. Le soir du 5 juin</head>
           <p>Pendant que se construisait la maison de maître, Joam Garral s’était occupé aussi de l’aménagement des « communs », qui comprenaient la cuisine et les offices, dans lesquels les provisions de toutes sortes allaient être emmagasinées.</p>
           <p>Au premier rang, il y avait un important stock des racines de cet arbrisseau, haut de six à dix pieds, qui produit le manioc, dont les habitants des contrées intertropicales font leur principale nourriture. Cette racine, semblable à un long radis noir, vient par touffes, comme les pommes de terre. Si elle n’est pas toxique dans les régions africaines, il est certain que, dans l’Amérique du Sud, elle contient un suc des plus nuisibles, qu’il faut préalablement chasser par la pression. Ce résultat obtenu, on réduit ces racines en une farine qui s’utilise de différentes façons, même sous la forme de tapioca, suivant le caprice des indigènes.</p>
           <p>Aussi, à bord de la jangada, existait-il un véritable silo de cette utile production, qui était réservée à l’alimentation générale.</p>
@@ -634,8 +623,7 @@
           <p>Vers six heures et demie, des cris de joie éclatèrent. La jangada flottait enfin, et le courant l’entraînait vers le milieu du fleuve ; mais, au rappel de ses amarres, elle vint tranquillement se ranger près de la rive, à l’instant où le padre Passanha la bénissait, comme il est béni un bâtiment de mer, dont les destinées sont entre les mains de Dieu !</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre X.
-<lb/>D’Iquitos à Pevas</head>
+          <head>Chapitre X. D’Iquitos à Pevas</head>
           <p>Le lendemain, 6 juin, Joam Garral et les siens faisaient leurs adieux à l’intendant et au personnel indien ou noir, qui restait à la fazenda. À six heures du matin, la jangada recevait tous ses passagers, – il serait plus juste de les appeler ses habitants –, et chacun prenait possession de sa cabine, ou, pour mieux dire, de sa maison.</p>
           <p>Le moment de partir était venu. Le pilote Araujo alla se placer à l’avant, et les gens de l’équipe, armés de leurs longues gaffes, se tinrent à leur poste de manœuvre.</p>
           <p>Joam Garral, aidé de Benito et de Manoel, surveillait l’opération du démarrage.</p>
@@ -694,8 +682,7 @@
           <p>Quelques indigènes à tête rasée, tatoués aux joues et au front, portant, aux ailes du nez et au-dessous de la lèvre inférieure, des rondelles de métal, parurent un instant sur les rives. Ils étaient armés de flèches et de sarbacanes, mais ils n’en firent point usage et n’essayèrent même pas d’entrer en communication avec la jangada.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XI.
-<lb/>De Pevas à la frontière</head>
+          <head>Chapitre XI. De Pevas à la frontière</head>
           <p>Pendant les quelques jours qui suivirent, la navigation ne présenta aucun incident. Les nuits étaient si belles que le long train de bois se laissa aller au courant, sans même faire halte. Les deux rives pittoresques du fleuve semblaient se déplacer latéralement, comme ces panoramas de théâtre qui se déroulent d’une coulisse à l’autre. Par une sorte d’illusion d’optique, à laquelle se faisaient inconsciemment les yeux, il semblait que la jangada fût immobile entre les deux mouvants bas-côtés.</p>
           <p>Benito ne put donc aller chasser sur les berges, puisqu’on ne fit aucune halte ; mais le gibier fut très avantageusement remplacé par les produits de la pêche.</p>
           <p>En effet, on prit une grande variété de poissons excellents, des « pacos », des « surubis », des « gamitanas » d’une chair exquise, et certaines de ces larges raies, appelées « duridaris », roses au ventre, noires au dos, qui sont armées de dards très venimeux. On recueillit aussi, par milliers, de ces « candirus », sortes de petits silures, dont quelques-uns sont microscopiques, et qui ont bientôt fait une pelote des mollets du baigneur, imprudemment aventuré dans leurs parages.</p>
@@ -785,8 +772,7 @@
           <p>« La frontière ! » murmura-t-il en baissant la tête par un mouvement involontaire. Mais, un instant après, sa tête s’était relevée, et son visage était celui d’un homme résolu à faire son devoir jusqu’au bout.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XII.
-<lb/>Fragoso à l’ouvrage</head>
+          <head>Chapitre XII. Fragoso à l’ouvrage</head>
           <p>« Braza », braise, est un mot que l’on trouve dans la langue espagnole dès le XII<hi rend="sup">e</hi> siècle. Il a servi à faire le mot « brazil » pour désigner certains bois qui fournissent une teinture rouge. De là le nom de Brésil donné à cette vaste étendue de l’Amérique du Sud que traverse la ligne équinoxiale, et dans laquelle ce bois se rencontre fréquemment. Il fut, d’ailleurs, et de très bonne heure, l’objet d’un commerce considérable avec les Normands. Bien qu’il s’appelle « ibirapitunga » au lieu de production, ce nom de « brazil » lui est resté, et il est devenu celui de ce pays, qui apparaît comme une immense braise, enflammée sous les rayons d’un soleil tropical.</p>
           <p>Les Portugais l’occupèrent tout d’abord. Dès le commencement du XVI<hi rend="sup">e</hi> siècle, prise de possession en fut faite par le pilote Alvarez Cabral. Si, plus tard, la France, la Hollande, s’y établirent partiellement, il est resté portugais, et possède toutes les qualités qui distinguent ce vaillant petit peuple. C’est maintenant l’un des plus grands États de l’Amérique méridionale, ayant à sa tête l’intelligent et artiste roi don Pedro.</p>
           <p>« Quel est ton droit dans la tribu ? demandait Montaigne à un Indien qu’il rencontrait au Havre.</p>
@@ -858,8 +844,7 @@
           <p>Mais aussi, bonne récolte pour le cabaretier, car toutes ces opérations ne s’accomplissaient pas sans grande absorption de liqueurs tirées des caves de la loja. En vérité, c’était un événement pour la ville de Tabatinga que ce passage du célèbre Fragoso, coiffeur ordinaire et extraordinaire des tribus du Haut-Amazone !</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XIII.
-<lb/>Torrès</head>
+          <head>Chapitre XIII. Torrès</head>
           <p>À cinq heures du soir, Fragoso était encore là, n’en pouvant plus, et il se demandait s’il ne serait pas obligé de passer la nuit pour satisfaire la foule des expectants.</p>
           <p>En ce moment, un étranger arriva sur la place, et, voyant toute cette réunion d’indigènes, il s’avança vers l’auberge.</p>
           <p>Pendant quelques instants, cet étranger regarda Fragoso attentivement avec une certaine circonspection. Sans doute, l’examen le satisfit, car il entra dans la loja.</p>
@@ -948,8 +933,7 @@
           <p>À huit heures seulement, celui-ci, de retour à la jangada, faisait à la jeune mulâtresse le récit de ses exploits, et lui répétait, non sans quelque amour-propre, que la renommée de l’illustre Fragoso venait de s’accroître encore dans le bassin du Haut-Amazone.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XIV.
-<lb/>En descendant encore</head>
+          <head>Chapitre XIV. En descendant encore</head>
           <p>Le lendemain matin, 27 juin, dès l’aube, les amarres étaient larguées, et la jangada continuait à dériver au courant du fleuve.</p>
           <p>Un personnage de plus était à bord. En réalité, d’où venait ce Torrès ? On ne le savait pas au juste. Où allait-il ? À Manao, avait-il dit. Torrès s’était d’ailleurs gardé de rien laisser soupçonner de sa vie passée, ni de la profession qu’il exerçait encore deux mois auparavant, et personne ne pouvait se douter que la jangada eût donné asile à un ancien capitaine des bois. Joam Garral n’avait pas voulu gâter par des questions trop pressantes le service qu’il allait lui rendre.</p>
           <p>En le prenant à bord, le fazender avait obéi à un sentiment d’humanité. Au milieu de ces vastes déserts amazoniens, à cette époque surtout où des bateaux à vapeur ne sillonnaient pas encore le cours du fleuve, il était très difficile de trouver des moyens de transport sûrs et rapides. Les embarcations ne donnaient pas un service régulier, et, la plupart du temps, le voyageur en était réduit à cheminer à travers les forêts. Ainsi avait fait et aurait dû continuer de faire Torrès, et c’était pour lui une chance inespérée que d’avoir pu prendre passage à bord de la jangada.</p>
@@ -993,8 +977,7 @@
           <p>Nombre d’îles furent longées, Pimaticaira, Caturia, Chico, Motachina ; les unes habitées, les autres désertes, mais toutes couvertes d’une végétation superbe, qui forme comme une guirlande ininterrompue de verdure d’un bout de l’Amazone à l’autre.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XV.
-<lb/>En descendant toujours</head>
+          <head>Chapitre XV. En descendant toujours</head>
           <p>On était au soir du 5 juillet. L’atmosphère, alourdie depuis la veille, promettait quelques prochains orages. De grandes chauves-souris de couleur roussâtre rasaient à larges coups d’ailes le courant de l’Amazone. Parmi elles on distinguait de ces « perros voladors », d’un brun sombre, clairs au ventre, pour lesquelles Minha et surtout la jeune mulâtresse éprouvaient une répulsion instinctive. C’étaient là, en effet, de ces horribles vampires qui sucent le sang des bestiaux, et s’attaquent même à l’homme qui s’est imprudemment endormi dans les campines.</p>
           <p>« Oh ! les vilaines bêtes ! s’écria Lina, en se cachant les yeux. Elles me font horreur !</p>
           <p>– Et elles sont, en outre, fort redoutables, ajouta la jeune fille. N’est-il pas vrai, Manoel ?</p>
@@ -1054,8 +1037,7 @@
           <p>La nuit se passa sur les amarrages, près d’une côte assez élevée, et rien n’en troubla la tranquillité. Quelques éclairs de chaleur enflammèrent l’horizon, mais ils venaient d’un orage lointain, qui n’éclata pas à l’entrée du lac.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XVI.
-<lb/>Ega</head>
+          <head>Chapitre XVI. Ega</head>
           <p>Le 20 juillet, à six heures du matin, Yaquita, Minha, Lina et les deux jeunes gens se préparaient à quitter la jangada.</p>
           <p>Joam Garral, qui n’avait pas manifesté l’intention de descendre à terre, se décida, cette fois, sur les instances de sa femme et de sa fille, à abandonner son absorbant travail quotidien pour les accompagner pendant leur excursion.</p>
           <p>Torrès, lui, ne s’était pas montré soucieux d’aller visiter Ega, à la grande satisfaction de Manoel, qui avait pris cet homme en aversion et n’attendait que l’occasion de le lui prouver.</p>
@@ -1154,8 +1136,7 @@
           <p>Aucun des membres de la famille, alors retirés dans l’habitation, n’eut connaissance de ce fait. Seul, Torrès en fut témoin. Il entendit même les quelques mots échangés entre Joam Garral et l’Indien, et, à sa physionomie qui se rembrunit, il était facile de voir que l’envoi de cette lettre ne laissait pas que de le surprendre.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XVII.
-<lb/>Une attaque</head>
+          <head>Chapitre XVII. Une attaque</head>
           <p>Cependant, si Manoel ne disait rien, pour ne pas provoquer quelque scène violente à bord, le lendemain, il eut la pensée de s’expliquer avec Benito au sujet de Torrès.</p>
           <p>« Benito, lui dit-il, après l’avoir emmené à l’avant de la jangada, j’ai à te parler. »</p>
           <p>Benito, si souriant d’ordinaire, s’arrêta en regardant Manoel, et tout son visage s’assombrit.</p>
@@ -1252,8 +1233,7 @@
           <p>En entendant cette demande, Benito, dans un mouvement irréfléchi, fut sur le point d’intervenir ; mais Manoel l’arrêta, et le jeune homme se contint, non sans un violent effort.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XVIII.
-<lb/>Le dîner d’arrivée</head>
+          <head>Chapitre XVIII. Le dîner d’arrivée</head>
           <p>Le lendemain, après une nuit qui avait à peine suffi à calmer tant d’émotions, on se démarra de cette plage aux caïmans et l’on repartit. Avant cinq jours, si rien ne contrariait sa marche, la jangada devait avoir touché au port de Manao.</p>
           <p>La jeune fille était maintenant tout à fait remise de sa frayeur ; ses yeux et son sourire remerciaient à la fois tous ceux qui avaient risqué leur vie pour elle.</p>
           <p>Quant à Lina, il semblait qu’elle fût plus reconnaissante envers le courageux Fragoso que si c’eût été elle qu’il eût sauvée !</p>
@@ -1325,8 +1305,7 @@
           <p>Qui eût regardé Joam Garral, en ce moment, aurait été épouvanté de la fixité de son regard, qui se croisait avec celui de Torrès.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XIX.
-<lb/>Histoire ancienne</head>
+          <head>Chapitre XIX. Histoire ancienne</head>
           <p>Mais la conversation allait continuer avec Fragoso, qui reprit presque aussitôt en ces termes :</p>
           <p>« Comment ! vous êtes de Tijuco, de la capitale même du district des diamants ?</p>
           <p>– Oui ! dit Torrès. Est-ce que vous-même, vous êtes originaire de cette province ?</p>
@@ -1384,8 +1363,7 @@
           <p>Et si par lui… oui ! par lui, quelque malheur arrive à mon père… je le tuerai ! »</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XX.
-<lb/>Entre ces deux hommes</head>
+          <head>Chapitre XX. Entre ces deux hommes</head>
           <p>Depuis un instant, seuls dans cette chambre où personne ne pouvait ni les entendre ni les voir, Joam Garral et Torrès se regardaient, sans prononcer un seul mot. L’aventurier hésitait-il donc à parler ? Comprenait-il que Joam Garral ne répondrait que par un silence dédaigneux aux demandes qui lui seraient faites ?</p>
           <p>Oui, sans doute ! Aussi, Torrès n’interrogea-t-il pas. Au début de cette conversation, il fut affirmatif, il prit le rôle d’un accusateur.</p>
           <p>« Joam, dit-il, vous ne vous appelez pas Garral, vous vous appelez Dacosta. »</p>
@@ -1508,8 +1486,7 @@
       <div>
         <head>Deuxième épisode</head>
         <div type="chapter">
-          <head><lb/>Chapitre I.
-<lb/>Manao</head>
+          <head>Chapitre I. Manao</head>
           <p>La ville de Manao est exactement située par 3°8’4’’ de latitude australe et 67°27’ de longitude à l’ouest du méridien de Paris. Quatre cent vingt lieues kilométriques la séparent de Bélem, et dix kilomètres, seulement, de l’embouchure du rio Negro.</p>
           <p>Manao n’est pas bâtie au bord du fleuve des Amazones. C’est sur la rive gauche du rio Negro, – le plus important, le plus remarquable des tributaires de la grande artère brésilienne –, que s’élève cette capitale de la province, dominant la campine environnante du pittoresque ensemble de ses maisons privées et de ses édifices publics.</p>
           <p>Le rio Negro, découvert, en 1645, par l’Espagnol Favella, prend sa source au flanc des montagnes situées, dans le nord-ouest, entre le Brésil et la Nouvelle-Grenade, au mur même de la province de Popayan, et il est mis en communication avec l’Orénoque, c’est-à-dire avec les Guyanes, par deux de ses affluents, le Pimichim et le Cassiquaire.</p>
@@ -1529,8 +1506,7 @@
           <p>Telle est Manao, qu’il fallait sommairement faire connaître au lecteur pour les besoins de cette histoire. Là, le voyage de la jangada, si tragiquement interrompu, venait de se trouver coupé au milieu du long parcours qu’elle devait accomplir ; là allaient se dérouler, en peu de temps, les péripéties de cette mystérieuse affaire.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre II.
-<lb/>Les premiers instants</head>
+          <head>Chapitre II. Les premiers instants</head>
           <p>À peine la pirogue qui emmenait Joam Garral, ou plutôt Joam Dacosta, – il convient de lui restituer ce nom –, avait-elle disparu, que Benito s’était avancé vers Manoel.</p>
           <p>« Que sais-tu ? lui demanda-t-il.</p>
           <p>– Je sais que ton père est innocent ! Oui ! Innocent ! répéta Manoel, et qu’une condamnation capitale l’a frappé, il y a vingt-trois ans, pour un crime qu’il n’avait pas commis !</p>
@@ -1602,8 +1578,7 @@
           <p>Tous rentrèrent dans l’habitation. Mais cette longue nuit, pas une heure de sommeil ne devait l’accourcir pour cette honnête famille, si cruellement éprouvée !</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre III.
-<lb/>Un retour sur le passé</head>
+          <head>Chapitre III. Un retour sur le passé</head>
           <p>C’était une fatalité, cette mort du juge Ribeiro, sur lequel Joam Dacosta avait la certitude de pouvoir compter absolument !</p>
           <p>Avant d’être juge de droit à Manao, c’est-à-dire le premier magistrat de la province, Ribeiro avait connu Joam Dacosta, à l’époque où le jeune employé fut poursuivi pour le crime de l’arrayal diamantin. Ribeiro était alors avocat à Villa-Rica. Ce fut lui qui se chargea de défendre l’accusé devant les assises. Il prit cette cause à cœur, il la fit sienne. De l’examen des pièces du dossier, des détails de l’information, il acquit, non pas une simple conviction d’office, mais la certitude que son client était incriminé à tort, qu’il n’avait pris à aucun degré une part quelconque dans l’assassinat des soldats de l’escorte et le vol des diamants, que l’instruction avait fait fausse route, – en un mot, que Joam Dacosta était innocent.</p>
           <p>Et pourtant, cette conviction, l’avocat Ribeiro, quels que fussent son talent et son zèle, ne parvint pas à la faire passer dans l’esprit du jury. Sur qui pouvait-il détourner la présomption du crime ? Si ce n’était pas Joam Dacosta, placé dans toutes les conditions voulues pour informer les malfaiteurs de ce départ secret du convoi, qui était-ce ? L’employé, qui accompagnait l’escorte, avait succombé avec la plupart des soldats, et les soupçons ne pouvaient se porter sur lui. Tout concourait donc à faire de Joam Dacosta l’unique et véritable auteur du crime.</p>
@@ -1639,8 +1614,7 @@
           <p>Joam Dacosta se redressa donc sous ce coup qui le frappait si inopinément. Ce n’était plus son honneur seulement qui était en jeu, c’était l’honneur de tous les siens !</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre IV.
-<lb/>Preuves morales</head>
+          <head>Chapitre IV. Preuves morales</head>
           <p>Le mandat d’arrestation décerné contre Joam Dacosta, dit Joam Garral, avait été lancé par le suppléant du juge Ribeiro, qui devait remplir les fonctions de ce magistrat dans la province des Amazones jusqu’à la nomination de son successeur.</p>
           <p>Ce suppléant se nommait Vicente Jarriquez. C’était un petit bonhomme fort bourru, que quarante ans d’exercice et de procédure criminelle n’avaient pas contribué à rendre très bienveillant pour les accusés. Il avait instruit tant d’affaires de ce genre, jugé et condamné tant de malfaiteurs, que l’innocence d’un prévenu, quel qu’il fût, lui semblait <hi rend="i">a priori</hi> inadmissible. Certainement, il ne jugeait pas contre sa conscience, mais sa conscience, fortement cuirassée, ne se laissait pas facilement entamer par les incidents de l’interrogatoire ou les arguments de la défense. Comme beaucoup de présidents d’assises, il réagissait volontiers contre l’indulgence du jury, et quand, après avoir été passé au crible des enquêtes, informations, instructions, un accusé arrivait devant lui, toutes les présomptions étaient, à ses yeux, pour que cet accusé fût dix fois coupable.</p>
           <p>Ce n’était point un méchant homme, cependant, ce Jarriquez. Nerveux, remuant, loquace, fin, subtil, il était curieux à observer avec sa grosse tête sur son petit corps, sa chevelure ébouriffée, que n’eût pas déparée la perruque à mortier des anciens temps, ses yeux percés à la vrille, dont le regard avait une étonnante acuité, son nez proéminent, avec lequel il aurait certainement gesticulé pour peu qu’il eût été mobile, ses oreilles écartées afin de mieux saisir tout ce qui se disait même hors de la portée ordinaire d’un appareil auditif, ses doigts tapotant sans cesse sur la table du tribunal, comme ceux d’un pianiste qui s’exerce à la muette, son buste trop long pour ses jambes trop courtes, et ses pieds qu’il croisait et décroisait incessamment lorsqu’il trônait sur son fauteuil de magistrat.</p>
@@ -1720,8 +1694,7 @@
           <p>Sur cette parole, le juge Jarriquez quitta son siège. Ce fut plus fort que lui, et il lui fallut deux ou trois tours de chambre pour se remettre.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre V.
-<lb/>Preuves matérielles</head>
+          <head>Chapitre V. Preuves matérielles</head>
           <p>Lorsque le magistrat eut repris sa place, en homme qui croyait être redevenu parfaitement maître de lui-même, il se renversa sur son fauteuil, la tête relevée, les yeux au plafond, et du ton de la plus parfaite indifférence, sans même regarder l’accusé :</p>
           <p>« Parlez », dit-il.</p>
           <p>Joam Dacosta se recueillit un instant, comme s’il eût hésité à rentrer dans cet ordre d’idées, et répondit en ces termes :</p>
@@ -1774,8 +1747,7 @@
           <p>« Eh ! eh ! cela est véritablement plus étrange que je ne l’aurais pensé ! » murmura-t-il.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre VI.
-<lb/>Le dernier coup</head>
+          <head>Chapitre VI. Le dernier coup</head>
           <p>Pendant que Joam Dacosta subissait cet interrogatoire, Yaquita, sur une démarche faite par Manoel, apprenait que ses enfants et elle seraient admis à voir le prisonnier, le jour même, vers quatre heures du soir.</p>
           <p>Depuis la veille, Yaquita n’avait pas quitté sa chambre. Minha et Lina s’y tenaient près d’elle, en attendant le moment où il lui serait permis de revoir son mari. Yaquita Garral ou Yaquita Dacosta, il retrouverait en elle la femme dévouée, la vaillante compagne de toute sa vie.</p>
           <p>Ce jour-là, vers onze heures, Benito rejoignit Manoel et Fragoso qui causaient sur l’avant de la jangada.</p>
@@ -1887,8 +1859,7 @@
           <p>Torrès est mort, mon père, et mort de ma main ! » Ses mains se raccrochèrent convulsivement. « Mort !… Torrès !… mort !… s’écria Joam Dacosta. Ah ! mon fils !… tu m’as perdu ! »</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre VII.
-<lb/>Résolutions</head>
+          <head>Chapitre VII. Résolutions</head>
           <p>Quelques heures plus tard, toute la famille, revenue à la jangada, était réunie dans la salle commune. Tous étaient là, – moins ce juste qu’un dernier coup venait de frapper !</p>
           <p>Benito, atterré, s’accusait d’avoir perdu son père. Sans les supplications de Yaquita, de sa sœur, du padre Passanha, de Manoel, le malheureux jeune homme se serait peut-être porté, dans les premiers moments de son désespoir, à quelque extrémité sur lui-même. Mais on ne l’avait pas perdu de vue, on ne l’avait pas laissé seul. Et pourtant, quelle plus noble conduite que la sienne ! N’était-ce pas une légitime vengeance qu’il avait exercée contre le dénonciateur de son père !</p>
           <p>Ah ! pourquoi Joam Dacosta n’avait-il pas tout dit avant de quitter la jangada ! Pourquoi avait-il voulu se réserver de ne parler qu’au juge de cette preuve matérielle de sa non-culpabilité ! Pourquoi, dans son entretien avec Manoel, après l’expulsion de Torrès, s’était-il tu sur ce document que l’aventurier prétendait avoir entre les mains ! Mais, après tout, quelle foi devait-il ajouter à ce que lui avait dit Torrès ? Pouvait-il être certain qu’un tel document fut en la possession de ce misérable ?</p>
@@ -1928,8 +1899,7 @@
           <p>Cinq minutes après, les quatre embarcations débordaient la jangada ; puis, après avoir descendu le rio Negro, elles arrivaient près de la berge de l’Amazone, sur la place même où Torrès, mortellement frappé, avait disparu dans les eaux du fleuve.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre VIII.
-<lb/>Premières recherches</head>
+          <head>Chapitre VIII. Premières recherches</head>
           <p>Les recherches devaient être opérées sans retard, et cela pour deux raisons graves :</p>
           <p>La première, – question de vie ou de mort –, c’est que cette preuve de l’innocence de Joam Dacosta, il importait qu’elle fût produite avant qu’un ordre arrivât de Rio de Janeiro. En effet, cet ordre, l’identité du condamné étant établie, ne pouvait être qu’un ordre d’exécution.</p>
           <p>La seconde, c’est qu’il fallait ne laisser le corps de Torrès séjourner dans l’eau que le moins de temps possible, afin de retrouver intact l’étui et ce qu’il pouvait contenir.</p>
@@ -1986,8 +1956,7 @@
           <p>« À quoi bon ? répondit Benito. Est-ce que je pourrais dormir ! »</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre IX.
-<lb/>Secondes recherches</head>
+          <head>Chapitre IX. Secondes recherches</head>
           <p>Le lendemain, 27 août, avant le lever du soleil, Benito prit Manoel à part et lui dit :</p>
           <p>« Les recherches que nous avons faites hier ont été vaines. À recommencer aujourd’hui dans les mêmes conditions, nous ne serons peut-être pas plus heureux !</p>
           <p>Il le faut cependant, répondit Manoel.</p>
@@ -2024,8 +1993,7 @@
           <p>Les deux pirogues, montées, l’une par Fragoso, l’autre par Manoel, plus deux pagayeurs, escortaient le radeau, et elles se tenaient prêtes à se porter rapidement en avant, en arrière, si Benito, retrouvant enfin le corps de Torrès, le ramenait à la surface de l’Amazone.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre X.
-<lb/>Un coup de canon</head>
+          <head>Chapitre X. Un coup de canon</head>
           <p>Benito était donc descendu sous cette vaste nappe qui lui dérobait encore le cadavre de l’aventurier. Ah ! s’il avait eu le pouvoir de les détourner, de les vaporiser, de les tarir, ces eaux du grand fleuve, s’il avait pu mettre à sec tout ce bassin de Frias, depuis le barrage d’aval jusqu’au confluent du rio Negro, déjà, sans doute, cet étui, caché dans les vêtements de Torrès, aurait été entre ses mains ! L’innocence de son père eût été reconnue ! Joam Dacosta, rendu à la liberté, aurait repris avec les siens la descente du fleuve, et que de terribles épreuves eussent pu être évitées !</p>
           <p>Benito avait pris pied sur le fond. Ses lourdes semelles faisaient craquer le gravier du lit. Il se trouvait alors par dix à quinze pieds d’eau environ, à l’aplomb de la berge, qui était très accore, à l’endroit même où Torrès avait disparu.</p>
           <p>Là se massait un inextricable lacis de roseaux, de souches et de plantes aquatiques, et certainement, pendant les recherches de la veille, aucune des gaffes n’avait pu en fouiller tout l’entrelacement. Il était donc possible que le corps, retenu dans ces broussailles sous-marines, fût encore à la place même où il était tombé.</p>
@@ -2088,8 +2056,7 @@
           <p>Et pendant que Benito ne pouvait plus imprimer un seul mouvement à ses membres paralysés, tandis que ses lourdes semelles le retenaient comme s’il eût été cloué au lit de sable, le cadavre se redressa, sa tête s’agita de haut en bas, et, se dégageant du trou dans lequel il était retenu par un fouillis d’herbes aquatiques, il s’enleva tout droit, effrayant à voir, jusque dans les hautes nappes de l’Amazone !</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XI.
-<lb/>Ce qui est dans l’étui</head>
+          <head>Chapitre XI. Ce qui est dans l’étui</head>
           <p>Que s’était-il passé ? Un phénomène purement physique, dont voici l’explication.</p>
           <p>La canonnière de l’État <hi rend="i">Santa-Ana</hi>, à destination de Manao, qui remontait le cours de l’Amazone, venait de franchir la passe de Frias. Un peu avant d’arriver à l’embouchure du rio Negro, elle avait hissé ses couleurs et salué d’un coup de canon le pavillon brésilien. À cette détonation, un effet de vibration s’était produit à la surface des eaux, et ces vibrations, se propageant jusqu’au fond du fleuve, avaient suffi à relever le corps de Torrès, déjà allégé par un commencement de décomposition, en facilitant la distension de son système cellulaire. Le corps du noyé venait de remonter tout naturellement à la surface de l’Amazone.</p>
           <p>Ce phénomène, bien connu, expliquait la réapparition du cadavre, mais, il faut en convenir, il y avait eu coïncidence heureuse dans cette arrivée de la <hi rend="i">Santa-Ana</hi> sur le théâtre des recherches.</p>
@@ -2160,8 +2127,7 @@
           <p>– Nous n’en avons pas la clef !</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XII.
-<lb/>Le document</head>
+          <head>Chapitre XII. Le document</head>
           <p>C’était là, en effet, une très grave éventualité, que ni Joam Dacosta ni les siens n’avaient pu prévoir. En effet, – ceux qui n’ont pas perdu le souvenir de la première scène de cette histoire le savent –, le document était écrit sous une forme indéchiffrable, empruntée à l’un des nombreux systèmes en usage dans la cryptologie.</p>
           <p>Mais lequel ?</p>
           <p>C’est à le découvrir que toute l’ingéniosité dont peut faire preuve un cerveau humain allait être employée.</p>
@@ -2265,8 +2231,7 @@
           <p>« Diables de diables ! » s’écria le juge Jarriquez.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XIII.
-<lb/>Où il est question de chiffres</head>
+          <head>Chapitre XIII. Où il est question de chiffres</head>
           <p>Il était sept heures du soir. Le juge Jarriquez, toujours absorbé dans ce travail de casse-tête, – sans en être plus avancé –, avait absolument oublié l’heure du repas et l’heure du repos, lorsque l’on frappa à la porte de son cabinet.</p>
           <p>Il était temps. Une heure de plus, et toute la substance cérébrale du dépité magistrat se serait certainement fondue sous la chaleur intense qui se dégageait de sa tête !</p>
           <p>Sur l’ordre d’entrer, qui fut donné d’une voix impatiente, la porte s’ouvrit, et Manoel se présenta.</p>
@@ -2355,8 +2320,7 @@
           <p>Sur ces mots, Manoel se leva, salua le magistrat, et revint à la jangada, plus désespéré au retour qu’il ne l’était au départ.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XIV.
-<lb/>À tout hasard</head>
+          <head>Chapitre XIV. À tout hasard</head>
           <p>Cependant, un revirement complet s’était fait dans l’opinion publique au sujet du condamné Joam Dacosta. À la colère avait succédé la commisération. La population ne se portait plus à la prison de Manao pour proférer des cris de mort contre le prisonnier. Au contraire ! les plus acharnés à l’accuser d’être l’auteur principal du crime de Tijuco proclamaient maintenant que ce n’était pas lui le coupable et réclamaient sa mise en liberté immédiate : ainsi vont les foules, – d’un excès à l’autre.</p>
           <p>Ce revirement se comprenait.</p>
           <p>En effet, les événements qui venaient de se produire pendant ces deux derniers jours, duel de Benito et de Torrès, recherche de ce cadavre réapparu dans des circonstances si extraordinaires, trouvaille du document, « indéchiffrabilité », si l’on peut s’exprimer ainsi, des lignes qu’il contenait, assurance où l’on était, où l’on voulait être, que cette notice renfermait la preuve matérielle de la non-culpabilité de Joam Dacosta, puisqu’elle émanait du vrai coupable, tout avait contribué à opérer ce changement dans l’opinion publique. Ce que l’on désirait, ce que l’on demandait impatiemment depuis quarante-huit heures, on le craignait maintenant : c’était l’arrivée des instructions qui devaient être expédiées de Rio de Janeiro.</p>
@@ -2437,8 +2401,7 @@
           <p>Il ne produisit donc d’autre résultat que d’amener à la bouche du juge Jarriquez un juron tellement accentué que Bobo s’empressa de détaler au plus vite.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XV.
-<lb/>Derniers efforts</head>
+          <head>Chapitre XV. Derniers efforts</head>
           <p>Cependant le magistrat n’avait pas été seul à se consumer en stériles efforts. Benito, Manoel, Minha s’étaient réunis dans un travail commun pour tenter d’arracher au document ce secret, duquel dépendaient la vie et l’honneur de leur père. De son côté, Fragoso, aidé par Lina, n’avait pas voulu être en reste ; mais toute leur ingéniosité n’y avait pas réussi et le nombre leur échappait toujours !</p>
           <p>« Trouvez donc, Fragoso ! lui répétait sans cesse la jeune mulâtresse, trouvez donc !</p>
           <p>Je trouverai ! » répondait Fragoso.</p>
@@ -2488,8 +2451,7 @@
           <p>C’est à vous de le deviner, répondit le magistrat, ce n’est pas à moi de vous le dire !</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XVI.
-<lb/>Dispositions prises</head>
+          <head>Chapitre XVI. Dispositions prises</head>
           <p>Le lendemain, 30 août, Benito et Manoel se concertaient. Ils avaient compris la pensée que le juge n’avait pas voulu formuler en leur présence. Ils cherchaient maintenant les moyens de faire évader le condamné que menaçait le dernier supplice.</p>
           <p>Il n’y avait pas autre chose à faire.</p>
           <p>En effet, il n’était que trop certain que, pour les autorités de Rio de Janeiro, le document indéchiffré n’offrirait aucune valeur, qu’il serait lettre morte, que le premier jugement qui avait déclaré Joam Dacosta coupable de l’attentat de Tijuco ne serait pas réformé, et que l’ordre d’exécution arriverait inévitablement, puisque, dans l’espèce, aucune commutation de peine n’était possible.</p>
@@ -2552,8 +2514,7 @@
           <p>Manoel, sans répondre, pressa la main que lui tendait le juge Jarriquez, et revint à la jangada pour y attendre le moment d’agir.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XVII.
-<lb/>La dernière nuit</head>
+          <head>Chapitre XVII. La dernière nuit</head>
           <p>La visite de Yaquita, accompagnée de sa fille, avait été ce qu’elle était toujours, pendant ces quelques heures que les deux époux passaient chaque jour l’un près de l’autre. En présence de ces deux êtres si tendrement aimés, le cœur de Joam Dacosta avait peine à ne pas déborder. Mais le mari, le père, se contenait. C’était lui qui relevait ces deux pauvres femmes, qui leur rendait un peu de cet espoir, dont il lui restait cependant si peu. Toutes deux arrivaient avec l’intention de ranimer le moral du prisonnier. Hélas ! plus que lui, elles avaient besoin d’être soutenues ; mais, en le voyant si ferme, la tête si haute au milieu de tant d’épreuves, elles se reprenaient à espérer.</p>
           <p>Ce jour-là encore, Joam leur avait fait entendre d’encourageantes paroles. Cette indomptable énergie, il la puisait non seulement dans le sentiment de son innocence, mais aussi dans la foi en ce Dieu qui a mis une part de sa justice au cœur des hommes. Non ! Joam Dacosta ne pouvait être frappé pour le crime de Tijuco !</p>
           <p>Presque jamais, d’ailleurs, il ne parlait du document. Qu’il fût apocryphe ou non, qu’il fût de la main de Torrès ou écrit par l’auteur réel de l’attentat, qu’il contînt ou ne contînt pas la justification tant cherchée, ce n’était pas sur cette douteuse hypothèse que Joam Dacosta prétendait s’appuyer. Non ! il se regardait comme le meilleur argument de sa cause, et c’était à toute sa vie de travail et d’honnêteté qu’il avait voulu donner la tâche de plaider pour lui !</p>
@@ -2620,8 +2581,7 @@
           <p>Cela dit, le chef de police, après s’être incliné, se retira avec le gardien et les soldats. Le condamné, qui n’avait plus maintenant que quelques heures à vivre, resta seul.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XVIII.
-<lb/>Fragoso</head>
+          <head>Chapitre XVIII. Fragoso</head>
           <p>Ainsi donc l’ordre était arrivé, et, comme le juge Jarriquez le prévoyait, c’était un ordre qui portait exécution immédiate de la sentence prononcée contre Joam Dacosta. Aucune preuve n’avait pu être produite. La justice devait avoir son cours.</p>
           <p>C’était le lendemain même, 31 août, à neuf heures du matin, que le condamné devait périr par le gibet.</p>
           <p>La peine de mort, au Brésil, est le plus généralement commuée, à moins qu’il s’agisse de l’appliquer aux noirs ; mais, cette fois, elle allait frapper un blanc.</p>
@@ -2714,8 +2674,7 @@
           <p>« Innocent ! innocent ! »</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XIX.
-<lb/>Le crime de Tijuco</head>
+          <head>Chapitre XIX. Le crime de Tijuco</head>
           <p>À l’arrivée du juge, tout le funèbre cortège s’était arrêté.</p>
           <p>Un immense écho avait répété après lui et répétait encore ce cri qui s’échappait de toutes les poitrines :</p>
           <p>« Innocent ! innocent ! »</p>
@@ -2778,8 +2737,7 @@
           <p>Le lendemain matin, 5 septembre, au lever du soleil, le signal du départ fut donné. Joam Dacosta, Yaquita, leur fille, leurs fils, tous étaient sur le pont de l’énorme train. La jangada, démarrée, commença à prendre le fil du courant, et, lorsqu’elle disparut au tournant du rio Negro, les hurrahs de toute la population, pressée sur la rive, retentissaient encore.</p>
         </div>
         <div type="chapter">
-          <head><lb/>Chapitre XX.
-<lb/>Le bas-Amazone</head>
+          <head>Chapitre XX. Le bas-Amazone</head>
           <p>Que dire maintenant de cette seconde partie du voyage qui allait s’accomplir sur le cours du grand fleuve ? Ce ne fut qu’une suite de jours heureux pour l’honnête famille. Joam Dacosta revivait d’une vie nouvelle, qui rayonnait sur tous les siens.</p>
           <p>La jangada dériva plus rapidement alors sur ces eaux encore gonflées par la crue. Elle laissa sur la gauche le petit village de Don Jose de Maturi, et, sur la droite, l’embouchure de cette Madeira, qui doit son nom à la flottille d’épaves végétales, à ces trains de troncs dénudés ou verdoyants qu’elle apporte du fond de la Bolivie. Elle passa au milieu de l’archipel Caniny, dont les îlots sont de véritables caisses à palmiers, devant le hameau de Serpa, qui, successivement transporté d’une rive à l’autre, a définitivement assis sur la gauche du fleuve ses maisonnettes, dont le seuil repose sur le tapis jaune de la grève. Le village de Silves, bâti sur la gauche de l’Amazone, la bourgade de Villa-Bella, qui est le grand marché de guarana de toute la province, restèrent bientôt en arrière du long train de bois. Ainsi fut-il du village de Faro et de sa célèbre rivière de Nhamundas, sur laquelle, en 1539, Orellana prétendit avoir été attaqué par des femmes guerrières qu’on n’a jamais revues depuis cette époque, légende qui a suffi pour justifier le nom immortel du fleuve des Amazones.</p>
           <p>Là finit la vaste province du Rio Negro. Là commence la juridiction du Para, et, ce jour même, 22 septembre, la famille, émerveillée des magnificences d’une vallée sans égale, entrait dans cette portion de l’empire brésilien, qui n’a d’autre borne à l’est que l’Atlantique.</p>

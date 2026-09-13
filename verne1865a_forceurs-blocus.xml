@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-14T11:50:19+01:00-->
-<!-- macro ponctuation -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -37,9 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>Le Delphin.
-</head>
+      <div type="chapter">
+        <head>I. <hi>Le Delphin</hi></head>
         <p>Le premier fleuve dont les eaux écumèrent sous les roues d’un bateau à vapeur fut la Clyde. C'était en 1812. Ce bateau se nommait la Comète et il faisait un service régulier entre Glasgow et Greenock, avec une vitesse de six milles à l’heure. Depuis cette époque, plus d’un million de steamers ou de pocket-boats ont remonté ou descendu le courant de la rivière écossaise, et les habitants de la grande cité commerçante doivent être singulièrement familiarisés avec les prodiges de la navigation à vapeur.</p>
         <p>Cependant, le 3 décembre 1862, une foule énorme, composée d’armateurs, de négociants, de manufacturiers, d’ouvriers, de marins, de femmes, d’enfants, encombrait les rues boueuses de Glasgow et se dirigeait vers Kelvin-Dock, vaste établissement de constructions navales, appartenant à MM. Tod et Mac Grégor. Ce dernier nom prouve surabondamment que les fameux descendants des Highlanders sont devenus industriels, et que de tous ces vassaux des vieux clans ils ont fait des ouvriers d’usine.</p>
         <p>Kelvin-Dock est situé à quelques minutes de la ville, sur la rive droite de la Clyde ; bientôt ses immenses chantiers furent envahis par les curieux ; pas un bout de quai, pas un mur de wharf, pas un toit de magasin qui offrît une place inoccupée ; la rivière elle-même était sillonnée d’embarcations, et, sur la rive gauche, les hauteurs de Govan fourmillaient de spectateurs.</p>
@@ -101,9 +98,8 @@
         <p>– Motus ! »</p>
         <p>Et voilà comment, cinq mois plus tard, le steamer le Delphin était lancé des chantiers de Kelvin-Dock, et pourquoi personne ne connaissait sa véritable destination.</p>
       </div>
-      <div>
-        <head>L'appareillage.
-</head>
+      <div type="chapter">
+        <head>II. L'appareillage</head>
         <p>L'armement du Delphin marcha rapidement. Son gréement était prêt, il n’y eut plus qu’à l’ajuster ; le Delphin portait trois mâts de goélette, luxe à peu près inutile. En effet, il ne comptait pas sur le vent pour échapper aux croiseurs fédéraux, mais bien sur la puissante machine renfermée dans ses flancs. Et il avait raison.</p>
         <p>Vers la fin de décembre, le Delphin alla faire ses essais dans le golfe de la Clyde. Qui fut le plus satisfait du constructeur ou du capitaine, il est impossible de le dire. Le nouveau steamer filait merveilleusement, et le <hi rend="i">patent log</hi> accusa une vitesse de dix-sept milles à l’heure, vitesse que n’avait jamais obtenu navire anglais, français ou américain. Certes, le Delphin, dans une lutte avec les bâtiments les plus rapides, aurait gagné de plusieurs longueurs dans un match maritime.</p>
         <p>Le 25 décembre, le chargement fut commencé. Le steamer vint se ranger au <hi rend="i">steam-boat quay</hi>, un peu au-dessous de Glasgow-Bridge, le dernier pont qui enjambe la Clyde avant son embouchure. Là, de vastes wharfs contenaient un immense approvisionnement d’habillements, d’armes et de munitions, qui passa rapidement dans la cale du Delphin. La nature de cette cargaison trahissait la mystérieuse destination du navire, et la maison Playfair ne put garder plus longtemps son secret. D'ailleurs, le Delphin ne devait pas tarder à prendre la mer. Aucun croiseur américain n’avait été signalé dans les eaux anglaises. Et puis, quand il s’était agi de former l’équipage, comment garder un long silence ? On ne pouvait embarquer des hommes sans leur apprendre leur destination. Après tout, on allait risquer sa peau, et quand on va risquer sa peau, on aime assez à savoir comment et pourquoi.</p>
@@ -169,9 +165,8 @@
         <p>Enfin, à quatre cents pieds dans les airs, le château de Dumbarton dressa sa silhouette à peine estompée dans la brume, et bientôt, sur la rive gauche, les navires du port de Glasgow dansèrent sous l’action des vagues du Delphin. Quelques milles plus loin, Greenock, la patrie de James Watt, fut dépassée. Le Delphin se trouvait alors à l’embouchure de la Clyde et à l’entrée du golfe par lequel elle verse ses eaux dans le canal du Nord. Là, il sentit les premières ondulations de la mer, et il rangea les côtes pittoresques de l’île d’Arran.</p>
         <p>Enfin, le promontoire de Kintyre, qui se jette au travers du canal, fut doublé ; on eut connaissance de l’île Rathlin ; le pilote regagna dans sa chaloupe son petit cutter qui croisait au large ; le Delphin, rendu à l’autorité de son capitaine, prit par le nord de l’Irlande une route moins fréquentée des navires, et bientôt, ayant perdu de vue les dernières terres européennes, il se trouva seul en plein Océan.</p>
       </div>
-      <div>
-        <head>En mer.
-</head>
+      <div type="chapter">
+        <head>III. En mer</head>
         <p>Le Delphin avait un bon équipage ; non pas des matelots de combat, des matelots d’abordage, mais des hommes manœuvrant bien. Il ne lui en fallait pas plus. Ces gaillards-là étaient tous des gens déterminés, mais tous plus ou moins négociants. Ils couraient après la fortune, non après la gloire. Ils n’avaient point de pavillon à montrer, point de couleurs à appuyer d’un coup de canon, et d’ailleurs, toute l’artillerie du bord consistait en deux petits pierriers propres seulement à faire des signaux.</p>
         <p>Le Delphin filait rapidement ; il répondait aux espérances des constructeurs et du capitaine, et bientôt il eut dépassé la limite des eaux britanniques. Du reste, pas un navire en vue ; la grande route de l’Océan était libre. D'ailleurs, nul bâtiment de la marine fédérale n’avait le droit de l’attaquer sous pavillon anglais. Le suivre, bien ; l’empêcher de forcer la ligne des blocus, rien de mieux. Aussi James Playfair avait-il tout sacrifié à la vitesse de son navire, précisément pour n’être pas suivi.</p>
         <p>Quoi qu’il en soit, on faisait bonne garde à bord. Malgré le froid, un homme se tenait toujours dans la mâture, prêt à signaler la moindre voile à l’horizon. Lorsque le soir arriva, le capitaine James fit les recommandations les plus précises à Mr. Mathew.</p>
@@ -257,9 +252,8 @@
         <p>« Et maintenant, miss, vous êtes chez vous », dit le jeune capitaine du Delphin.</p>
         <p>Puis il se retira.</p>
       </div>
-      <div>
-        <head>Les malices de Crockston.
-</head>
+      <div type="chapter">
+        <head>IV. Les malices de Crockston</head>
         <p>Tout l’équipage connut bientôt l’histoire de miss Halliburtt, Crockston ne se gêna pas pour la raconter. Sur l’ordre du capitaine, il avait été détaché du cabestan, et le chat à neuf queues était rentré dans son gîte.</p>
         <p>« Un joli animal, dit Crockston, surtout quand il fait patte de velours. »</p>
         <p>Aussitôt libre, il descendit dans le poste des matelots, prit une petite valise et la porta à miss Jenny. La jeune fille put reprendre alors ses habits de femme ; mais elle resta confinée dans sa cabine, et elle ne reparut pas sur le pont.</p>
@@ -336,9 +330,8 @@
         <p>– Une voile au vent ! »</p>
         <p>James Playfair, quittant aussitôt la jeune fille, s’élança dans les haubans d’artimon.</p>
       </div>
-      <div>
-        <head>Les boulets de l’Iroquois et les arguments de Miss Jenny.
-</head>
+      <div type="chapter">
+        <head>V. Les boulets de l’<hi>Iroquois</hi> et les arguments de Miss Jenny</head>
         <p>La navigation du Delphin s’était accomplie jusqu’alors avec beaucoup de bonheur et dans de remarquables conditions de rapidité. Pas un seul navire ne s’était montré en vue avant cette voile signalée par la vigie.</p>
         <p>Le Delphin se trouvait alors par 32° 15' de latitude et 57° 43' de longitude à l’ouest du méridien de Greenwich, c’est-à-dire aux trois cinquièmes de son parcours. Depuis quarante– huit heures, un brouillard qui commençait alors à se lever couvrait les eaux de l’Océan. Si cette brume favorisait le Delphin en cachant sa marche, elle l’empêchait aussi d’observer la mer sur une grande étendue, et, sans s’en douter, il pouvait naviguer bord à bord, pour ainsi dire, avec les navires qu’il voulait éviter.</p>
         <p>Or, c’est ce qui était arrivé, et quand le navire fut signalé, il ne se trouvait pas à plus de trois milles au vent.</p>
@@ -400,9 +393,8 @@
         <p>Bref, quoi qu’il en eût, et bien qu’il ne voulût pas en convenir, le capitaine James Playfair ne s’appartenait plus. Il n’était plus « maître après Dieu » à bord de son navire.</p>
         <p>Aussi, à la grande joie de Crockston, les affaires de Mr. Halliburtt semblaient être en bon chemin. Le capitaine paraissait décidé à tout entreprendre pour délivrer le père de miss Jenny, dût-il, pour cela, compromettre le Delphin, sa cargaison, son équipage, et encourir les malédictions de son digne oncle Vincent.</p>
       </div>
-      <div>
-        <head>Le chenal de l’île Sullivan.
-</head>
+      <div type="chapter">
+        <head>VI. Le chenal de l’île Sullivan</head>
         <p>Deux jours après la rencontre de la corvette l’Iroquois, le Delphin se trouvait par le travers des Bermudes, et il eut à essuyer une violente bourrasque. Ces parages sont fréquemment visités par des ouragans d’une extrême véhémence. Ils sont célèbres par leurs sinistres, et c’est là que Shakespeare a placé les émouvantes scènes de son drame de « la Tempête », dans lequel Ariel et Caliban se disputent l’empire des flots.</p>
         <p>Ce coup de vent fut épouvantable. James Playfair eut un instant la pensée de relâcher à Mainland, l’une des Bermudes, où les Anglais ont un poste militaire. C'eût été un contretemps fâcheux, et surtout regrettable. Le Delphin, heureusement, se comporta d’une merveilleuse façon pendant la tempête, et, après avoir fui un jour entier devant l’ouragan, il put reprendre sa route vers la côte américaine.</p>
         <p>Mais si James Playfair s’était montré satisfait de son navire, il n’avait pas été moins ravi du courage et du sang-froid de la jeune fille. Miss Halliburtt passa près de lui, sur le pont, les plus mauvaises heures de l’ouragan. Aussi James, en s’interrogeant bien, vit qu’un amour profond, impérieux, irrésistible, s’emparait de tout son être.</p>
@@ -441,9 +433,8 @@
         <p>Lorsqu’il eut laissé sur tribord la bouée de la Quarantaine, il s’avança librement au milieu des eaux de la baie. Miss Halliburtt était debout sur la dunette, considérant cette ville où son père était retenu prisonnier, et ses yeux se remplissaient de larmes.</p>
         <p>Enfin, l’allure du steamer fut modérée sur l’ordre du capitaine ; le Delphin rangea à la pointe les batteries du sud et de l’est, et bientôt il fut amarré à quai dans le North– Commercial wharf.</p>
       </div>
-      <div>
-        <head>Un général sudiste.
-</head>
+      <div type="chapter">
+        <head>VII. Un général sudiste</head>
         <p>Le Delphin, en arrivant aux quais de Charleston, avait été salué par les hurrahs d’une foule nombreuse. Les habitants de cette ville, étroitement bloquée par mer, n’étaient pas accoutumés aux visites de navires européens. Ils se demandaient, non sans étonnement, ce que venait faire dans leurs eaux ce grand steamer portant fièrement à sa corne le pavillon d’Angleterre. Mais quand on sut le but de son voyage, pourquoi il venait de forcer les passes de Sullivan, lorsque le bruit se répandit qu’il renfermait dans ses flancs toute une cargaison de contrebande de guerre, les applaudissements et les cris de joie redoublèrent d’intensité.</p>
         <p>James Playfair, sans perdre un instant, se mit en rapport avec le général Beauregard, commandant militaire de la ville. Celui-ci reçut avec empressement le jeune capitaine du Delphin, qui arrivait fort à propos pour donner à ses soldats les habillements et les munitions dont ils avaient le plus grand besoin. Il fut donc convenu que le déchargement du navire se ferait immédiatement, et des bras nombreux vinrent en aide aux matelots anglais.</p>
         <p>Avant de quitter son bord, James Playfair avait reçu de miss Halliburtt les plus pressantes recommandations au sujet de son père. Le jeune capitaine s’était mis tout entier au service de la jeune fille.</p>
@@ -510,9 +501,8 @@
         <p>– Parfait. A bord, maintenant !</p>
         <p>– A bord, Crockston ! »</p>
       </div>
-      <div>
-        <head>L'évasion.
-</head>
+      <div type="chapter">
+        <head>VIII. L'évasion</head>
         <p>Miss Jenny, assise sur la dunette du Delphin, attendait avec une anxieuse impatience le retour du capitaine. Lorsque celui-ci l’eut rejointe, elle ne put articuler une seule parole, mais ses regards interrogeaient James Playfair plus ardemment que ne l’eussent fait ses lèvres.</p>
         <p>Celui-ci, aidé de Crockston, n’apprit à la jeune fille que les faits relatifs à l’emprisonnement de son père. Il lui dit qu’il avait prudemment pressenti Beauregard au sujet de ses prisonniers de guerre. Le général ne lui ayant pas paru bien disposé à leur égard, il s’était tenu sur la réserve et voulait prendre conseil des circonstances.</p>
         <p>« Puisque Mr. Halliburtt n’est pas libre dans la ville, sa fuite offrira plus de difficulté, mais je viendrai à bout de ma tâche, et je vous jure, miss Jenny, que le Delphin ne quittera pas la rade de Charleston sans avoir votre père à son bord.</p>
@@ -635,9 +625,8 @@
         <p>« Avant partout ! » commanda James Playfair.</p>
         <p>Et la guigue glissa comme un poisson sur les flots sombres de Charleston-Harbour.</p>
       </div>
-      <div>
-        <head>Entre deux feux.
-</head>
+      <div type="chapter">
+        <head>IX. Entre deux feux</head>
         <p>La guigue, enlevée par six robustes rameurs, volait sur les eaux de la rade. Le brouillard s’épaississait, et James Playfair ne parvenait pas sans peine à se maintenir dans la ligne de ses relèvements. Crockston s’était placé à l’avant de l’embarcation, et Mr. Halliburtt à l’arrière, auprès du capitaine. Le prisonnier, interdit tout d’abord de la présence de son serviteur, avait voulu lui adresser la parole ; mais celui-ci d’un geste lui recommanda le silence.</p>
         <p>Cependant, quelques minutes plus tard, lorsque la guigue fut en pleine rade, Crockston se décida à parler. Il comprenait quelles questions devaient se presser dans l’esprit de Mr. Halliburtt.</p>
         <p>« Oui, mon cher maître, dit-il, le geôlier est à ma place dans mon cachot, où je lui ai administré deux bons coups de poing, un sur la nuque et l’autre dans l’estomac, en guise de narcotique, et cela au moment où il m’apportait mon souper. Voyez quelle reconnaissance ! J'ai pris ses habits, j’ai pris ses clefs, j’ai été vous chercher, je vous ai conduit hors de la citadelle, sous le nez des soldats. Ce n’était pas plus difficile que cela !</p>
@@ -714,9 +703,8 @@
         <p>« Hurrah ! hurrah ! » s’écria d’une seule voix tout l’équipage du Delphin, tandis que Crockston se frottait les mains.</p>
         <p>Quelque temps après, le steamer fendait rapidement les eaux de l’océan Atlantique ; la côte américaine disparaissait dans les ténèbres, et les feux lointains qui se croisaient à l’horizon indiquaient que l’attaque était générale entre les batteries de l’île Morris et les forts de Charleston-Harbour.</p>
       </div>
-      <div>
-        <head>Saint-Mungo.
-</head>
+      <div type="chapter">
+        <head>X. Saint-Mungo</head>
         <p>Le lendemain, au lever du soleil, la côte américaine avait disparu. Pas un navire n’était visible à l’horizon, et le Delphin, modérant la vitesse effrayante de sa marche, se dirigea plus tranquillement vers les Bermudes.</p>
         <p>Ce que fut la traversée de l’Atlantique, il est inutile de le raconter. Nul incident ne marqua le voyage de retour, et dix jours après son départ de Charleston, on eut connaissance des côtes d’Irlande.</p>
         <p>Que se passa-t-il entre le jeune capitaine et la jeune fille qui ne soit prévu, même des gens les moins perspicaces ? Comment Mr. Halliburtt pouvait-il reconnaître le dévouement et le courage de son sauveur, si ce n’est en le rendant le plus heureux des hommes ? James Playfair n’avait pas attendu les eaux anglaises pour déclarer au père et à la jeune fille les sentiments qui débordaient de son cœur, et, s’il faut en croire Crockston, miss Jenny reçut cet aveu avec un bonheur qu’elle ne chercha pas à dissimuler.</p>

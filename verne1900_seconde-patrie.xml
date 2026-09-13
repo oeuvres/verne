@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-12T12:25:45+01:00-->
-<!-- ok -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -35,8 +33,10 @@
   <text>
     <body>
       <div type="chapter">
-        <head>Chapitre I.</head>
-       <head>Le retour de la belle saison. Fritz et Jack. – Temps superbe. – Le départ du kaïak. – Visite de l’îlot du Requin. – Feu des deux pièces. Trois coups de canon au large.</head>
+        <head>I.</head>
+       <argument>
+<p>Le retour de la belle saison. Fritz et Jack. – Temps superbe. – Le départ du kaïak. – Visite de l’îlot du Requin. – Feu des deux pièces. Trois coups de canon au large.</p>
+</argument>
         <p>La belle saison arriva dès la seconde semaine d’octobre. Ce mois est le premier du printemps de la zone méridionale. L’hiver n’avait pas été très rigoureux sous cette latitude du dix-neuvième degré entre l’Équateur et le tropique du Capricorne. Les hôtes de la Nouvelle-Suisse allaient pouvoir reprendre leurs travaux accoutumés.</p>
         <p>Après onze ans passés sur cette terre, ce n’était pas trop tôt de chercher à reconnaître si elle appartenait à l’un des continents que baigne l’océan Indien, ou si les géographes devaient la comprendre parmi les îles de ces parages.</p>
         <p>Sans doute, depuis que la jeune Anglaise avait été recueillie par Fritz sur la Roche-Fumante, M. Zermatt, sa femme, ses quatre fils et Jenny Montrose étaient aussi heureux qu’on peut l’être. Il est vrai, les craintes de l’avenir et ses chances si improbables que le salut vînt du dehors, le souvenir du pays, le besoin de reprendre contact avec l’humanité, se faisaient parfois sentir, et n’est-ce pas une loi de nature qui s’impose à toute créature humaine ?</p>
@@ -150,8 +150,10 @@
         <p>Est-ce donc qu’un navire, passant en vue de la Nouvelle-Suisse, avait répondu à la double décharge partie de l’îlot du Requin, et ce navire allait-il mettre le cap sur la baie du Salut ?...</p>
         </div>
           <div type="chapter">
-            <head>Chapitre II.</head>
-         <head>Le retour du kaïak. – L’impression produite. – Décision prise. – Trois jours de tempête. – Doublé le cap à l’est. – Le bâtiment au mouillage.</head>
+            <head>II.</head>
+         <argument>
+<p>Le retour du kaïak. – L’impression produite. – Décision prise. – Trois jours de tempête. – Doublé le cap à l’est. – Le bâtiment au mouillage.</p>
+</argument>
         <p>Dès que la double détonation de la batterie de l’îlot du Requin eut éclaté, les échos de Felsenheim la répercutèrent de roche en roche. À ce moment, M. et M<hi rend="sup">me</hi> Zermatt, Jenny, Ernest et François, accourant sur la grève, purent apercevoir la fumée blanchâtre des deux pièces qui se rabattait lentement vers Falkenhorst. En agitant leurs mouchoirs, ils y répondirent par un hurrah, moins bruyant sans doute, mais qui partait du cœur.</p>
         <p>Puis, chacun se disposait à reprendre ses occupations, lorsque Jenny, regardant avec la longue-vue dans la direction de l’îlot, dit :</p>
         <p>« Voici Fritz et Jack qui reviennent...</p>
@@ -275,8 +277,10 @@
         <p>Jack l’aurait voulu, mais Fritz n’y consentit pas. Ayant promis de revenir à Felsenheim dès qu’il serait fixé sur la situation et la nationalité du navire, il entendait tenir sa promesse. Aussi le kaïak reprit-il direction vers le nord, et, après deux heures et demie de navigation, il franchissait le goulet de la baie du Salut.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre III.</head>
-         <head>La corvette anglaise Licorne. – Les coups de canon entendus. – Arrivée de la pinasse. – La famille Zermatt. – La famille Wolston. – Projets de séparation. – Échanges divers. – Les adieux. – Départ de la corvette.</head>
+            <head>III.</head>
+         <argument>
+<p>La corvette anglaise Licorne. – Les coups de canon entendus. – Arrivée de la pinasse. – La famille Zermatt. – La famille Wolston. – Projets de séparation. – Échanges divers. – Les adieux. – Départ de la corvette.</p>
+</argument>
         <p>La <hi rend="i">Licorne</hi>, petite corvette de dix canons, portant le pavillon britannique, était en cours de navigation, allant de Sydney (Australie) au cap de Bonne-Espérance. Le commandant, lieutenant Littlestone, avait sous ses ordres un équipage d’une soixantaine d’hommes. Si, d’habitude, un navire de guerre ne prend pas de passagers, la <hi rend="i">Licorne</hi> avait eu l’autorisation d’embarquer une famille anglaise, dont le chef, pour raison de santé, était obligé de revenir en Europe. Cette famille se composait de M. Wolston, mécanicien-constructeur, de sa femme, Merry Wolston, de ses deux filles, Annah et Doll, âgées l’une de dix-sept ans, l’autre de quatorze. Elle comprenait, en outre, un fils, James Wolston, qui habitait alors Capetown avec sa femme et son enfant.</p>
         <p>Au mois de juillet 1816, la <hi rend="i">Licorne</hi> avait quitté le port de Sydney, et, après avoir longé la côte méridionale de l’Australie, s’était dirigée vers le nord-est de l’océan Indien.</p>
         <p>Au cours de cette traversée, par ordre de l’Amirauté, le lieutenant Littlestone devait croiser sous ces latitudes et rechercher, soit à la côte occidentale de l’Australie, soit dans les îles voisines, s’il existait quelques survivants de la <hi rend="i">Dorcas</hi> dont aucune nouvelle n’était venue depuis trente mois. On ne connaissait pas exactement le lieu du naufrage, bien qu’il n’y eût aucun doute sur la catastrophe, puisque le second maître et trois hommes de ce bâtiment, recueillis en mer, avaient été ramenés à Sydney, seuls de ceux que portait la grande chaloupe. Quant au capitaine Greenfield, aux matelots, aux passagers, – entre autres la fille du colonel Montrose, – il eût été difficile de conserver quelque espoir de les retrouver, après le récit du naufrage fait par le second maître. Cependant le gouvernement de la Grande-Bretagne avait voulu que d’autres recherches fussent effectuées aussi bien dans l’est de l’océan Indien qu’aux approches de la mer de Timor. Là, les îles sont nombreuses, peu fréquentées des navires de commerce, et il convenait de visiter celles qui avoisinaient les parages où s’était probablement perdue la <hi rend="i">Dorcas</hi>.</p>
@@ -370,8 +374,10 @@
         <p>Une heure plus tard, les hautes voiles de la corvette avaient disparu derrière les dernières roches du cap de l’Espoir-Trompé.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre IV.</head>
-         <head>Dix ans en arrière. – Les premières installations de la famille Zermatt sur la Nouvelle-Suisse. – Principaux incidents contenus dans le journal de M. Zermatt. – Fin de la dixième année.</head>
+            <head>IV.</head>
+         <argument>
+<p>Dix ans en arrière. – Les premières installations de la famille Zermatt sur la Nouvelle-Suisse. – Principaux incidents contenus dans le journal de M. Zermatt. – Fin de la dixième année.</p>
+</argument>
         <p>Voici le résumé des dix premières années que les naufragés du <hi rend="i">Landlord</hi> avaient passées dans la Nouvelle-Suisse et qu’il convient de faire connaître au lecteur.</p>
         <p>Le 7 octobre de l’année 1803, une famille était jetée sur une terre inconnue située dans l’est de l’océan Indien.</p>
         <p>Le chef de cette famille, d’origine suisse, se nommait Jean Zermatt, sa femme se nommait Betsie. Le premier était âgé de trente-cinq ans, la seconde de trente-trois. Ils avaient quatre enfants, quatre fils, suivant cet ordre de naissance, – Fritz, quinze ans, Ernest, douze ans, Jack, dix ans, François, six ans.</p>
@@ -459,8 +465,10 @@
         <p>Cette journée fut consacrée à vider les huîtres entassées sur la grève, et comme cette quantité de mollusques commençait à dégager des miasmes peu salubres, M. Zermatt et ses trois fils décidèrent de partir le lendemain dès le lever du jour. Il convenait de retourner à Felsenheim, car M<hi rend="sup">me</hi> Zermatt devait être inquiète. La chaloupe repartit, précédée du kaïak. Toutefois, arrivé à la passe de l’arche, après avoir remis un billet à son père, Fritz s’éloigna dans la direction de l’ouest. Comment M. Zermatt aurait-il pu douter qu’il allait à la découverte de la Roche-Fumante ?...</p>
         </div>
           <div type="chapter">
-            <head>Chapitre V.</head>
-            <head>Retour à Felsenheim. – Voyage de l’<hi rend="i">Élisabet</hi>à la baie des Perles. – Un sauvage. – Une créature humaine. – Jenny Montrose. – Naufrage de la<hi rend="i">Dorcas</hi>. Deux ans sur la Roche-Fumante. – Le récit de Fritz.</head>
+            <head>V.</head>
+            <argument>
+<p>Retour à Felsenheim. – Voyage de l’<hi rend="i">Élisabet</hi>à la baie des Perles. – Un sauvage. – Une créature humaine. – Jenny Montrose. – Naufrage de la<hi rend="i">Dorcas</hi>. Deux ans sur la Roche-Fumante. – Le récit de Fritz.</p>
+</argument>
         <p>On se représente aisément quelles inquiétudes éprouva M. Zermatt en songeant aux dangers qu’aurait à courir son fils. Comme il n’aurait pu ni l’arrêter ni le rejoindre, la chaloupe dut continuer sa route vers le cap de l’Espoir-Trompé.</p>
         <p>De retour à Felsenheim, M. Zermatt ne voulut encore rien dire à ses enfants, ni même à sa femme, de l’excursion entreprise par Fritz. C’eût été causer d’inutiles appréhensions et créer sans doute de vaines espérances. Il ne parla que d’une reconnaissance à effectuer vers le côté ouest du littoral. Cependant, au bout de trois jours, l’absent n’ayant pas reparu, M. Zermatt, très anxieux, résolut d’aller à sa recherche.</p>
         <p>Le 20 avril, dès l’aube, l’<hi rend="i">Élisabeth</hi> appareilla. Approvisionnée en vue de ce voyage, elle avait à bord le père, la mère et leurs trois fils.</p>
@@ -550,8 +558,10 @@
         <p>On sait quel événement inespéré avait si profondément modifié cette situation.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre VI.</head>
-         <head>Après le départ. – Ce qui était connu de la Nouvelle-Suisse. – La famille Wolston. – Projets de nouvelles installations. – Établissement d’un canal entre le ruisseau des Chacals et le lac des Cygnes. – Fin de l’année 1816.</head>
+            <head>VI.</head>
+         <argument>
+<p>Après le départ. – Ce qui était connu de la Nouvelle-Suisse. – La famille Wolston. – Projets de nouvelles installations. – Établissement d’un canal entre le ruisseau des Chacals et le lac des Cygnes. – Fin de l’année 1816.</p>
+</argument>
         <p>Pendant les premiers jours qui suivirent le départ de la <hi rend="i">Licorne</hi>, une profonde tristesse régna à Felsenheim. Comment en eût-il été autrement ? Il semblait que la mauvaise fortune se fût abattue sur ce modeste coin de terre, comblé jusqu’alors des faveurs de la Providence ! M. et M<hi rend="sup">me</hi> Zermatt ne se consolaient pas d’avoir laissé partir deux de leurs enfants, résolution qu’il n’eût pas été raisonnable de repousser pourtant, que commandaient les circonstances, et dont rien ne permettait de suspendre ou de retarder l’exécution.</p>
         <p>Mais il ne faut pas demander au cœur d’un père et d’une mère plus qu’ils ne peuvent donner. Fritz, ce hardi jeune homme, n’était plus là, Fritz, le vaillant bras de cette famille qui voyait en lui son chef futur. Absent aussi François, qui marchait sur les traces de son aîné.</p>
         <p>Restaient, il est vrai, Ernest et Jack. Le premier n’avait cessé de suivre ses goûts pour l’étude, et, grâce à d’excellentes lectures, son instruction était non moins sérieuse que pratique. Le second partageait les instincts de Fritz, la chasse, la pêche, l’équitation, la navigation, et, désireux de pénétrer les derniers secrets de la Nouvelle-Suisse, il remplacerait son frère dans ses aventureuses excursions. Enfin elle n’était plus là, cette charmante et adorée Jenny, dont Betsie regrettait l’absence comme celle d’une fille chérie. Et de voir leurs places vides dans les chambres de Felsenheim, vides à la table commune, vides à la salle où l’on se rencontrait chaque soir, cela brisait le cœur. Il semblait que tous les bonheurs de ce foyer, refroidi par la séparation, se fussent éteints comme un feu que n’anime plus le souffle familial !</p>
@@ -650,8 +660,10 @@
         <p>Ainsi se termina cette année 1816, qui avait été marquée par des événements dont les conséquences devaient profondément modifier la situation de la Nouvelle-Suisse.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre VII.</head>
-         <head>Le premier jour de l’année. – Promenade à Falkenhorst. – Projet de chapelle. – Propositions de voyage. – Discussion. – La pinasse mise en état. – Départ du 15 mars.</head>
+            <head>VII.</head>
+         <argument>
+<p>Le premier jour de l’année. – Promenade à Falkenhorst. – Projet de chapelle. – Propositions de voyage. – Discussion. – La pinasse mise en état. – Départ du 15 mars.</p>
+</argument>
         <p>Le 1<hi rend="sup">er</hi> janvier, des souhaits furent échangés entre les familles Zermatt et Wolston. L’une et l’autre se firent même quelques cadeaux auxquels se rattachait plutôt une valeur morale qu’une valeur réelle, – de ces riens que le temps transforme en souvenirs. Il y eut aussi compliments et serrements de main dès l’aube de ce jour partout fêté, où l’année nouvelle</p>
         <p/>
         <p rend="i">Débute sur le théâtre</p>
@@ -766,8 +778,10 @@
         <p>Lorsque les passagers eurent pris place sur le pont, le canot fut hissé à l’arrière. Puis, la brigantine, la misaine et le foc parés, M. Zermatt à la barre, M. Wolston et Jack aux écoutes, la pinasse chercha le vent, et, au-delà de l’îlot du Requin, ne tarda pas à perdre de vue les hauteurs de Felsenheim.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre VIII.</head>
-         <head>Navigation – Le tour de l’écueil du Landlord. – La baie de la Licorne. – L’Élisabeth au mouillage. – Au sommet de la falaise. – Contrée aride. – La région au sud. – Projets pour le lendemain.</head>
+            <head>VIII.</head>
+         <argument>
+<p>Navigation – Le tour de l’écueil du Landlord. – La baie de la Licorne. – L’Élisabeth au mouillage. – Au sommet de la falaise. – Contrée aride. – La région au sud. – Projets pour le lendemain.</p>
+</argument>
         <p>Dès qu’elle eut franchi le goulet, la pinasse glissa à la surface de cette large étendue de mer comprise entre le cap de l’Espoir-Trompé et le cap de l’Est. Il faisait beau temps. Le ciel, d’un bleu gris, était tendu de quelques nuages qui tamisaient les rayons du soleil.</p>
         <p>Le vent soufflait de terre à cette heure matinale et favorisait la marche de l’<hi rend="i">Élisabeth</hi>. Ce ne serait qu’après avoir doublé le cap de l’Est qu’elle sentirait la brise du large.</p>
         <p>Le léger bâtiment avait déployé toute sa voilure de brigantin, même un foc volant et les voiles de flèche de ses deux mâts. À l’allure du grand largue, bon plein, un peu incliné sur sa hanche de tribord, son étrave fendait ces eaux aussi calmes que celles d’un lac et il filait ses huit nœuds, laissant en arrière un long sillage d’écume clapotante.</p>
@@ -889,8 +903,10 @@
         <p>Le dîner achevé, une dernière promenade conduisit jusqu’à l’extrémité de la grève et, vers neuf heures, les passagers étaient rentrés à bord de l’<hi rend="i">Élisabeth</hi>.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre IX.</head>
-         <head>Vue de la côte. – Les manchots. – Un nouveau cours d’eau. – Territoires inconnus. – La chaîne de montagnes au sud. – Projet pour le lendemain. <hi rend="b">–</hi> La rivière Montrose.</head>
+            <head>IX.</head>
+         <argument>
+<p>Vue de la côte. – Les manchots. – Un nouveau cours d’eau. – Territoires inconnus. – La chaîne de montagnes au sud. – Projet pour le lendemain. <hi rend="b">–</hi> La rivière Montrose.</p>
+</argument>
         <p>Le lendemain, le premier soin de M. Zermatt fut d’interroger l’horizon du côté de l’est. Derrière quelques brumes, qui ne tarderaient pas à se dissoudre, s’arrondissait le disque solaire, élargi par la réfraction. Une magnifique journée s’annonçait. Rien ne permettait de pronostiquer un changement de temps, un trouble atmosphérique quelconque. Depuis trois ou quatre jours, la colonne du baromètre oscillait autour du beau fixe. L’air était rendu un peu opaque par les poussières, non alourdies par l’humidité, qu’il tenait en suspension. En outre, la brise, assez fraîche, semblait bien établie au nord-ouest. La mer serait calme jusqu’à une lieue de terre. La pinasse pouvait donc continuer en pleine sécurité sa navigation le long du littoral.</p>
         <p>À six heures, tout le monde sur le pont, les amarres furent larguées. Avec sa misaine, sa brigantine, ses focs amurés et bordés, le petit bâtiment, dès qu’il eut dépassé la pointe, prit le large où le vent se faisait mieux sentir. Une demi-heure après, cap au sud, M. Wolston à la barre, l’<hi rend="i">Élisabeth</hi> suivait les méandres de la côte à la distance d’une dizaine d’encablures, de manière que le regard pût en observer les moindres détails depuis la dentelure des grèves jusqu’à l’arête des falaises rocheuses.</p>
         <p>À l’estime, quatre à cinq lieues devaient séparer la baie de la Licorne de la vallée relevée en direction du sud. Deux ou trois heures suffiraient à franchir cette distance. La marée, qui montait depuis le lever du soleil, portait en ce sens et serait probablement étale lorsque l’<hi rend="i">Élisabeth</hi> arriverait à destination. On verrait alors, d’après la nature des lieux et selon les éventualités, ce qu’il conviendrait de faire.</p>
@@ -1005,8 +1021,10 @@
         <p>Tous furent d’accord, et, à partir de ce jour, la rivière Montrose figura sur la carte de la Nouvelle-Suisse.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre X.</head>
-         <head>Navigation du canot sur la Montrose. – Contrée aride. – Les cailloux du ravin. – Le barrage. – Retour au mouillage de l’Élisabeth. – Descente de la rivière. – Une vapeur dans le sud-est. – Rentrée à Felsenheim.</head>
+            <head>X.</head>
+         <argument>
+<p>Navigation du canot sur la Montrose. – Contrée aride. – Les cailloux du ravin. – Le barrage. – Retour au mouillage de l’Élisabeth. – Descente de la rivière. – Une vapeur dans le sud-est. – Rentrée à Felsenheim.</p>
+</argument>
         <p>Le lendemain, vers six heures, à mer basse, sur les bords de la crique, quelques têtes de roche découvrirent qui n’émergeaient pas la veille. On le constata, d’ailleurs, même au plus bas du jusant, les passes restaient praticables sur une largeur de quarante à cinquante toises. Donc la rivière Montrose demeurait navigable à tout instant des marées. Il en résultait que, si ce cours d’eau s’enfonçait de quelques lieues à l’intérieur du territoire, son embouchure serait assurément choisie pour un premier établissement dont l’avenir ferait peut-être une importante cité maritime. Et telle était la profondeur de l’eau au mouillage de l’<hi rend="i">Élisabeth</hi> près des roches, qu’elle flottait encore par cinq ou six pieds au-dessus d’un fond de sable.</p>
         <p>Vers sept heures, des clapotements, avant-coureurs du flux, bruirent le long des roches, et la pinasse n’aurait pas tardé à éviter sur son ancre, si elle n’eût été retenue par l’amarre d’arrière.</p>
         <p>M. Wolston et Ernest, débarqués depuis le lever du jour, revenaient en ce moment, après avoir observé l’état de la crique en aval. Ils n’eurent qu’à sauter sur le pont pour rejoindre M. et M<hi rend="sup">me</hi> Zermatt, M<hi rend="sup">me</hi> Wolston et sa fille. Manquait Jack, qui, suivi de ses deux chiens, s’était mis en chasse. Quelques détonations signalaient à la fois sa présence aux environs et ses succès de chasseur. Il ne tarda pas à reparaître, la gibecière gonflée de deux couples de perdrix et d’une demi-douzaine de cailles.</p>
@@ -1125,8 +1143,10 @@
         <p>Ce cap fut tourné à quatre heures, et comme la marée montante portait à l’ouest de la baie du Salut, une heure suffit à franchir cette distance. L’îlot du Requin doublé, l’<hi rend="i">Élisabeth</hi> piqua vers le ruisseau des Chacals et, trente-cinq minutes après, ses passagers débarquèrent sur la grève de Felsenheim.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XI.</head>
-         <head>Avant la saison des pluies. – Visite aux métairies et aux îlots. – Premières bourrasques. – Les soirées à Felsenheim. – La chapelle. – La découverte d’Ernest et l’accueil qui lui est fait. – Prolongation du mauvais temps. – Deux coups de canon. – À l’îlot du Requin.</head>
+            <head>XI.</head>
+         <argument>
+<p>Avant la saison des pluies. – Visite aux métairies et aux îlots. – Premières bourrasques. – Les soirées à Felsenheim. – La chapelle. – La découverte d’Ernest et l’accueil qui lui est fait. – Prolongation du mauvais temps. – Deux coups de canon. – À l’îlot du Requin.</p>
+</argument>
         <p>Quatre jours et demi, soit cent huit heures, telle avait été la durée de l’absence des hôtes de Felsenheim. Elle aurait pu se prolonger encore d’autant sans que les animaux domestiques en eussent souffert, leurs étables étant approvisionnées pour une longue période. Pendant cette excursion. M. Wolston aurait eu le temps de conduire l’exploration à la base de la chaîne dont il n’était plus très éloigné à la hauteur du barrage de la rivière. Très probablement même, il aurait proposé à M. Zermatt de séjourner trois ou quatre jours de plus au mouillage de la Montrose, si le canot n’eût trouvé obstacle à remonter son cours.</p>
         <p>Au total, cette exploration ne laissait pas d’avoir eu quelque résultat. La pinasse avait pu reconnaître la côte orientale sur une dizaine de lieues à partir du cap de l’Est. En y ajoutant une égale étendue du littoral visité dans le nord jusqu’à la baie des Perles, voilà ce que l’on connaissait du contour de l’île. Quant à son périmètre à l’ouest et au sud, quel aspect il présentait, s’il limitait des régions arides ou fertiles, les deux familles ne seraient fixées à cet égard qu’après un voyage de circumnavigation, à moins que l’ascension des montagnes ne permît au regard d’embrasser la Nouvelle-Suisse entière.</p>
         <p>Il est vrai, les probabilités étaient que la <hi rend="i">Licorne</hi>, en reprenant la mer, en eût relevé les dimensions et la forme. Donc, en cas que l’expédition projetée par M. Wolston ne donnât pas complète connaissance de l’île, il n’y aurait qu’à attendre le retour de la corvette anglaise pour être fixé à cet égard.</p>
@@ -1291,8 +1311,10 @@
         <p>Ainsi donc, aucun navire n’avait paru sur les parages de l’île pendant la nuit précédente, aucun bâtiment n’était venu se perdre contre les récifs de la Nouvelle-Suisse.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XII.</head>
-         <head>À Falkenhorst. – À Waldegg. – À Zuckertop. – À Prospect-Hill. – La mer déserte. – Préparatifs de voyage à l’intérieur. – Ceux qui partent et ceux qui ne partent pas. – Conduite au défilé de Cluse. – Adieux.</head>
+            <head>XII.</head>
+         <argument>
+<p>À Falkenhorst. – À Waldegg. – À Zuckertop. – À Prospect-Hill. – La mer déserte. – Préparatifs de voyage à l’intérieur. – Ceux qui partent et ceux qui ne partent pas. – Conduite au défilé de Cluse. – Adieux.</p>
+</argument>
         <p>La saison des pluies, qui s’était prolongée cette année-là, prit fin dans la dernière semaine d’août. En prévision du voyage projeté à l’intérieur de l’île, on se mit immédiatement aux travaux de labours et d’ensemencements. M. Zermatt ne comptant pas commencer l’excursion avant la seconde quinzaine de septembre, ce temps suffirait largement aux premières besognes.</p>
         <p>Cette fois, les deux familles décidèrent de ne point s’installer à Falkenhorst. Le château aérien avait d’ailleurs subi quelques dégâts pendant les dernières tourmentes, et il serait nécessaire d’y faire des réparations. On se contenterait d’y passer quelques jours pour les semailles, la taille du vignoble, les soins à donner aux animaux, et on ne s’attarderait pas davantage à Waldegg, à Zuckertop et à Prospect-Hill.</p>
         <p>« Considérons, fit observer M. Zermatt, qu’au retour de nos absents, à l’arrivée des nouveaux amis qu’ils nous amèneront, le colonel Montrose, votre fils James et sa femme, mon cher Wolston, et peut-être un certain nombre de colons, des agrandissements s’imposeront à Falkenhorst comme aux autres métairies. Or, des bras supplémentaires ne seront pas à dédaigner pour ces travaux qui ne laisseront pas d’être importants. Donc, aujourd’hui, ne nous occupons que de nos champs, de nos étables, de nos basses-cours. Nous aurons assez à faire, durant ces deux mois, en attendant la<hi rend="i"> Licorne</hi>. »</p>
@@ -1409,8 +1431,10 @@
         <p>M. Wolston et les deux frères franchirent une étroite issue ménagée entre les poutres du défilé de Cluse. Elle fut soigneusement refermée derrière eux ; et ils disparurent bientôt au tournant de la barrière rocheuse.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XIII.</head>
-         <head>Au sortir de la vallée de Grünthal. – La région des plaines. – La région des forêts. – Encore les singes. – Au pied de la chaîne. – La nuit à l’intérieur d’une grotte. – La première et la deuxième zone de la montagne. – À la base du cône.</head>
+            <head>XIII.</head>
+         <argument>
+<p>Au sortir de la vallée de Grünthal. – La région des plaines. – La région des forêts. – Encore les singes. – Au pied de la chaîne. – La nuit à l’intérieur d’une grotte. – La première et la deuxième zone de la montagne. – À la base du cône.</p>
+</argument>
         <p>Le voyage à pied est par excellence le voyage du touriste. Il permet de tout voir, il autorise les détours, il justifie les haltes, il permet les retards. Le piéton se contente de sentiers, lorsqu’il n’y a plus de route. Il peut cheminer à sa fantaisie, passer là où ne passeraient ni le plus léger véhicule ni la monture la mieux dressée, franchir les talus et s’élever jusqu’à la cime des montagnes.</p>
         <p>Aussi M. Wolston et les deux jeunes gens n’avaient-ils pas hésité, au risque d’avoir à supporter d’extrêmes fatigues, à se lancer pédestrement au milieu de ces contrées inconnues de l’intérieur, surtout en prévision de l’ascension projetée au sommet de la chaîne.</p>
         <p>L’excursion, on le sait, ne devait comprendre qu’un parcours de sept à huit lieues, à la condition d’atteindre en ligne droite la base des montagnes. Il ne s’agissait donc pas d’un long voyage ; mais il allait s’effectuer à travers une contrée nouvelle, qui réservait peut-être d’importantes et utiles découvertes aux trois excursionnistes.</p>
@@ -1504,8 +1528,10 @@
         <p>– Tâchons de lui donner cette preuve d’affection, mon cher Ernest, répondit M. Wolston, et surtout d’empêcher ses imprudences ! »</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XIV.</head>
-         <head>L’arrivée à la cime du cône. – Regards portés en toutes directions. – Ce que l’on voit au nord, à l’est et à l’ouest. – La région du sud. – Un navire à l’horizon. – Le pavillon britannique.</head>
+            <head>XIV.</head>
+         <argument>
+<p>L’arrivée à la cime du cône. – Regards portés en toutes directions. – Ce que l’on voit au nord, à l’est et à l’ouest. – La région du sud. – Un navire à l’horizon. – Le pavillon britannique.</p>
+</argument>
         <p>Cette hauteur de six cents pieds dépasse d’un tiers environ celle de la grande pyramide d’Égypte. Cette pyramide, il est vrai, est garnie sur ses flancs de marches gigantesques qui facilitent l’ascension, et sans lesquelles il serait pour ainsi dire impossible d’atteindre l’extrême pointe du monument pharaonique de Gizeh. Or l’angle que formaient les lignes obliques du cône avec la perpendiculaire était encore plus ouvert que celui de la grande pyramide.</p>
         <p>En réalité, ce n’était qu’un monstrueux entassement de roches à peine en équilibre, ou, si l’on veut, un énorme tas de pierres accumulées sans ordre. Il présentait cependant des rebords, des arêtes, des ressauts, des bourrelets, sur lesquels le pied pouvait trouver un point d’appui. Toujours en avant, Jack s’assurait de leur solidité, tâtonnait à gauche, à droite, et c’est en le suivant, sans trop de hâte, que M. Wolston et Ernest se hissèrent graduellement de bloc en bloc.</p>
         <p>Quelle aridité désolante à la surface de cette troisième zone ! On n’apercevait aucune trace du règne végétal, si ce n’étaient, çà et là, certaines touffes de ces maigres pariétaires auxquelles suffisent quelques pincées d’humus, et aussi de larges plaques de lichen sec qui coloraient les roches d’un vert grisâtre.</p>
@@ -1628,8 +1654,10 @@
         <p>Le pavillon, hissé à la pointe du pic Jean-Zermatt, se déploya sous la brise, tandis que Jack, déchargeant deux fois son fusil, lui rendait les honneurs.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XV.</head>
-         <head>L’attente à Felsenheim. – Retard inquiétant. – Départ pour l’ermitage d’Eberfurt. – M. Wolston et Ernest. – Ce qui est arrivé. – À la poursuite des éléphants. – Proposition de M. Wolston. – Vents contraires. – Jack !</head>
+            <head>XV.</head>
+         <argument>
+<p>L’attente à Felsenheim. – Retard inquiétant. – Départ pour l’ermitage d’Eberfurt. – M. Wolston et Ernest. – Ce qui est arrivé. – À la poursuite des éléphants. – Proposition de M. Wolston. – Vents contraires. – Jack !</p>
+</argument>
         <p>Le soir de ce même jour, M. Zermatt et sa femme, M<hi rend="sup">me</hi> Wolston et sa fille, étaient réunis dans la salle de la bibliothèque, après une bonne journée de travail.</p>
         <p>Ces quatre personnes causaient près de la fenêtre qui s’ouvrait sur la rive droite du ruisseau des Chacals, et de quoi auraient-elles parlé, si ce n’est des absents partis depuis trois jours ? Ce qui les rassurait sur l’issue de cette exploration à l’intérieur de l’île, c’était que le temps l’eût favorisée, la chaleur n’étant pas insoutenable au début de la belle saison.</p>
         <p>« Où M. Wolston et nos deux fils doivent-ils être en ce moment ?... demanda M<hi rend="sup">me</hi> Zermatt.</p>
@@ -1748,8 +1776,10 @@
         <p>– Les sauvages... répondit Jack, des sauvages qui ont débarqué sur l’île ! »</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XVI.</head>
-         <head>Récit de Jack. – Perdu dans la forêt. – Les sauvages sur l’île. – Inquiétudes croissantes. – Le retard de la Licorne. – Trois semaines d’attente. – À la petite chapelle de Felsenheim.</head>
+            <head>XVI.</head>
+         <argument>
+<p>Récit de Jack. – Perdu dans la forêt. – Les sauvages sur l’île. – Inquiétudes croissantes. – Le retard de la Licorne. – Trois semaines d’attente. – À la petite chapelle de Felsenheim.</p>
+</argument>
         <p>Les deux familles rentrèrent dans la salle à manger, le cœur débordant de joie, en dépit de la très inquiétante nouvelle apportée par Jack !... On ne songeait qu’à ceci : Jack était de retour !</p>
         <p>Et pourtant aurait-on pu imaginer un événement plus grave !... Des sauvages fréquentaient la côte de la Nouvelle-Suisse !... Et, ainsi qu’il y eut lieu de le reconnaître, cette légère vapeur entrevue par M. Wolston, lorsque la pinasse avait quitté l’embouchure de la rivière Montrose, puis, lorsqu’il se trouvait à la cime du pic, c’était la fumée d’un campement établi sur cette partie du littoral...</p>
         <p>Jack tombait d’inanition. Il dut d’abord se refaire des forces en prenant place à la table où tous s’étaient assis, et voici en quels termes il raconta ses aventures :</p>
@@ -1831,8 +1861,10 @@
         <p>Aussi tous demeurèrent-ils silencieux, au sommet de la colline, sous l’empire d’un sentiment où se mélangeaient la crainte et l’espérance.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XVII.</head>
-         <head>La chaloupe encalminée. – Abandonnés depuis huit jours. – Ce que se disent le capitaine Harry Gould et le bosseman John Block. – Une trouée dans les brumes du sud. – Un cri : « Terre... terre ! »</head>
+            <head>XVII.</head>
+         <argument>
+<p>La chaloupe encalminée. – Abandonnés depuis huit jours. – Ce que se disent le capitaine Harry Gould et le bosseman John Block. – Une trouée dans les brumes du sud. – Un cri : « Terre... terre ! »</p>
+</argument>
         <p>Il faisait nuit, – très noire. À peine eût-on distingué le ciel de l’eau. De ce ciel chargé de nuages bas, lourds, écrasés, déchirés, s’échappait parfois un éclair que suivaient des roulements étouffés, comme si l’espace eût été impropre à reproduire les sons. À ces rares intervalles, l’horizon s’illuminait un instant, toujours désert, toujours lugubre. Nulle lame ne déferlait à la surface de la mer. Rien que le balancement régulier et monotone de la houle avec les rides d’un clapotis qui scintillait alors. Aucun souffle ne passait au-dessus de cette immense plaine océanique, pas même l’haleine chaude des orages. Mais tant de fluide électrique s’était emmagasiné dans l’espace qu’il se déchargeait en lueurs phosphorescentes, accrochant des langues du feu Saint-Elme aux agrès de l’embarcation. Bien que le soleil fût couché depuis quatre ou cinq heures, la chaleur dévorante du jour se maintenait à son maximum d’intensité.</p>
         <p>Deux hommes causaient à voix basse, à l’arrière d’une grande chaloupe, pontée jusqu’au pied du mât. Sa misaine et son foc battaient aux monotones secousses du roulis.</p>
         <p>L’un de ces hommes, tenant la barre sous son bras, essayait d’éviter les brutales embardées qui se produisaient d’un bord à l’autre. C’était un marin, âgé d’une quarantaine d’années, trapu et vigoureux, corps de fer sur lequel ni la fatigue ni les privations ni surtout le découragement n’avaient jamais eu prise. De nationalité anglaise, ce bosseman s’appelait Block, – John Block.</p>
@@ -1933,8 +1965,10 @@
         <p>« Terre !... » cria-t-il.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XVIII.</head>
-         <head>Le départ de la Licorne. – Le cap de Bonne-Espérance. – James Wolston et sa famille. – Adieux de Doll. – Portsmouth et Londres. – Séjour en Angleterre. – Le mariage de Fritz Zermatt et de Jenny Montrose. <hi rend="b">–</hi> Retour à Capetown.</head>
+            <head>XVIII.</head>
+         <argument>
+<p>Le départ de la Licorne. – Le cap de Bonne-Espérance. – James Wolston et sa famille. – Adieux de Doll. – Portsmouth et Londres. – Séjour en Angleterre. – Le mariage de Fritz Zermatt et de Jenny Montrose. <hi rend="b">–</hi> Retour à Capetown.</p>
+</argument>
         <p>C’est à la date du 20 octobre que la <hi rend="i">Licorne</hi> avait quitté la Nouvelle-Suisse afin de rentrer en Angleterre. Au retour, après une courte relâche au cap de Bonne-Espérance, elle devait ramener Fritz et François Zermatt, Jenny Montrose et Doll Wolston, lorsque l’Amirauté enverrait prendre possession de cette nouvelle colonie de l’océan Indien. Les places, laissées à bord par la famille Wolston maintenant installée sur l’île, les deux frères les occupaient. Une cabine confortable avait été mise à la disposition de Jenny et de Doll, sa jeune compagne, qui allait rejoindre à Capetown James Wolston, sa femme et leur enfant.</p>
         <p>Après avoir doublé le cap de l’Espoir-Trompé, la <hi rend="i">Licorne</hi>, cinglant vers l’ouest, redescendit au sud en laissant sur tribord l’îlot de la Roche-Fumante. Avant de perdre de vue la Nouvelle-Suisse, il entrait dans la pensée du lieutenant Littlestone d’en reconnaître la côte orientale, de s’assurer que c’était bien une île isolée sur ces parages, d’évaluer approximativement l’importance d’une colonie qui ne tarderait pas à prendre rang dans le domaine insulaire de la Grande-Bretagne. Cette reconnaissance effectuée, la corvette, servie par une bonne brise, laissa dans le nord-ouest l’île dont on n’avait que vaguement entrevu au milieu des brumes la partie méridionale.</p>
         <p>Les premières semaines de navigation furent favorisées. Les passagers et les passagères de la <hi rend="i">Licorne</hi> n’eurent qu’à se féliciter des conditions atmosphériques, non moins que du bon accueil dont ils furent l’objet de la part du commandant et de ses officiers. Lorsqu’ils étaient réunis à la table du carré ou sous la tente de la dunette, la conversation portait d’ordinaire sur les merveilles de cette Nouvelle-Suisse. Et on la reverrait avant un an, si la corvette ne subissait aucun retard ni au cours de sa double traversée ni du fait des autorités anglaises.</p>
@@ -2009,8 +2043,10 @@
         <p>Le 29 juin, dès le matin, la <hi rend="i">Licorne</hi> sortit de Portsmouth par belle brise, portant à sa corne le pavillon anglais qu’elle allait arborer sur les rivages de la Nouvelle-Suisse.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XIX.</head>
-         <head>Le deuxième voyage de la Licorne. – Nouveaux passagers et officiers. – Relâche au Cap. – Le second Borupt. – Navigation contrariée. – Révolte à bord. – Huit jours à fond de cale. – Abandonnés en mer.</head>
+            <head>XIX.</head>
+         <argument>
+<p>Le deuxième voyage de la Licorne. – Nouveaux passagers et officiers. – Relâche au Cap. – Le second Borupt. – Navigation contrariée. – Révolte à bord. – Huit jours à fond de cale. – Abandonnés en mer.</p>
+</argument>
         <p>Si la <hi rend="i">Licorne</hi>, au lieu d’être un navire de guerre, eût été un bâtiment de commerce à destination de la Nouvelle-Suisse, elle aurait embarqué un nombre assez considérable d’émigrants. Cette île, sur laquelle l’attention publique venait d’être si vivement attirée, ne chômerait pas de colons. Les probabilités étaient même qu’ils se recruteraient principalement dans la population irlandaise que ses instincts et aussi la nécessité excitent à chercher en dehors de son pays des moyens d’existence. Là-bas, d’ailleurs, ce seraient autant d’hommes vigoureux et résolus auxquels le travail ne manquerait pas.</p>
         <p>À bord de la <hi rend="i">Licorne</hi>, une cabine avait été réservée pour Fritz et sa femme, et, contiguë à celle-ci, une autre pour François, lesquels prendraient leurs repas à la table du capitaine Littlestone.</p>
         <p>La navigation n’offrit rien de très particulier. Ce furent les incidents habituels des traversées, mer assez inconstante, contrariétés provenant de l’instabilité des vents, calmes qui, sous les tropiques, semblent ne devoir jamais finir, quelques rudes assauts de gros temps que la corvette, bien manœuvrée, supporta sans grand dommage. On croisa plusieurs bâtiments dans l’Atlantique sud, qui durent rapporter des nouvelles de la <hi rend="i">Licorne</hi> en Europe. À cette époque d’apaisement, après de si longues et si redoutables guerres, les mers étaient très sûres, et les navires ne couraient aucun danger sous ce rapport.</p>
@@ -2094,8 +2130,10 @@
         <p>La bosse retomba en dehors, la chaloupe resta seule, et le navire disparut au milieu des ombres de la nuit.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XX.</head>
-         <head>Un cri de François. – Quelle est cette côte ? – Les passagers de la chaloupe. – Terre disparue dans les brumes. – Temps menaçant. – Terre reparue. – Rafales du sud. – À la côte.</head>
+            <head>XX.</head>
+         <argument>
+<p>Un cri de François. – Quelle est cette côte ? – Les passagers de la chaloupe. – Terre disparue dans les brumes. – Temps menaçant. – Terre reparue. – Rafales du sud. – À la côte.</p>
+</argument>
         <p>Ce cri de : « Terre, terre ! », c’était François qui venait de le jeter comme un cri de salut. Debout sur le tillac, il avait cru apercevoir confusément les profils d’une côte à travers une déchirure des brumes. Aussitôt, saisissant la drisse, il s’était hissé en tête du mât, puis achevalé sur la vergue, et, de là, il tenait obstinément son regard dans la direction relevée.</p>
         <p>Près de dix minutes s’écoulèrent avant qu’il eût revu cet indice de terre vers le nord, et il se laissa glisser au pied du mât.</p>
         <p>« Tu as aperçu la côte ?... demanda Fritz.</p>
@@ -2182,8 +2220,10 @@
         <p>Une demi-heure après, la chaloupe avait accosté une grève sablonneuse, et elle fut amarrée derrière une longue pointe rocheuse à l’abri du ressac.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXI.</head>
-         <head>À terre. – Une conversation de Fritz et du bosseman. – Nuit tranquille. – Aspect de la côte. – Impression décourageante. – Excursion. – Les cavernes. – Le ruisseau. – Le promontoire. – Installation.</head>
+            <head>XXI.</head>
+         <argument>
+<p>À terre. – Une conversation de Fritz et du bosseman. – Nuit tranquille. – Aspect de la côte. – Impression décourageante. – Excursion. – Les cavernes. – Le ruisseau. – Le promontoire. – Installation.</p>
+</argument>
         <p>Ils avaient enfin pris terre, ces abandonnés. Durant une pénible et périlleuse navigation de deux semaines, pas un d’eux n’avait succombé à la fatigue, aux privations, et il fallait en remercier le Ciel. Seul, le capitaine Gould souffrait cruellement, accablé par la fièvre. Toutefois, malgré son état d’épuisement, sa vie ne paraissait pas en danger, et peut-être quelques jours de repos suffiraient-ils à le remettre.</p>
         <p>À présent que Fritz et ses compagnons avaient heureusement atterri, qu’ils ne se trouvaient plus à la merci des tempêtes, qu’ils n’allaient plus à l’aventure, se posait cette question : sur quelle terre avaient-ils débarqué ?...</p>
         <p>Quelle qu’elle fût, hélas ! ce n’était pas la Nouvelle-Suisse, où, sans la révolte de Robert Borupt et de l’équipage, le <hi rend="i">Flag</hi> serait arrivé dans les délais prévus ! Au lieu du bien-être de Felsenheim, qu’offrirait ce rivage inconnu ?...</p>
@@ -2309,8 +2349,10 @@
         <p>Quant au capitaine Gould, ce fut aux bras de Fritz et du bosseman qu’il se rendit à la grotte, où l’attendait un bon lit de goémons secs préparé par Jenny et Doll, et sur lequel il put prendre quelques heures de sommeil.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXII.</head>
-         <head>L’installation. – Première nuit sur cette côte. – Fritz et Jenny. – Amélioration dans l’état du capitaine Gould. – Discussions. – Ascension de la falaise impossible. – La nuit du 26 au 27 octobre.</head>
+            <head>XXII.</head>
+         <argument>
+<p>L’installation. – Première nuit sur cette côte. – Fritz et Jenny. – Amélioration dans l’état du capitaine Gould. – Discussions. – Ascension de la falaise impossible. – La nuit du 26 au 27 octobre.</p>
+</argument>
         <p>Il eût été difficile de trouver mieux pour s’y installer que cette caverne. Les différents réduits qui l’évidaient à l’intérieur permettraient à chacun de s’isoler suivant sa convenance.</p>
         <p>Que ces réduits, de profondeur inégale, fussent assez sombres pendant le jour, que la caverne demeurât même dans une demi-obscurité, peu importait, en somme. À moins de mauvais temps, elle ne serait occupée que la nuit. Dès la pointe du jour, Harry Gould se ferait transporter au dehors, afin de respirer l’air salin et vivifiant, mélangé de rayons de soleil.</p>
         <p>Au dedans, Jenny s’arrangea pour occuper avec son mari une des anfractuosités latérales. James Wolston, sa femme et le petit Bob prirent possession d’un évidement plus large, suffisant pour les loger tous trois. François se contenterait d’un coin dans la salle commune, en compagnie d’Harry Gould et du bosseman. La place ne manquait donc pas dans cette excavation naturelle, dont on ne connaissait pas encore toute la profondeur.</p>
@@ -2417,8 +2459,10 @@
         <p>Le malheur tant redouté s’était produit. La chaloupe, arrachée de sa souille, déhalée d’abord au fond de la grève, puis ramenée contre les extrêmes roches du promontoire, s’était fracassée et ses débris, après avoir flotté un instant sur l’écume des remous, disparurent au tournant du morne.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXIII.</head>
-         <head>Situation aggravée. – Jenny et Fritz ne perdent pas espoir. – Pêches fructueuses. – Tentative pour reconnaître la côte vers l’est. – L’albatros de la Roche-Fumante. – Triste fin d’année.</head>
+            <head>XXIII.</head>
+         <argument>
+<p>Situation aggravée. – Jenny et Fritz ne perdent pas espoir. – Pêches fructueuses. – Tentative pour reconnaître la côte vers l’est. – L’albatros de la Roche-Fumante. – Triste fin d’année.</p>
+</argument>
         <p>La situation, pire que jamais, menaçait de s’aggraver encore. Alors qu’ils étaient dans l’embarcation, exposés à tous les dangers de la mer, le capitaine Gould et les passagers couraient du moins la chance d’être recueillis par un navire ou d’atteindre une terre. Le navire, ils ne l’avaient point rencontré. S’ils avaient accosté la terre, cette terre était inhabitable et maintenant on devait renoncer à tout espoir de la quitter.</p>
         <p>« Il est vrai, ainsi que le dit John Block à Fritz, si nous avions attrapé pareille tempête au large, notre chaloupe serait par le fond et nous avec ! »</p>
         <p>Fritz ne répondit rien et, sous un déluge de pluie et de grêle, vint se réfugier près de Jenny, Doll, Suzan en proie aux plus vives inquiétudes. Grâce à son orientation dans l’angle du promontoire, la grotte n’avait pas été inondée à l’intérieur.</p>
@@ -2531,8 +2575,10 @@
         <p>Deux jours après s’achevait cette année 1817, qui avait été si malheureuse pendant ses derniers mois, et que réservait l’année nouvelle ?...</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXIV.</head>
-         <head>Entretiens à propos de l’albatros. – Bonne camaraderie entre le petit Bob et l’oiseau. – Fabrication des chandelles. – Un nouveau sujet de douleur. – Recherches inutiles et désespoir. – Un cri de l’albatros.</head>
+            <head>XXIV.</head>
+         <argument>
+<p>Entretiens à propos de l’albatros. – Bonne camaraderie entre le petit Bob et l’oiseau. – Fabrication des chandelles. – Un nouveau sujet de douleur. – Recherches inutiles et désespoir. – Un cri de l’albatros.</p>
+</argument>
         <p>Si le capitaine Gould ne se trompait pas en ce qui concernait le gisement de l’îlot, la saison d’été ne devait plus avoir que trois mois à courir. Après ces trois mois arriverait le redoutable hiver, avec ses froides rafales, ses tempêtes furieuses. Cette faible chance d’apercevoir quelque navire au large, de l’attirer par des signaux, aurait disparu, car, à cette époque de l’année, les marins fuient ces dangereux parages. Mais, auparavant, peut-être se présenterait-il quelque circonstance qui modifierait la situation, bien qu’il fût téméraire de l’espérer.</p>
         <p>L’existence continua donc d’être ce qu’elle avait été depuis le 26 octobre, ce jour funeste où la chaloupe fut détruite. Quelle monotonie, quel désœuvrement, et combien l’impossibilité de rien entreprendre paraissait dure à des hommes si actifs ! Réduits à errer au pied de cette falaise qui les emprisonnait, leurs yeux se fatiguant à observer la mer toujours déserte, il leur fallait une extraordinaire force d’âme pour ne point succomber au découragement.</p>
         <p>Les journées, si longues, se passaient en conversations que Jenny était toujours la première à provoquer. La courageuse jeune femme animait tout son monde, s’ingéniait à le distraire, discutait des projets sur la valeur desquels elle ne se méprenait guère. Fritz et elle échangeaient leurs pensées, même sans qu’ils eussent besoin de parler. Le plus souvent, le capitaine Gould et John Block s’entretenaient de l’avenir. Et parfois ils se demandaient si le gisement de l’îlot était bien tel qu’ils le supposaient dans l’ouest du Pacifique. Le bosseman émettait quelque doute à cet égard.</p>
@@ -2653,8 +2699,10 @@
         <p>Une minute après, il rapportait le petit Bob évanoui, qui ne tarda pas à reprendre connaissance sous les baisers de sa mère.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXV.</head>
-         <head>La seconde grotte. – Espoir déçu. – La chandelle de Fritz. – À travers le massif. – Plusieurs haltes. – Le plateau supérieur. – Rien au sud, ni à l’est, ni à l’ouest. – Au moment de redescendre...</head>
+            <head>XXV.</head>
+         <argument>
+<p>La seconde grotte. – Espoir déçu. – La chandelle de Fritz. – À travers le massif. – Plusieurs haltes. – Le plateau supérieur. – Rien au sud, ni à l’est, ni à l’ouest. – Au moment de redescendre...</p>
+</argument>
         <p>De la terrible secousse qu’elle venait d’éprouver, M<hi rend="sup">me</hi> Wolston allait être quelque temps à se remettre. Mais enfin Bob lui était rendu, et est-il meilleur remède aux souffrances d’une mère que les caresses de son enfant !</p>
         <p>Ce qui s’était passé, on le devine. En jouant avec l’albatros, Bob le suivit au fond de la grotte. L’oiseau s’étant engagé à travers cet étroit couloir, Bob y pénétra après lui. Au-delà s’ouvrait une assez sombre excavation, de laquelle, lorsqu’il le voulut, le petit ne parvint pas à ressortir. Tout d’abord, il appela... Ses appels ne furent point entendus... Il perdit connaissance, et on ne sait trop ce qui serait arrivé, si, par la plus heureuse des chances, le cri de l’albatros n’eût frappé l’oreille de Fritz.</p>
         <p>« Eh bien, dit le bosseman, maintenant que Bob est dans les bras de sa maman, tout est pour le mieux... C’est grâce à lui que nous avons découvert une seconde grotte... Il est vrai, nous n’en avons que faire... La première nous suffisait, et même nous ne demandons qu’à en déloger...</p>
@@ -2786,8 +2834,10 @@
         <p>« Un coup de canon ! » s’écria John Block.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXVI.</head>
-         <head>Personne ne veut quitter la place. – La nuit sur le plateau. – En marche vers le nord. – Le mât du pavillon. – Les couleurs britanniques. – Le rideau de brumes. – Un cri de Fritz.</head>
+            <head>XXVI.</head>
+         <argument>
+<p>Personne ne veut quitter la place. – La nuit sur le plateau. – En marche vers le nord. – Le mât du pavillon. – Les couleurs britanniques. – Le rideau de brumes. – Un cri de Fritz.</p>
+</argument>
         <p>Tous, immobiles, le cœur étreint par l’émotion, les regards dirigés vers l’horizon du nord, écoutaient, respiraient à peine. Qu’ils eussent été dupes d’une illusion... non... ce n’était pas admissible... Quelques décharges éloignées retentirent encore, apportées par les faibles souffles de la brise.</p>
         <p>« C’est un bâtiment qui passe au large de cette côte !... dit enfin Harry Gould.</p>
         <p>– Oui... ces détonations ne peuvent venir que d’un navire, répondit John Block, et, lorsque la nuit sera faite, qui sait si nous n’apercevrons pas ses feux...</p>
@@ -2899,8 +2949,10 @@
         <p>Et, pénétrés d’une indicible joie, le cœur palpitant, les yeux mouillés des larmes de la reconnaissance, tous s’unirent à François dans la prière qui s’éleva vers le Ciel !</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXVII.</head>
-         <head>Une grotte au pied de la chaîne. – Retour sur le passé. – À travers la forêt. – Capture d’une antilope. – La rivière Montrose. – La vallée de Grünthal. – Le défilé de Cluse. – Une nuit à l’ermitage d’Eberfurt.</head>
+            <head>XXVII.</head>
+         <argument>
+<p>Une grotte au pied de la chaîne. – Retour sur le passé. – À travers la forêt. – Capture d’une antilope. – La rivière Montrose. – La vallée de Grünthal. – Le défilé de Cluse. – Une nuit à l’ermitage d’Eberfurt.</p>
+</argument>
         <p>La grotte dans laquelle M. Wolston, Ernest et Jack avaient passé la nuit, quatre mois auparavant, lors de leur excursion aux montagnes, la veille du jour où le pavillon anglais fut arboré au sommet du pic Jean-Zermatt, s’emplissait ce soir-là de la plus vive et de la plus légitime animation. La joie y débordait. Si personne, la nuit venue, n’y dormait d’un tranquille sommeil, cette insomnie ne serait pas due aux mauvais rêves, mais à l’agitation des esprits, au tumulte des pensées provoquées par les derniers événements.</p>
         <p>Après leur élan d’actions de grâces, le capitaine Gould, Fritz, François, James, le bosseman, Jenny, Doll et Suzan Wolston n’avaient pas voulu s’attarder une minute à la cime du cône. Deux heures allaient s’écouler avant que le jour eût remplacé la nuit, et ce temps devait suffire à gagner le pied de la chaîne.</p>
         <p>« Il serait bien étonnant, observa Fritz, que nous n’y trouvions pas quelque cavité assez grande pour nous abriter tous...</p>
@@ -3042,8 +3094,10 @@
         <p>Cette nuit se passa dans les meilleures conditions de sécurité, et tous ne firent qu’un somme jusqu’au lever du soleil.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXVIII.</head>
-         <head>Départ pour Falkenhorst. – Le canal. – Inquiétudes. – La cour dévastée. – La demeure aérienne. – À la cime de l’arbre. – Désespoir. – Une fumée au-dessus de Felsenheim. – Alerte !</head>
+            <head>XXVIII.</head>
+         <argument>
+<p>Départ pour Falkenhorst. – Le canal. – Inquiétudes. – La cour dévastée. – La demeure aérienne. – À la cime de l’arbre. – Désespoir. – Une fumée au-dessus de Felsenheim. – Alerte !</p>
+</argument>
         <p>Le lendemain, dès sept heures, après un premier repas composé des restes de la veille, sans compter le coup du départ, – un verre de vin de palme, – Fritz et ses compagnons quittèrent l’ermitage d’Eberfurt.</p>
         <p>Très impatients, ils se proposaient d’enlever en moins de trois heures les trois lieues qui séparaient la métairie de Falkenhorst.</p>
         <p>C’était en effet vers Falkenhorst que Fritz avait, non sans raison, résolu de se diriger.</p>
@@ -3157,8 +3211,10 @@
         <p>– Des sauvages... » répondit John Block.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXIX.</head>
-         <head>Diverses hypothèses. – Ce qu’il faut faire. – Un coup de canon. – L’îlot du Requin. – Reconnaissance jusqu’à la grève. – Un canot abandonné. – L’embarquement. – « Ne tirez pas !... »</head>
+            <head>XXIX.</head>
+         <argument>
+<p>Diverses hypothèses. – Ce qu’il faut faire. – Un coup de canon. – L’îlot du Requin. – Reconnaissance jusqu’à la grève. – Un canot abandonné. – L’embarquement. – « Ne tirez pas !... »</p>
+</argument>
         <p>Il était alors deux heures et demie du soir. Le feuillage du manglier était si épais que les rayons du soleil, presque perpendiculaires, ne parvenaient pas à le percer. Fritz et ses compagnons ne couraient donc pas le risque d’être signalés dans l’habitation aérienne de Falkenhorst, encore inconnue des sauvages qui avaient débarqué sur l’île.</p>
         <p>Une troupe de cinq hommes, demi-nus, à peau noire comme les naturels de l’Australie occidentale, armés d’arcs et de flèches, s’avançait en suivant l’allée. Qu’ils eussent été vus, et même que la Terre-Promise comptât d’autres habitants que ceux de Felsenheim, ils ne pouvaient s’en douter. Mais qu’étaient devenus M. Zermatt et les siens ?... Avaient-ils pu s’enfuir ?... Avaient-ils succombé dans une lutte inégale ?...</p>
         <p>En effet, il n’était pas à supposer, ainsi le fit observer John Block, que le nombre des indigènes arrivés sur l’île fût réduit à cette demi-douzaine d’hommes. Avec une telle infériorité numérique, ils n’auraient pas eu raison de M. Zermatt, de ses deux fils et de M. Wolston, même dans le cas d’une surprise... C’était toute une bande, montée sur une flottille de pirogues, qui avait dû envahir la Nouvelle-Suisse... Cette flottille était sans doute à présent mouillée dans la crique avec la chaloupe et la pinasse... Si on ne l’apercevait pas du haut de Falkenhorst, c’est que, de ce côté-là, la vue était arrêtée par la pointe de la baie du Salut...</p>
@@ -3294,8 +3350,10 @@
         <p>Et, au moment où ils accostaient le pied des roches, M. Zermatt, M. Wolston, Ernest, Jack, les reçurent dans leurs bras.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXX.</head>
-            <head>Enfin réunis ! – Très succinctement ce qui s’est passé depuis le départ de la<hi rend="i">Licorne</hi>. – Les familles dans la désolation. – Plus d’espoir. – L’apparition des pirogues.</head>
+            <head>XXX.</head>
+            <argument>
+<p>Enfin réunis ! – Très succinctement ce qui s’est passé depuis le départ de la<hi rend="i">Licorne</hi>. – Les familles dans la désolation. – Plus d’espoir. – L’apparition des pirogues.</p>
+</argument>
         <p>Quelques minutes plus tard, les deux familles – au complet cette fois, – le capitaine Harry Gould et le bosseman étaient ensemble dans le magasin installé au centre de l’îlot, à cinq cents pas du monticule de la batterie sur lequel se déployait le pavillon de la Nouvelle-Suisse.</p>
         <p>Vouloir donner une idée de ce que fut cette scène d’attendrissement et d’actions de grâces, Fritz, François, Jenny que M. et M<hi rend="sup">me</hi> Zermatt, Ernest et Jack pressaient sur leur cœur et couvraient de baisers, James, Doll, Suzan et Bob qui ne pouvaient s’arracher aux étreintes d’Annah de M. et M<hi rend="sup">me</hi> Wolston, et les serrements de mains échangés avec le capitaine Gould et le bosseman, vouloir décrire avec des mots ce qui n’était qu’un mélange de cris de joie, de larmes, de caresses, ce serait impossible, et mieux vaut ne point s’y essayer.</p>
         <p>Puis, lorsque cette première émotion fut calmée, il y avait à se raconter les uns aux autres l’histoire de ces quinze mois, depuis le jour où la <hi rend="i">Licorne</hi>, emportant Jenny Montrose, Fritz, François et Doll, disparut derrière les hauteurs du cap de l’Espoir-Trompé.</p>
@@ -3346,8 +3404,10 @@
         <p>Voilà pourquoi, depuis que leur retraite était connue, M. Zermatt avait rehissé le pavillon au sommet du monticule, pour le cas – bien improbable – où un navire passerait en vue de la Nouvelle-Suisse.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXXI.</head>
-         <head>Retour du matin. – Installation dans le magasin central. – Quatre jours se passent. – Apparition des pirogues. – Espoir déçu. – Attaque nocturne. – Les dernières cartouches. – Coup de canon au large.</head>
+            <head>XXXI.</head>
+         <argument>
+<p>Retour du matin. – Installation dans le magasin central. – Quatre jours se passent. – Apparition des pirogues. – Espoir déçu. – Attaque nocturne. – Les dernières cartouches. – Coup de canon au large.</p>
+</argument>
         <p>Les dernières heures de cette nuit du 24 au 25 janvier s’écoulèrent en conversations. Tant de choses que les familles avaient à se dire, tant de souvenirs à évoquer, tant de craintes pour l’avenir ! Personne ne songea à dormir et personne ne dormit, si ce n’est le petit Bob. Il va de soi que, jusqu’à l’aube, M. Zermatt et ses compagnons ne se départirent pas d’une sévère surveillance, et restèrent en se relayant près des deux caronades, chargées, l’une à boulet, l’autre à mitraille.</p>
         <p>En effet, on le répète, ce qu’il y avait de plus dangereux, c’eût été une attaque de nuit, si les naturels parvenaient à débarquer avant d’être signalés.</p>
         <p>L’îlot du Requin, plus étendu que celui de la Baleine situé à une lieue au nord à l’ouvert de la baie des Flamants, formait un ovale de deux mille six cents pieds de longueur sur une largeur de sept cents, soit un périmètre de trois quarts de lieue environ. Le jour, la surveillance y avait été assez facile, et, comme il importait qu’elle fût non moins efficace entre le coucher et le lever du soleil, on décida, sur la proposition du capitaine Gould, que des rondes seraient faites le long des grèves.</p>
@@ -3494,8 +3554,10 @@
         <p>Au moment où le bâtiment, donnant à pleines voiles dans le bras de mer, laissait porter sur l’îlot du Requin, les projectiles de ses grosses pièces se joignirent à ceux de la batterie. La plupart des pirogues essayèrent en vain d’y échapper, et deux seulement parvinrent à disparaître derrière le cap pour ne plus jamais revenir.</p>
         </div>
           <div type="chapter">
-            <head>Chapitre XXXII.</head>
-            <head>La<hi rend="i">Licorne</hi>. – Prise de possession au nom de l’Angleterre. – Aucune nouvelle du<hi rend="i">Flag</hi>. – Retour à Felsenheim. – Un mariage célébré à la chapelle. – Plusieurs années. – Prospérité de la colonie de la Nouvelle-Suisse.</head>
+            <head>XXXII.</head>
+            <argument>
+<p>La <hi rend="i">Licorne</hi>. – Prise de possession au nom de l’Angleterre. – Aucune nouvelle du<hi rend="i">Flag</hi>. – Retour à Felsenheim. – Un mariage célébré à la chapelle. – Plusieurs années. – Prospérité de la colonie de la Nouvelle-Suisse.</p>
+</argument>
         <p>C’était bien la <hi rend="i">Licorne</hi> qui venait de jeter l’ancre à l’entrée de la baie du Salut. Ses avaries réparées, le capitaine Littlestone, ayant quitté Capetown après une relâche de plusieurs mois, arrivait enfin à la Nouvelle-Suisse, dont il devait prendre officiellement possession au nom de l’Angleterre.</p>
         <p>Le capitaine Littlestone apprit alors de la bouche même d’Harry Gould les événements dont le <hi rend="i">Flag</hi> avait été le théâtre.</p>
         <p>Quant à ce qu’était devenu ce navire, si Robert Borupt se livrait à la piraterie sur ces mers mal famées de l’océan Pacifique, ou si ses complices et lui avaient péri dans quelque furieux tornados de ces parages, on ne devait jamais le savoir, ainsi qu’il a été dit, et il n’y a plus lieu de s’en occuper.</p>

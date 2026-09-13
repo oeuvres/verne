@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2017-01-03T15:56:58+01:00-->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Le Chateau des Carpathes</title>
+        <title>Le château des Carpathes</title>
         <author>Verne, Jules</author>
       </titleStmt>
       <editionStmt/>
@@ -26,7 +25,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>I</head>
         <p>Cette histoire n’est pas fantastique, elle n’est que romanesque. Faut-il en conclure qu’elle ne soit pas vraie, étant donné son invraisemblance ? Ce serait une erreur. Nous sommes d’un temps où tout arrive, — on a presque le droit de dire où tout est arrivé. Si notre récit n’est point vraisemblable aujourd’hui, il peut l’être demain, grâce aux ressources scientifiques qui sont le lot de l’avenir, et personne ne s’aviserait de le mettre au rang des légendes. D'ailleurs, il ne se crée plus de légendes au déclin de ce pratique et positif XIXe siècle, ni en Bretagne, la contrée des farouches korrigans, ni en Ecosse, la terre des brownies et des gnomes, ni en Norvège, la patrie des ases, des elfes, des sylphes et des valkyries, ni même en Transylvanie, où le cadre des Carpathes se prête si naturellement à toutes les évocations psychagogiques. Cependant il convient de noter que le pays transylvain est encore très attaché aux superstitions des premiers âges.</p>
         <p>Ces provinces de l’extrême Europe, M. de Gérando les a décrites, Élisée Reclus les a visitées. Tous deux n’ont rien dit de la curieuse histoire sur laquelle repose ce roman. En ont-ils eu connaissance ? peut-être, mais ils n’auront point voulu y ajouter foi. C'est regrettable, car ils l’eussent racontée, l’un avec la précision d’un annaliste, l’autre avec cette poésie instinctive dont sont empreintes ses relations de voyage.</p>
@@ -165,7 +164,7 @@
         <p>Puis, quand il eut rajusté son étalage à sa ceinture et sur ses épaules, il prit la direction de Karlsburg, en redescendant la rive droite de la Sil.</p>
         <p>Où allait-il ? Peu importe. Il ne fait que passer dans ce récit. On ne le reverra plus.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>II</head>
         <p>Qu'il s’agisse de roches entassées par la nature aux époques géologiques, après les dernières convulsions du sol, ou de constructions dues à la main de l’homme, sur lesquelles a passé le souffle du temps, l’aspect est à peu près semblable, lorsqu’on les observe à quelques milles de distance. Ce qui est pierre brute et ce qui a été pierre travaillée, tout cela se confond aisément. De loin, même couleur, mêmes linéaments, mêmes déviations des lignes dans la perspective, même uniformité de teinte sous la patine grisâtre des siècles.</p>
         <p>Il en était ainsi du burg, — autrement dit du château des Carpathes. En reconnaître les formes indécises sur ce plateau d’Orgall, qu’il couronne à la gauche du col de Vulkan, n’eût pas été possible. Il ne se détache point en relief de l’arrière-plan des montagnes. Ce que l’on est tenté de prendre pour un donjon n’est peut-être qu’un morne pierreux. Qui le regarde croit apercevoir les créneaux d’une courtine, où il n’y a peut-être qu’une crête rocheuse. Cet ensemble est vague, flottant, incertain. Aussi, à en croire divers touristes, le château des Carpathes n’existe-t-il que dans l’imagination des gens du comitat.</p>
@@ -226,7 +225,7 @@
         <p>— Pas un coup depuis huit jours », répondit le berger.</p>
         <p>Et ces braves gens n’auraient pas été plus ahuris, si on leur eût dit qu’une bouche de cratère venait de s’ouvrir au sommet du Retyezat, pour livrer passage aux vapeurs souterraines.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>III</head>
         <p>Le village de Werst a si peu d’importance que la plupart des cartes n’en indiquent point la situation. Dans le rang administratif, il est même au-dessous de son voisin, appelé Vulkan, du nom de la portion de ce massif de Plesa, sur lequel ils sont pittoresquement juchés tous les deux.</p>
         <p>A l’heure actuelle, l’exploitation du bassin minier a donné un mouvement considérable d’affaires aux bourgades de Petroseny, de Livadzel et autres, distantes de quelques milles. Ni Vulkan ni Werst n’ont recueilli le moindre avantage de cette proximité d’un grand centre industriel ; ce que ces villages étaient, il y a cinquante ans, ce qu’ils seront sans doute dans un demi-siècle, ils le sont à présent ; et, suivant Élisée Reclus, une bonne moitié de la population de Vulkan ne se compose « que d’employés chargés de surveiller la frontière, douaniers, gendarmes, commis du fisc et infirmiers de la quarantaine » — Supprimez les gendarmes et les commis du fisc, ajoutez une proportion un peu plus forte de cultivateurs, et vous aurez la population de Werst, soit quatre à cinq centaines d’habitants.</p>
@@ -255,7 +254,7 @@
         <p>« Il ne faudrait pas me défier d’aller rendre visite à votre vieille cassine ! » répétait-il à qui voulait l’entendre.</p>
         <p>Mais, comme on ne l’en défiait pas, comme on se gardait même de l’en défier, le docteur Patak n’y était point allé, et, la crédulité aidant, le château des Carpathes était toujours enveloppé d’un impénétrable mystère.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IV</head>
         <p>En quelques minutes, la nouvelle rapportée par le berger se fut répandue dans le village. Maître Koltz, ayant en main la précieuse lunette, venait de rentrer à la maison, suivi de Nic Deck et de Miriota. A ce moment, il n’y avait plus sur la terrasse que Frik, entouré d’une vingtaine d’hommes, femmes et enfants, auxquels s’étaient joints quelques Tsiganes, qui ne se montraient pas les moins émus de la population werstienne. On entourait Frik, on le pressait de questions, et le berger répondait avec cette superbe importance d’un homme qui vient de voir quelque chose de tout à fait extraordinaire.</p>
         <p>« Oui ! répétait-il, le burg fumait, il fume encore, et il fumera tant qu’il en restera pierre sur pierre !</p>
@@ -384,7 +383,7 @@
         <p>Cette nuit-là, comme s’ils eussent été menacés d’une apparition fantastique, les habitants de Werst se barricadèrent solidement dans leurs maisons…</p>
         <p>La terreur régnait au village.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>V</head>
         <p>Le lendemain, Nic Deck et le docteur Patak se préparaient à partir sur les neuf heures du matin. L'intention du forestier était de remonter le col de Vulkan en se dirigeant par le plus court vers le burg suspect.</p>
         <p>Après le phénomène de la fumée du donjon, après le phénomène de la voix entendue dans la salle du <hi rend="i">Roi Mathias</hi>, on ne s’étonnera pas que toute la population fût comme affolée. Quelques Tsiganes parlaient déjà d’abandonner le pays. Dans les familles, on ne causait plus que de cela — et à voix basse encore. Allez donc contester qu’il y eût du diable « du Chort » dans cette phrase si menaçante pour le jeune forestier. Ils étaient là, à l’auberge de Jonas, une quinzaine, et des plus dignes d’être crus, qui avaient entendu ces étranges paroles. Prétendre qu’ils avaient été dupes de quelque illusion des sens, cela était insoutenable. Pas de doute à cet égard ; Nic Deck avait été nominativement prévenu qu’il lui arriverait malheur, s’il s’entêtait à son projet d’explorer le château des Carpathes.</p>
@@ -496,7 +495,7 @@
         <p>Nic Deck ne répondit pas. Il se rendait compte qu’il serait nécessaire de faire halte devant les murs du château. Au milieu de cette obscurité, comment aurait-il pu descendre au fond du fossé et s’élever le long de l’escarpe pour pénétrer dans l’enceinte ? Évidemment, le plus sage était d’attendre l’aube prochaine, afin d’agir en pleine lumière.</p>
         <p>C'est ce qui fut résolu au grand ennui du forestier, mais à l’extrême satisfaction du docteur.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VI</head>
         <p>Le mince croissant de la lune, délié comme une faucille d’argent, avait disparu presque aussitôt après le coucher du soleil. Des nuages, venus de l’ouest, éteignirent successivement les dernières lueurs du crépuscule. L'ombre envahit peu à peu l’espace en montant des basses zones. Le cirque de montagnes s’emplit de ténèbres, et les formes du burg disparurent bientôt sous la crêpe de la nuit.</p>
         <p>Si cette nuit-là menaçait d’être très obscure, rien n’indiquait qu’elle dût être troublée par quelque météore atmosphérique, orage, pluie ou tempête. C'était heureux pour Nic Deck et son compagnon, qui allaient camper en plein air.</p>
@@ -578,7 +577,7 @@
         <p>Cependant, Nic Deck était parvenu à la hauteur de la poterne et il venait de poser sa main sur l’une des ferrures où s’emboîtait l’un des gonds du pont-levis…</p>
         <p>Un cri de douleur lui échappa ; puis, se rejetant en arrière comme s’il eût été frappé d’un coup de foudre, il glissa le long de la chaîne qu’un dernier instinct lui avait fait ressaisir, et roula jusqu’au fond du fossé. « La voix avait bien dit qu’il m’arriverait malheur ! » murmura-t-il et il perdit connaissance.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VII</head>
         <p>Comment décrire l’anxiété à laquelle était en proie le village de Werst depuis le départ du jeune forestier et du docteur Patak ? Elle n’avait cessé de s’accroître avec les heures qui s’écoulaient et semblaient interminables.</p>
         <p>Maître Koltz, l’aubergiste Jonas, le magister Hermod et quelques autres n’avaient pas manqué de se tenir en permanence sur la terrasse. Chacun d’eux s’obstinait à observer la masse lointaine du burg, à regarder si quelque volute réapparaissait au-dessus du donjon. Aucune fumée ne se montrait — ce qui fut constaté au moyen de la lunette invariablement braquée dans cette direction. En vérité, les deux florins employés à l’acquisition de cet appareil, c’était de l’argent qui avait reçu un bon emploi. jamais le biró, bien intéressé pourtant, bien regardant à sa bourse, n’avait eu moins de regret d’une dépense faite si à-propos.</p>
@@ -669,7 +668,7 @@
         <p>« Si l’on est malade d’une maladie naturelle, se contenta-t-il de répondre d’un ton dogmatique, c’est déjà grave ! Mais, s’agit-il d’une maladie surnaturelle, que le Chort vous envoie dans le corps, il n’y a guère que le Chort qui puisse la guérir ! »</p>
         <p>A défaut de diagnostic, ce pronostic n’était pas rassurant pour Nic Deck. Très heureusement, ces paroles n’étaient point paroles d’évangile, et combien de médecins se sont trompés depuis Hippocrate et Galien et se trompent journellement, qui sont supérieurs au docteur Patak. Le jeune forestier était un gars solide ; avec sa vigoureuse constitution, il était permis d’espérer qu’il s’en tirerait — même sans aucune intervention diabolique —, et à la condition de ne pas suivre trop exactement les prescriptions de l’ancien infirmier de la quarantaine.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VIII</head>
         <p>De tels événements ne pouvaient pas calmer les terreurs des habitants de Werst. Il n’y avait plus à en douter maintenant, ce n’étaient pas de vaines menaces que la « bouche d’ombre », comme dirait le poète, avait fait entendre aux clients du <hi rend="i">Roi Mathias</hi>. Nic Deck, frappé d’une manière inexplicable, avait été puni de sa désobéissance et de sa témérité. N'était-ce pas un avertissement à l’adresse de tous ceux qui seraient tentés de suivre son exemple ? Interdiction formelle de chercher à s’introduire dans le château des Carpathes, voilà ce qu’il fallait conclure de cette déplorable tentative. Quiconque la reprendrait, y risquerait sa vie. Très certainement, si le forestier fût parvenu à franchir la courtine, il n’aurait jamais reparu au village.</p>
         <p>Il suit de là que l’épouvante fut plus complète que jamais à Werst, même à Vulkan, et aussi dans toute la vallée des deux Sils. On ne parlait rien moins que d’abandonner le pays ; déjà quelques familles tsiganes émigraient plutôt que de séjourner au voisinage du burg. A présent qu’il servait de refuge à des êtres surnaturels et malfaisants, c’était au-delà de ce que pouvait supporter le tempérament public. Il n’y avait plus qu’à s’en aller vers quelque autre région du comitat, à moins que le gouvernement hongrois ne se décidât à détruire cet inabordable repaire. Mais le château des Carpathes était-il destructible par les seuls moyens que des hommes eussent à leur disposition ?</p>
@@ -831,7 +830,7 @@
         <p>Franz de Télek avait pâli, et, machinalement, il répétait ce nom d’une voix altérée</p>
         <p>« Rodolphe de Gortz ! »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IX</head>
         <p>La famille des comtes de Télek, l’une des plus anciennes et des plus illustres de la Roumanie, y tenait déjà un rang considérable avant que le pays eût conquis son indépendance vers le commencement du XVIe siècle. Mêlée à toutes les péripéties politiques qui forment l’histoire de ces provinces, le nom de cette famille s’y est inscrit glorieusement.</p>
         <p>Actuellement, moins favorisée que ce fameux hêtre du château des Carpathes, auquel il restait encore trois branches, la maison de Télek se voyait réduite à une seule, la branche des Télek de Krajowa, dont le dernier rejeton était ce jeune gentilhomme qui -venait d’arriver au village de Werst.</p>
@@ -903,7 +902,7 @@
         <p>« C'est vous qui l’avez tuée !… Malheur à vous, comte de Télek !</p>
         <p>« RUDOLPHE DE GORTZ. »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>X</head>
         <p>Telle avait été cette lamentable histoire.</p>
         <p>Pendant un mois, l’existence de Franz de Télek fut en danger. Il ne reconnaissait personne — pas même son soldat Rotzko. Au plus fort de la fièvre, un seul nom entrouvrait ses lèvres, prêtes à rendre leur dernier souffle : c’était celui de la Stilla.</p>
@@ -1033,7 +1032,7 @@
         <p>« Sa voix t… murmure-t-il. Oui 1… c’était bien sa voix… sa voix que j’ai tant aimée ! »</p>
         <p>Puis, revenant au sentiment de la réalité « je dormais… et j’ai rêvé ! » dit-il.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XI</head>
         <p>Le lendemain, le jeune comte se réveilla dès l’aube, l’esprit encore troublé des visions de la nuit.</p>
         <p>C'était dans la matinée qu’il devait partir du village de Werst pour prendre la route de Kolosvar.</p>
@@ -1128,7 +1127,7 @@
         <p>Peu importait ! Une seconde eût suffi à Franz pour la reconnaître, et ces mots lui échappèrent :</p>
         <p>« Elle… elle… vivante ! »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XII</head>
         <p>Était-ce possible ? La Stilla, que Franz de Télek ne croyait jamais revoir, venait de lui apparaître sur le terre-plein du bastion !… Il n’avait pas été le jouet d’une illusion, et Rotzko l’avait vue comme lui !… C'était bien la grande artiste, vêtue de son costume d’Angélica, telle qu’elle s’était montrée au public à sa représentation d’adieu au théâtre San-Carlo !</p>
         <p>L'effroyable vérité éclata aux yeux du jeune comte. Ainsi, cette femme adorée, celle qui allait devenir comtesse de Télek, était enfermée depuis cinq ans au milieu des montagnes transylvaines ! Ainsi, celle que Franz avait vue tomber morte en scène, avait survécu ! Ainsi, tandis qu’on le rapportait mourant à son hôtel, le baron Rodolphe avait pu pénétrer chez la Stilla, l’enlever, l’entraîner dans ce château des Carpathes, et ce n’était qu’un cercueil vide que toute la population avait suivi, le lendemain, au Campo Santo Nuovo de Naples !</p>
@@ -1191,7 +1190,7 @@
         <p>Franz se précipita sous la voûte obscure. Mais à peine avait-il marché quelques pas que le pont-levis se relevait avec fracas contre la poterne…</p>
         <p>Le comte Franz de Télek était prisonnier dans le château des Carpathes.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIII</head>
         <p>Les gens du pays transylvain et les voyageurs qui remontent ou redescendent le col de Vulkan ne connaissent du château des Carpathes que son aspect extérieur. A la respectueuse distance où la crainte arrêtait les plus braves du village de Werst et des environs, il ne présente aux regards que l’énorme amas de pierres d’un burg en ruine.</p>
         <p>Mais, à l’intérieur de l’enceinte, le burg était-il si délabré qu’on devait le supposer ? Non. A l’abri de ses murs solides, les bâtiments restés intacts de la vieille forteresse féodale auraient encore pu loger toute une garnison.</p>
@@ -1277,7 +1276,7 @@
         <p>Franz ne s’en était pas aperçu, pendant qu’il écoutait la voix de la Stilla…</p>
         <p>Après avoir été emprisonné dans l’enceinte du burg, il était maintenant emprisonné dans la crypte.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIV</head>
         <p>Franz était atterré. Ainsi qu’il avait pu le craindre, la faculté de réfléchir, la compréhension des choses, l’intelligence nécessaire pour en déduire les conséquences, lui échappaient peu à peu. Le seul sentiment qui persistait en lui, c’était le souvenir de la Stilla, c’était l’impression de ce chant que les échos de cette sombre crypte ne lui renvoyaient plus.</p>
         <p>Avait-il donc été le jouet d’une illusion ? Non, mille fois non ! C'était bien la Stilla qu’il avait entendue tout à l’heure, et c’était bien elle qu’il avait vue sur le bastion du château.</p>
@@ -1344,7 +1343,7 @@
         <p>Rodolphe de Gortz s’approcha pour examiner le travail dont s’occupait Orfanik.</p>
         <p>Et voici les propos qui furent échangés d’une voix brève entre ces deux hommes.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XV</head>
         <p>« Le raccordement de la chapelle est-il fini, Orfanik ? — je viens de l’achever.</p>
         <p>— Tout est préparé dans les casemates des bastions ?</p>
@@ -1405,7 +1404,7 @@
         <p>Quelques instants encore et le baron de Gortz, avec Orfanik, avait quitté la chapelle.</p>
         <p>Bien que le nom de Stilla n’eût pas été prononcé dans cette conversation, Frantz l’avait bien compris, c’était d’elle que venait de parler Rodolphe de Gortz.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XVI</head>
         <p>Le désastre était imminent. Franz ne pouvait le prévenir qu’en mettant le baron de Gortz hors d’état d’exécuter son projet.</p>
         <p>Il était alors onze heures du soir. Ne craignant plus d’être découvert, Franz reprit son travail. Les briques de la paroi se détachaient assez facilement ; mais son épaisseur était telle qu’une demi-heure s’écoula avant que l’ouverture fût assez large pour lui livrer passage.</p>
@@ -1508,7 +1507,7 @@
         <p>Presque aussitôt, une formidable explosion fit trembler tout le massif du Plesa. Des gerbes de flammes s’élevèrent jusqu’aux nuages, et une avalanche de pierres retomba sur la route du Vulkan.</p>
         <p>Des bastions, de la courtine, du donjon, de la chapelle du château des Carpathes, il ne restait plus qu’une masse de ruines fumantes à la surface du plateau d’Orgall.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XVII</head>
         <p>On ne l’a point oublié, en se reportant à la conversation du baron et de Orfanik, l’explosion ne devait détruire le château qu’après le départ de Rodolphe de Gortz. Or, au moment où cette explosion s’était produite, il était impossible que le baron eût eu le temps de s’enfuir par le tunnel sur la route du col. Dans l’emportement de la douleur, dans la folie du désespoir, n’ayant plus conscience de ce qu’il faisait, Rodolphe de Gortz avait-il provoqué une catastrophe immédiate dont il devait avoir été la première victime ? Après les incompréhensibles paroles qui lui étaient échappées, au moment où la balle de Rotzko venait de briser la boîte qu’il emportait, avait-il voulu s’ensevelir sous les ruines du burg ?</p>
         <p>En tout cas, il fut très heureux que les agents, surpris par le coup de fusil de Rotzko, se trouvassent encore à une certaine distance, lorsque l’explosion ébranla le massif. C'est à peine si quelques-uns furent atteints par les débris qui tombèrent au pied du plateau d’Orgall. Seuls, Rotzko et le forestier étaient alors au bas de la courtine, et, en vérité, ce fut miracle qu’ils n’eussent pas été écrasés sous cette pluie de pierres.</p>
@@ -1527,7 +1526,7 @@
         <p>Innamorata… Voglio morire…</p>
         <p>Franz de Télek était fou.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XVIII</head>
         <p>Personne, sans doute, puisque le jeune comte avait perdu la raison, n’aurait jamais eu l’explication des derniers phénomènes dont le château des Carpathes avait été le théâtre, sans les révélations qui furent faites dans les circonstances que voici :</p>
         <p>Pendant quatre jours, Orfanik avait attendu, comme c’était convenu, que le baron de Gortz vînt le rejoindre à la bourgade de Bistritz. En ne le voyant pas reparaître, il s’était demandé s’il n’avait pas été victime de l’explosion. Poussé alors par la curiosité autant que par l’inquiétude, il avait quitté la bourgade, il avait repris la route de Werst, et il était revenu rôder aux environs du burg.</p>

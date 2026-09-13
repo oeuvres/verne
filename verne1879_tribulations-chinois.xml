@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-05T16:09:05+01:00-->
-<!-- ok -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Les Tribulations d’un Chinois en Chine</title>
+        <title>Les tribulations d’un chinois en Chine</title>
         <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt>
@@ -35,10 +33,8 @@
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>I.
-<lb/>
-<lb/>Où la personnalité et la nationalité des personnages se dégagent peu à peu</head>
+      <div type="chapter">
+        <head>I. Où la personnalité et la nationalité des personnages se dégagent peu à peu</head>
         <p>« Il faut pourtant convenir que la vie a du bon ! s’écria l’un des convives, accoudé sur le bras de son siège à dossier de marbre, en grignotant une racine de nénuphar au sucre.</p>
         <p>– Et du mauvais aussi ! répondit, entre deux quintes de toux, un autre, que le piquant d’un délicat aileron de requin avait failli étrangler !</p>
         <p>– Soyons philosophes ! dit alors un personnage plus âgé, dont le nez supportait une énorme paire de lunettes à larges verres, montées sur tiges de bois. Aujourd’hui, on risque de s’étrangler, et demain tout passe comme passent les suaves gorgées de ce nectar ! C'est la vie, après tout ! »</p>
@@ -116,10 +112,8 @@
         <p>En effet, c’était dans le salon d’un des bateaux-fleurs de la rivière des Perles à Canton, que le riche Kin-Fo, accompagné de l’inséparable Wang, le philosophe, venait de traiter quatre des meilleurs amis de sa jeunesse, Pao-Shen, un mandarin de quatrième classe à bouton bleu, Yin-Pang, riche négociant en soieries de la rue des Pharmaciens, Tim le viveur endurci – et Houal le lettré.</p>
         <p>Et cela se passait le vingt-septième jour de la quatrième lune, pendant la première de ces cinq veilles, qui se partagent si poétiquement les heures de la nuit chinoise.</p>
       </div>
-      <div>
-        <head>II.
-<lb/>
-<lb/><hi rend="u">D</hi>ans lequel Kin-Fo et le philosophe Wang sont posés d’une façon plus nette</head>
+      <div type="chapter">
+        <head>II. Dans lequel Kin-Fo et le philosophe Wang sont posés d’une façon plus nette</head>
         <p>Si Kin-Fo avait donné ce dîner d’adieu à ses amis de Canton, c’est que c’était dans cette capitale de la province de Kouang-Tong qu’il avait passé une partie de son adolescence. Des nombreux camarades que doit compter un jeune homme riche et généreux, les quatre invités du bateau-fleurs étaient les seuls qui lui restassent à cette époque. Quant aux autres, dispersés aux hasards de la vie, il eût vainement cherché à les réunir.</p>
         <p>Kin-Fo habitait alors Shang-Haï, et, pour faire changer d’air à son ennui, il était venu le promener pendant quelques jours à Canton. Mais, ce soir même, il devait prendre le steamer qui fait escale aux points principaux de la côte et revenir tranquillement à son yamen.</p>
         <p>Si Wang avait accompagné Kin-Fo, c’est que le philosophe ne quittait jamais son élève, auquel les leçons ne manquaient pas. A vrai dire, celui-ci n’en tenait aucun compte. Autant de maximes et de sentences perdues ; mais la « machine à théories » – ainsi que l’avait dit ce viveur de Tim – ne se fatiguait pas d’en produire.</p>
@@ -173,10 +167,8 @@
         <p>Les cent cinquante kilomètres, c’est-à-dire les trois cent soixante-quinze « lis », qui séparent Canton de l’embouchure du fleuve, furent franchis dans la nuit.</p>
         <p>Au lever du soleil, le Perma dépassait la « Gueule-du-Tigre », puis les deux barres de l’estuaire. Le Victoria-Peak de l’île de Hong-Kong, haut de dix-huit cent vingt-cinq pieds, apparut un instant dans la brume matinale, et, après la plus heureuse des traversées, Kin-Fo et le philosophe, refoulant les eaux jaunâtres du fleuve Bleu, débarquaient à Shang-Haï, sur le littoral de la province de Kiang-Nan.</p>
       </div>
-      <div>
-        <head>III.
-<lb/>
-<lb/>Où le lecteur pourra, sans fatigue, jeter un coup d’œil sur la ville de S<hi rend="b">hang-Haï</hi></head>
+      <div type="chapter">
+        <head>III. Où le lecteur pourra, sans fatigue, jeter un coup d’œil sur la ville de Shang-Haï</head>
         <p>Un proverbe chinois dit : « Quand les sabres sont rouillés et les bêches luisantes. Quand les prisons sont vides et les greniers pleins. Quand les degrés des temples sont usés par les pas des fidèles et les cours des tribunaux couvertes d’herbe. Quand les médecins vont à pied et les boulangers à cheval, L'Empire est bien gouverné. » Le proverbe est bon. Il pourrait s’appliquer justement à tous les États de l’Ancien et du Nouveau Monde. Mais s’il en est un où ce <hi rend="i">desideratum</hi> soit encore loin de se réaliser, c’est précisément le Céleste Empire. Là, ce sont les sabres qui reluisent et les bêches qui se rouillent, les prisons qui regorgent et les greniers qui se désemplissent. Les boulangers chôment plus que les médecins, et, si les pagodes attirent les fidèles, les tribunaux, en revanche, ne manquent ni de prévenus ni de plaideurs.</p>
         <p>D'ailleurs, un royaume de cent quatre-vingt mille milles carrés, qui, du nord au sud, mesure plus de huit cents lieues, et, de l’est à l’ouest, plus de neuf cents, qui compte dix-huit vastes provinces, sans parler des pays tributaires : la Mongolie, la Mantchourie, le Tibet, le Tonking, la Corée, les îles Liou-Tchou, etc., ne peut être que très imparfaitement administré. Si les Chinois s’en doutent bien un peu, les étrangers ne se font aucune illusion à cet égard. Seul, peut-être, l’empereur, enfermé dans son palais, dont il franchit rarement les portes, à l’abri des murailles d’une triple ville, ce Fils du Ciel, père et mère de ses sujets, faisant ou défaisant les lois à son gré, ayant droit de vie et de mort sur tous, et auquel appartiennent, par sa naissance, les revenus de l’Empire ce souverain, devant qui les fronts se traînent dans la poussière, trouve que tout est pour le mieux dans le meilleur des mondes. Il ne faudrait même pas essayer de lui prouver qu’il se trompe. Un Fils du Ciel ne se trompe jamais.</p>
         <p>Kin-Fo avait-il eu quelque raison de penser que mieux vaut être gouverné à l’européenne qu’à la chinoise ? On serait tenté de le croire. En effet, il demeurait, non dans Shang-Haï, mais en dehors, sur une portion de la concession anglaise, qui se maintient dans une sorte d’autonomie très appréciée.</p>
@@ -218,10 +210,8 @@
         <p>Il va sans dire que ni Kin-Fo ni Wang ne s’adonnaient à cette détestable habitude de fumer l’opium, qui détruit tous les ressorts de l’organisme et conduit rapidement à la mort.</p>
         <p>Aussi, jamais une once de cette substance n’était-elle entrée dans la riche habitation, où les deux amis arrivaient, une heure après avoir débarqué sur le quai de Shang-Haï Wang – ce qui aurait encore surpris de la part d’un ex-Taï-ping – n’avait pas manqué de dire : « Peut-être y aurait-il mieux à faire que d’importer l’abrutissement à tout un peuple ! Le commerce, c’est bien ; mais la philosophie, c’est mieux ! Soyons philosophes, avant tout, soyons philosophes ! »</p>
       </div>
-      <div>
-        <head>IV.
-<lb/>
-<lb/>Dans lequel Kin-Fo reçoit une importante lettre qui a déjà huit jours de retard</head>
+      <div type="chapter">
+        <head>IV. Dans lequel Kin-Fo reçoit une importante lettre qui a déjà huit jours de retard</head>
         <p>Un yamen est un ensemble de constructions variées, rangées suivant une ligne parallèle, qu’une seconde ligne de kiosques et de pavillons vient couper perpendiculairement. Le plus ordinairement, le yamen sert d’habitation aux mandarins d’un rang élevé et appartient à l’empereur ; mais il n’est point interdit aux riches Célestials d’en posséder en toute propriété, et c’était un de ces somptueux hôtels qu’habitait l’opulent Kin-Fo.</p>
         <p>Wang et son élève s’arrêtèrent à la porte principale, ouverte au front de la vaste enceinte qui entourait les diverses constructions du yamen, ses jardins et ses cours.</p>
         <p>Si, au lieu de la demeure d’un simple particulier, c’eût été celle d’un magistrat mandarin, un gros tambour aurait occupé la première place sous l’auvent découpé et peinturluré de la porte. Là, de nuit comme de jour, seraient venus frapper ceux de ses administrés qui auraient eu à réclamer justice. Mais, au lieu de ce « tambour des plaintes », de vastes jarres en porcelaine ornaient l’entrée du yamen, et contenaient du thé froid, incessamment renouvelé par les soins de l’intendant. Ces jarres étaient à la disposition des passants, générosité qui faisait honneur à Kin-Fo. Aussi était-il bien vu, comme on dit, « de ses voisins de l’Est et de l’Ouest ».</p>
@@ -309,10 +299,8 @@
         <p rend="noindent"><space rend="tab">    </space> Un timbre électrique fit aussitôt accourir celui des domestiques qui était chargé de la correspondance. Ordre lui fut donné de porter immédiatement cette lettre à la poste.</p>
         <p>Une heure après, Kin-Fo dormait paisiblement, en pressant dans ses bras son « tchou-fou-jen », sorte d’oreiller de bambou tressé, qui maintient dans les lits chinois une température moyenne, très appréciable sous ces chaudes latitudes.</p>
       </div>
-      <div>
-        <head>V.
-<lb/>
-<lb/>Dans lequel Lé-ou reçoit une lettre qu’elle eût préféré ne pas recevoir</head>
+      <div type="chapter">
+        <head>V. Dans lequel Lé-ou reçoit une lettre qu’elle eût préféré ne pas recevoir</head>
         <p>« Tu n’as pas encore de lettre pour moi ?</p>
         <p>– Eh ! non, madame !</p>
         <p>– Que le temps me paraît long, vieille mère ! »</p>
@@ -362,10 +350,8 @@
         <p>Quel coup pour la jeune femme ! Une vie plus amère que l’amère gentiane l’attendait maintenant. Oui ! le vent d’or emportait ses dernières espérances avec la fortune de celui qu’elle aimait ! L'amour que Kin-Fo avait pour elle s’était-il donc à jamais envolé ! Son ami ne croyait-il qu’au bonheur que donne la richesse ! Ah ! pauvre Lé-ou ! Elle ressemblait maintenant au cerf-volant dont le fil casse, et qui retombe brisé sur le sol !</p>
         <p>Nan, appelée, entra dans la chambre, haussa les épaules et transporta sa maîtresse sur son « hang » ! Mais, bien que ce fût un de ces lits-poêles, chauffés artificiellement, combien sa couche parut froide à l’infortunée Lé-ou ! Que les cinq veilles de cette nuit sans sommeil lui semblèrent longues à passer !</p>
       </div>
-      <div>
-        <head>VI.
-<lb/>
-<lb/>Qui donnera peut-être au lecteur l’envie d’aller faire un tour dans les bureaux de « La Centenaire »</head>
+      <div type="chapter">
+        <head>VI. Qui donnera peut-être au lecteur l’envie d’aller faire un tour dans les bureaux de « La Centenaire »</head>
         <p>Le lendemain, Kin-Fo, dont le dédain pour les choses de ce monde ne se démentit pas un instant, quitta seul son habitation. De son pas toujours égal, il descendit la rive droite du Creek. Arrivé au pont de bois, qui met la concession anglaise en communication avec la concession américaine, il traversa la rivière et se dirigea vers une maison d’assez belle apparence, élevée entre l’église des Missions et le consulat des États-Unis.</p>
         <p>Au fronton de cette maison se développait une large plaque de cuivre, sur laquelle apparaissait cette inscription en lettres tumulaires : LA CENTENAIRE, Compagnie d’assurances sur la vie.</p>
         <p>Capital de garantie : 20 millions de dollars.</p>
@@ -476,10 +462,8 @@
         <p>Le lendemain, le médecin de la Compagnie avait fait à Kin-Fo la visite réglementaire. « Corps de fer, muscles d’acier, poumons en soufflets d’orgues », disait le rapport.</p>
         <p>Rien ne s’opposait à ce que la Compagnie traitât avec un assuré aussi solidement établi. La police fut donc signée à cette date par Kin-Fo d’une part, au profit de la jeune veuve et du philosophe Wang, et, de l’autre, par William J. Bidulph, représentant de la Compagnie. Ni Lé-ou ni Wang, à moins de circonstances improbables, ne devaient jamais apprendre ce que Kin-Fo venait de faire pour eux, avant le jour où « la Centenaire » serait mise en demeure de leur verser ce capital, dernière générosité de l’ex- millionnaire.</p>
       </div>
-      <div>
-        <head>VII.
-<lb/>
-<lb/>Qui serait fort triste, s’il ne s’agissait d’us et coutumes particuliers au Céleste Empire</head>
+      <div type="chapter">
+        <head>VII. Qui serait fort triste, s’il ne s’agissait d’us et coutumes particuliers au Céleste Empire</head>
         <p>Quoi qu’eût pu dire et penser l’honorable William J. Bidulph, la caisse de « la Centenaire » était très sérieusement menacée dans ses fonds. En effet, le plan de Kin-Fo n’était pas de ceux dont, réflexion faite, on remet indéfiniment l’exécution. Complètement ruiné, l’élève de Wang avait formellement résolu d’en finir avec, une existence qui, même au temps de sa richesse, ne lui laissait que tristesse et ennuis.</p>
         <p>La lettre remise par Soun, huit jours après son arrivée, venait de San Francisco. Elle mandait la suspension de paiement de la Centrale Banque Californienne. Or, la fortune de Kin-Fo se composait en presque totalité, on le sait, d’actions de cette banque célèbre, si solide jusque-là.</p>
         <p>Mais, il n’y avait, pas à douter. Si invraisemblable que pût paraître cette nouvelle, elle n’était malheureusement que trop vraie. La suspension de paiements de la Centrale Banque Californienne venait d’être confirmée par les journaux arrivés à Shang-Haï. La faillite avait été prononcée, et ruinait Kin-Fo de fond en comble.</p>
@@ -583,10 +567,8 @@
         <p>« Non ! s’écria-t-il, en jetant la pipe, qui se brisa sur le parquet. Je la veux, cette suprême émotion, ne fût-ce que celle de l’attente !… je la veux ! je l’aurai ! »</p>
         <p>Et, quittant le kiosque, Kin-Fo, d’un pas plus pressé que d’ordinaire, se dirigea vers la chambre de Wang.</p>
       </div>
-      <div>
-        <head>VIII.
-<lb/>
-<lb/>Où Kin-Fo fait à Wang une proposition sérieuse que celui-ci accepte non moins sérieusement</head>
+      <div type="chapter">
+        <head>VIII. Où Kin-Fo fait à Wang une proposition sérieuse que celui-ci accepte non moins sérieusement</head>
         <p>Le philosophe n’était pas encore couché. Étendu sur un divan, il lisait le dernier numéro de <hi rend="i">la Gazette de Péking</hi>.</p>
         <p>Lorsque ses sourcils se contractaient, c’est que, très certainement, le journal adressait quelque compliment à la dynastie régnante des Tsing.</p>
         <p>Kin-Fo poussa la porte, entra dans la chambre, se jeta sur un fauteuil, et, sans autre préambule : « Wang, dit-il, je viens te demander un service.</p>
@@ -654,10 +636,8 @@
         <p>– Adieu, Kin-Fo. »</p>
         <p>Et, là-dessus, Kin-Fo quitta tranquillement la chambre du philosophe.</p>
       </div>
-      <div>
-        <head>IX.
-<lb/>
-<lb/>Dont la conclusion, quelque singulière qu’elle soit, ne surprendra peut-être pas le lecteur</head>
+      <div type="chapter">
+        <head>IX. Dont la conclusion, quelque singulière qu’elle soit, ne surprendra peut-être pas le lecteur</head>
         <p>« Eh bien, Craig-Fry ? disait le lendemain l’honorable William J. Bidulph aux deux agents qu’il avait spécialement chargés de surveiller le nouveau client de « la Centenaire ».</p>
         <p>– Eh bien, répondit Craig, nous l’avons suivi hier pendant toute une longue promenade qu’il a faite dans la campagne de Shang-Haï…</p>
         <p>– Et il n’avait certainement point l’air d’un homme qui songe à se tuer, ajouta Fry.</p>
@@ -757,10 +737,8 @@
         <p>En un instant, il arrivait à la chambre du philosophe et en ouvrait brusquement la porte.</p>
         <p>Wang n’était plus là. Wang n’avait pas couché dans l’habitation, et, lorsque, aux cris de Kin-Fo, ses gens eurent fouillé tout le yamen, il fut évident que Wang avait disparu sans laisser de traces.</p>
       </div>
-      <div>
-        <head>X.
-<lb/>
-<lb/>Dans lequel Craig et Fry sont officiellement présentés au nouveau client de « La Centenaire »</head>
+      <div type="chapter">
+        <head>X. Dans lequel Craig et Fry sont officiellement présentés au nouveau client de « La Centenaire »</head>
         <p>« Oui, monsieur Bidulph, un simple coup de Bourse, un coup à l’américaine ! » dit Kin-Fo à l’agent principal de la compagnie d’assurances.</p>
         <p>L'honorable William J. Bidulph sourit en connaisseur.</p>
         <p>« Bien joué, en effet, car tout le monde y a été pris, dit-il.</p>
@@ -833,10 +811,8 @@
         <p>– Soit, répliqua l’agent principal, qui prit son parti de ce qu’il ne pouvait empêcher, soit ! Vous avez raison ! Vous ne serez jamais mieux gardé que par nous !</p>
         <p>– Ni à meilleur compte ! » répondit Kin-Fo.</p>
       </div>
-      <div>
-        <head>XI.
-<lb/>
-<lb/>Dans lequel on voit Kin-Fo devenir l’homme le plus célèbre de l’Empire du Milieu</head>
+      <div type="chapter">
+        <head>XI. Dans lequel on voit Kin-Fo devenir l’homme le plus célèbre de l’Empire du Milieu</head>
         <p>Cependant, Wang demeurait introuvable. Kin-Fo commençait à enrager d’être réduit à l’inaction, de ne pouvoir au moins courir après le philosophe. Et comment aurait-il pu le faire, puisque Wang avait disparu sans laisser aucune trace !</p>
         <p>Cette complication ne laissait pas d’inquiéter l’agent principal de « la Centenaire ». Après s’être dit d’abord que tout cela n’était pas sérieux, que Wang n’accomplirait pas sa promesse, que, même en l’excentrique Amérique, on ne se passerait pas de pareilles fantaisies, il en arriva à penser que rien n’était impossible dans cet étrange pays qu’on appelle le Céleste Empire. Il fut bientôt de l’avis de Kin-Fo : c’est que, si l’on ne parvenait pas à retrouver le philosophe, le philosophe tiendrait la parole donnée. Sa disparition indiquait même de sa part le projet de n’opérer qu’au moment où son élève s’y attendrait le moins, comme par un coup de foudre, et de le frapper au cœur d’une main rapide et sûre. Alors, après avoir déposé la lettre sur le corps de sa victime, il viendrait tranquillement se présenter aux bureaux de « la Centenaire », pour y réclamer sa part du capital assuré.</p>
         <p>Il fallait donc prévenir Wang ; mais, le prévenir directement, cela ne se pouvait.</p>
@@ -913,10 +889,8 @@
         <p>Kin-Fo, sans rien dire, regarda, chercha…Personne.</p>
         <p>Le soir, Kin-Fo, Craig, Fry, Soun, qui se traînait, rentraient à l’hôtel, et, le lendemain matin, ils avaient quitté Nan-King.</p>
       </div>
-      <div>
-        <head>XII.
-<lb/>
-<lb/>Dans lequel Kin-Fo, ses deux acolytes et son valet s’en vont à l’aventure</head>
+      <div type="chapter">
+        <head>XII. Dans lequel Kin-Fo, ses deux acolytes et son valet s’en vont à l’aventure</head>
         <p>Quel est ce voyageur que l’on voit courant sur les grandes routes fluviales ou carrossables, sur les canaux et les rivières du Céleste Empire ? Il va, il va toujours, ne sachant, pas la veille où il sera le lendemain. Il traverse les villes sans les voir, il ne descend dans les hôtels ou les auberges que pour y dormir quelques heures, il ne s’arrête aux restaurations que pour y prendre de rapides repas.</p>
         
         <p>L'argent ne lui tient pas à la main ; il le prodigue, il le jette pour activer sa marche.</p>
@@ -984,10 +958,8 @@
         <p>On était au 19 juin. Le délai accordé à Wang n’expirait que dans sept jours !</p>
         <p>Où était Wang ?</p>
       </div>
-      <div>
-        <head>XIII.
-<lb/>
-<lb/>Dans lequel on entend la célèbre complainte des « Cinq Veilles du Centenaire »</head>
+      <div type="chapter">
+        <head>XIII. Dans lequel on entend la célèbre complainte des « Cinq Veilles du Centenaire »</head>
         <p>« Messieurs, dit Kin-Fo à ses deux gardes du corps, lorsque la brouette s’arrêta à l’entrée du faubourg de Tong-Tchéou, nous ne sommes plus qu’à quarante lis de Péking, et mon intention est de m’arrêter ici jusqu’au moment où la convention, passée entre Wang et moi, aura cessé de droit. Dans cette ville de quatre cent mille âmes, il me sera facile de demeurer inconnu, si Soun n’oublie pas qu’il est au service de Ki-Nan, simple négociant de la province de Chen-Si. »</p>
         <p>Non assurément, Soun ne l’oublierait plus ! Sa maladresse lui avait valu de faire pendant ces huit derniers jours un métier de cheval et il espérait bien que M. Kin-Fo…</p>
         <p>« Ki…, fit Craig.</p>
@@ -1106,10 +1078,8 @@
         <p>Wang n’avait-il voulu, en se précipitant dans le fleuve, qu’échapper aux poursuites, ou, pour quelque mystérieuse raison, s’était-il résolu à mettre fin à ses jours ? Nul n’aurait pu le dire.</p>
         <p>Deux heures après, Kin-Fo, Craig et Fry, désappointés, mais bien séchés, bien réconfortés, Soun, réveillé au plus fort de son sommeil et pestant comme on peut le croire, avaient pris la route de Péking.</p>
       </div>
-      <div>
-        <head>XIV.
-<lb/>
-<lb/>Où le lecteur pourra, sans fatigue, parcourir quatre villes en une seule</head>
+      <div type="chapter">
+        <head>XIV. Où le lecteur pourra, sans fatigue, parcourir quatre villes en une seule</head>
         <p>Le Pé-Tché-Li, la plus septentrionale des dix-huit provinces de la Chine, est divisé en neuf départements.</p>
         <p>Un de ces départements à pour chef-lieu Chun-Kin-Fo, c’est-à-dire « la ville du premier ordre obéissant au ciel ».</p>
         <p>Cette ville, c’est Péking.</p>
@@ -1176,10 +1146,8 @@
         <p>Servantes et valets, défiez-vous des phonographes !</p>
         <p>Le jour même, Nan recevait son congé, et, pour la mettre à la porte, on n’attendit même pas les derniers jours de la septième lune !</p>
       </div>
-      <div>
-        <head>XV.
-<lb/>
-<lb/>Qui réserve certainement une surprise à Kin-Fo et peut-être au lecteur</head>
+      <div type="chapter">
+        <head>XV. Qui réserve certainement une surprise à Kin-Fo et peut-être au lecteur</head>
         <p>Rien ne s’opposait plus au mariage du riche Kin-Fo, de Shang-Haï, avec l’aimable Lé-ou, de Péking. Dans six jours seulement expirait le délai accordé à Wang pour accomplir sa promesse ; mais l’infortuné philosophe avait payé de sa vie sa fuite inexplicable. Il n’y avait plus rien à craindre désormais. Le mariage pouvait donc se faire. Il fut décidé et fixé à ce vingt-cinquième jour de juin dont Kin-Fo avait voulu faire le dernier de son existence !</p>
         <p>La jeune femme connut alors toute la situation. Elle sut par quelles phases diverses venait de passer celui qui, refusant une première fois de la faire misérable, et une seconde fois de la faire veuve, lui revenait, libre enfin de la faire heureuse.</p>
         <p>Mais Lé-ou, en apprenant la mort du philosophe, ne put retenir quelques larmes. Elle le connaissait, elle l’aimait, il avait été le premier confident de ses sentiments pour Kin-Fo.</p>
@@ -1258,10 +1226,8 @@
         <p>« Adieu ! Je te précède dans la mort ! A bientôt, ami ! Adieu !</p>
         <p>« WANG ! »</p>
       </div>
-      <div>
-        <head>XVI.
-<lb/>
-<lb/>Dans lequel Kin-Ko, toujours célibataire, recommence à courir de plus belle</head>
+      <div type="chapter">
+        <head>XVI. Dans lequel Kin-Fo, toujours célibataire, recommence à courir de plus belle</head>
         <p>Telle était maintenant la situation faite à Kin-Fo, plus grave mille fois qu’elle ne l’avait jamais été !</p>
         <p>Ainsi donc, Wang, malgré la parole donnée, avait senti sa volonté se paralyser, lorsqu’il s’était agi de frapper son ancien élève ! Ainsi Wang ne savait rien du changement survenu dans la fortune de Kin-Fo, puisque sa lettre ne le disait pas ! Ainsi Wang avait chargé un autre de tenir sa promesse, et quel autre ! un Taï-ping redoutable entre tous, qui, lui, n’éprouverait aucun scrupule à accomplir un simple meurtre, dont on ne pourrait même le rendre responsable ! La lettre de Kin-Fo ne lui assurait-elle pas l’impunité, et, la délégation de Wang, un capital de cinquante mille dollars !</p>
         <p>« Ah ! mais je commence à en avoir assez ! » s’écria Kin-Fo dans un premier mouvement de colère.</p>
@@ -1327,10 +1293,8 @@
         <p>Le Peï-tang ne devait pas dépasser la barre. Tous les passagers durent donc débarquer à Takou. C'est une ville assez importante déjà, dont le développement sera considérable, si les mandarins laissent jamais établir une voie ferrée qui la relie à Tien-Tsin.</p>
         <p>Le navire en charge pour Fou-Ning devait mettre à la voile le jour même. Kin-Fo et ses compagnons n’avaient pas une heure à perdre. Ils firent donc accoster un sampan, et, un quart d’heure après, ils étaient à bord de la <hi rend="i">Sam-Yep</hi>.</p>
       </div>
-      <div>
-        <head>XVII.
-<lb/>
-<lb/>Dans lequel la valeur marchande de Kin-Fo est encore une fois compromise</head>
+      <div type="chapter">
+        <head>XVII. Dans lequel la valeur marchande de Kin-Fo est encore une fois compromise</head>
         <p>Huit jours auparavant, un navire américain était, venu mouiller au port de Takou. Frété par la sixième compagnie chîno-californienne, il avait été chargé au compte de l’agence Fouk-Ting-Tong, qui est installée dans le cimetière de Laurel-Hill, de San Francisco.</p>
         <p>C'est là que les Célestials, morts en Amérique, attendent le jour du rapatriement, fidèles à leur religion, qui leur ordonne de reposer dans la terre natale.</p>
         <p>Ce bâtiment, à destination de Canton, avait pris, sur l’autorisation écrite de l’agence, un chargement de deux cent cinquante cercueils, dont soixante-quinze devaient être débarqués à Takou pour être réexpédiés aux provinces du nord.</p>
@@ -1404,10 +1368,8 @@
         <p>Mais, lorsque le jour vint, la <hi rend="i">Sam-Yep</hi> eût vainement cherché quelque terre à l’horizon. Plus une côte en vue.</p>
         <p>Les eaux du golfe, reculées jusqu’à la ligne circulaire du ciel, l’entouraient de toutes parts.</p>
       </div>
-      <div>
-        <head>XVIII.
-<lb/>
-<lb/>Où Craig et Fry, poussés par la curiosité, visitent la cale de la « Sam-Yep »</head>
+      <div type="chapter">
+        <head>XVIII. Où Craig et Fry, poussés par la curiosité, visitent la cale de la « Sam-Yep »</head>
         <p>« Où sommes-nous, capitaine Yin ? demanda Kin-Fo lorsque tout péril fut passé.</p>
         <p>– Je ne puis le savoir au juste, répondit le capitaine, dont la figure était redevenue joviale.</p>
         <p>– Dans le golfe de Pé-Tché-Li ?</p>
@@ -1537,10 +1499,8 @@
         <p>Craig et Fry poussèrent un des sabords qui fermaient les fenêtres du rouffle à l’arrière, et dont la baie s’ouvrait au- dessus du couronnement de la jonque. Soun, enlevé sans plus de façon, fut glissé à travers le sabord et lancé à la mer. Kin-Fo le suivit aussitôt, Puis, Craig et Fry, saisissant les apparaux qui leur étaient nécessaires, se précipitèrent à la suite.</p>
         <p>Personne ne pouvait se douter que les passagers de la <hi rend="i">Sam-Yep</hi> venaient de quitter le bord !</p>
       </div>
-      <div>
-        <head>XIX.
-<lb/>
-<lb/>Qui ne finit bien, ni pour le capitaine Yin commandant la « Sam-Yep », ni pour son équipage</head>
+      <div type="chapter">
+        <head>XIX. Qui ne finit bien, ni pour le capitaine Yin commandant la « Sam-Yep », ni pour son équipage</head>
         <p>Les appareils du capitaine Boyton consistent uniquement eu un vêtement de caoutchouc, comprenant le pantalon, la jaquette et la capote. Par la nature même de l’étoffe employée, ils sont donc imperméables. Mais, imperméables à l’eau, ils ne l’auraient pas été au froid, résultant d’une immersion prolongée. Aussi ces vêtements sont-ils faits de deux étoffes juxtaposées, entre lesquelles on peut insuffler une certaine quantité d’air.</p>
         <p>Cet air sert donc à deux fins : 1° à maintenir l’appareil suspenseur à la surface de l’eau ; 2° à empêcher par son interposition tout contact avec le milieu liquide, et conséquemment à garantir de tout refroidissement. Ainsi vêtu, un homme pourrait rester presque indéfiniment immergé.</p>
         <p>Il va sans dire que l’étanchéité des joints de ces appareils était parfaite. Le pantalon, dont les pieds se terminaient par de pesantes semelles, s’agrafait au cercle d’une ceinture métallique, assez large pour laisser quelque jeu aux mouvements du corps. La jaquette, fixée à cette ceinture, se raccordait à un solide collier, sur lequel s’adaptait la capote. Celle-ci, entourant la tête, s’appliquait hermétiquement au front, aux joues, au menton, par un liséré élastique. De la figure, on ne voyait donc plus que le nez, les yeux et la bouche.</p>
@@ -1658,10 +1618,8 @@
         <p>Ainsi périt le jovial capitaine Yin, commandant la <hi rend="i">Sam-Yep</hi> !</p>
         <p>Dix minutes plus tard, la jonque s’était perdue dans l’ouest, et Kin-Fo, Fry-Craig, Soun, se retrouvaient seuls à la surface de la mer.</p>
       </div>
-      <div>
-        <head>XX.
-<lb/>
-<lb/>Où on verra à quoi s’exposent les gens qui emploient les appareils du capitaine Boyton</head>
+      <div type="chapter">
+        <head>XX. Où on verra à quoi s’exposent les gens qui emploient les appareils du capitaine Boyton</head>
         <p>Trois heures après, les premières blancheurs de l’aube s’accusaient légèrement à l’horizon. Bientôt, il fit jour, et la mer put être observée dans toute son étendue.</p>
         <p>La jonque n’était plus visible. Elle avait promptement distancé les scaphandres, qui ne pouvaient lutter de vitesse avec elle. Ils avaient bien suivi la même route, dans l’ouest, sous l’impulsion de la même brise, mais la <hi rend="i">Sam-Yep</hi> devait se trouver maintenant à plus de trois lieues sous le vent. Donc, rien à craindre de ceux qui la montaient.</p>
         <p>Toutefois, ce danger évité ne rendait pas la situation présente beaucoup moins grave.</p>
@@ -1795,10 +1753,8 @@
         <p>Ces pêcheurs étaient des gens de Fou-Ning. À moins de deux lieues s’ouvrait précisément le port que Kin-Fo voulait atteindre.</p>
         <p>Le soir même, vers huit heures, il y débarquait avec ses compagnons, et, dépouillant les appareils du capitaine Boyton, tous quatre reprenaient l’apparence de créatures humaines.</p>
       </div>
-      <div>
-        <head>XXI.
-<lb/>
-<lb/>Dans lequel Craig et Fry voient la lune se lever avec une extrême satisfaction</head>
+      <div type="chapter">
+        <head>XXI. Dans lequel Craig et Fry voient la lune se lever avec une extrême satisfaction</head>
         <p>« Maintenant, au Taï-ping ! » Tels furent les premiers mots que prononça Kin-Fo, le lendemain matin, 30 juin, après une nuit de repos, bien due aux héros de ces singulières aventures.</p>
         <p>Ils étaient enfin sur ce théâtre des exploits de Lao-Shen.</p>
         <p>La lutte allait s’engager définitivement.</p>
@@ -1928,10 +1884,8 @@
         <p>Le pas des chameaux qui emportaient ces deux Américains, peut-être un peu trop pratiques, avait à peine cessé de se faire entendre, qu’une troupe d’hommes, conduite par le guide, se jetait sur Kin-Fo, qui tenta vainement de se défendre, sur Soun, qui essaya vainement de s’enfuir.</p>
         <p>Un instant après, le maître et le valet étaient entraînés dans la chambre basse de l’un des bastions abandonnés de la Grande-Muraille, dont la porte fut soigneusement refermée sur eux.</p>
       </div>
-      <div>
-        <head>XXII.
-<lb/>
-<lb/>Que le lecteur aurait pu écrire lui-même, tant il finit d’une façon peu inattendue !</head>
+      <div type="chapter">
+        <head>XXII. Que le lecteur aurait pu écrire lui-même, tant il finit d’une façon peu inattendue !</head>
         <p>La Grande-Muraille – un paravent chinois, long de quatre cents lieues -, construite au 1e siècle par l’empereur Tisi-Chi-Houang-Ti, s’étend depuis le golfe de Léao-Tong, dans lequel elle trempe ses deux jetées, jusque dans le Kan-Sou, où elle se réduit aux proportions d’un simple mur. C'est une succession ininterrompue de doubles remparts, défendus par des bastions et des tours, hauts de cinquante pieds, larges de vingt, granit par leur base, briques à leur revêtement supérieur, qui suivent avec hardiesse le profil des capricieuses montagnes de la frontière russo-chinoise.</p>
         <p>Du côté du Céleste Empire, la muraille est en assez mauvais état. Du côté de la Mantchourie, elle se présente sous un aspect plus rassurant, et ses créneaux lui font encore un magnifique ourlet de pierres.</p>
         <p>De défenseurs, sur cette longue ligne de fortifications, point ; de canons, pas davantage. Le Russe, le Tartare, le Kirghis, aussi bien que les Fils du Ciel, peuvent librement passer à travers ses portes. Le paravent ne préserve plus la frontière septentrionale de l’Empire, pas même de cette fine poussière mongole, que le vent du nord emporte parfois jusqu’à sa capitale.</p>

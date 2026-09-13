@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-03-11T13:04:01+01:00-->
 <!-- nettoyage à faire -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -46,8 +46,7 @@
       <div>
         <head>Première partie </head>
       <div type="chapter">
-        <head>Chapitre I
-        <lb/>Les îles Kerguelen</head>
+        <head>I. Les îles Kerguelen</head>
         <p>Personne n’ajoutera foi, sans doute, à ce récit intitulé Le Sphinx des glaces. N’importe, il est bon, à mon avis, qu’il soit livré au public. Libre à lui d’y croire ou de n’y point croire.</p>
         <p>Il serait difficile, pour le début de ces merveilleuses et terribles aventures, d’imaginer un lieu mieux approprié que les îles de la Désolation – nom qui leur fut donné, en 1779, par le capitaine Cook. Eh bien, après ce que j’en ai vu pendant un séjour de quelques semaines, je puis affirmer qu’elles méritent l’appellation lamentable qui leur vient du célèbre navigateur anglais. Îles de la Désolation, cela dit tout.</p>
         <p>Je sais que l’on tient, dans les nomenclatures géographiques, au nom de Kerguelen, généralement adopté pour ce groupe situé par 49° 54’ de latitude sud et 69° 6’ de longitude est. Ce qui le justifie, c’est que, dès l’année 1772, le baron français Kerguelen fut le premier à signaler ces îles dans la partie méridionale de l’océan Indien. En effet, lors de ce voyage, le chef d’escadre avait cru découvrir un continent nouveau sur la limite des mers antarctiques ; mais, au cours d’une seconde expédition, il dut reconnaître son erreur. Il n’y avait là qu’un archipel. Que l’on veuille bien s’en rapporter à moi, îles de la Désolation est le seul nom qui convienne à ce groupe de trois cents îles ou îlots, au milieu de ces immenses solitudes océaniques que troublent presque incessamment les grandes tempêtes australes.</p>
@@ -113,8 +112,7 @@
         <p>Soudain, l’oiseau s’éleva d’une large envergure, les pattes repliées, la tête longuement allongée comme une guibre de navire, jetant son cri aigu, et, quelques instants après, réduit à un point noir au milieu des hautes zones, il disparaissait derrière le rideau brumeux du sud.</p>
       </div>
         <div type="chapter">
-          <head>Chapitre II
-<lb/>La goélette <hi rend="i">Halbrane</hi></head>
+          <head>II. La goélette <hi rend="i">Halbrane</hi></head>
           <p>Trois cents tonnes de jauge, une mâture inclinée qui lui permet de pincer le vent, très rapide sous l’allure du plus près, une surface vélique comprenant – au mât de misaine, misaine-goélette, fortune, hunier et perroquet –, au grand mât, brigantine et flèche –, à l’avant, trinquette grand et petit foc –, tel était le schooner attendu à Christmas-Harbour, telle est la goélette <hi rend="i">Halbrane</hi>.</p>
           <p>À bord, il y avait un capitaine, un mat ou lieutenant, un bosseman ou maître d’équipage, un coy ou cuisinier, de plus, huit matelots, – au total, douze hommes, ce qui est suffisant pour la manœuvre. Solidement construit, membrure et bordage chevillés en cuivre, largement voilé, les façons d’arrière assez dégagées, ce bâtiment, très marin, très maniable, approprié à la navigation entre les quarantième et soixantième parallèles sud, faisait honneur aux chantiers de Birkenhead.</p>
           <p>Ces renseignements m’avaient été donnés par maître Atkins, et avec quel accompagnement d’éloges !</p>
@@ -226,8 +224,7 @@
           <p>– À peu près, si c’est un refus que de m’avoir dit : « Atkins, ma goélette n’est pas faite pour recevoir des passagers… Je n’en ai jamais pris, et ne compte point en jamais prendre. »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre III
-<lb/>Le capitaine Len Guy</head>
+          <head>III. Le capitaine Len Guy</head>
           <p>Je dormis mal. À plusieurs reprises, je « rêvai que je rêvais ». Or – c’est une observation d’Edgar Poe – quand on soupçonne que l’on rêve, on se réveille presque aussitôt.</p>
           <p>Je me réveillai donc, et toujours très monté contre ce capitaine Len Guy. L’idée de m’embarquer sur l’<hi rend="i">Halbrane</hi>, à son départ des Kerguelen, était enracinée dans ma tête. Maître Atkins n’avait cessé de me vanter ce navire, invariablement le premier de l’année à rallier Christmas-Harbour. Comptant les jours, comptant les heures, que de fois je m’étais vu à bord de cette goélette, au large de l’archipel, cap à l’ouest, en direction sur la côte américaine ! Mon aubergiste ne mettait pas en doute la complaisance du capitaine Len Guy, qui serait d’accord avec son intérêt. On ne voit guère un navire de commerce refuser un passager, lorsque cela ne doit pas le contraindre à modifier son itinéraire, et s’il peut retirer un bon prix du passage. Qui aurait cru cela ?…</p>
           <p>Aussi, grosse colère que je sentais couver en moi contre ce peu complaisant personnage. Ma bile s’échauffait, mes nerfs se tendaient. Un obstacle venait de surgir sur ma route, et devant lequel je me cabrais.</p>
@@ -351,8 +348,7 @@
           <p>Avec les dernières heures de l’après-midi disparurent les cimes blanches du Table-Mount et de l’Havergal, sommets aigus, qui s’élèvent, l’un à deux l’autre à trois mille pieds au-dessus du niveau de la mer.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IV
-<lb/>Des îles Kerguelen à l’île du Prince-Édouard</head>
+          <head>IV. Des îles Kerguelen à l’île du Prince-Édouard</head>
           <p>Jamais, peut-être, traversée n’offrit un début plus heureux ! Et, par une chance inespérée, au lieu que l’incompréhensible refus du capitaine Len Guy m’eût laissé, pour quelques semaines encore, à Christmas-Harbour, voici qu’une jolie brise m’entraînait loin de ce groupe, vent sous vergue, sur une mer à peine clapotante, avec une vitesse de huit à neuf milles à l’heure.</p>
           <p>L’intérieur de l’<hi rend="i">Halbrane</hi> répondait à son extérieur. Tenue parfaite, propreté minutieuse de galiote hollandaise, dans le rouf comme dans le poste de l’équipage.</p>
           <p>À l’avant du rouf, à bâbord, se trouvait la cabine du capitaine Len Guy, lequel, par un châssis vitré qui se rabattait, pouvait surveiller le pont et, au besoin, transmettre ses ordres aux hommes de quart, postés entre le grand mât et le mât de misaine. À tribord, disposition identique pour la cabine du lieutenant. Toutes deux possédaient un cadre étroit, une armoire de médiocre capacité, un fauteuil paillé, une table fixée au plancher, une lampe de roulis suspendue au-dessus, divers instruments nautiques, baromètre, thermomètre à mercure, sextant, montre marine renfermée dans la sciure de sa boîte de chêne, et qui n’en sortait qu’au moment où le capitaine se disposait à prendre hauteur.</p>
@@ -481,8 +477,7 @@
           <p>Le lendemain, l’<hi rend="i">Halbrane</hi> mit le cap en direction du nord-ouest, vers le parallèle le plus septentrional de l’hémisphère sud qu’elle devait atteindre au cours de cette campagne.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre V
-<lb/>Le roman d’Edgar Poe</head>
+          <head>V. Le roman d’Edgar Poe</head>
           <p>Voici, très succinctement, l’analyse du célèbre ouvrage de notre romancier américain, qui avait été publié à Richmond sous ce titre :</p>
           <p rend="center noindent i">Aventures d’Arthur Gordon Pym. </p>
           <p>Il est indispensable que je le résume en ce chapitre. On verra s’il y avait lieu de douter que les aventures de ce héros de roman fussent imaginaires. Et, d’ailleurs, parmi les nombreux lecteurs de cet ouvrage, en est-il un seul qui ait jamais cru à sa réalité, – si ce n’est le capitaine Len Guy ?…</p>
@@ -586,8 +581,7 @@
           <p>Tel est ce bizarre roman, enfanté par le génie ultra-humain du plus grand poète du Nouveau Monde. C’est ainsi qu’il se termine… ou plutôt qu’il ne se termine pas. À mon avis, dans l’impuissance d’imaginer un dénouement à de si extraordinaires aventures, on comprend qu’Edgar Poe ait interrompu leur récit par la mort « soudaine et déplorable de son héros », tout en laissant espérer que si l’on retrouve jamais les deux ou trois chapitres qui manquent, ils seront livrés au public.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VI
-<lb/>« Comme un linceul qui s’entrouvre ! »</head>
+          <head>VI. « Comme un linceul qui s’entrouvre ! »</head>
           <p>La navigation de l’<hi rend="i">Halbrane</hi> ne cessait de s’opérer avec l’aide du courant et du vent. En quinze jours, si ils persistaient, la distance qui sépare l’île du Prince-Édouard de celle de Tristan d’Acunha – deux mille trois cents milles environ – serait franchie, et, comme l’avait annoncé le bosseman, il n’aurait pas été nécessaire de changer une seule fois les amures. L’invariable brise du sud-est bien établie, quelquefois au grand frais, n’exigeait qu’une diminution des voiles hautes.</p>
           <p>Du reste, le capitaine Len Guy laissait à Jem West le soin de manœuvrer, et l’audacieux porte-voile, – que l’on me passe cette expression – ne se décidait à prendre des ris qu’à l’instant où la mâture menaçait de venir en bas. Mais je ne craignais rien, et il n’y avait aucune avarie à redouter avec un tel marin. Il avait trop l’œil à son affaire.</p>
           <p>« Notre lieutenant n’a pas son pareil, me dit un jour Hurliguerly, et il mériterait de commander un vaisseau amiral !</p>
@@ -681,8 +675,7 @@
           <p>Puis, lorsque nos yeux se reportèrent vers la place où flottait le glaçon, la double influence des rayons solaires et des eaux de cette latitude avait produit son effet, et il n’en restait plus trace à la surface de la mer.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VII
-<lb/>Tristan d’Acunha</head>
+          <head>VII. Tristan d’Acunha</head>
           <p>Quatre jours après, l’<hi rend="i">Halbrane</hi> relevait cette curieuse île de Tristan d’Acunha, dont on a pu dire qu’elle est comme la chaudière des mers africaines.</p>
           <p>Certes, c’était un fait bien extraordinaire, cette rencontre à plus de cinq cents lieues du cercle antarctique, cette apparition du cadavre de Patterson ! À présent, voici que le capitaine de l’<hi rend="i">Halbrane</hi> et son frère le capitaine de la <hi rend="i">Jane</hi> étaient rattachés l’un à l’autre par ce revenant de l’expédition d’Arthur Pym !… Oui ! cela doit sembler invraisemblable… Et qu’est-ce donc, pourtant, auprès de ce que j’ai à raconter encore ?…</p>
           <p>Au surplus, ce qui me paraissait, à moi, aller jusqu’aux limites de l’invraisemblance, c’était que le roman du poète américain fût une réalité. Mon esprit se révolta d’abord… Je voulus fermer les yeux à l’évidence !…</p>
@@ -797,8 +790,7 @@
           <p>Sur cette table s’étalait aussi un volume, cent fois lu et relu ! La plupart de ses pages étaient cornées, dont les marges portaient de multiples notes au crayon… Et, sur la couverture, brillait ce titre comme s’il eût été imprimé en lettres de feu : <hi rend="i">Aventures d’Arthur Gordon Pym.</hi></p>
         </div>
         <div type="chapter">
-          <head>Chapitre VIII
-<lb/>En direction vers les Falklands</head>
+          <head>VIII. En direction vers les Falklands</head>
           <p>Le 8 septembre, dans la soirée, j’avais pris congé de Son Excellence le gouverneur général de l’archipel de Tristan d’Acunha, – c’est le titre officiel que se donnait ce brave Glass, ex-caporal d’artillerie britannique. Le lendemain, avant le lever du jour, l’<hi rend="i">Halbrane</hi> mit à la voile.</p>
           <p>Il va sans dire que j’avais obtenu du capitaine Len Guy de rester son passager jusqu’aux îles Falklands. C’était une traversée de deux mille milles, qui n’exigerait qu’une quinzaine de jours, pour peu qu’elle fût favorisée comme notre navigation venait de l’être entre les Kerguelen et Tristan d’Acunha. Le capitaine Len Guy n’avait point même paru surpris de ma demande : on eût dit qu’il l’attendait. Mais, ce à quoi je m’attendais de mon côté, c’était qu’il reprît la question Arthur Pym, dont il affectait de ne pas me reparler depuis que l’infortuné Patterson lui avait donné raison contre moi relativement au livre d’Edgar Poe.</p>
           <p>Cependant, bien qu’il ne l’eût pas essayé jusqu’alors, peut-être se réservait-il de le faire en temps et lieu. Au surplus, cela ne pouvait en aucune façon influer sur ses projets ultérieurs, et il était résolu à conduire l’<hi rend="i">Halbrane</hi> dans les lointains parages où avait péri la <hi rend="i">Jane.</hi></p>
@@ -885,8 +877,7 @@
           <p>« Volontiers ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IX
-<lb/>Mise en état de <hi rend="i">l’Halbrane</hi></head>
+          <head>IX. Mise en état de <hi rend="i">l’Halbrane</hi></head>
           <p>Formez un rectangle long de soixante-cinq lieues de l’est à l’ouest, large de quarante du nord au sud, enfermez-y deux grandes îles et une centaine d’îlots entre 60° 10’ et 64° 36’ de longitude occidentale, et 51° et 52° 45’ de latitude méridionale, – vous aurez le groupe géographiquement dénommé îles Falklands ou Malouines, à trois cents milles du détroit de Magellan, et qui forme comme le poste avancé des deux grands océans Atlantique et Pacifique.</p>
           <p>En 1592, c’est John Davis qui découvrit cet archipel, c’est le pirate Hawkins qui le visita en 1593, c’est Strong qui le baptisa en 1689, – tous Anglais.</p>
           <p>Près d’un siècle plus tard, les Français, expulsés de leurs établissements du Canada, cherchèrent à fonder, dans ledit archipel, une colonie de ravitaillement pour les navires du Pacifique. Or, comme la plupart étaient des corsaires de Saint-Malo, ils baptisèrent ces îles du nom de Malouines qu’elles portent avec celui de Falklands. Leur compatriote Bougainville vint poser les premières assises de la colonie en 1763, amenant vingt-sept individus – dont cinq femmes –, et, dix mois après, les colons étaient au nombre de cent cinquante.</p>
@@ -1012,8 +1003,7 @@
           <p>La campagne était commencée. À Dieu seul appartenait de savoir si le succès attendait ces hommes courageux, qu’un sentiment d’humanité poussait vers les plus effrayantes régions de l’Antarctide !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre X
-<lb/>Au début de la campagne</head>
+          <head>X. Au début de la campagne</head>
           <p>C’est du groupe des Falklands que le <hi rend="i">Tuba</hi> et le <hi rend="i">Lively</hi>, sous le commandement du capitaine Biscoe, étaient partis le 27 septembre 1830, en ralliant la terre des Sandwich, dont, le 1<hi rend="sup">er</hi> janvier suivant, ils doublaient la pointe septentrionale. Il est vrai, six semaines après, le <hi rend="i">Lively</hi> venait malheureusement se perdre sur les Falklands, et – il fallait l’espérer –, tel n’était pas le sort réservé à notre goélette.</p>
           <p>Le capitaine Len Guy partait donc du même point que Biscoe, qui avait employé cinq semaines pour gagner les Sandwich. Mais, dès les premiers jours, très contrarié par les glaces au-delà du cercle polaire, le navigateur anglais avait dû se déhaler vers le sud-est jusqu’au 45<hi rend="sup">e</hi> degré de longitude orientale. C’est même à cette circonstance que fut due la découverte de la terre Enderby.</p>
           <p>Cet itinéraire, le capitaine Len Guy le montra sur sa carte à Jem West et à moi, ajoutant :</p>
@@ -1106,8 +1096,7 @@
           <p>– J’estime que nous n’avons pas à envisager cette éventualité », répondit simplement le capitaine Len Guy.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XI
-<lb/>Des Sandwich au cercle polaire</head>
+          <head>XI. Des Sandwich au cercle polaire</head>
           <p>Six jours après son appareillage, la goélette, cap au sud-ouest, toujours favorisée par le temps, arrivait en vue du groupe des New-South-Orkneys.</p>
           <p>Deux îles principales le composent : à l’ouest, la plus étendue, l’île Coronation, dont la cime géante ne se dresse pas à moins de deux mille cinq cents pieds ; à l’est, l’île Laurie, terminée par le cap Dundas projeté vers le couchant. Autour émergent des îles moindres, Saddle, Powell, et nombre d’îlots en pains de sucre. Enfin, dans l’ouest, gisent l’île Inaccessible et l’île du Désespoir, ainsi baptisées, sans doute, parce qu’un navigateur n’avait pu accoster l’une et avait désespéré d’atteindre l’autre.</p>
           <p>Cet archipel fut découvert conjointement par l’Américain Palmer et l’Anglais Botwel, 1821-1822. Traversé par le 61<hi rend="sup">e</hi> parallèle, il est compris entre le 44<hi rend="sup">e</hi> et le 47<hi rend="sup">e</hi> méridien.</p>
@@ -1201,8 +1190,7 @@
           <p>L’<hi rend="i">Halbrane</hi> venait donc de franchir le cercle polaire qui circonscrit la zone antarctique.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XII
-<lb/>Entre le cercle polaire et la banquise</head>
+          <head>XII. Entre le cercle polaire et la banquise</head>
           <p>Depuis que l’<hi rend="i">Halbrane</hi> a dépassé cette courbe imaginaire, tracée à 23° et demi du pôle, il semble qu’elle soit entrée en une contrée nouvelle, « cette contrée de la Désolation et du Silence », comme le dit Edgar Poe, cette magique prison de splendeur et de gloire dans laquelle le chantre d<hi rend="i">’Éléonora</hi> souhaite d’être enfermé comme pour l’éternité, cet immense océan de lumière ineffable…</p>
           <p>À mon avis – pour demeurer dans des hypothèses moins fantaisistes –, cette région de l’Antarctide, d’une superficialité qui dépasse cinq millions de milles carrés, est restée ce qu’était notre sphéroïde pendant la période glaciaire…</p>
           <p>Durant l’été, l’Antarctide, on le sait, jouit du jour perpétuel, dû aux rayons que l’astre radieux, dans sa spirale ascendante, projette au-dessus de son horizon. Puis, dès qu’il a disparu, c’est la longue nuit qui commence, nuit souvent illuminée par les irradiations des aurores polaires.</p>
@@ -1343,8 +1331,7 @@
           <p>En cette portion de la mer antarctique, les glaces dérivaient en plus grand nombre, et il y avait lieu de penser que la tempête, hâtant la débâcle, avait peut-être rompu vers l’est les barrières de la banquise.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIII
-<lb/>Le long de la banquise</head>
+          <head>XIII. Le long de la banquise</head>
           <p>Bien que ces parages au-delà du cercle polaire eussent été profondément troublés, il est juste de reconnaître que notre navigation, jusqu’alors, s’était accomplie dans des conditions exceptionnelles. Et quelle heureuse chance si l’<hi rend="i">Halbrane</hi>, dès cette première quinzaine de décembre, allait trouver ouverte la route de Weddell ?…</p>
           <p>En vérité, voici que je dis la route de Weddell, comme s’il s’agissait d’une route terrestre, bien entretenue, garnie de ses bornes milliaires, avec cette inscription sur un poteau indicateur : Route du pôle Sud !</p>
           <p>Durant la journée du 10, la goélette put sans difficulté manœuvrer au milieu de ces glaçons isolés qu’on appelle floes et brashs. La direction du vent ne l’obligea point à courir des bords, et lui permit de suivre la ligne droite entre les passes des icefields. Quoique nous fussions encore à un mois de l’époque où la désagrégation se fait en grand, le capitaine Len Guy, habitué à ces phénomènes, affirmait que ce qui se produit d’ordinaire en janvier – la débâcle générale – allait se produire, cette fois, en décembre.</p>
@@ -1440,8 +1427,7 @@
           <p>Deux heures après, l’extrémité de la banquise était doublée, et, devant nos regards, se développait une mer étincelante, entièrement dégagée de glaces.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIV
-<lb/>Une voix dans un rêve</head>
+          <head>XIV. Une voix dans un rêve</head>
           <p>Entièrement dégagée de glaces ?… non. C’eût été trop tôt affirmer le fait. Quelques icebergs apparaissaient au loin, drifts et packs dérivaient encore vers l’est. Néanmoins, la débâcle avait battu son plein de ce côté, et la mer était bien libre, puisqu’un navire y pouvait librement naviguer.</p>
           <p>Nul doute que ce fût dans ces parages, en remontant ce large bras de mer, sorte de canal creusé à travers le continent antarctique, que les bâtiments de Weddell avaient rallié ce 74<hi rend="sup">e</hi> degré de latitude, que la <hi rend="i">Jane</hi> devait dépasser d’environ six cents milles.</p>
           <p>« Dieu nous est venu en aide, me dit le capitaine Len Guy, et qu’il daigne nous conduire au but !</p>
@@ -1522,8 +1508,7 @@
           <p>En effet, vers dix heures du soir, le cri d’un des hommes annonça une terre par bâbord devant.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XV
-<lb/>L’îlot Bennet</head>
+          <head>XV. L’îlot Bennet</head>
           <p>L’<hi rend="i">Halbrane</hi>, après avoir franchi huit cents milles environ depuis le cercle polaire, manœuvrait donc en vue de l’îlot Bennet ! L’équipage avait grand besoin de repos, car, pendant les dernières heures, il s’était exténué à remorquer la goélette avec les canots sur une mer au calme blanc. Aussi remit-on le débarquement au lendemain, et je regagnai ma cabine.</p>
           <p>Cette fois, aucun murmure ne troubla mon sommeil, et, dès cinq heures, je fus un des premiers sur le pont.</p>
           <p>Il va sans dire que Jem West avait pris toutes les mesures de précaution qu’exigeait une navigation au milieu de ces parages suspects. La plus sévère surveillance régnait à bord. Les pierriers étaient chargés, les boulets et les gargousses montés, les fusils et les pistolets en état, les filets d’abordage prêts à être hissés. On se souvenait que la <hi rend="i">Jane</hi> avait été attaquée par les insulaires de l’île Tsalal. Notre goélette se trouvait alors à moins de soixante milles du théâtre de cette catastrophe.</p>
@@ -1614,8 +1599,7 @@
           <p>L’<hi rend="i">Halbrane</hi> ne courait pas le risque d’être surprise. Trop d’yeux veillaient à bord, – particulièrement ceux de Hunt, qui ne se détachèrent pas un instant de cet horizon de la zone australe.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVI
-<lb/>L’île Tsalal</head>
+          <head>XVI. L’île Tsalal</head>
           <p>La nuit se passa sans alerte. Aucun canot n’avait quitté l’île. Aucun indigène ne se montrait sur son littoral. La seule conclusion à tirer de là, c’était que la population devait occuper l’intérieur. En effet, nous savions, d’après le récit, qu’il fallait marcher trois ou quatre heures avant d’atteindre le principal village de Tsalal.</p>
           <p>Donc, l’<hi rend="i">Halbrane</hi> n’avait pas été aperçue à son arrivée, et cela valait mieux, en somme.</p>
           <p>Nous étions mouillés à trois milles de la côte, sur dix brasses de fond.</p>
@@ -1745,8 +1729,7 @@
         </div>
       <div>
         <head>Deuxième partie</head>
-<div type="chapter"><head>Chapitre I
-<lb/>Et Pym ?…</head>
+<div type="chapter"><head>I. Et Pym ?…</head>
         <p>La décision du capitaine Len Guy de quitter, dès le lendemain, le mouillage de l’île Tsalal et de reprendre la route du nord, cette campagne terminée sans résultat, ce renoncement à rechercher en une autre partie de la mer antarctique les naufragés de la goélette anglaise, – tout cela s’était tumultueusement présenté à mon esprit.</p>
         <p>Comment, les six hommes qui, à s’en rapporter au carnet de Patterson, se trouvaient encore, il y a quelques mois, dans ces parages, l’<hi rend="i">Halbrane</hi> allait les abandonner ?… Son équipage ne remplirait-il pas jusqu’au bout le devoir que l’humanité lui commandait ?… Ne tenterait-il pas l’impossible pour découvrir le continent ou l’île sur lesquels les survivants de la <hi rend="i">Jane</hi> avaient peut-être réussi à se réfugier, en quittant cette Tsalal, devenue inhabitable depuis le tremblement de terre ?…</p>
         <p>Cependant nous n’étions qu’à la fin de décembre, au lendemain du Christmas, presque au début de la belle saison. Deux grands mois d’été nous permettraient de naviguer à travers cette portion de l’Antarctide. Nous aurions le temps de revenir au cercle polaire avant la terrible saison australe… Et voilà que l’<hi rend="i">Halbrane</hi> se préparait à mettre le cap au nord…</p>
@@ -1912,8 +1895,7 @@
         <p>– Devant vous ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre II
-<lb/>Décision prise</head>
+          <head>II. Décision prise</head>
           <p>Dirk Peters !… Hunt était le métis Dirk Peters… le dévoué compagnon d’Arthur Pym, celui que le capitaine Len Guy avait si longtemps et si inutilement cherché aux États-Unis et dont la présence allait peut-être nous fournir une nouvelle raison de poursuivre cette campagne…</p>
           <p>Qu’il ait dû suffire de quelque flair au lecteur pour que, depuis bien des pages de mon récit, il eût reconnu Dirk Peters dans ce personnage de Hunt, qu’il se soit attendu à ce coup de théâtre, je ne m’en étonnerai pas, et j’affirme même que le contraire aurait lieu de me surprendre.</p>
           <p>En effet, rien de plus naturel, de plus indiqué que d’avoir fait ce raisonnement : Comment le capitaine Len Guy et moi, ayant si souvent lu le livre d’Edgar Poe, où le portrait physique de Dirk Peters est tracé d’un crayon précis, comment n’avons-nous pas soupçonné que l’homme qui s’était embarqué aux Falklands et le métis ne faisaient qu’un ?… De notre part, cela ne témoignait-il pas d’un manque de perspicacité ?… Je l’accorde, et, pourtant, cela s’explique dans une certaine mesure.</p>
@@ -1994,8 +1976,7 @@
           <p>Il est vrai, nous n’étions qu’à sept degrés du pôle austral, et, si l’<hi rend="i">Halbrane</hi> devait s’élever jusque-là, il ne m’en coûterait jamais que quatorze mille dollars !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre III
-<lb/>Le groupe disparu</head>
+          <head>III. Le groupe disparu</head>
           <p>Dès la première heure, le vendredi 27 décembre, l’<hi rend="i">Halbrane</hi> reprit la mer, cap au sud-ouest.</p>
           <p>Le service du bord marcha comme d’habitude avec la même obéissance, la même régularité. Il ne comportait alors ni dangers ni fatigues. Le temps était toujours beau, la mer toujours calme. Si ces conditions ne changeaient pas, les germes d’insubordination – je l’espérais du moins – ne trouveraient pas à se développer, et les difficultés ne viendraient pas de ce chef. D’ailleurs, le cerveau travaille peu chez les natures grossières. Des hommes ignorants et cupides ne s’abandonnent guère aux hantises de l’imagination. Confinés dans le présent, l’avenir n’est point pour les préoccuper. Seul le fait brutal, qui les met en face de la réalité, peut les tirer de leur insouciance.</p>
           <p>Ce fait se produirait-il ?…</p>
@@ -2101,8 +2082,7 @@
           <p>Le lendemain, 29 décembre, dès six heures du matin, la goélette appareilla par une légère brise du nord-est, et, cette fois, elle mit le cap directement au sud.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IV
-<lb/>Du 29 décembre au 9 janvier</head>
+          <head>IV. Du 29 décembre au 9 janvier</head>
           <p>Dans la matinée, le volume d’Edgar Poe sous les yeux, j’en ai relu attentivement le vingt-cinquième chapitre. Il y est raconté que, lorsque les indigènes voulurent les poursuivre, les deux fugitifs, accompagnés du sauvage Nu-Nu, étaient déjà à cinq ou six milles au large de la baie. Des six ou sept îles groupées dans l’ouest, nous venions de reconnaître qu’il ne restait plus que quelques vestiges sous forme d’îlots.</p>
           <p>Ce qui nous intéressait surtout dans ce chapitre, ce sont ces lignes que j’ai à cœur de transcrire :</p>
           <p>« En arrivant par le nord, sur la <hi rend="i">Jane</hi>, – pour atteindre l’île Tsalal, nous avions graduellement laissé derrière nous les régions les plus rigoureuses de glace, – et, bien que cela puisse paraître un absolu démenti aux notions généralement acceptées sur l’océan Antarctique, c’était là un fait que l’expérience ne nous permettait pas de nier. Aussi, essayer – maintenant – de retourner vers le nord eût été folie, particulièrement à une période si avancée de la saison. Une seule route semblait encore ouverte à l’espérance. Nous nous décidâmes à gouverner hardiment vers le sud, où il y avait pour nous quelques chances de découvrir d’autres îles, et où il était probable que nous trouverions un climat de plus en plus doux… »</p>
@@ -2195,8 +2175,7 @@
           <p>Il y eut bien quelques murmures de satisfaction, mais point de hurrahs, si ce n’est ceux que poussèrent, sans trouver d’écho, le bosseman Hurliguerly et le cuisinier Endicott.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre V
-<lb/>Une embardée</head>
+          <head>V. Une embardée</head>
           <p>Lors même que les anciens de l’équipage se fussent joints au bosseman et au maître coq, au capitaine Len Guy, à Jem West et à moi pour continuer la campagne, si les nouveaux décidaient de revenir, nous ne serions pas de force à l’emporter. Quatorze hommes, compris Dirk Peters, contre dix-neuf, c’était insuffisant. Et, d’ailleurs, eût-il été sage de compter sur tous les anciens du bord ?… L’épouvante ne les prendrait-elle pas à naviguer au milieu de ces régions qui semblent en dehors du domaine terrestre ?… Résisteraient-ils aux incessantes excitations de Hearne et de ses camarades ?… Ne s’uniraient-ils pas à eux pour exiger le retour vers la banquise ?…</p>
           <p>Et, pour dire mon entière pensée, le capitaine Len Guy lui-même ne se lasserait-il pas de prolonger une campagne qui ne donnait aucun résultat ?… Ne renoncerait-il pas bientôt à ce dernier espoir de sauver en ces lointains parages les matelots de la <hi rend="i">Jane</hi> ?… Menacé par l’approche de l’hiver austral, des froids insoutenables, des tempêtes polaires auxquelles ne pourrait résister sa goélette, ne donnerait-il pas enfin ordre de virer de bord ?… Et de quel poids pèseraient mes arguments, mes adjurations, mes prières, lorsque je serais seul à les formuler ?…</p>
           <p>Seul ?… non pas !… Dirk Peters me soutiendrait… Mais lui et moi, qui voudrait nous écouter ?…</p>
@@ -2348,8 +2327,7 @@
           <p>Soudain le cri de « terre ! » retentit, et tous les regards se dirigèrent vers le sud.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VI
-<lb/>Terre ?…</head>
+          <head>VI. Terre ?…</head>
           <p rend="i">Tel est l’unique mot qui se trouve en tête du chapitre XVII dans le livre d’Edgar Poe. J’ai cru bon – en le faisant suivre d’un point d’interrogation – de le placer en tête de ce chapitre VI de mon récit. </p>
           <p>Ce mot, tombé du haut de notre mât de misaine, désignait-il une île ou un continent ?… Et continent ou île n’était-ce pas une déception qui nous y attendait ?… Seraient-ils là, ceux que nous étions venus chercher sous de telles latitudes ?… Et Arthur Pym, – mort, incontestablement mort, malgré les affirmations de Dirk Peters, – avait-il jamais mis le pied sur cette terre ?…</p>
           <p>Lorsque ce cri retentit à bord de la Jane, le 17 janvier 1828 – journée pleine d’incidents, dit le journal d’Arthur Pym –, ce fut en ces termes :</p>
@@ -2461,8 +2439,7 @@
           <p>Enfin un dernier heurt se fit, et l’<hi rend="i">Halbrane</hi> demeura immobile.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VII
-<lb/>L’iceberg culbuté</head>
+          <head>VII. L’iceberg culbuté</head>
           <p>Je dus ramper sur le plancher du rouf pour atteindre la porte et gagner le pont.</p>
           <p>Le capitaine Len Guy, ayant déjà quitté sa cabine, se traînait sur les genoux, tant la bande était accusée, et il vint s’accrocher de son mieux au râtelier de tournage des pavois.</p>
           <p>Vers l’avant, entre le gaillard et le mât de misaine, quelques têtes sortaient des plis de la trinquette abattue comme une tente dont la drisse aurait largué.</p>
@@ -2559,8 +2536,7 @@
           <p>L’<hi rend="i">Halbrane</hi> n’était plus qu’à un degré cinq minutes – soit soixante-cinq milles – du pôle austral.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VIII
-<lb/>Le coup de grâce</head>
+          <head>VIII. Le coup de grâce</head>
           <p>« À la besogne ! » avait dit le capitaine Len Guy, dès l’après-midi de ce jour, chacun s’y mit avec courage.</p>
           <p>Il n’y avait pas une heure à perdre. Personne qui ne comprît que la question de temps dominait toutes les autres. En ce qui concernait les vivres, la goélette en possédait pour dix-huit mois encore à pleine ration. Aussi la faim ne menaçait-elle pas, – la soif pas davantage, bien que les caisses à eau, crevées dans la secousse, eussent laissé échapper le liquide qu’elles contenaient à travers les fissures du bordage.</p>
           <p>Par bonheur, les fûts de gin, de whisky, de bière et de vin, placés dans la partie de la cale qui avait le moins souffert, étaient presque tous intacts. De ce chef, nous n’avions aucun dommage, et l’iceberg allait lui-même nous fournir l’eau douce.</p>
@@ -2662,8 +2638,7 @@
           <p>Une seconde après, défoncée, disloquée, le bordage ouvert, la membrure brisée, l’<hi rend="i">Halbrane</hi> s’engloutissait, en faisant rejaillir une énorme gerbe d’eau au pied de l’iceberg !…</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IX
-<lb/>Que faire !</head>
+          <head>IX. Que faire !</head>
           <p>Hébétés… Oui ! c’était de l’hébétement, après que la goélette, emportée comme la roche d’une avalanche, eut disparu dans l’abîme !… Il ne restait plus rien de notre <hi rend="i">Halbrane</hi>, – pas même une épave !… À cent pieds en l’air, il n’y avait qu’un instant, à cinq cents maintenant dans les profondeurs de la mer !… Oui ! de l’hébétement, et qui ne nous permettait même pas de songer aux dangers de l’avenir… l’hébétement de gens qui ne peuvent en croire leurs yeux, comme on dit !…</p>
           <p>Ce qui lui succéda, ce fut la prostration qui en était la conséquence naturelle. Il n’y eut pas un cri, pas un geste. Nous étions immobiles, les pieds cloués au sol de glace. Aucune expression ne pourrait rendre l’horreur de cette situation !</p>
           <p>Quant au lieutenant Jem West, après que la goélette se fut abîmée sous les eaux, je vis une grosse larme tomber de ses yeux. Cette <hi rend="i">Halbrane</hi> qu’il aimait tant, maintenant anéantie ! Oui ! cet homme d’un caractère si énergique, pleura…</p>
@@ -2759,8 +2734,7 @@
           <p>Une autre masse flottante, d’énorme dimension, venait de heurter notre iceberg, qui avait « levé l’ancre » comme disent les marins, et dérivait vers le sud.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre X
-<lb/>Hallucinations</head>
+          <head>X. Hallucinations</head>
           <p>Un changement inespéré s’était produit dans la situation ! Quelles seraient les conséquences de ce que nous n’étions plus échoués à cette place ?… Après avoir été immobilisés à peu près au point d’intersection du 39<hi rend="sup">e</hi> méridien et du 89<hi rend="sup">e</hi> parallèle, voici que le courant nous entraînait dans la direction du pôle… Aussi, au premier sentiment de joie, venaient de succéder toutes les épouvantes de l’inconnu, – et quel inconnu !…</p>
           <p>Seul, peut-être, Dirk Peters se réjouissait pleinement à la pensée d’avoir repris la route, sur laquelle il s’entêtait à retrouver les traces de son pauvre Pym !… Et quelles autres idées passaient par la tête de ses compagnons !</p>
           <p>En effet, le capitaine Len Guy n’avait plus aucun espoir de recueillir ses compatriotes. Que William Guy et ses cinq matelots eussent abandonné l’île Tsalal depuis moins de huit mois, aucun doute à cet égard… mais où s’étaient-ils réfugiés ?… En trente-cinq jours nous avions franchi une distance d’environ quatre cents milles sans avoir rien découvert. Lors même qu’ils auraient atteint ce continent polaire auquel mon compatriote Maury, dans ses ingénieuses hypothèses, attribue la largeur d’un millier de lieues, quelle partie de ce continent aurions-nous choisie pour théâtre de nos recherches ?… Et, d’ailleurs, si c’est une mer qui baigne cette extrémité de l’axe terrestre, les survivants de la <hi rend="i">Jane</hi> n’étaient-ils pas maintenant engloutis dans ces abîmes qu’une carapace glacée allait bientôt recouvrir ?…</p>
@@ -2856,8 +2830,7 @@
           <p>La journée s’écoula tout entière dans ces conditions. Pas une fois le rideau ne s’ouvrit devant nos regards, et si l’iceberg, qui s’était déplacé d’une quarantaine de milles depuis la veille, avait passé à l’extrémité de l’axe terrestre, nous ne devions jamais le savoir<note place="bottom"><p>Vingt-huit ans plus tard, ce que M. Jeorling n’avait pu même entrevoir, un autre l’avait vu, un autre avait pris pied sur ce point du globe, le 21 mars 1868. La saison était plus avancée de sept semaines, et l’empreinte de l’hiver austral se gravait déjà sur ces régions désolées que six mois de ténèbres allaient bientôt recouvrir. Mais cela importait peu à l’extraordinaire navigateur dont nous rappelons le souvenir. Avec son merveilleux appareil sous-marin, il pouvait braver le froid et les tempêtes. Après avoir franchi la banquise, passé sous la carapace glacée de l’océan Antarctique, il avait pu s’élever jusqu’au 90<hi rend="sup">e</hi> degré. Là, son canot le déposa sur un sol volcanique, jonché de débris de basalte, de scories, de cendres, de laves, de roches noirâtres. À la surface de ce littoral pullulaient les amphibies, les phoques, les morses. Au-dessus volaient des bandes innombrables d’échassiers, les chionis, les alcyons, les pétrels gigantesques, tandis que les pingouins se rangeaient en lignes immobiles. Puis, à travers les éboulis des moraines et des pierres ponces, ce mystérieux personnage gravit les raides talus d’un pic, moitié porphyre, moitié basalte, à la pointe du pôle austral. Et, à l’instant où l’horizon, juste au nord, coupait en deux parties égales le disque solaire, il prenait possession de ce continent en son nom personnel et déployait un pavillon à l’étamine brodée d’un N d’or. Au large flottait un bateau sous-marin qui s’appelait <hi rend="i">Nautilus</hi> et; dont le capitaine s’appelait le capitaine Nemo.</p><p>J. V.</p></note> !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XI
-<lb/>Au milieu des brumes</head>
+          <head>XI. Au milieu des brumes</head>
           <p>« Eh bien, monsieur Jeorling, me dit le bosseman, lorsque, le lendemain, nous nous retrouvâmes en face l’un de l’autre, il faut en faire notre deuil !</p>
           <p>– Notre deuil, Hurliguerly, et de quoi ?…</p>
           <p>– Du pôle Sud, dont nous n’avons pas même aperçu la pointe !</p>
@@ -2952,8 +2925,7 @@
           <p>L’iceberg se trouvait à peu près de 4° au-delà du pôle antarctique, et, des longitudes occidentales que notre goélette avait suivies sur l’itinéraire de la <hi rend="i">Jane</hi>, nous étions passés aux longitudes orientales.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XII
-<lb/>Campement</head>
+          <head>XII. Campement</head>
           <p>Un peu après midi, cette terre ne se trouvait plus qu’à un mille. La question était de savoir si le courant n’allait pas nous entraîner au-delà.</p>
           <p>Je dois l’avouer, si nous avions eu le choix ou d’accoster ce littoral ou de continuer notre marche, je ne sais trop ce qui eût été préférable.</p>
           <p>J’en causais avec le capitaine Len Guy et le lieutenant, lorsque Jem West m’interrompit, disant :</p>
@@ -3084,8 +3056,7 @@
           <p>Déjà Hearne avait fait hisser la voile, et, poussé à la fois par le courant et la brise, le canot ne fut bientôt plus qu’un point blanc qui ne tarda pas à disparaître.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIII
-<lb/>Dirk Peters à la mer</head>
+          <head>XIII. Dirk Peters à la mer</head>
           <p>La question de l’hivernage était tranchée. Des trente-trois hommes embarqués sur l’<hi rend="i">Halbrane</hi> à son départ des Falklands, vingt-trois étaient arrivés sur cette terre, et, de ceux-là, treize venaient de s’enfuir afin de regagner les parages de pêche au-delà de la banquise… Et ce n’était pas le sort qui les avait désignés !… Non !… Afin d’échapper aux horreurs d’un hivernage, ils avaient déserté lâchement !</p>
           <p>Par malheur, Hearne n’avait pas seulement entraîné ses camarades. Deux des nôtres, le matelot Burry et le maître-voilier Martin Holt, s’étaient joints à lui, – Martin Holt, ne se rendant peut-être pas compte de ses actes sous le coup de l’effroyable révélation que le sealing-master venait de lui faire !…</p>
           <p>En somme, la situation n’était pas changée pour ceux que le sort n’eût pas destinés à partir. Nous n’étions plus que neuf, – le capitaine Len Guy, le lieutenant Jem West, le bosseman Hurliguerly, le maître-calfat Hardie, le cuisinier Endicott, les deux matelots Francis et Stern, Dirk Peters et moi. Quelles épreuves nous réservait cet hivernage, alors que s’approchait l’effroyable hiver des pôles !… Quels terribles froids aurions-nous à subir, – plus rigoureux qu’en aucun autre point du globe terrestre, enveloppés d’une nuit permanente de six mois !… On ne pouvait, sans épouvante, songer à ce qu’il faudrait d’énergie morale et physique pour résister dans ces conditions si en dehors de l’endurance humaine !…</p>
@@ -3191,8 +3162,7 @@
           <p>Et ces quatre hommes, c’était tout ce qui restait de l’équipage de la <hi rend="i">Jane</hi> !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIV
-<lb/>Onze ans en quelques pages</head>
+          <head>XIV. Onze ans en quelques pages</head>
           <p>Le titre donné à ce chapitre indique que les aventures de William Guy et de ses compagnons après la destruction de la goélette anglaise, les détails de leur existence sur l’île Tsalal depuis le départ d’Arthur Pym et de Dirk Peters, vont être très succinctement racontés.</p>
           <p>Transportés à la caverne, William Guy et les trois autres matelots, Trinkle, Roberts, Covin, avaient pu être rappelés à la vie. En réalité, c’était la faim – rien que la faim –, qui avait réduit ces malheureux à un état de faiblesse voisin de la mort.</p>
           <p>Un peu de nourriture prise avec modération, et quelques tasses de thé brûlant additionné de whisky, leur rendirent presque aussitôt des forces.</p>
@@ -3270,8 +3240,7 @@
           <p>Et, maintenant, les deux frères étaient enfin réunis sur ce coin perdu d’Halbrane-Land.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XV
-<lb/>Le Sphinx des glaces</head>
+          <head>XV. Le Sphinx des glaces</head>
           <p>À deux jours de là, sur ce point du littoral antarctique, il ne restait plus un seul des survivants des deux goélettes.</p>
           <p>Ce fut le 21 février, à six heures du matin, que l’embarcation, dans laquelle nous étions au nombre de treize, quitta la petite crique et doubla la pointe d’Halbrane-Land.</p>
           <p>Dès l’avant-veille nous avions discuté la question du départ. Si elle devait être résolue affirmativement, il ne fallait pas différer d’un jour à prendre le large. Pendant un mois encore – un mois au plus –, la navigation serait possible sur cette portion de mer comprise entre les 86<hi rend="sup">e</hi> et 70<hi rend="sup">e</hi> parallèles, c’est-à-dire jusqu’aux latitudes ordinairement barrées par la banquise. Puis, au-delà, si nous parvenions à nous dégager, peut-être aurions-nous la chance de rencontrer quelque baleinier finissant la saison de pêche, ou, – qui sait ? – un bâtiment anglais, français ou américain, achevant une campagne de découvertes sur les limites de l’océan austral ?… Passé la mi-mars, ces parages seraient délaissés des navigateurs comme des pêcheurs, et tout espoir d’être recueilli devrait être abandonné.</p>
@@ -3395,8 +3364,7 @@
           <p>À présent, le fidèle métis repose sur la Terre du Sphinx, à côté d’Arthur Gordon Pym, ce héros dont les étranges aventures avaient trouvé dans le grand poète américain un non moins étrange narrateur !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVI
-<lb/>Douze sur soixante-dix !</head>
+          <head>XVI. Douze sur soixante-dix !</head>
           <p>Ce jour même, dans l’après-midi, le <hi rend="i">Paracuta</hi> abandonnait le littoral de la Terre du Sphinx que nous avions toujours eue à l’ouest depuis le 21 février.</p>
           <p>Il y avait quatre cents milles environ à parcourir jusqu’à la limite du cercle antarctique. Arrivés sur ces parages de l’océan Pacifique, aurions-nous, je le répète, l’heureuse chance d’être recueillis par un baleinier attardé aux derniers jours de sa saison de pêche, ou même par quelque navire d’une expédition polaire ?…</p>
           <p>Cette seconde hypothèse avait sa raison d’être. En effet, lorsque la goélette se trouvait en relâche aux Falklands, n’était-il pas question de l’expédition du lieutenant Wilkes de la marine américaine ? Sa division, composée de quatre bâtiments, le <hi rend="i">Vincennes</hi>, le <hi rend="i">Peacock</hi>, le <hi rend="i">Porpoise</hi>, le <hi rend="i">Flying-Fish</hi>, n’avait-elle pas quitté la Terre de Feu en février 1839, avec plusieurs conserves, en vue d’une campagne à travers les mers australes ?…</p>

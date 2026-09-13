@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>L'Île Mystérieuse</title>
+        <title>L'Île mystérieuse</title>
         <author key="Verne, Jules (1828-1905)">Jules Verne</author>
       </titleStmt>
       <editionStmt>
@@ -39,7 +39,7 @@
         <head>Partie 1.
 <lb/><hi rend="i">Les naufragés de l’air</hi></head>
         <div type="chapter">
-          <head>Chapitre I.</head>
+          <head>I.</head>
           <argument>
 <p>L’ouragan de 1865. – Cris dans les airs. – Un ballon emporté dans une trombe. – L’enveloppe déchirée. – Rien que la mer en vue. – Cinq passagers. – Ce qui se passe dans la nacelle. – Une côte à l’horizon. – Le dénouement du drame.</p>
 </argument>
@@ -111,7 +111,7 @@
           <p>« Il essaye peut-être d’aborder à la nage ! Sauvons-le ! sauvons-le ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre II.</head>
+          <head>II.</head>
           <argument>
 <p>Un épisode de la guerre de Sécession. – L’ingénieur Cyrus Smith. – Gédéon Spilett. – Le nègre Nab. – Le marin Pencroff. – Le jeune Harbert. – Une proposition inattendue. – Rendez-vous à dix heures du soir. – Départ dans la tempête.</p>
 </argument>
@@ -177,7 +177,7 @@
           <p>Et celui qui manquait, celui au secours duquel les quatre survivants du ballon couraient tout d’abord, c’était leur chef naturel, c’était l’ingénieur Cyrus Smith !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre III.
+          <head>III.
 <lb/></head>
           <argument>
 <p>Cinq heures du soir. – Celui qui manque. – Le désespoir de Nab. – Recherches au nord. – L’îlot. – Une triste nuit d’angoisses. – Le brouillard du matin. – Nab à la nage. – Vue de la terre. – Passage à gué du canal.</p>
@@ -245,7 +245,7 @@
           <p>En effet, vers dix heures, Gédéon Spilett et ses deux compagnons se dépouillèrent de leurs vêtements, ils les mirent en paquet sur leur tête, et ils s’aventurèrent dans le chenal, dont la profondeur ne dépassait pas cinq pieds. Harbert, pour qui l’eau eût été trop haute, nageait comme un poisson, et il s’en tira à merveille. Tous trois arrivèrent sans difficulté sur le littoral opposé. Là, le soleil les ayant séchés rapidement, ils remirent leurs habits, qu’ils avaient préservés du contact de l’eau, et ils tinrent conseil.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IV.
+          <head>IV.
 <lb/></head>
           <argument>
 <p>Les lithodomes. – La rivière à son embouchure. – Les « Cheminées ». – Continuation des recherches. – La forêt d’arbres verts. – La provision de combustible. – On attend le reflux. – Du haut de la côte. – Le train de bois. – Le retour au rivage.</p>
@@ -316,7 +316,7 @@
           <p>Le procédé réussit à souhait. L’énorme charge de bois, que le marin retenait en marchant sur la rive, suivit le fil de l’eau. La berge était très accore, il n’y avait pas à craindre que le train ne s’échouât, et, avant deux heures, il arrivait à l’embouchure, à quelques pas des Cheminées.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre V.
+          <head>V.
 <lb/></head>
           <argument>
 <p>Aménagement des Cheminées. – L’importante question du feu. – La boîte d’allumettes. – Recherches sur la plage. – Retour du reporter et de Nab. – Une seule allumette ! – Le foyer pétillant. – Le premier souper. – La première nuit à terre.</p>
@@ -413,7 +413,7 @@
           <p>Un seul des naufragés ne reposa pas dans les Cheminées. Ce fut l’inconsolable, le désespéré Nab, qui, cette nuit tout entière, et malgré ce que lui dirent ses compagnons pour l’engager à prendre du repos, erra sur la grève en appelant son maître !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VI.
+          <head>VI.
 <lb/></head>
           <argument>
 <p>L’inventaire des naufragés. – Rien. – Le linge brûlé. – Une excursion dans la forêt. – La flore des arbres verts. – Le jacamar en fuite. – Trace de bêtes fauves. – Les couroucous. – Les tétras. – Une singulière pêche à la ligne.</p>
@@ -472,7 +472,7 @@
           <p>La direction à suivre était tout indiquée par celle de la rivière, dont il ne s’agissait que de redescendre le cours, et, vers six heures, assez fatigués de leur excursion, Harbert et Pencroff rentraient aux Cheminées.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VII.
+          <head>VII.
 <lb/></head>
           <argument>
 <p>Nab n’est pas encore de retour. – Les réflexions du reporter. – Le souper. – Une mauvaise nuit qui se prépare. – La tempête est effroyable. – On part dans la nuit. – Lutte contre la pluie et le vent. – À huit mille du premier campement.</p>
@@ -566,7 +566,7 @@
           <p>Ce corps était celui de l’ingénieur Cyrus Smith.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VIII.
+          <head>VIII.
 <lb/></head>
           <argument>
 <p>Cyrus Smith est-il vivant ? – Le récit de Nab. – Les empreintes de pas. – Une question insoluble. – Les premières paroles de Cyrus Smith. – La constation des empreintes. – Le retour aux cheminées. – Pencroff atterré !</p>
@@ -667,7 +667,7 @@
           <p>Le feu était éteint. Les cendres noyées n’étaient plus que vase. Le linge brûlé, qui devait servir d’amadou, avait disparu. La mer avait pénétré jusqu’au fond des couloirs, et tout bouleversé, tout détruit à l’intérieur des Cheminées !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IX.
+          <head>IX.
 <lb/></head>
           <argument>
 <p>Cyrus est là. – Les essais de Pencroff. – Le bois frotté. – Île ou continent ? – Les projets de l’ingénieur. – Sur quel point de l’océan Pacifique ? – En pleine forêt. – Le pin pignon. – Une chausse au cabiai. – Une fumée de bon augure.</p>
@@ -795,7 +795,7 @@
           <p>Une fumée s’échappait et tourbillonnait au-dessus des roches !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre X.
+          <head>X.
 <lb/></head>
           <argument>
 <p>Une invention de l’ingénieur. – La question qui préoccupe Cyrus Smith. – Le départ pour la montagne. – La forêt. – Sol volcanique. – Les tragopans. – Les mouflons. – Le premier plateau. – Le campement pour la nuit. – Le sommet du cône.</p>
@@ -863,7 +863,7 @@
           <p>« Une île ! » dit-il, au moment où le croissant lunaire s’éteignait dans les flots.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XI.
+          <head>XI.
 <lb/></head>
           <argument>
 <p>Au sommet du cône. – L’intérieur du cratère. – La mer tout autour. – Nulle terre en vue. – Le littoral à vol d’oiseau. – Hydrographie et orographie. – L’île est-elle habitée ? – Baptême des baies, golfes, caps, rivières, etc. – L’île Lincoln.</p>
@@ -962,7 +962,7 @@
           <p>Or, ceci se passait le 30 mars 1865, et ils ne savaient guère que, seize jours après, un crime effroyable serait commis à Washington, et que, le vendredi saint, Abraham Lincoln tomberait sous la balle d’un fanatique.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XII.
+          <head>XII.
 <lb/></head>
           <argument>
 <p>Le règlement des montres. – Pencroff est satisfait. – Une fumée suspecte. – Le cours du Creek-Rouge. – La flore de l’île Lincoln. – La faune. – Les faisans de montagne. – La poursuite des kangourous. – L’agouti. – Le lac Grant. – Retour aux Cheminées.</p>
@@ -1046,7 +1046,7 @@
           <p>« Mes amis, ceci est du minerai de fer, ceci une pyrite, ceci de l’argile, ceci de la chaux, ceci du charbon. Voilà ce que nous donne la nature, et voilà sa part dans le travail commun ! – à demain la nôtre ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIII.
+          <head>XIII.
 <lb/></head>
           <argument>
 <p>Ce qu l’on trouve sur Top. – Fabrication d’arcs et de flèches. – Une briqueterie. – Le four à poteries. – Divers ustensiles de cuisine. – Le premier pot-au-feu. – L’armoise. – La Croix du Sud. – Une importante observation astronomique.</p>
@@ -1131,7 +1131,7 @@
           <p>Ces calculs furent remis au lendemain, et, à dix heures, tout le monde dormait profondément.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIV.
+          <head>XIV.
 <lb/></head>
           <argument>
 <p>La mesure de la muraille granitique. – Une application du théorème des triangles semblables. – La latitude de l’île. – Une excursion au nord. – Un banc d’huîtres. – Projets d’avenir. – Le passage du soleil au méridien. – Les coordonnées de l’île Lincoln.</p>
@@ -1220,7 +1220,7 @@
           <p>Et quand Cyrus Smith consultait ses souvenirs, il ne se rappelait en aucune façon qu’une île quelconque occupât, dans cette partie du Pacifique, la situation assignée à l’île Lincoln.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XV.
+          <head>XV.
 <lb/></head>
           <argument>
 <p>L’hivernage est absolument décidé. – La question métallurgique. – Exploration de l’îlot du Salut. – La chasse aux phoques. – Capture d’un échidné. – Le koula. – Ce qu’on appelle la méthode catalane. – Fabrication du fer. – Comment on obtient l’acier.</p>
@@ -1280,7 +1280,7 @@
           <p>Enfin, le 5 mai, la première période métallurgique était achevée, les forgerons rentraient aux Cheminées, et de nouveaux travaux allaient les autoriser bientôt à prendre une qualification nouvelle.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVI.
+          <head>XVI.
 <lb/></head>
           <argument>
 <p>La question d’habitation est traitée de nouveau. – Les fantaisies de Pencroff. – Une exploration au nord du lac. – La lisière septentrionale du plateau. – Les serpents. – L’extrémité du lac. – Inquiétudes de Top. – Top à la nage. – Un combat sous les eaux. – Le dugong.</p>
@@ -1352,7 +1352,7 @@
           <p>Quel était donc l’amphibie qui avait pu, par ce coup terrible, détruire le formidable dugong ? Personne n’eût pu le dire, et, assez préoccupés de cet incident, Cyrus Smith et ses compagnons rentrèrent aux Cheminées.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVII.
+          <head>XVII.
 <lb/></head>
           <argument>
 <p>Visite au lac. – Le courant indicateur. – Les projets de Cyrus Smith. – La graisse de dugong. – Emploi des pyrites schisteuses. – Le sulfate de fer. – Comment se fait la glycérine. – Le savon. – Le salpêtre. – Acide sulfurique. – Acide azotique. – La nouvelle chute.</p>
@@ -1436,7 +1436,7 @@
           <p>Un triple hurrah s’échappa de leurs poitrines ! Le cadre de granit était fendu sur une large place ! Un cours rapide d’eau s’en échappait, courait en écumant à travers le plateau, en atteignait la crête, et se précipitait d’une hauteur de trois cents pieds sur la grève !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVIII.
+          <head>XVIII.
 <lb/></head>
           <argument>
 <p>Pencroff ne doute plus de rien. – L’ancien déversoir du lac. – Une descente souterraine. – La route à travers le granit. – Top a disparu. – La caverne centrale. – Le puits inférieur. – Mystère. – À coups de pic. – Le retour.</p>
@@ -1526,7 +1526,7 @@
           <p>C’est ce qui fut fait, et, un peu avant quatre heures, au moment où la torche du marin s’éteignait à son tour, Cyrus Smith et ses compagnons débouchaient par l’orifice du déversoir.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIX.
+          <head>XIX.
 <lb/></head>
           <argument>
 <p>Le plan de Cyrus Smith. – La façade de Granite-house. – L’échelle de corde. – Les rêves de Pencroff. – Les herbes aromatiques. – Une garenne naturelle. – Dérivation des eaux pour les besoins de la nouvelle demeure. – Vue que l’on a des fenêtres de Granite-house.</p>
@@ -1581,7 +1581,7 @@
           <p>Les habitants de la solide, saine et sûre demeure, ne pouvaient donc être qu’enchantés de leur ouvrage. Les fenêtres permettaient à leur regard de s’étendre sur un horizon sans limite, que les deux caps Mandibule fermaient au nord et le cap Griffe au sud. Toute la baie de l’Union se développait magnifiquement devant eux. Oui, ces braves colons avaient lieu d’être satisfaits, et Pencroff ne marchandait pas les éloges à ce qu’il appelait humoristiquement « son appartement au cinquième au-dessus de l’entresol ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XX.
+          <head>XX.
 <lb/></head>
           <argument>
 <p>La saison des pluies. – la question des vêtements. – Une chasse aux phoques. – Fabrication de la bougie. – Travaux intérieurs dans Granite-house. – Les deux ponceaux. – Retour d’une visite à l’huîtrière. – Ce qu’Harbert trouve dans sa poche.</p>
@@ -1656,7 +1656,7 @@
           <p>Ne semblait-il pas que ces colons posaient la première pierre d’un édifice ? Cela rappela à Pencroff le jour où il avait allumé son unique allumette, et tous les soins qu’il apporta à cette opération. Mais cette fois, la chose était plus grave. En effet, les naufragés seraient toujours parvenus à se procurer du feu, soit par un procédé, soit par un autre, mais nulle puissance humaine ne leur referait ce grain de blé, si, par malheur, il venait à périr !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XXI.
+          <head>XXI.
 <lb/></head>
           <argument>
 <p>Quelques degrés au-dessous du zéro. – Exploration à la partie marécageuse du sud-est. – Les culpeux. – Vue de la mer. – Une conversation sur l’avenir de l’océan Pacifique. – Le travail incessant des infusoires. – Ce que deviendra le globe. – La chasse. – Le marais des Tadornes.</p>
@@ -1721,7 +1721,7 @@
           <p>À huit heures du soir, tous étaient rentrés à Granite-house.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XXII.
+          <head>XXII.
 <lb/></head>
           <argument>
 <p>Les trappes. – Les renards. – Les pécaris. – Saute de vent au nord-ouest. – Tempête de neige. – Les vanniers. – Les plus grands froids de l’hiver. – La cristallisation du sucre d’érable. – Le puits mystérieux. – L’exploration projetée. – Le grain de plomb.</p>
@@ -1813,7 +1813,7 @@
         <head>Partie 2.
 <lb/><hi rend="i">L’abandonné</hi></head>
         <div type="chapter">
-          <head>Chapitre I.
+          <head>I.
 <lb/></head>
           <argument>
 <p>À propos du grain de plomb. – La construction d’une pirogue. – Les chasses. – Au sommet d’un kauri. – Rien qui atteste la présence de l’homme. – Une pêche de Nab et d’Harbert. – Tortue retournée. – Tortue disparue. – Explication de Cyrus Smith.</p>
@@ -1920,7 +1920,7 @@
           <p>Cyrus Smith avait donné cette explication, qui était admissible sans doute. Mais était-il bien convaincu de la justesse de cette explication ? On n’oserait l’affirmer.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre II.
+          <head>II.
 <lb/></head>
           <argument>
 <p>Premier essai de la pirogue. – Une épave à la côte. – La remorque. – La pointe de l’Épave. – Inventaire de la caisse : outils, armes, instruments, vêtements, livres, ustensiles. – Ce qui manque à Pencroff. – L’évangile – Un verset du livre sacré.</p>
@@ -2054,7 +2054,7 @@
           <p><hi rend="i">Quiconque demande reçoit, et qui cherche trouve</hi>.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre III.
+          <head>III.
 <lb/></head>
           <argument>
 <p>Le départ. – Le flot montant. – Ormes et microcouliers. – Plantes diverses. – Le jacamar. – aspect de la forêt. – Les eucalyptus géants. – Pourquoi on les appelle « arbes à fièvres » – Bandes de singes. – La chute d’eau. – Campement pour la nuit.</p>
@@ -2133,7 +2133,7 @@
           <p>Le souper fut bientôt dévoré, car on avait faim, et il ne fut plus question que de dormir. Mais, quelques rugissements de nature suspecte s’étant fait entendre avec la tombée du jour, le foyer fut alimenté pour la nuit, de manière à protéger les dormeurs de ses flammes pétillantes. Nab et Pencroff veillèrent même à tour de rôle et n’épargnèrent pas le combustible. Peut-être ne se trompèrent-ils pas, lorsqu’ils crurent voir quelques ombres d’animaux errer autour du campement, soit sous le taillis, soit entre les ramures ; mais la nuit se passa sans accident, et le lendemain, 31 octobre, à cinq heures du matin, tous étaient sur pied, prêts à partir.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IV.
+          <head>IV.
 <lb/></head>
           <argument>
 <p>En allant vers la côte. – Quelques bandes de quadrumanes. – Un nouveau cours d’eau. – Pourquoi le flot ne s’y fait pas sentir. – Une forêt pour littoral. – Le promontoire du Reptile. – Gédéon Spilett fait envie à Harbert. – La pétarde de bambou.</p>
@@ -2221,7 +2221,7 @@
           <p>Et ce moyen de provoquer de vives détonations, ce n’était pas l’ingénieur qui l’avait inventé, car, suivant Marco Polo, les Tartares, depuis bien des siècles, l’emploient avec succès pour éloigner de leurs campements les fauves redoutables de l’Asie centrale.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre V.
+          <head>V.
 <lb/></head>
           <argument>
 <p>Proposition de revenir par le littoral du sud. – Configuration de la côte. – À la recherche du naufrage présumé. – Une épave dans les airs. – Découverte d’un petit port naturel. – À minuit sur les bords de la Mercy. – Un canot qui dérive.</p>
@@ -2348,7 +2348,7 @@
           <p>Il n’y avait plus d’échelle.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VI.
+          <head>VI.
 <lb/></head>
           <argument>
 <p>Les hélements de Pencroff. – Une nuit dans les Cheminées. – La flèche d’Harbert. – Projet de Cyrus Smith. – Une solution inattendue. – Ce qui s’est passé à Granite-house. – Comment un nouveau domestique entre au service des colons.</p>
@@ -2472,7 +2472,7 @@
           <p>Et voilà comme, sans plus de façons, maître Jup fut installé à Granite-house.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VII.
+          <head>VII.
 <lb/></head>
           <argument>
 <p>Projets à exécuter. – Un pont sur la Mercy. – Faire une île du plateau de Grande-Vue. – Le pont-levis. – La récolte du blé. – Le ruisseau. – Les ponceaux. – La basse-cour. – Le pigeonnier. – Les deux onaggas. – Le chariot attelé. – Excursion au port Ballon.</p>
@@ -2544,7 +2544,7 @@
           <p>À huit heures du soir, le chariot, après avoir repassé le pont de la Mercy, redescendait la rive gauche de la rivière et s’arrêtait sur la grève. Les onaggas étaient dételés, puis ramenés à leur écurie, et Pencroff, avant de s’endormir, poussait un soupir de satisfaction qui fit bruyamment retentir les échos de Granite-house.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VIII.
+          <head>VIII.
 <lb/></head>
           <argument>
 <p>Le linge. – Chaussures en cuir de phoque. – Fabrication du pyroxyle. – Diverses semailles. – La pêche. – Les œufs de tortue. – Progrès de maître Jup. – Le corral. – Chasse aux mouflons. – Nouvelles richesses végétales et animales. – Souvenirs de la patrie absente.</p>
@@ -2601,7 +2601,7 @@
           <p>Quant à Cyrus Smith, la plupart du temps silencieux, il écoutait ses compagnons plus souvent qu’il ne parlait. Parfois, il souriait à quelque réflexion d’Harbert, à quelque boutade de Pencroff, mais, toujours et partout, il songeait à ces faits inexplicables, à cette étrange énigme dont le secret lui échappait encore !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IX.
+          <head>IX.
 <lb/></head>
           <argument>
 <p>Le mauvais temps. – L’ascenseur hydraulique. – Fabrication de verre à vitres et de gobeletterie. – L’arbre à pain. – Visites fréquentes au corral. – Accroissement du troupeau. – Une question du reporter. – Coordonnées exactes de l’île Lincoln. – Proposition de Pencroff.</p>
@@ -2715,7 +2715,7 @@
           <p>Et sur cette réponse, il fut décidé qu’une embarcation serait construite, de manière à pouvoir prendre la mer vers le mois d’octobre prochain, au retour de la belle saison.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre X.
+          <head>X.
 <lb/></head>
           <argument>
 <p>Construction du bateau. – Deuxième récolte de blé. – Chasse aux koulas. – Une nouvelle plante plus agréable qu’utile. – Une baleine en vue. – Le harpon du Vineyard. – Dépeçage du cétacé. – Emploi des fanons. – La fin du mois de mai. – Pencroff n’a plus rien à désirer.</p>
@@ -2825,7 +2825,7 @@
           <p>– Eh bien, mes amis, je vous revaudrai cela quelque jour ! répondit le marin. Maintenant, c’est à la vie, à la mort ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XI.
+          <head>XI.
 <lb/></head>
           <argument>
 <p>L’hiver. – Foulage de la laine. – Le moulin. – Une idée fixe de Pencroff. – Les fanons. – À quoi peut servir un albatros. – Le combustible de l’avenir. – Top et Jup. – Tempêtes. – Dégâts à la basse-cour. – Une excursion au marais. – Cyrus Smith seul. – Exploration du puits.</p>
@@ -2922,7 +2922,7 @@
           <p>« Je n’ai rien vu, et pourtant il y a quelque chose ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XII.
+          <head>XII.
 <lb/></head>
           <argument>
 <p>Le gréement de l’embarcation. – Une attaque de culpeux. – Jup blessé. – Jup soigné. – Jup guéri. – Achèvement du bateau. – Triomphe de Pencroff. – Le Bonadventure. – Premier essai au sud de l’île. – Un document inattendu.</p>
@@ -3062,7 +3062,7 @@
           <p>Naufragé… île Tabor : 153 degrés O. long – 37 degrés 11’ lat. S.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIII.
+          <head>XIII.
 <lb/></head>
           <argument>
 <p>Départ décidé. – Hypothèses. – Préparatifs. – Les trois passagers. – Première nuit. – Deuxième nuit. – L’île Tabor. – Recherches sur la grève. – Recherches sous bois. – Personne. – Animaux. – Plantes. – Une habitation. – Déserte.</p>
@@ -3163,7 +3163,7 @@
           <p>L’habitation était vide !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIV.
+          <head>XIV.
 <lb/></head>
           <argument>
 <p>Inventaire. – La nuit. – Quelques lettres. – Continuation des recherches. – Plantes et animaux. – Grand danger couru par Harbert. – À bord. – Le départ. – Mauvais temps. – Une lueur d’instinct. – Perdus en mer. – Un feu allumé à propos.</p>
@@ -3279,7 +3279,7 @@
           <p>Pencroff, qui portait beaucoup trop au nord, modifia sa direction, et il mit le cap sur ce feu qui brillait au-dessus de l’horizon comme une étoile de première grandeur.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XV.
+          <head>XV.
 <lb/></head>
           <argument>
 <p>Le retour. – Discussion. – Cyrus Smith et l’inconnu. – Port Ballon. – La troisième récolte. – Un moulin à vent. – La première farine et le premier pain. – Le dévouement de l’ingénieur. – Une expérience émouvante. – Quelques pleurs qui coulent.</p>
@@ -3379,7 +3379,7 @@
           <p>« Ah ! s’écria Cyrus Smith, te voilà donc redevenu homme, puisque tu pleures ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVI.
+          <head>XVI.
 <lb/></head>
           <argument>
 <p>Un mystère à éclaircir. – Les premières paroles de l’inconnu. – Douze ans sur l’îlot ! – Aveux qui s’échappent ! – La disparition. – Confiance de Cyrus Smith. – Construction d’un moulin. – Le premier pain. – Un acte de dévouement. – Les mains honnêtes !</p>
@@ -3508,7 +3508,7 @@
           <p>– Non, répondit l’inconnu d’une voix sourde, non ! Vous êtes d’honnêtes gens, vous ! Et moi !… »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVII.
+          <head>XVII.
 <lb/></head>
           <argument>
 <p>Toujours à l’écart. – Une demande de l’inconnu. – La ferme établie au corral. – Il y a douze ans ! – Le contremaître du Britannia. – Abandon dans l’île Tabor. – La main de Cyrus Smith. – Le document mystérieux.</p>
@@ -3616,7 +3616,7 @@
           <p>Et Ayrton, s’inclinant, regagna la porte et partit.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVIII.
+          <head>XVIII.
 <lb/></head>
           <argument>
 <p>Conversation. – Cyrus Smith et Gédéon Spilett. – Une idée de l’ingénieur. – Le télégraphe électrique. – Les fils. – La pile. – L’alphabet. – Belle saison. – Prospérité de la colonie. – Photographie. – Un effet de neige. – Deux ans dans l’île Lincoln.</p>
@@ -3705,7 +3705,7 @@
           <p>Quelques jours après, c’était le 26 mars, et il y avait deux ans que les naufragés de l’air avaient été jetés sur l’île Lincoln !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIX.
+          <head>XIX.
 <lb/></head>
           <argument>
 <p>Souvenirs de la patrie. – Les chances à venir. – Projet de reconnaissance des côtes de l’île. – Départ du 16 avril. – La presqu’île Serpentine vue de la mer. – Les basaltes de la côte occidentale. – Mauvais temps. – La nuit vient. – Nouvel incident.</p>
@@ -3800,7 +3800,7 @@
           <p>« S’il est une chose certaine en ce monde, Spilett, c’est que je n’ai jamais allumé de feu dans la nuit du 19 au 20 octobre, ni sur le plateau de Granite-house, ni en aucune autre partie de l’île ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XX.
+          <head>XX.
 <lb/></head>
           <argument>
 <p>La nuit en mer. – Le golfe du Requin. – Confidences. – Préparatifs pour l’hiver. – Précocité de la mauvaise saison. – Grands froids. – Travaux à l’intérieur. – Après six mois. – Un cliché photographique. – Incident inattendu.</p>
@@ -3903,7 +3903,7 @@
         <head>Partie 3.
 <lb/><hi rend="i">Le secret de l’île</hi></head>
         <div type="chapter">
-          <head>Chapitre I.
+          <head>I.
 <lb/></head>
           <argument>
 <p>Perte ou salut ? – Ayrton rappelé. – Discussion importante. – Ce n’est pas le Duncan. – Bâtiment suspect. – Précautions à prendre. – Le navire s’approche. – Un coup de canon. – Le brick mouille en vue de l’île. – La nuit vient.</p>
@@ -4015,7 +4015,7 @@
           <p>Le navire venait de mouiller en vue de Granite-house !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre II.
+          <head>II.
 <lb/></head>
           <argument>
 <p>Discussions. – Pressentiments. – Une proposition d’Ayrton. – On l’accepte. – Ayrton et Pencroff sur l’îlot grant. – Convicts de Norfolk. – Leurs projets. – Tentative héroïque d’Ayrton. – Son retour. – Six contre cinquante.</p>
@@ -4113,7 +4113,7 @@
           <p>Cyrus ne répondit pas, mais il montra le ciel de la main.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre III.
+          <head>III.
 <lb/></head>
           <argument>
 <p>La brume se lève. – Les dispositions de l’ingénieur. – Trois postes. – Ayrton et Pencroff. – Le premier canot. – Deux autres embarcations. – Sur l’îlot. – Six convicts à terre. – Le brick lève l’ancre. – Les projectiles du Speedy. – situation désespérée. – Dénouement inattendu.</p>
@@ -4219,7 +4219,7 @@
           <p>Le brick, irrésistiblement soulevé sur une sorte de trombe liquide, venait de s’ouvrir en deux, et, en moins de dix secondes, il était englouti avec son criminel équipage !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IV.
+          <head>IV.
 <lb/></head>
           <argument>
 <p>Les colons sur la grève. – Ayrton et Pencroff travaillent au sauvetage. – Causerie pendant le déjeuner. – Les raisonnements de Pencroff. – Visite minutieuse de la coque du brick. – La soute intacte. – Les nouvelles richesses. – Les derniers débris. – Un morceau de cylindre brisé.</p>
@@ -4321,7 +4321,7 @@
           <p>– Tout ce que je puis vous dire, c’est que ce n’est pas moi ! répondit Cyrus Smith, mais elle y était, et vous avez pu juger de son incomparable puissance ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre V.
+          <head>V.
 <lb/></head>
           <argument>
 <p>Les affirmations de l’ingénieur. – Les hypothèses grandioses de Pencroff. – Une batterie aérienne. – Les quatre projectiles. – À propos des convicts survivants. – Une hésitation d’Ayrton. – Généreux sentiments de Cyrus Smith. – Pencroff se rend à regret.</p>
@@ -4400,7 +4400,7 @@
           <p>N’importe ! Dans le présent, les colons avaient raison contre Pencroff. Auraient-ils raison dans l’avenir ? On le verrait.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VI.
+          <head>VI.
 <lb/></head>
           <argument>
 <p>Projets d’expédition. – Ayrton au corral. – Visite à Port-Ballon. – Remarques de Pencroff faites à bord du Bonadventure. – Dépêche envoyée au corral. – Pas de réponse d’Ayrton. – Départ du lendemain. – Pourquoi le fil ne fonctionne plus. – Une détonation.</p>
@@ -4501,7 +4501,7 @@
           <p>Harbert, frappé d’une balle, gisait à terre !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VII.
+          <head>VII.
 <lb/></head>
           <argument>
 <p>Le reporter et Pencroff dans le corral – Harbert transporté. – Désespoir du marin. – Consultation du reporter et de l’ingénieur. – Mode de traitement. – On reprend quelque espoir. – Comment prévenir nab. – Un messager sûr et fidèle. – La réponse de Nab.</p>
@@ -4604,7 +4604,7 @@
           <p>« Point de pirates aux environs de Granite-house. Je ne bougerai pas. Pauvre M. Harbert ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre VIII.
+          <head>VIII.
 <lb/></head>
           <argument>
 <p>Les convicts aux environs du corral. – Installation provisoire. – Continuation du traitement d’Harbert. – Les premières jubilations de Pencroff. – Retour sur le passé. – Ce que réserve l’avenir. – Les idées de Cyrus Smith à ce sujet.</p>
@@ -4636,7 +4636,7 @@
           <p>À ces questions, aucune réponse n’était possible. Mais qu’on ne s’imagine pas que Cyrus Smith et son compagnon, parce qu’ils causaient de ces choses, fussent gens à désespérer ! Loin de là. Ils regardaient la situation en face, ils analysaient les chances, ils se préparaient à tout événement, ils se posaient fermes et droits devant l’avenir, et si l’adversité devait enfin les frapper, elle trouverait en eux des hommes préparés à la combattre.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre IX.
+          <head>IX.
 <lb/></head>
           <argument>
 <p>On est sans nouvelles de Nab. – Proposition de Pencroff et du reporter qui n’est pas acceptée. – Quelques sorties de Gédéon Spilett. – Un lambeau d’étoffe. – Un message. – Départ précipité. – Arrivée au plateau de Grande-Vue.</p>
@@ -4744,7 +4744,7 @@
           <p>Harbert avait perdu connaissance !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre X.
+          <head>X.
 <lb/></head>
           <argument>
 <p>Harbert transporté à Granite-house. – Nab raconte ce qui s’est passé. – Visite de Cyrus Smith au plateau. – Ruine et dévastation. – Les colons désarmés devant la maladie. – L’écorce de saule. – Une fièvre mortelle. – Top aboie encore !</p>
@@ -4818,7 +4818,7 @@
           <p rend="center"><hi rend="i">Sulfate de quinine</hi>.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XI.
+          <head>XI.
 <lb/></head>
           <argument>
 <p>Inexplicable mystère. – La convalescence d’Harbert. – les parties de l’île à explorer. – Préparatifs de départ. – Première journée. – La nuit. – Deuxième journée. – Les kauris. – Le couple de casoars. – Empreintes de pas dans la forêt. – Arrivée au promontoire du Reptile.</p>
@@ -4891,7 +4891,7 @@
           <p>Et, en effet, le lendemain, l’extrémité de la presqu’île était atteinte, et la forêt traversée sur toute sa longueur ; mais aucun indice n’avait permis de trouver la retraite où s’étaient réfugiés les convicts, ni celle, non moins secrète, qui donnait asile au mystérieux inconnu.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XII.
+          <head>XII.
 <lb/></head>
           <argument>
 <p>Exploration de la presqu’île Serpentine. – Campement à l’embouchure de la rivière de la Chute. – À six cents pas du corral. – Reconnaissance opérée par Gédéon Spilett et Pencroff. – Leur retour. – Tous en avant ! – Une porte ouverte. – Une fenêtre éclairée. – À la lumière de la lune !</p>
@@ -5006,7 +5006,7 @@
           <p>C’étaient ceux des convicts qui, quatre mois auparavant, avaient débarqué sur l’île Lincoln !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIII.
+          <head>XIII.
 <lb/></head>
           <argument>
 <p>Le récit d’Ayrton. – Projets de ses anciens complices. – leur installation au corral. – Le justicier de l’île Lincoln. – Le Bonadventure. – Recherches autour du mont Franklin. – Les vallées supérieures. – Grondements souterrains. – Une réponse de Pencroff. – Au fond du cratère. – Retour.</p>
@@ -5113,7 +5113,7 @@
           <p>Un mois plus tard, ils saluaient, au vingt-cinquième jour de mars, le troisième anniversaire de leur arrivée sur l’île Lincoln !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIV.
+          <head>XIV.
 <lb/></head>
           <argument>
 <p>Trois ans se sont écoulés. – La question du nouveau navire. – Ce qui est résolu. – Prospérité de la colonie. – Le chantier de construction. – Les froids de l’hémisphère austral. – Pencroff se résigne. – Blanchissage du linge. – Le mont Franklin.</p>
@@ -5177,7 +5177,7 @@
           <p>Le 7 septembre, Cyrus Smith, ayant observé le sommet du mont Franklin, vit une fumée qui se contournait au-dessus du cratère, dont les premières vapeurs se projetaient dans l’air.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XV.
+          <head>XV.
 <lb/></head>
           <argument>
 <p>Le réveil du volcan. – La belle saison. – Reprise des travaux. – La soirée du 15 octobre. – Un télégramme. – Une demande. – Une réponse. – Départ pour le corral. – La notice. – Le fil supplémentaire. – La côte de basalte. – À mer haute. – À mer basse. – La caverne. – Une éblouissante lumière.</p>
@@ -5331,7 +5331,7 @@
           <p>« Capitaine Nemo, vous nous avez demandés ? Nous voici. »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVI.
+          <head>XVI.
 <lb/></head>
           <argument>
 <p>Le capitaine Nemo. – Ses première paroles. – L’histoire d’un héros de l’indépendance. – La haine des envahisseurs. – Ses compagnons. – La vie sous-marine. – Seul. – Le dernier refuge du Nautilus à l’île Lincoln. – Le génie mystérieux de l’île.</p>
@@ -5424,7 +5424,7 @@
           <p>« Mon enfant, dit-il, sois béni !… »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVII.
+          <head>XVII.
 <lb/></head>
           <argument>
 <p>Les dernières heures du capitaine Nemo. – les volontés d’un mourant. – Un souvenir à ses amis d’un jour. – Le cercueil du capitaine Nemo. – Quelques conseils aux colons. – Le moment suprême. – Au fond des mers.</p>
@@ -5523,7 +5523,7 @@
           <p>Mais les colons purent le suivre encore à travers les couches profondes. Sa puissante lumière éclairait les eaux transparentes, tandis que la crypte redevenait obscure. Puis, ce vaste épanchement d’effluences électriques s’effaça enfin, et bientôt le <hi rend="i">Nautilus</hi>, devenu le cercueil du capitaine Nemo, reposait au fond des mers.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XVIII.
+          <head>XVIII.
 <lb/></head>
           <argument>
 <p>Les réflexions de chacun. – Reprise des travaux de construction. – le 1<hi rend="sup">er</hi> janvier 1869. – Un panache à la cime du volcan. – Premiers symptômes d’une éruption. – Ayrton et Cyrus Smith au corral. – Exploration à la crypte Dakkar. – Ce que le capitaine Nemo avait dit à l’ingénieur.</p>
@@ -5636,7 +5636,7 @@
           <p>Ayrton ne dit rien, mais, sur un signe de Cyrus Smith, il reprit ses avirons, et, une demi-heure après, l’ingénieur et lui sortaient de la crypte Dakkar.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XIX.
+          <head>XIX.
 <lb/></head>
           <argument>
 <p>Le récit que fait Cyrus Smith de son exploration. – On active les travaux de construction. – Une dernière visite au corral. – Le combat entre le feu et l’eau. – Ce qui reste à la surface de l’île. – On se décide à lancer le navire. – La nuit du 8 au 9 mars.</p>
@@ -5724,7 +5724,7 @@
           <p>Mais, pendant cette nuit du 8 au 9, une énorme colonne de vapeurs, s’échappant du cratère, monta au milieu de détonations épouvantables à plus de trois mille pieds de hauteur. La paroi de la caverne Dakkar avait évidemment cédé sous la pression des gaz, et la mer, se précipitant par la cheminée centrale dans le gouffre ignivome, se vaporisa soudain. Mais le cratère ne put donner une issue suffisante à ces vapeurs. Une explosion, qu’on eût entendue à cent milles de distance, ébranla les couches de l’air. Des morceaux de montagnes retombèrent dans le Pacifique, et, en quelques minutes, l’Océan recouvrait la place où avait été l’île Lincoln.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre XX.
+          <head>XX.
 <lb/></head>
           <argument>
 <p>Un roc isolé sur le Pacifique. – Le dernier refuge des colons de l’île Lincoln. – La mort en perspective. – Le secours inattendu. Pourquoi et comment il arrive. – Le dernier bienfait. – Une île en terre ferme. – La tombe du capitaine Nemo.</p>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-09T15:21:34+01:00-->
-<!-- ok -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -36,12 +34,9 @@
   <text>
     <body>
       <div>
-        <head>Première partie
-<lb/></head>
+        <head>Première partie</head>
         <div type="chapter">
-          <head>I.
-<lb/>À bord du steam-boat « Shannon »
-<lb/></head>
+          <head>I. À bord du steam-boat « Shannon »</head>
           <p>La Floride, qui avait été annexée à la grande fédération américaine en 1819, fut érigée en État quelques années plus tard. Par cette annexion, le territoire de la République s’accrut de soixante-sept mille milles carrés. Mais l’astre floridien ne brille que d’un éclat secondaire au firmament des trente-sept étoiles qui constellent le pavillon des États-Unis d’Amérique.</p>
           <p>Ce n’est qu’une étroite et basse langue de terre, cette Floride. Son peu de largeur ne permet pas aux rivières qui l’arrosent – le Saint-John excepté – d’y acquérir quelque importance. Avec un relief si peu accusé, les cours d’eau n’ont pas la pente nécessaire pour y devenir rapides. Point de montagnes à sa surface. À peine quelques lignes de ces « bluffs » ou collines, si nombreux dans la région centrale et septentrionale de l’Union. Quant à sa forme, on peut la comparer à une queue de castor qui trempe dans l’Océan, entre l’Atlantique à l’est et le golfe du Mexique à l’ouest.</p>
           <p>La Floride n’a donc aucun voisin, si ce n’est la Géorgie dont la frontière, vers le nord, confine à la sienne. Cette frontière forme l’isthme qui rattache la péninsule au continent.</p>
@@ -143,9 +138,7 @@
           <p>Là, Walter Stannard débarqua en même temps que trois ou quatre de ces gens, dont Texar s’était séparé, une heure et demie avant, lorsque l’Indien était venu le prendre avec le squif. Il ne restait plus qu’une demi-douzaine de voyageurs à bord du steam-boat, les uns à destination de Pablo, petit bourg, bâti près du phare qui s’élève à l’entrée des bouches du Saint-John, les autres à destination de l’île Talbot, située au large de l’ouverture des passes de ce nom, les derniers, enfin, à destination du port de Fernandina. Le <hi rend="i">Shannon</hi> continua donc à battre les eaux du fleuve, dont il put franchir la barre sans accidents. Une heure après, il avait disparu au tournant de la crique Trout, où le Saint-John mêle ses lames déjà houleuses à la houle de l’Océan.</p>
         </div>
         <div type="chapter">
-          <head>II.
-<lb/>Camdless-Bay
-<lb/></head>
+          <head>II. Camdless-Bay</head>
           <p>Camdless-Bay, tel était le nom de la plantation qui appartenait à James Burbank. C'est là que le riche colon demeurait avec toute sa famille. Ce nom de Camdless venait d’une des criques du Saint-John, qui s’ouvre un peu en amont de Jacksonville et sur la rive opposée du fleuve. Par suite de cette proximité, on pouvait communiquer facilement avec la cité floridienne. Une bonne embarcation, un vent de nord ou de sud, en profitant du jusant pour aller ou du flot pour revenir, il ne fallait pas plus d’une heure pour franchir les trois milles, qui séparent Camdless-Bay de ce chef-lieu du comté de Duval.</p>
           <p>James Burbank possédait une des plus belles propriétés du pays. Riche par lui-même et par sa famille, sa fortune se complétait encore d’immeubles importants, situés dans l’État de New-Jersey, qui confine à l’État de New-York.</p>
           <p>Cet emplacement, sur la rive droite du Saint-John, avait été très heureusement choisi pour y fonder un établissement d’une valeur considérable. Aux heureuses dispositions déjà fournies par la nature, la main de l’homme n’avait rien eu à reprendre. Ce terrain se prêtait de lui-même à tous les besoins d’une vaste exploitation. Aussi la plantation de Camdless-Bay, dirigée par un homme intelligent, actif, dans toute la force de l’âge, bien secondé de son personnel, et auquel les capitaux ne manquaient point, était-elle en parfait état de prospérité.</p>
@@ -172,9 +165,7 @@
           <p>Telle était Camdless-Bay, la plantation de James Burbank, et l’une des plus riches de la Floride orientale.</p>
         </div>
         <div type="chapter">
-          <head>III.
-<lb/>Où en est la guerre de Sécession
-<lb/></head>
+          <head>III. Où en est la guerre de Sécession</head>
           <p>Quelques mots sur la guerre de Sécession, à laquelle cette histoire doit être intimement mêlée.</p>
           <p>Et, tout d’abord, que ceci soit bien établi dès le début : ainsi que l’a dit le comte de Paris, ancien aide de camp du général Mac Clellan, dans sa remarquable <hi rend="i">Histoire de la guerre civile en Amérique</hi>, cette guerre n’a eu pour cause ni une question de tarifs, ni une différence réelle d’origine entre le Nord et le Sud. La race anglo-saxonne régnait également sur tout le territoire des États-Unis. Aussi, la question commerciale n’a-t-elle jamais été en jeu dans cette terrible lutte entre frères. « C'est l’esclavage qui, prospérant dans une moitié de la république et aboli dans l’autre, y avait créé deux sociétés hostiles. Il avait profondément modifié les mœurs de celle où il dominait, tout en laissant intactes les formes apparentes du gouvernement. C'est lui qui fut non pas le prétexte ou l’occasion, mais la cause unique de l’antagonisme dont la conséquence inévitable fut la guerre civile. »</p>
           <p>Dans les États à esclaves, il y avait trois classes. En bas, quatre millions de Nègres asservis, soit le tiers de la population. En haut, la caste des propriétaires, relativement peu instruite, riche, dédaigneuse, qui se réservait absolument la direction des affaires publiques. Entre les deux, la classe remuante, paresseuse, misérable, des petits Blancs. Ceux-ci, contre toute attente, se montrèrent ardents pour le maintien de l’esclavage, par crainte de voir la classe des Nègres affranchis s’élever à leur niveau.</p>
@@ -205,9 +196,7 @@
           <p>Telle était la situation des belligérants au commencement de février de l’année 1862. Tels étaient les progrès du gouvernement fédéral vers le Sud, au moment où les navires du commodore Dupont et les troupes de Sherman menaçaient la Floride.</p>
         </div>
         <div type="chapter">
-          <head>IV.
-<lb/>La famille Burbank
-<lb/></head>
+          <head>IV. La famille Burbank</head>
           <p>Il était sept heures et quelques minutes, lorsque James Burbank et Edward Carrol montèrent les marches du perron sur lequel s’ouvrait la porte principale de Castle-House, du côté du Saint-John. Zermah, tenant la fillette par la main, le gravit après eux. Tous se trouvèrent dans le hall, sorte de grand vestibule, dont le fond, arrondi en dôme, contenait la double révolution du grand escalier qui desservait les étages supérieurs.</p>
           <p>Mme Burbank était là, en compagnie de Perry, le régisseur général de la plantation.</p>
           <p>« Il n’y a rien de nouveau à Jacksonville ?</p>
@@ -282,9 +271,7 @@
           <p>Ainsi, en aucun temps, la situation de Zermah et de Mars n’avait été si heureuse, et cela, au sortir des mains d’un Tickborn, après avoir risqué de tomber dans celles d’un Texar. – Ils ne devaient jamais l’oublier.</p>
         </div>
         <div type="chapter">
-          <head>V.
-<lb/>La Crique-Noire
-<lb/></head>
+          <head>V. La Crique-Noire</head>
           <p>Le lendemain, aux premières lueurs de l’aube, un homme se promenait sur la berge de l’un des îlots perdus au fond de cette lagune de la Crique-Noire. C'était Texar. À quelques pas de lui, un Indien, assis dans le squif qui avait accosté la veille le <hi rend="i">Shannon</hi>, venait d’aborder. C'était Squambô.</p>
           <p>Après quelques allées et venues, Texar s’arrêta devant un magnolier, amena à lui une des basses branches de l’arbre et en détacha une feuille avec sa tige. Puis, il tira de son carnet un petit billet qui ne contenait que trois ou quatre mots, écrits à l’encre. Ce billet, après l’avoir roulé menu, il l’introduisit dans la nervure inférieure de la feuille. Cela fut fait assez adroitement pour que cette feuille de magnolier n’eût rien perdu de son aspect habituel.</p>
           <p>« Squambô ! dit alors Texar.</p>
@@ -336,9 +323,7 @@
           <p>– Rien. »</p>
         </div>
         <div type="chapter">
-          <head>VI.
-<lb/>Jacksonville
-<lb/></head>
+          <head>VI. Jacksonville</head>
           <p>« Oui, Zermah, oui, vous avez été créée et mise au monde pour être esclave ! reprit le régisseur, réenfourchant son dada favori. Oui ! esclave, et nullement pour être une créature libre.</p>
           <p>– Ce n’est pas mon avis, répondit Zermah d’un ton calme, sans y mettre aucune animation, tant elle était faite à ces discussions avec le régisseur de Camdless-Bay.</p>
           <p>– C'est possible, Zermah ! Quoi qu’il en soit, vous finirez par vous ranger à cette opinion qu’il n’y a aucune égalité qui puisse raisonnablement s’établir entre les Blancs et les Noirs.</p>
@@ -418,9 +403,7 @@
           <p>Rien de plus.</p>
         </div>
         <div type="chapter">
-          <head>VII.
-<lb/>Quand même !
-<lb/></head>
+          <head>VII. Quand même !</head>
           <p>Si ce n’était pas encore le coup de foudre, c’était, du moins, l’éclair qui le précède.</p>
           <p>James Burbank n’en fut pas ébranlé, mais quelles inquiétudes éprouva toute la famille !</p>
           <p>Pourquoi le propriétaire de Camdless-Bay était-il mandé à Jacksonville ? C'était bien un ordre, non une invitation, de comparaître devant les autorités. Que lui voulait-on ? Cette mesure venait-elle à la suite d’une proposition d’enquête qui allait être commencée contre lui ? Était-ce sa liberté, sinon sa vie, que menaçait cette décision ? S'il obéissait, s’il quittait Castle-House, l’y laisserait-on revenir ? S'il n’obéissait pas, emploierait-on la force pour le contraindre ? Et, dans ce cas, à quels périls, à quelles violences, les siens seraient-ils exposés ?</p>
@@ -557,9 +540,7 @@
           <p>« Non ! dit-il à la petite Dy, qui l’embrassait. Je t’avais promis de revenir pour dîner, ma chérie, et, tu le sais bien, je ne manque jamais à mes promesses ! »</p>
         </div>
         <div type="chapter">
-          <head>VIII.
-<lb/>La dernière esclave
-<lb/></head>
+          <head>VIII. La dernière esclave</head>
           <p>Le soir même, James Burbank mit les siens au courant de ce qui s’était passé à Court-Justice. L'odieuse conduite de Texar leur fut dévoilée. C'était sous la pression de cet homme et de la populace de Jacksonville que l’ordre de comparution avait été adressé à Camdless-Bay. L'attitude des magistrats, en cette affaire, ne méritait que des éloges. À cette accusation d’intelligences avec les fédéraux, ils avaient répondu en exigeant la preuve qu’elle fût fondée. Texar, n’ayant pu fournir cette preuve, James Burbank avait été laissé libre.</p>
           <p>Toutefois, au milieu de ces vagues incriminations, le nom de Gilbert avait été prononcé. On ne semblait pas mettre en doute que le jeune homme ne fût à l’armée du Nord. Le refus de répondre à cet égard, n’était-ce pas un demi-aveu de la part de James Burbank ?</p>
           <p>Ce que furent alors les craintes, les angoisses de Mme Burbank, de Miss Alice, de toute cette famille si menacée, cela n’est que trop aisé à comprendre. À défaut du fils qui leur échappait, les forcenés de Jacksonville ne s’en reprendraient-ils pas à son père ? Texar s’était vanté, sans doute, lorsqu’il avait promis de produire, sous quelques jours, une preuve de ce fait. En somme, il n’était pas impossible qu’il ne parvînt à se la procurer, et la situation serait inquiétante au plus haut point.</p>
@@ -688,9 +669,7 @@
           <p>Et, prenant son acte d’affranchissement, Zermah le déchira et tomba aux genoux de James Burbank.</p>
         </div>
         <div type="chapter">
-          <head>IX.
-<lb/>Attente
-<lb/></head>
+          <head>IX. Attente</head>
           <p>Telles étaient les premières conséquences du mouvement généreux auquel avait obéi James Burbank en affranchissant ses esclaves, avant que l’armée fédérale fût maîtresse du territoire.</p>
           <p>À présent, Texar et ses partisans dominaient la ville et le comté. Ils allaient se livrer à tous les actes de violence auxquels leur nature brutale et grossière devait les pousser, c’est-à-dire aux plus épouvantables excès. Si, par ses dénonciations vagues, l’Espagnol n’avait pu, en fin de compte, faire emprisonner James Burbank, il n’en était pas moins arrivé à son but, en profitant des dispositions de Jacksonville, dont la population était en grande partie surexcitée par la conduite de ses magistrats dans l’affaire du propriétaire de Camdless-Bay. Après l’acquittement du colon anti-esclavagiste, qui venait de proclamer l’émancipation sur tout son domaine, du nordiste dont les vœux étaient manifestement pour le Nord, Texar avait soulevé la foule des malhonnêtes gens, il avait révolutionné la ville. Ayant amené par là le renversement des autorités si compromises, il avait mis à leur place les plus avancés de son parti, il en avait formé un comité où les petits Blancs se partageaient le pouvoir avec les Floridiens d’origine espagnole, il s’était assuré le concours de la milice, travaillée depuis longtemps déjà, et qui fraternisait avec la populace. Maintenant, le sort des habitants de tout le comté était entre ses mains.</p>
           <p>Il faut le dire, la conduite de James Burbank n’avait trouvé aucune approbation chez la plupart des colons dont les établissements bordent les deux rives du Saint-John. Ceux-ci pouvaient craindre que leurs esclaves voulussent les obliger à suivre son exemple. Le plus grand nombre des planteurs, partisans de l’esclavage, résolus à lutter contre les prétentions des Unionistes, voyaient avec une extrême irritation la marche des armées fédérales. Aussi prétendaient-ils que la Floride résistât comme résistaient encore les États du Sud. Si, dans le début de la guerre, cette question d’affranchissement n’avait peut-être excité que leur indifférence, ils s’empressaient à présent de se ranger sous le drapeau de Jefferson Davis. Ils étaient prêts à seconder les efforts des rebelles contre le gouvernement d’Abraham Lincoln.</p>
@@ -779,9 +758,7 @@
           <p>Plusieurs fois, James Burbank et ses amis se relevèrent, afin de s’assurer que leurs ordres étaient ponctuellement exécutés. Lorsque le soleil reparut, aucun incident n’avait troublé le repos des hôtes de Camdless-Bay.</p>
         </div>
         <div type="chapter">
-          <head>X.
-<lb/>La journée du 2 mars
-<lb/></head>
+          <head>X. La journée du 2 mars</head>
           <p>Le lendemain, 2 mars, James Burbank reçut des nouvelles par un de ses sous-régisseurs, qui avait pu traverser le fleuve et revenir de Jacksonville, sans avoir éveillé le moindre soupçon.</p>
           <p>Ces nouvelles dont on ne pouvait suspecter la certitude, étaient très importantes. Qu'on en juge.</p>
           <p>Le commodore Dupont, au jour levant, était venu jeter l’ancre dans la baie de Saint-Andrews, à l’est de la côte de Géorgie. Le <hi rend="i">Wabash</hi>, sur lequel était arboré son pavillon, marchait en tête d’une escadre composée de vingt-six bâtiments, soit dix-huit canonnières, un cotre, un transport armé en guerre, et six transports sur lesquels s’était embarquée la brigade du général Wright.</p>
@@ -843,9 +820,7 @@
           <p>Aussi, une embarcation, cachée au milieu des roseaux du Saint-John et confiée à la garde de deux Noirs, attendait-elle à l’extrémité du tunnel qui mettait l’habitation en communication avec la crique Marino. Mais, avant d’en arriver à cette séparation, si elle devenait nécessaire, il fallait se défendre, il fallait résister pendant quelques heures – au moins jusqu’à la nuit. Grâce à l’obscurité, l’embarcation pourrait alors remonter secrètement le fleuve, sans courir le risque d’être poursuivie par les canots suspects que l’on voyait errer à la surface.</p>
         </div>
         <div type="chapter">
-          <head>XI.
-<lb/>La soirée du 2 mars
-<lb/></head>
+          <head>XI. La soirée du 2 mars</head>
           <p>James Burbank, ses compagnons, le plus grand nombre des Noirs étaient prêts pour le combat. Ils n’avaient plus qu’à attendre l’attaque. Les dispositions étaient prises, pour résister d’abord derrière les palanques de l’enceinte, qui défendaient le parc particulier, ensuite à l’abri des murailles de Castle-House, dans le cas où, le parc étant envahi, il faudrait y chercher refuge.</p>
           <p>Vers cinq heures, des clameurs, assez distinctes déjà, indiquaient que les assaillants n’étaient plus éloignés. À défaut de leurs cris, il n’eût été que trop facile de reconnaître qu’ils occupaient maintenant toute la partie nord du domaine. En maint endroit, d’épaisses fumées tourbillonnaient au-dessus des forêts qui fermaient l’horizon de ce côté. Les scieries avaient été livrées aux flammes, les baraccons des Noirs, dévorés par l’incendie, après avoir été pillés. Ces pauvres gens n’avaient pas eu le temps de mettre en sûreté les quelques objets abandonnés dans leurs cases, dont l’acte d’affranchissement leur assurait la propriété depuis la veille. Aussi, quels cris de désespoir répondirent aux hurlements de la bande, et quels cris de colère ! C'était leur bien que ces malfaiteurs venaient de détruire, après avoir envahi Camdless-Bay.</p>
           <p>Cependant les clameurs se rapprochaient peu à peu de Castle-House. De sinistres lueurs éclairaient l’horizon du nord, comme si le soleil se fût couché dans cette direction. Parfois, de chaudes fumées se rabattaient jusqu’au château. Il se faisait des détonations violentes, produites par les bois secs entassés sur les chantiers de la plantation. Bientôt une explosion plus intense indiqua qu’une chaudière des scieries venait de sauter. La dévastation s’annonçait dans toute son horreur.</p>
@@ -951,9 +926,7 @@
           <p>Puis elle s affaissa près de Mme Burbank.</p>
         </div>
         <div type="chapter">
-          <head>XII.
-<lb/>Les six jours qui suivent
-<lb/></head>
+          <head>XII. Les six jours qui suivent</head>
           <p>Lorsque Mme Burbank et Miss Alice s’étaient engagées dans le tunnel qui conduit à la petite crique Marino sur la rive du Saint-John, Zermah les précédait. Celle-ci tenait la petite fille d’une main, de l’autre, elle portait une lanterne, dont la faible lueur éclairait leur marche. Arrivée à l’extrémité du tunnel, Zermah avait prié Mme Burbank de l’attendre. Elle voulait s’assurer que l’embarcation et les deux Noirs, qui devaient la conduire au Roc-des-Cèdres, se trouvaient à leur poste. Après avoir ouvert la porte qui fermait l’extrémité du tunnel, elle s’était avancée vers le fleuve.</p>
           <p>Depuis une minute – rien qu’une minute – Mme Burbank et Miss Alice guettaient le retour de Zermah, lorsque la jeune fille remarqua que la petite Dy n’était plus là.</p>
           <p>« Dy ?… Dy ?… » cria Mme Burbank, au risque de trahir sa présence en cet endroit.</p>
@@ -1030,9 +1003,7 @@
           <p>Un cri échappa à Miss Alice, qui s’élança vers cette porte. James Burbank voulut en vain retenir la jeune fille. Et, comme on n’avait pas encore répondu, un nouveau coup fut frappé plus distinctement.</p>
         </div>
         <div type="chapter">
-          <head>XIII.
-<lb/>Pendant quelques heures
-<lb/></head>
+          <head>XIII. Pendant quelques heures</head>
           <p>James Burbank s’avança vers le seuil. Il n’attendait personne. Peut-être quelque importante nouvelle lui arrivait-elle de Jacksonville, apportée par John Bruce de la part de son correspondant, M. Harvey ?</p>
           <p>On frappa une troisième fois d’une main plus impatiente.</p>
           <p>« Qui est là ? demanda James Burbank.</p>
@@ -1153,9 +1124,7 @@
           <p>Et tous deux, suivant la rive droite du fleuve, le long des berges de la plantation, marchèrent rapidement pendant une demi-heure. Ils ne rencontrèrent personne sur la route. Arrivés à l’endroit où ils avaient laissé leur gig, caché sous un amoncellement de roseaux, ils s’embarquèrent pour aller prendre le fil du courant qui devait les entraîner rapidement vers la barre du Saint-John.</p>
         </div>
         <div type="chapter">
-          <head>XIV.
-<lb/>Sur le Saint-John
-<lb/></head>
+          <head>XIV. Sur le Saint-John</head>
           <p>Le fleuve était alors désert dans cette partie de son cours. Pas une seule lueur n’apparaissait sur la rive opposée. Les lumières de Jacksonville se cachaient derrière le coude que fait la crique de Camdless, en s’arrondissant vers le nord. Leur reflet seul montait au-dessus et teintait la plus basse couche des nuages.</p>
           <p>Bien que la nuit fût sombre, le gig pouvait facilement prendre direction sur la barre. Comme aucune vapeur ne se dégageait des eaux du Saint-John, il aurait été facile de le suivre et de le poursuivre, si quelque embarcation confédérée l’eût attendu au passage – ce que Gilbert et son compagnon ne croyaient pas avoir lieu de craindre.</p>
           <p>Tous deux gardaient un profond silence. Au lieu de descendre ce fleuve, ils auraient voulu le traverser pour aller chercher Texar jusque dans Jacksonville, pour se rencontrer face à face avec lui. Et alors, remontant le Saint-John, ils eussent fouillé toutes les forêts, toutes les criques de ses rives. Où M. James Burbank avait échoué, ils auraient réussi peut-être. Et pourtant, il n’était que sage d’attendre. Lorsque les fédéraux seraient maîtres de la Floride, Gilbert et Mars pourraient agir avec plus de chances de succès vis-à-vis de l’Espagnol. D'ailleurs, le devoir leur ordonnait de rejoindre avant le jour la flottille du commandant Stevens. Si la barre devenait praticable plus tôt qu’on ne l’espérait, ne fallait-il pas que le jeune lieutenant fût à son poste de combat, et Mars au sien, pour piloter les canonnières à travers ce chenal, dont il connaissait la profondeur à tout instant de la mer montante ?</p>
@@ -1263,9 +1232,7 @@
           <p>D'un coup de son coutelas, Mars se débarrassa de l’homme qui le tenait. Avant qu’on eût pu le ressaisir, l’intrépide mari de Zermah s’était précipité dans le fleuve. En vain chercha-t-on à le reprendre. Il venait de disparaître au milieu des tourbillons de la barre, dont les eaux tumultueuses se changent en torrents au retour de la marée montante.</p>
         </div>
         <div type="chapter">
-          <head>XV.
-<lb/>Jugement
-<lb/></head>
+          <head>XV. Jugement</head>
           <p>Une heure plus tard, Gilbert accostait le quai de Jacksonville. On avait entendu les coups de revolver tirés en aval. S'agissait-il là d’un engagement entre les embarcations confédérées et la flottille fédérale ? Ne devait-on pas craindre, même, que les canonnières du commandant Stevens eussent franchi le chenal en cet endroit ? Cela n’avait pas laissé de causer une très sérieuse émotion parmi la population de la ville. Une partie des habitants s’était rapidement portée vers les estacades. Les autorités civiles, représentées par Texar et les plus déterminés de ses partisans n’avaient point tardé à les suivre. Tous regardaient dans la direction de la barre, maintenant dégagée des brumes. Lorgnettes et longues-vues fonctionnaient incessamment. Mais la distance était trop grande – environ trois milles – pour que l’on pût être fixé sur l’importance de l’engagement et de ses résultats.</p>
           <p>En tout cas, la flottille se tenait toujours au poste de mouillage qu’elle occupait la veille, et Jacksonville ne devait encore rien redouter d’une attaque immédiate des canonnières. Les plus compromis de ses habitants auraient le temps de se préparer à fuir vers l’intérieur de la Floride.</p>
           <p>D'ailleurs, si Texar et deux ou trois de ses compagnons avaient, plus que tous autres, quelques raisons de craindre pour leur propre sécurité, il ne leur parut pas qu’il y eût lieu de s’inquiéter de l’incident. L'Espagnol se doutait bien qu’il s’agissait de la capture de ce canot, dont il voulait s’emparer à tout prix.</p>
@@ -1336,12 +1303,9 @@
         </div>
       </div>
       <div>
-        <head>Deuxième partie
-<lb/></head>
+        <head>Deuxième partie</head>
         <div type="chapter">
-          <head>I.
-<lb/>Après l’enlèvement
-<lb/></head>
+          <head>I. Après l’enlèvement</head>
           <p>« Texar !… » tel était bien le nom détesté que Zermah avait jeté dans l’ombre, au moment où Mme Burbank et Miss Alice arrivaient sur la berge de la crique Marino. La jeune fille avait reconnu le misérable Espagnol. On ne pouvait donc mettre en doute qu’il fût l’auteur de l’enlèvement auquel il avait présidé en personne.</p>
           <p>C'était Texar, en effet, accompagné d’une demi-douzaine de gens à lui, ses complices.</p>
           <p>De longue main, l’Espagnol avait préparé cette expédition qui devait entraîner la dévastation de Camdless-Bay, le pillage de Castle-House, la ruine de la famille Burbank, la capture ou la mort de son chef. C'est dans ce but qu’il venait de lancer ses hordes de pillards sur la plantation. Mais il ne s’était pas mis à leur tête, laissant aux plus forcenés de ses partisans le soin de les diriger. Ainsi s’expliquera-t-on que John Bruce, mêlé à la bande des assaillants, eût pu affirmer à James Burbank que Texar ne se trouvait pas avec eux.</p>
@@ -1424,9 +1388,7 @@
           <p>Dy, enveloppée d’une couverture qui traînait dans un coin, fut couchée sur une sorte de grabat. Zermah veilla près d’elle.</p>
         </div>
         <div type="chapter">
-          <head>II.
-<lb/>Singulière opération
-<lb/></head>
+          <head>II. Singulière opération</head>
           <p>Le lendemain, 3 mars, à huit heures du matin, Squambô entra dans la chambre où Zermah avait passé la nuit. Il apportait quelque nourriture, – du pain, un morceau de venaison froide, des fruits, un broc de bière assez forte, une cruche d’eau, et aussi différents ustensiles de table. En même temps, un des Noirs plaçait dans un coin un vieux meuble, pour servir de toilette et de commode, avec un peu de linge, draps, serviettes, et autres menus objets, dont la métisse pourrait faire usage pour la petite fille et pour elle-même.</p>
           <p>Dy dormait encore. D'un geste, Zermah avait supplié, Squambô de ne point la réveiller.</p>
           <p>Lorsque le Noir fut sorti, Zermah, s’adressant à l’Indien, dit à voix basse :</p>
@@ -1523,9 +1485,7 @@
           <p>Ce fut là qu’il arriva au petit jour, et à temps pour mettre ses projets à exécution. En effet, à quelques jours de là, Mars disparaissait sous les eaux du Saint-John et Gilbert Burbank était condamné à mort.</p>
         </div>
         <div type="chapter">
-          <head>III.
-<lb/>La veille
-<lb/></head>
+          <head>III. La veille</head>
           <p>C'était le 11 mars, dans la matinée, que Gilbert Burbank avait été jugé par le Comité de Jacksonville. C'était le soir même que son père venait d’être mis en état d’arrestation par ordre dudit Comité. C'était le surlendemain que le jeune officier devait être passé par les armes, et, sans doute, James Burbank, accusé d’être son complice, condamné à la même peine, mourrait avec lui !</p>
           <p>On le sait, Texar tenait le Comité dans sa main. Sa volonté seule y faisait loi. L'exécution du père et du fils ne serait que le prélude des sanglants excès auxquels allaient se porter les petits Blancs, soutenus par la populace, contre les nordistes de l’État de Floride et ceux qui partageaient leurs idées sur la question de l’esclavage. Que de vengeances personnelles s’assouviraient ainsi sous le voile de la guerre civile ! Rien que la présence des troupes fédérales pourrait les arrêter. Mais arriveraient-elles, et surtout arriveraient-elles avant que ces premières victimes eussent été sacrifiées à la haine de l’Espagnol ?</p>
           <p>Malheureusement, il y avait lieu d’en douter.</p>
@@ -1631,9 +1591,7 @@
           <p>Mais, la nuit arrivée, lorsque MM. Stannard et Harvey voulurent mettre leur projet à exécution, ils durent y renoncer. L'habitation était gardée à vue par une escouade de la milice, et ce fut en vain que tous deux en voulurent sortir.</p>
         </div>
         <div type="chapter">
-          <head>IV.
-<lb/>Coup de vent de nord-est
-<lb/></head>
+          <head>IV. Coup de vent de nord-est</head>
           <p>Les condamnés n’avaient plus, maintenant, qu’une chance de salut – une seule : c’était qu’avant douze heures, les fédéraux fussent maîtres de la ville. En effet, le lendemain, au soleil levant, James et Gilbert Burbank devaient être passés par les armes. De leur prison, surveillée ainsi que l’était la maison de M. Harvey, comment auraient-ils pu fuir, même avec la connivence d’un geôlier ?</p>
           <p>Cependant, pour s’emparer de Jacksonville, on ne devait pas compter sur les troupes nordistes, débarquées depuis quelques jours à Fernandina, et qui ne pouvaient abandonner cette importante position au nord de l’État de Floride. Aux canonnières du commandant Stevens incombait cette tâche. Or, pour l’accomplir, il fallait, avant tout, franchir la barre du Saint-John. Alors, la ligne des embarcations étant forcée, la flottille n’aurait plus qu’à s’embosser à la hauteur du port. De là, quand elle tiendrait la ville sous ses feux, nul doute que les milices battissent en retraite à travers les inaccessibles marécages du comté. Texar et ses partisans se hâteraient certainement de les suivre, afin d’éviter de trop justes représailles. Les honnêtes gens pourraient aussitôt reprendre la place, dont ils avaient été indignement chassés, et traiter avec les représentants du gouvernement fédéral pour la reddition de la ville.</p>
           <p>Or, ce passage de la barre, était-il possible de l’effectuer, et cela dans un si court délai ? Y avait-il quelque moyen de vaincre l’obstacle matériel que le manque d’eau opposait toujours à la marche des canonnières ? C'était désormais très douteux, comme on va le voir.</p>
@@ -1738,9 +1696,7 @@
           <p>Quelques instants plus tard, Texar était enfermé dans la cellule même où ses victimes avaient attendu l’heure de l’exécution.</p>
         </div>
         <div type="chapter">
-          <head>V.
-<lb/>Prise de possession
-<lb/></head>
+          <head>V. Prise de possession</head>
           <p>Les fédéraux étaient enfin maîtres de Jacksonville – par suite, maîtres du Saint-John. Les troupes de débarquement, amenées par le commandant Stevens, occupèrent aussitôt les principaux points de la cité. Les autorités usurpatrices avaient pris la fuite. Seul de l’ancien comité, Texar était tombé entre leurs mains.</p>
           <p>D'ailleurs, soit lassitude des exactions commises pendant ces derniers jours, soit même indifférence sur la question de l’esclavage que le Nord et le Sud cherchaient alors à trancher par les armes, les habitants ne firent point mauvais accueil aux officiers de la flottille, qui représentaient le gouvernement de Washington.</p>
           <p>Pendant ce temps, le commodore Dupont, établi à Saint-Augustine, s’occupait de mettre le littoral floridien à l’abri de la contrebande de guerre. Les passes de Mosquito-Inlet furent bientôt fermées. Cela coupa court au commerce d’armes et de munitions qui se faisait avec les Lucayes, les îles anglaises de Bahama. On peut dire qu’à partir de ce moment, l’État de Floride rentra sous l’autorité fédérale.</p>
@@ -1835,9 +1791,7 @@
           <p>Aussi, le lendemain, 15 mars, une ordonnance fut-elle rendue, qui traduisait Texar devant le tribunal militaire sous la double prévention de pillage et de rapt. C'était devant le Conseil de guerre, siégeant à Saint-Augustine, que l’accusé aurait à répondre de ses attentats.</p>
         </div>
         <div type="chapter">
-          <head>VI.
-<lb/>Saint-Augustine
-<lb/></head>
+          <head>VI. Saint-Augustine</head>
           <p>Saint-Augustine, une des plus anciennes villes de l’Amérique du Nord, date du quinzième siècle. C'est la capitale du comté de Saint-Jean, lequel, si vaste qu’il soit, ne compte pas même trois mille habitants.</p>
           <p>D'origine espagnole, Saint-Augustine est à peu près restée ce qu’elle était autrefois. Elle s’élève vers l’extrémité d’une des îles du littoral. Les navires de guerre ou de commerce peuvent trouver un refuge assuré dans son port, qui est assez bien protégé contre les vents du large, incessamment déchaînés contre cette côte dangereuse de la Floride. Toutefois, pour y pénétrer, il faut franchir la barre dangereuse que les remous du Gulf-Stream développent à son entrée.</p>
           <p>Les rues de Saint-Augustine sont étroites comme celles de toutes les villes que le soleil frappe directement de ses rayons. Grâce à leur disposition, aux brises marines qui viennent, soir et matin, rafraîchir l’atmosphère, le climat est très doux dans cette ville, qui est aux États-Unis ce que sont à la France Nice ou Menton sous le ciel de la Provence.</p>
@@ -1962,9 +1916,7 @@
           <p>Le soir même, l’Espagnol avait quitté Saint-Augustine, et nul n’aurait pu dire en quelle région de la Floride il était allé reprendre sa mystérieuse vie d’aventure.</p>
         </div>
         <div type="chapter">
-          <head>VII.
-<lb/>Derniers mots et dernier soupir
-<lb/></head>
+          <head>VII. Derniers mots et dernier soupir</head>
           <p>Ce jour même, 17 mars, James et Gilbert Burbank, M. Stannard et sa fille, rentraient avec le mari de Zermah à la plantation de Camdless-Bay.</p>
           <p>On ne put cacher la vérité à Mme Burbank. La malheureuse mère en reçut un nouveau coup, qui pouvait être mortel dans l’état de faiblesse où elle se trouvait.</p>
           <p>Cette dernière tentative pour connaître le sort de l’enfant n’avait pas abouti. Texar s’était refusé à répondre. Et comment l’y eût-on obligé, puisqu’il prétendait ne point être l’auteur de l’enlèvement ? Non seulement il le prétendait, mais, par un alibi non moins inexplicable que les précédents, il prouvait qu’il n’avait pu être à la crique Marino au moment où s’accomplissait le crime. Puisqu’il avait été absous de l’accusation lancée contre lui, il n’y avait plus à lui donner le choix entre une peine et un aveu qui aurait pu mettre sur la trace de ses victimes.</p>
@@ -2080,9 +2032,7 @@
           <p>Ce fut le dernier mot de ce pauvre esclave, qui retomba mort sur la couche d’herbes.</p>
         </div>
         <div type="chapter">
-          <head>VIII.
-<lb/>De Camdless-Bay au lac Washington
-<lb/></head>
+          <head>VIII. De Camdless-Bay au lac Washington</head>
           <p>Le soir même, un peu avant minuit, Gilbert et Mars étaient de retour à Castle-House. Que de difficultés ils avaient dû vaincre pour sortir de la Crique-Noire ! Au moment où ils quittaient le blockhaus, la nuit commençait à se faire dans la vallée du Saint-John. Aussi l’obscurité était-elle déjà complète sous les arbres de la lagune. Sans une sorte d’instinct qui guidait Mars à travers les passes, entre les îlots confondus dans la nuit, ni l’un ni l’autre n’eussent pu regagner le cours du fleuve. Vingt fois, leur embarcation dut s’arrêter devant un barrage qu’elle ne pouvait franchir, et rebrousser chemin pour atteindre quelque chenal praticable. Il fallut allumer des branches résineuses et les planter à l’avant du canot, afin d’éclairer la route tant bien que mal. Où les difficultés devinrent extrêmes, ce fut précisément quand Mars chercha à retrouver l’unique issue qui permettait aux eaux de s’écouler vers le Saint-John. Le métis ne reconnaissait plus la brèche faite dans le fouillis des roseaux, par laquelle tous deux avaient passé quelques heures auparavant. Par bonheur, la marée descendait, et le canot put se laisser aller au courant qui s’établissait par son déversoir naturel. Trois heures plus tard, après avoir rapidement franchi les vingt milles qui séparent la Crique-Noire de la plantation, Gilbert et Mars débarquaient au pied de Camdless-Bay.</p>
           <p>On les attendait à Castle-House. James Burbank ni aucun des siens n’avaient encore regagné leurs chambres. Ils s’inquiétaient de ce retard inaccoutumé. Gilbert et Mars avaient l’habitude de revenir chaque soir. Pourquoi n’étaient-ils pas de retour ? En devait-on conclure qu’ils avaient trouvé une piste nouvelle, que leurs recherches allaient peut-être aboutir ? Que d’angoisses dans cette attente !</p>
           <p>Ils arrivèrent enfin, et, à leur entrée dans le hall, tous s’étaient précipités vers eux.</p>
@@ -2164,9 +2114,7 @@
           <p>En somme, les deux tiers étant faits, James Burbank et les siens ne se trouvaient plus qu’à cent quarante milles des Everglades.</p>
         </div>
         <div type="chapter">
-          <head>IX.
-<lb/>La grande cyprière
-<lb/></head>
+          <head>IX. La grande cyprière</head>
           <p>Le lac Washington, long d’une dizaine de milles, est un des moins importants de cette région de la Floride méridionale. Ses eaux, peu profondes, sont embarrassées d’herbes que le courant arrache aux prairies flottantes – véritables nids à serpents qui rendent très dangereuse la navigation à sa surface. Il est donc désert comme ses rives, étant peu propice à la chasse, à la pêche, et il est rare que les embarcations du Saint-John s’aventurent jusqu’à lui.</p>
           <p>Au sud du lac, le fleuve reprend son cours en s’infléchissant plus directement vers le midi de la presqu’île. Ce n’est plus alors qu’un ruisseau sans profondeur, dont les sources sont situées à trente milles dans le sud, entre 28°et 27°de latitude.</p>
           <p>Le Saint-John cesse d’être navigable au-dessous du lac Washington. Quelques regrets qu’en éprouvât James Burbank, il fallut renoncer au transport par eau, afin de prendre la voie de terre, au milieu d’un pays très difficile, le plus souvent marécageux, à travers des forêts sans fin, dont le sol, coupé de rios et de fondrières, ne peut que retarder la marche des piétons.</p>
@@ -2235,9 +2183,7 @@
           <p>« En avant ! » dit-il.</p>
         </div>
         <div type="chapter">
-          <head>X.
-<lb/>Rencontre
-<lb/></head>
+          <head>X. Rencontre</head>
           <p>Oui ! il fallait aller en avant. Cependant, en présence d’éventualités redoutables, toutes les précautions devaient être prises. Il était indispensable d’éclairer la marche, de reconnaître les épaisseurs de la cyprière, de se tenir prêt à tout événement.</p>
           <p>Les armes furent donc visitées avec soin et mises en état de servir au premier signal. À la moindre alerte, les ballots déposés à terre, tous prendraient part à la défense. Quant à la disposition du personnel en marche, il ne serait pas modifié ; Gilbert et Mars continueraient de rester à l’avant-garde, à une distance plus grande, afin de prévenir toute surprise. Chacun était prêt à faire, son devoir, bien que ces braves gens eussent visiblement le cœur serré depuis qu’un obstacle se dressait entre eux et le but qu’ils voulaient atteindre.</p>
           <p>Le pas n’avait point été ralenti. Toutefois, il avait paru prudent de ne pas suivre les traces toujours nettement indiquées. Mieux valait, s’il était possible, ne point se rencontrer avec le détachement qui s’avançait dans la direction des Everglades. Malheureusement, on reconnut bientôt que ce serait assez difficile. En effet, ce détachement n’allait pas en ligne directe. Les empreintes faisaient de nombreux crochets à droite, à gauche – ce qui indiquait une certaine hésitation dans la marche. Néanmoins, leur direction générale était vers le sud.</p>
@@ -2352,9 +2298,7 @@
           <p>Ce mystère s’éclaircirait-il ? on ne pouvait l’affirmer. Quoi qu’il en soit, il fallait s’emparer de Texar, et c’est à cela qu’allaient tendre les marins du capitaine Howick réunis aux compagnons de James Burbank.</p>
         </div>
         <div type="chapter">
-          <head>XI.
-<lb/>Les Everglades
-<lb/></head>
+          <head>XI. Les Everglades</head>
           <p>Une région à la fois horrible et superbe, ces Everglades. Situées dans la partie méridionale de la Floride, elles se prolongent jusqu’au cap Sable, dernière pointe de la péninsule. Cette région, à vrai dire, n’est qu’un immense marais presque au niveau de l’Atlantique. Les eaux de la mer l’inondent par grandes masses, lorsque les tempêtes de l’Océan ou du golfe du Mexique les y précipitent, et elles restent mélangées avec les eaux du ciel que la saison hivernale déverse en épaisses cataractes. De là, une contrée, moitié liquide, moitié solide, dont l’habitabilité est presque impossible.</p>
           <p>Pour ceinture, ces eaux ont des cadres de sable blanc, qui en accusent vivement la couleur sombre, miroirs multiples où se réfléchit seulement le vol des innombrables oiseaux qui passent à leur surface. Elles ne sont pas poissonneuses, mais les serpents y pullulent.</p>
           <p>Il ne faudrait pas croire, cependant, que le caractère général de cette région soit l’aridité. Non, et c’est précisément à la surface des îles, baignées par les eaux malsaines des lacs, que la nature reprend ses droits. La malaria est, pour ainsi dire, vaincue par les parfums que répandent les admirables fleurs de cette zone. Les îles sont embaumées des odeurs de mille plantes, épanouies avec une splendeur qui justifie le poétique nom de la péninsule floridienne. Aussi est-ce en ces oasis salubres des Everglades que les Indiens nomades vont se réfugier pendant leurs haltes, dont la durée n’est jamais longue.</p>
@@ -2432,9 +2376,7 @@
           <p>Si elle ne pouvait rien voir de ce qui se passait dans la chambre, ni reconnaître l’interlocuteur de Texar, elle pouvait l’entendre. Et voici ce qu’elle entendit.</p>
         </div>
         <div type="chapter">
-          <head>XII.
-<lb/>Ce qu’entend Zermah
-<lb/></head>
+          <head>XII. Ce qu’entend Zermah</head>
           <p>«Toi, à l’île Carneral ?</p>
           <p>– Oui, depuis quelques heures.</p>
           <p>– Je te croyais à Adamsville<hi rend="b"><note place="bottom">Petite ville du comté de Putnam.</note></hi>, aux environs du lac Apopka<hi rend="b"><note place="bottom">Lac qui alimente un des principaux affluents du Saint-John.</note></hi> ?</p>
@@ -2562,9 +2504,7 @@
           <p>Deux hommes étaient là, debout, devant Squambô, mais si semblables de figure et de corps, que Zermah n’aurait pu reconnaître lequel des deux était Texar.</p>
         </div>
         <div type="chapter">
-          <head>XIII.
-<lb/>Une vie double
-<lb/></head>
+          <head>XIII. Une vie double</head>
           <p>Quelques mots suffiront à expliquer ce qui, jusqu’ici, a paru inexplicable dans cette histoire. On verra ce que peuvent imaginer certains hommes, quand leur mauvaise nature, aidée d’une réelle intelligence, les pousse dans la voie du mal.</p>
           <p>Ces hommes, devant lesquels Zermah venait subitement d’apparaître, étaient deux frères, deux jumeaux.</p>
           <p>Où étaient-ils nés ? Eux-mêmes ne le savaient pas au juste. Dans quelque petit village du Texas, sans doute – d’où ce nom de Texar, par changement de la dernière lettre du mot.</p>
@@ -2613,9 +2553,7 @@
           <p>Quant à Zermah, son apparition en présence des deux frères, ce secret qu’elle venait de surprendre, c’était pour elle un arrêt de mort.</p>
         </div>
         <div type="chapter">
-          <head>XIV.
-<lb/>Zermah à l’œuvre
-<lb/></head>
+          <head>XIV. Zermah à l’œuvre</head>
           <p>Devant Zermah, les Texar, si maîtres d’eux qu’ils fussent, n’avaient pu se contenir. Depuis leur enfance, on peut le dire, c’était la première fois qu’ils étaient vus ensemble par une tierce personne. Et cette personne était leur mortelle ennemie. Aussi, dans un premier mouvement, ils allaient s’élancer sur elle, ils allaient la tuer, afin de sauver ce secret de leur double existence…</p>
           <p>L'enfant s’était redressée dans les bras de Zermah, et, tendant ses petites mains, criait :</p>
           <p>« J'ai peur !… J'ai peur ! »</p>
@@ -2698,9 +2636,7 @@
           <p>La barge était sur l’autre rive.</p>
         </div>
         <div type="chapter">
-          <head>XV.
-<lb/>Les deux frères
-<lb/></head>
+          <head>XV. Les deux frères</head>
           <p>La situation était désespérée. Comment passer ? Un audacieux nageur n’aurait pu le faire, sans courir le risque de perdre vingt fois la vie. Qu'il n’y eût qu’une centaine de pieds d’une rive à l’autre, soit ! Mais, faute d’une barque, il était impossible de les franchir. Des têtes triangulaires pointaient çà et là hors des eaux, et les herbes s’agitaient sous la passée rapide des reptiles.</p>
           <p>La petite Dy, au comble de l’épouvante, se pressait contre Zermah. Ah ! si pour le salut de l’enfant, il eût suffi de se jeter au milieu de ces monstres, qui l’eussent enlacée comme un gigantesque poulpe aux mille tentacules, la métisse n’aurait pas hésité un instant !</p>
           <p>Mais, pour la sauver, il fallait une circonstance providentielle. Cette circonstance, à Dieu seul de la faire naître. Zermah n’avait plus de recours qu’en lui. Agenouillée sur la berge, elle implorait Celui qui dispose du hasard, dont il fait le plus souvent l’agent de ses volontés.</p>
@@ -2799,9 +2735,7 @@
           <p>Ainsi finirent ces hommes, chargés de tous ces crimes qu’une extraordinaire ressemblance leur avait permis de commettre impunément depuis tant d’années. Le seul sentiment humain qu’ils eussent jamais éprouvé, cette farouche amitié de frère à frère qu’ils ressentaient l’un pour l’autre, les avait suivis jusque dans la mort.</p>
         </div>
         <div type="chapter">
-          <head>XVI.
-<lb/>Conclusion
-<lb/></head>
+          <head>XVI. Conclusion</head>
           <p>Cependant la guerre civile se poursuivait avec ses phases diverses. Quelques événements s’étaient récemment accomplis, dont James Burbank n’avait pu avoir connaissance depuis son départ de Camdless-Bay et qu’il n’apprit qu’au retour.</p>
           <p>En somme, il semblait que, pendant cette période, l’avantage eût été obtenu par les confédérés concentrés autour de Corinth, au moment où les fédéraux occupaient la position de Pittsburg-Landing. L'armée séparatiste avait, pour la commander, Johnston, général en chef, et sous lui, Beauregard, Hardee, Braxton-Bagg, l’évêque Polk, autrefois élève de West-Point, et elle profita habilement de l’imprévoyance des nordistes. Le 5 avril, à Shiloh, ceux-ci s’étaient laissé surprendre – ce qui avait amené la dispersion de la brigade Hea-body et la retraite de Sherman. Toutefois, les confédérés payèrent cruellement le succès qu’ils venaient d’obtenir ; l’héroïque Johnston fut tué pendant qu’il repoussait l’armée fédérale.</p>
           <p>Tel avait été le premier jour de la bataille du 5 avril. Le surlendemain, le combat s’engagea sur toute la ligne, et Sherman parvint à reprendre Shiloh. À leur tour, les confédérés durent fuir devant les soldats de Grant. Sanglante bataille ! Sur quatre-vingt mille hommes engagés, vingt mille blessés ou morts !</p>

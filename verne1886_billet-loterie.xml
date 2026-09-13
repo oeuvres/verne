@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-06T18:07:55+01:00-->
-<!-- nettoyage rapide sinon bien -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -27,10 +25,8 @@
   </teiHeader>
   <text>
     <body>
-      <divGen type="toc"/>
-      <div>
-        <head>I
-<lb/></head>
+      <div type="chapter">
+        <head>I</head>
         <p>– Quelle heure est-il ? demanda dame Hansen, après avoir secoué les cendres de sa pipe, dont les dernières bouffées se perdirent entre les poutres coloriées du plafond.</p>
         <p>– Huit heures, ma mère, répondit Hulda.</p>
         <p>– Il n’est pas probable qu’il nous arrive des voyageurs pendant la nuit ; le temps est trop mauvais.</p>
@@ -121,9 +117,8 @@
         <p>« Ton fiancé,</p>
         <p rend="right">« Ole Kamp. »</p>
       </div>
-      <div>
-        <head>II
-<lb/></head>
+      <div type="chapter">
+        <head>II</head>
         <p>Dal – quelques maisons seulement, les unes le long d’une route qui n’est à vrai dire qu’un sentier, les autres éparses sur les croupes voisines. Elles tournent la face à l’étroite vallée du Vestfjorddal, le dos au cadre des collines du nord, au pied desquelles coule le Maan. L’ensemble de ces constructions formerait un des gaards très communs dans le pays, s’il était sous la direction d’un seul propriétaire de cultures ou d’un fermier à gages. Mais il a droit, si ce n’est au nom de bourg, du moins à celui de hameau. Une petite chapelle, édifiée en 1855, dont le chevet est percé de deux étroites fenêtres à vitraux, dresse non loin, à travers le fouillis des arbres, son clocher à quatre pans – le tout en bois. Çà et là, au-dessus des rios qui courent à la rivière, sont jetés quelques ponceaux, charpentés en losange, dont l’entrecroisement est rempli de pierres moussues. Plus loin se font entendre les grincements d’une ou deux scieries rudimentaires, actionnées par les torrents, avec une roue pour manœuvrer la scie, et une roue pour mouvoir la poutre ou le madrier. À courte distance, chapelle, scieries, maisons, cabanes, tout semble baigné dans une molle vapeur de verdure, sombre avec les sapins, glauque avec les bouleaux, que dessinent les arbres, isolés ou groupés, depuis les berges sinueuses du Maan jusqu’à la crête des hautes montagnes du Telemark.</p>
         <p>Tel est ce hameau de Dal, frais et riant, avec ses habitations pittoresques, extérieurement peintes, celles-ci de couleurs tendres – vert naissant ou rose clair – celles-là enluminées de couleurs violentes, jaune éclatant ou sang-de-bœuf. Leurs toits d’écorces de bouleau, emplâtrés d’un gazon verdoyant que l’on fauche à l’automne, sont coiffés de fleurs naturelles. Tout cela est délicieux et appartient au plus charmant pays du monde. Pour tout dire, Dal est dans le Telemark, le Telemark est en Norvège, et la Norvège, c’est la Suisse avec plusieurs milliers de fiords qui permettent à la mer de gronder au pied de ses montagnes.</p>
         <p>Le Telemark est compris dans cette portion renflée de l’énorme cornue que figure la Norvège entre Bergen et Christiania. Ce bailliage – une dépendance de la préfecture de Batsberg – a des montagnes et des glaciers comme la Suisse, mais ce n’est pas la Suisse. Il a des chutes grandioses comme le Nord-Amérique, mais ce n’est pas l’Amérique. Il a des paysages avec des maisons peintes et des processions d’habitants, vêtus de costumes d’un autre âge, comme certains bourgs de la Hollande, mais ce n’est pas la Hollande. Le Telemark, c’est mieux que tout cela, c’est le Telemark, contrée peut-être unique au monde par les beautés naturelles qu’elle renferme. L’auteur a eu le plaisir de le visiter. Il l’a parcouru en kariol avec des chevaux pris aux relais de poste – quand il s’en trouvait. Il en a rapporté une impression de charme et de poésie, si vivace encore dans son souvenir, qu’il voudrait pouvoir en imprégner ce simple récit.</p>
@@ -144,9 +139,8 @@
         <p>« Nous n’avons qu’à nous louer de la réception qu’on nous a « fait » dans cette auberge ! »</p>
         <p>Peu importe la faute grammaticale, après tout ! Si la phrase est plus reconnaissante que française, elle n’en rend pas moins hommage à dame Hansen et à sa fille, la charmante Hulda du Vestfjorddal.</p>
       </div>
-      <div>
-        <head>III
-<lb/></head>
+      <div type="chapter">
+        <head>III</head>
         <p>Sans être trop versé dans la science ethnographique, on peut croire, avec plusieurs savants, qu’il existe une certaine parenté entre les hautes familles de l’aristocratie anglaise et les anciennes familles du royaume scandinave. On en trouve de nombreuses preuves dans ces noms d’ancêtres qui sont identiques entre les deux pays. Et pourtant, il n’y a pas d’aristocratie en Norvège. Mais, si la démocratie domine, cela ne l’empêche pas d’être aristocratique au plus haut point. Tous sont égaux en haut, au lieu de l’être en bas. Jusque dans les plus humbles cabanes se dresse encore l’arbre généalogique, qui n’a point dégénéré pour avoir repris racine en terre plébéienne. Là s’écartèlent les blasons des familles nobles des époques féodales, dont ces simples paysans descendent.</p>
         <p>Il en était ainsi des Hansen, de Dal, parents, à un degré très éloigné, sans doute, de ces pairs d’Angleterre, créés à la suite de l’invasion du Rollon de Normandie. Et s’ils n’en possédaient plus la situation ni la richesse, du moins en avaient-ils conservé la fierté originelle, ou, plutôt, la dignité, qui est à sa place dans toutes les conditions sociales.</p>
         <p>Peu importait, d’ailleurs ! Quoiqu’il eût des ancêtres de haute naissance, Harald Hansen n’en était pas moins aubergiste à Dal. La maison lui venait de son père et de son grand-père, dont il rappelait volontiers la situation dans le pays. Après lui, sa femme avait continué d’y exercer cette profession de manière à mériter l’estime publique.</p>
@@ -169,9 +163,8 @@
         <p>Quoi de plus agréable que de lui entendre répondre de sa voix fraîche et sonore :</p>
         <p>– Puisse-t-il vous faire du bien, <hi rend="i">Wed bekomme</hi> !</p>
       </div>
-      <div>
-        <head>IV
-<lb/></head>
+      <div type="chapter">
+        <head>IV</head>
         <p>Ole Kamp était parti depuis un an. Il l’avait dit dans sa lettre – une rude campagne, cette campagne d’hiver sur les parages de New Found Land ! On y gagne bien son argent, quand on en gagne. Il y a là-bas des coups de vent d’équinoxe qui surprennent les bâtiments, au large des îles, et détruisent en quelques heures toute une flottille de pêche. Mais le poisson pullule sur ce haut fond de Terre-Neuve, et les équipages, lorsqu’ils sont favorisés, trouvent une large compensation aux fatigues comme aux dangers de ce trou à tempêtes.</p>
         <p>Du reste, les Norvégiens sont de bons marins. Ils ne boudent point à la besogne. Au milieu des fiords du littoral, depuis Christiansand jusqu’au cap Nord, entre les récifs du Finmark, à travers les passes des Loffoden, les occasions ne leur manquent pas de se familiariser avec les fureurs de l’Océan. Lorsqu’ils traversent l’Atlantique Nord pour aller de conserve aux lointaines pêcheries de Terre-Neuve, ils ont déjà fait preuve de courage. Pendant leur enfance, ce qu’ils ont reçu de coups de queue d’ouragan, sur la côte européenne, les a mis à même d’affronter les coups de tête des mêmes tempêtes sur le New Found Land. Ils attrapent la bourrasque à son début, voilà toute la différence.</p>
         <p>Les Norvégiens ont de qui tenir, d’ailleurs. Leurs ancêtres étaient d’intrépides gens de mer, à l’époque où les Hansen avaient accaparé le commerce de l’Europe septentrionale. Peut-être furent-ils un peu pirates dans les anciens temps ; mais la piraterie c’était alors la façon de procéder. Sans doute, le commerce s’est bien moralisé depuis, bien qu’il soit permis de penser qu’il reste encore quelque chose à faire.</p>
@@ -249,9 +242,8 @@
         <p>– Et… rien de plus ?…</p>
         <p>– Rien, si ce n’est de vous dire qu’il viendrait probablement vous voir le mois prochain ! – Bonne santé et bonsoir, dame Hansen !</p>
       </div>
-      <div>
-        <head>V
-<lb/></head>
+      <div type="chapter">
+        <head>V</head>
         <p>Hulda, en effet, était très frappée de cette persistance de Ole à toujours lui parler dans ses lettres de cette fortune qu’il comptait trouver à son retour. Sur quoi le brave garçon fondait-il cette espérance ? Hulda ne pouvait le deviner, et il lui tardait de le savoir. Qu’on excuse cette impatience si naturelle. Était-ce donc une vaine curiosité de sa part ? Point. Ce secret la regardait bien un peu. Non qu’elle fût ambitieuse, l’honnête et simple fille, ni que ses visées d’avenir se fussent jamais haussées à ce qu’on appelle la richesse. L’affection de Ole lui suffisait, elle devait lui suffire toujours. Si la fortune venait, on l’accueillerait sans grande joie. Si elle ne venait pas, on s’en passerait sans grand déplaisir.</p>
         <p>C’est précisément ce que se disaient Hulda et Joël, le lendemain du jour où la dernière lettre de Ole était arrivée à Dal. Là-dessus ils pensaient de la même façon – comme sur tout le reste, d’ailleurs.</p>
         <p>Et alors Joël d’ajouter :</p>
@@ -319,9 +311,8 @@
         <p>– Serait-ce Ole ! s’écria Hulda. Elle alla ouvrir. Sur le seuil se tenait un homme en manteau de voyage,</p>
         <p>juché sur le siège de sa kariol, et dont le visage lui était inconnu.</p>
       </div>
-      <div>
-        <head>VI
-<lb/></head>
+      <div type="chapter">
+        <head>VI</head>
         <p>– C’est ici l’auberge de dame Hansen ?</p>
         <p>– Oui, monsieur, répondit Hulda.</p>
         <p>– Dame Hansen est-elle là ?</p>
@@ -410,9 +401,8 @@
         <p>– Vous ne devez rien !</p>
         <p>– C’est mon avis ! répondit le voyageur. Et, sans donner plus de bonsoir en sortant qu’il n’avait donné de bonjour en arrivant, il monta dans sa kariol, pendant que le gamin sautait derrière lui sur la planchette. Quelques instants après, il avait disparu au tournant de la route. Lorsque Hulda eut ouvert le livre, elle n’y trouva que ce nom : « Sandgoïst, de Drammen. »</p>
       </div>
-      <div>
-        <head>VII
-<lb/></head>
+      <div type="chapter">
+        <head>VII</head>
         <p>C’était dans l’après-midi, le lendemain, que Joël devait rentrer à Dal, après avoir laissé sur la route qui conduit au Hardanger le touriste auquel il servait de guide.</p>
         <p>Hulda, sachant que son frère allait revenir en suivant les plateaux du Gousta, par la rive gauche du Maan, était venue l’attendre au passage de l’impétueuse rivière. Elle s’assit près du petit appontement qui sert d’embarcadère au bac. Là, elle se perdit dans ses réflexions. Aux vives inquiétudes que lui causait le retard du <hi rend="i">Viken</hi> se joignait maintenant une anxiété très grande. Cette anxiété avait pour cause la visite de ce Sandgoïst et l’attitude de dame Hansen devant lui. Pourquoi, dès qu’elle avait appris son nom, avait-elle déchiré la note, refusé de recevoir ce qui lui était dû ? Il y avait là quelque secret – grave sans doute.</p>
         <p>Hulda fut enfin tirée de ses réflexions par l’arrivée de Joël. Elle l’aperçut qui dévalait les premières assises de la montagne. Tantôt il apparaissait au milieu des étroites clairières, entre les arbres abattus ou brûlés par places. Tantôt il disparaissait sous l’épaisse ramure des pins, des bouleaux et des hêtres dont ces croupes sont hérissées. Enfin, il atteignit la rive opposée et se jeta dans le petit bac. En quelques coups d’aviron, il eut franchi les violents remous du cours d’eau. Puis, sautant sur la berge, il fut près de sa sœur.</p>
@@ -477,9 +467,8 @@
         <p>– Toi, petite sœur, toi ! Il faut te distraire, et je t’emmène !</p>
         <p>– Ah ! merci, mon Joël !</p>
       </div>
-      <div>
-        <head>VIII
-<lb/></head>
+      <div type="chapter">
+        <head>VIII</head>
         <p>Le lendemain, tous deux quittèrent l’auberge dès l’aube. Une quinzaine de kilomètres de Dal aux célèbres chutes, autant pour en revenir, ce n’eût été qu’une promenade pour Joël, mais il fallait ménager les forces de Hulda. Joël s’était donc assuré de la kariol du contremaître Lengling, et, comme toutes les kariols, celle-ci n’avait qu’une place. Il est vrai, ce brave homme était si gros qu’il avait fallu fabriquer une caisse à sa convenance. Or, c’était suffisant pour que Hulda et Joël pussent y tenir l’un près de l’autre. Donc, si le voyageur annoncé se trouvait au Rjukanfos, il prendrait la place de Joël, et celui-ci reviendrait à pied ou monterait sur la planchette derrière la caisse.</p>
         <p>Route charmante, de Dal aux chutes, quoique prodigue de cahots. Incontestablement, c’est plutôt un sentier qu’une route. Des poutres à peine équarries, jetées sur les rios tributaires du Maan, le traversent en formant des ponceaux à quelques centaines de pas les uns des autres. Mais le cheval norvégien est habitué à les franchir d’un pied sûr, et, si la kariol n’a point de ressorts, ses longs brancards, un peu élastiques, atténuent, dans une certaine mesure, les heurts du sol.</p>
         <p>Le temps était beau. Joël et Hulda allaient d’un bon pas le long des verdoyantes prairies, baignées à leur lisière de gauche par les eaux claires du Maan. Quelques milliers de bouleaux ombrageaient çà et là le chemin gaiement ensoleillé. La buée de la nuit se fondait en gouttelettes à la pointe des longues herbes. Sur la droite du torrent, à deux mille mètres d’altitude, les plaques neigeuses du Gousta jetaient dans l’espace un intense rayonnement de lumière.</p>
@@ -609,9 +598,8 @@
         <p>– Et de fameuses, mon garçon, de fameuses ! On partit en suivant la route qui se rapproche peu à peu du Maan. Joël s’était mis à la tête du cheval et il le guidait par le bridon, de manière à éviter de trop forts cahots à la kariol. Le retour se fit gaiement – du moins de la part du voyageur. Il causait déjà comme un vieil ami de la famille Hansen. Avant d’arriver, le frère et la sœur lui disaient « monsieur Sylvius », et monsieur Sylvius ne les appelait plus que Hulda et Joël, comme s’ils se fussent connus tous trois de longue date.</p>
         <p>Vers quatre heures, le petit clocher de Dal montra sa fine pointe entre les arbres du hameau. Un instant après, le cheval s’arrêtait devant l’auberge. Le voyageur descendit de la kariol, non sans quelque peine. Dame Hansen était venue le recevoir à la porte, et, bien qu’il n’eût pas demandé la meilleure chambre de la maison, ce fut celle-là qu’on lui donna tout de même.</p>
       </div>
-      <div>
-        <head>IX
-<lb/></head>
+      <div type="chapter">
+        <head>IX</head>
         <p>Sylvius Hog – tel fut le nom qui, ce soir-là, fut inscrit sur le livre des voyageurs, et précisément à la suite du nom de Sandgoïst. Vif contraste, on en conviendra, entre les deux noms comme entre les deux hommes qui les portaient. Entre eux, il n’y avait aucun rapport ni au physique ni au moral. Générosité d’un côté, avidité de l’autre. L’un, c’était la bonté du cœur, l’autre, c’était la sécheresse de l’âme.</p>
         <p>Sylvius Hog avait à peine soixante ans. Encore ne les paraissait-il pas. Grand, droit, bien constitué, sain d’esprit et sain de corps, il plaisait dès le premier abord avec sa belle et aimable figure, sans barbe, bien encadrée sous des cheveux grisonnants et un peu longs, avec ses yeux souriants comme ses lèvres, son front large où les plus nobles pensées pouvaient circuler sans peine, sa vaste poitrine dans laquelle le cœur pouvait battre à l’aise. À tous ces avantages, il joignait un inépuisable fonds de bonne humeur, une physionomie fine et déliée, une nature capable de toutes les générosités comme de tous les dévouements.</p>
         <p>Sylvius Hog, de Christiania – cela disait tout. Et non seulement il était connu, apprécié, aimé, honoré dans la capitale norvégienne, mais aussi dans tout le pays – le pays norvégien, bien entendu. En effet, les sentiments que l’on professait à son égard n’étaient plus les mêmes dans l’autre moitié du royaume scandinave, c’est-à-dire, en Suède.</p>
@@ -629,9 +617,8 @@
         <p>En ce moment, Sylvius Hog profitait d’un congé de trois mois pour se remettre de ses fatigues, après une laborieuse année de travaux législatifs. Il avait quitté Christiania depuis six semaines, avec l’intention de parcourir toute la contrée qui s’étend jusqu’à Drontheim, le Hardanger, le Telemark, les districts de Kongsberg et de Drammen. Il voulait visiter ces provinces qu’il ne connaissait pas encore. Un voyage d’étude et d’agrément.</p>
         <p>Sylvius Hog avait déjà traversé une partie de cette région, et c’était en revenant des bailliages du nord qu’il avait voulu voir la célèbre chute, une des merveilles du Telemark. Après avoir examiné, sur les lieux mêmes, le projet, alors à l’étude, du chemin de fer de Drontheim à Christiania, il avait fait demander un guide pour le conduire à Dal, et il comptait le trouver sur la rive gauche du Maan. Mais, sans l’attendre, attiré par ces admirables sites de la Maristien, il s’était aventuré sur la dangereuse passe. Rare imprudence ! Elle avait failli lui coûter la vie. Et, il faut bien le dire, sans l’intervention de Joël et de Hulda Hansen, le voyage eût fini avec le voyageur dans les gouffres du Rjukanfos.</p>
       </div>
-      <div>
-        <head>X
-<lb/></head>
+      <div type="chapter">
+        <head>X</head>
         <p>On est fort instruit en ces pays scandinaves, non seulement chez les habitants des villes, mais aussi en pleine campagne. Cette instruction va même au-delà de savoir lire, écrire, compter. Le paysan apprend avec plaisir. Son intelligence est ouverte. Il s’intéresse à la chose publique. Il prend une large part aux affaires politiques et communales. Dans le Storthing, les gens de cette condition sont toujours en majorité. Quelquefois, ils y siègent avec le costume de leur province. On les cite, et c’est justice, pour leur haute raison, leur bon sens pratique, leur compréhension juste – si elle est un peu lente – et surtout leur incorruptibilité.</p>
         <p>Il ne faut donc pas s’étonner que le nom de Sylvius Hog fût connu dans toute la Norvège et prononcé avec respect jusque dans cette portion un peu sauvage du Telemark.</p>
         <p>Aussi, dame Hansen, en recevant un hôte si universellement estimé, crut-elle convenable de lui dire combien elle était honorée de l’avoir pour quelques jours sous son toit.</p>
@@ -738,9 +725,8 @@
         <p>– Et quand doit se faire ce mariage ?…</p>
         <p>– Quand il aura plu à Dieu de nous ramener Ole, son fiancé ! répondit Joël.</p>
       </div>
-      <div>
-        <head>XI
-<lb/></head>
+      <div type="chapter">
+        <head>XI</head>
         <p>Alors Joël raconta toute l’histoire de Ole Kamp. Sylvius Hog, très ému par ce récit, l’écoutait avec une profonde attention. Il savait tout maintenant. Il venait de lire la dernière lettre qui annonçait le retour de Ole, et Ole ne revenait pas ! Quelles inquiétudes, quelles angoisses pour toute la famille Hansen !</p>
         <p>« Et moi qui me croyais chez des gens heureux ! » pensait-il.</p>
         <p>Cependant, en y réfléchissant bien, il lui parut que le frère et la sœur se désespéraient, alors que l’on pouvait encore conserver quelque espoir. À force de compter ces jours de mai et de juin, leur imagination en exagérait le chiffre, comme si elle les eût comptés deux fois.</p>
@@ -857,9 +843,8 @@
         <p>« 3 mai. – Chère Hulda, le <hi rend="i">Viken</hi> va sombrer !… Je n’ai plus que ce billet pour toute fortune !… Je le confie à Dieu pour qu’il te le fasse parvenir, et, puisque je n’y serai pas, je te prie d’être là quand il sera tiré !… Reçois-le avec ma dernière pensée pour toi !… Hulda, ne m’oublie pas dans tes prières !… Adieu, chère fiancée, adieu !…</p>
         <p>« Ole Kamp. »</p>
       </div>
-      <div>
-        <head>XII
-<lb/></head>
+      <div type="chapter">
+        <head>XII</head>
         <p>Voilà donc quel était le secret du jeune marin ! C’était là cette chance sur laquelle il comptait pour apporter une fortune à sa fiancée ! Un billet de loterie, acheté avant son départ !… Et au moment où allait sombrer le <hi rend="i">Viken</hi>, il l’avait enfermé dans une bouteille, il l’avait jeté à la mer, avec un dernier adieu pour Hulda !</p>
         <p>Cette fois, Sylvius Hog fut anéanti. Il regardait la lettre, puis le document !… Il ne parlait plus. Qu’eût-il pu dire, d’ailleurs ? Quel doute pouvait exister maintenant sur la catastrophe du <hi rend="i">Viken</hi>, sur la perte de tous ceux qu’il ramenait en Norvège ?</p>
         <p>Hulda, pendant que Sylvius Hog lisait cette lettre, avait pu résister et se raidir contre l’angoisse. Mais, après les derniers mots du billet de Ole, elle tomba dans les bras de Joël. Il fallut la transporter dans sa chambre, où sa mère lui donna les premiers soins. Elle voulut rester seule alors, et, maintenant, agenouillée près de son lit, elle priait pour l’âme de Ole Kamp.</p>
@@ -916,9 +901,8 @@
         <p>À onze heures, la kariol se trouvait devant la porte de l’auberge. Le professeur y prit place avec Joël, après avoir dit un dernier adieu à la jeune fille. Puis, tous deux disparurent au tournant du sentier, sous les grands bouleaux de la rive.</p>
         <p>Le soir même, Joël était de retour à Dal.</p>
       </div>
-      <div>
-        <head>XIII
-<lb/></head>
+      <div type="chapter">
+        <head>XIII</head>
         <p>Sylvius Hog était donc parti pour Bergen. Sa nature tenace, son caractère énergique, un instant ébranlés, avaient repris le dessus. Il ne voulait pas croire à la mort de Ole Kamp, ni admettre que Hulda fût condamnée à ne jamais le revoir. Non ! tant que la matérialité du fait ne serait pas reconnue, il le tenait pour faux. Et, comme on dit vulgairement, « c’était plus fort que lui ».</p>
         <p>Mais avait-il donc un indice sur lequel il lui serait possible d’appuyer l’œuvre qu’il allait entreprendre à Bergen ? Oui, mais un indice bien vague, il faut en convenir !</p>
         <p>Il savait, en effet, à quelle date le billet avait été jeté à la mer par Ole Kamp, à quelle date et dans quels parages la bouteille, qui renfermait ce billet, avait été recueillie. C’est ce que venait de lui apprendre la lettre de la Marine, lettre qui l’avait décidé à partir immédiatement pour Bergen, afin de s’entendre avec la maison Help et les marins les plus compétents du port. Peut-être cela suffirait-il pour imprimer une utile direction aux recherches dont le <hi rend="i">Viken</hi> allait être l’objet.</p>
@@ -979,9 +963,8 @@
         <p>Voilà donc, pendant les deux jours qu’il passa à Bergen, comment Sylvius Hog fit tout ce qu’il était possible de faire pour assurer le succès de cette campagne. Il fut, en cela, parfaitement secondé par son ami Help junior et les autorités maritimes. M. Help eût désiré le garder près de lui pendant quelque temps encore. Sylvius Hog le remercia et refusa de prolonger son séjour. Il lui tardait d’avoir rejoint Hulda et Joël, qu’il craignait de laisser trop longtemps livrés à eux-mêmes. Mais Help junior convint avec lui que, si quelque nouvelle arrivait, elle lui serait aussitôt transmise à Dal. À lui seul appartenait le soin d’en instruire la famille Hansen.</p>
         <p>Le 4, dès le matin, Sylvius Hog, après avoir pris congé de son ami Help junior, se rembarqua sur le <hi rend="i">Run</hi> pour traverser le fiord du Hardanger, et, à moins de retards improbables, il comptait être de retour au Telemark dans la soirée du 5.</p>
       </div>
-      <div>
-        <head>XIV
-<lb/></head>
+      <div type="chapter">
+        <head>XIV</head>
         <p>Le jour même où Sylvius Hog avait quitté Bergen, une scène grave s’était passée dans l’auberge de Dal.</p>
         <p>Après le départ du professeur, on eût dit que le bon génie de Hulda et de Joël avait emporté, avec son dernier espoir, toute la vie de cette famille. C’était comme une maison morte que Sylvius Hog laissait derrière lui.</p>
         <p>Pendant ces deux jours, d’ailleurs, aucun touriste ne vint à Dal. Joël n’eut donc point l’occasion de s’absenter, et il put rester près de Hulda qu’il eût été très anxieux de laisser seule.</p>
@@ -1100,9 +1083,8 @@
         <p>Sandgoïst était toujours là. Joël l’aperçut.</p>
         <p>– Vous… ici… encore ! s’écria-t-il. Puis, allant vers Sandgoïst, il le prit par les épaules, il le souleva, et, malgré sa résistance, malgré ses cris, il le jeta dehors.</p>
       </div>
-      <div>
-        <head>XV
-<lb/></head>
+      <div type="chapter">
+        <head>XV</head>
         <p>Le lendemain, Sylvius Hog revint à Dal dans la soirée. Il ne dit rien de son voyage. Personne ne sut qu’il était allé à Bergen. Tant que les recherches commencées n’auraient pas donné un résultat quelconque, il voulait les taire à la famille Hansen. Toute lettre ou dépêche, qu’elle vînt de Bergen ou de Christiania, devait lui être adressée personnellement à l’auberge, où il se proposait d’attendre les événements. Espérait-il toujours ? Oui ! mais il fallait bien l’avouer, ce n’était plus que du pressentiment.</p>
         <p>Dès qu’il fut de retour, le professeur n’eut pas de peine à reconnaître qu’un événement grave s’était passé pendant son absence. L’attitude de Joël et de Hulda indiquait clairement qu’une explication avait dû avoir lieu entre leur mère et eux. Un nouveau malheur venait-il donc de frapper la famille Hansen ?</p>
         <p>Cela ne put qu’affliger profondément Sylvius Hog. Il éprouvait pour le frère et la sœur une affection si paternelle qu’il n’eût pas été plus étroitement attaché à ses propres enfants. Combien lui avaient-ils manqué pendant cette courte absence – et, peut-être, combien leur avait-il manqué lui-même !</p>
@@ -1173,9 +1155,8 @@
         <p>– Quand comptez-vous partir, monsieur Sylvius ?</p>
         <p>– Demain, dès l’aube, et que saint Olaf nous protège !</p>
       </div>
-      <div>
-        <head>XVI
-<lb/></head>
+      <div type="chapter">
+        <head>XVI</head>
         <p>Le lendemain, la kariol du contremaître Lengling emportait Sylvius Hog et Hulda, assis côte à côte dans la petite caisse peinturlurée. On le sait, il n’y avait pas de place pour Joël. Aussi le brave garçon allait-il à pied, près du cheval, qui secouait gaiement la tête.</p>
         <p>Quatorze kilomètres entre Dal et Moel, ce n’était pas assez pour embarrasser ce vigoureux marcheur.</p>
         <p>La kariol suivait donc cette charmante vallée du Vestfjorddal, en côtoyant la rive gauche du Maan – vallée étroite et ombreuse, arrosée de mille cascades rebondissantes, qui tombent de toutes hauteurs. À chaque détour de ce chemin sinueux, on revoyait et on perdait de vue la cime du Gousta, marquée de deux brillantes taches de neige.</p>
@@ -1254,9 +1235,8 @@
         <p>À neuf heures du soir – il faisait encore grand jour sous cette latitude – l’antique calèche entrait dans la ville, non sans tapage, en suivant les rues déjà désertes.</p>
         <p>D’après l’ordre donné par Sylvius Hog, elle vint s’arrêter à <hi rend="i">l’Hôtel Victoria.</hi> C’est là que descendirent Hulda et Joël. Des chambres avaient été d’avance retenues pour eux. Après un bonsoir affectueux, le professeur regagna sa vieille maison, où sa vieille servante Kate et son vieux domestique Pink l’attendaient avec une non moins vieille impatience.</p>
       </div>
-      <div>
-        <head>XVII
-<lb/></head>
+      <div type="chapter">
+        <head>XVII</head>
         <p>Christiania – grande cité pour la Norvège – ne serait qu’une assez petite ville en Angleterre ou en France. Sans de fréquents incendies, elle se montrerait encore telle qu’elle fut bâtie au onzième siècle. En réalité, elle ne date que de l’année 1624, époque à laquelle la reconstruisit le roi Christian. D’Opsolö qu’elle s’appelait alors, elle devint Christiania, du nom féminisé de son royal architecte. C’est donc une ville régulière, à larges rues, froides et droites, tracées au tire-ligne, avec des maisons de pierres blanches ou de briques rouges. Au milieu d’un assez beau jardin, s’élève le château royal, l’Orscarslot, vaste bâtisse quadrangulaire, sans style, bien qu’elle soit de style ionien. Çà et là, apparaissent quelques églises, dans lesquelles les beautés de l’art ne sauraient distraire l’attention des fidèles. Enfin, il y a aussi plusieurs édifices civils et établissements publics, sans compter un grand bazar, disposé en rotonde, où viennent s’entasser les produits étrangers et indigènes.</p>
         <p>En tout cet ensemble, rien de très curieux. Mais, ce qu’il faut admirer sans réserve, c’est la position de la ville, au milieu de ce cirque de montagnes, si variées d’aspect, qui lui font un cadre superbe. Presque plate dans ses quartiers riches et neufs, elle ne se relève que pour former une sorte de Kasbah, couverte de maisons irrégulières où végète la population peu aisée, huttes de bois, huttes de brique, dont les tons criards étonnent le regard plus qu’ils ne le charment.</p>
         <p>Il ne faudrait pas croire que le mot Kasbah, réservé aux villes africaines, ne saurait être à sa place dans une cité du nord de l’Europe. Christiania n’a-t-elle pas, dans le voisinage du port, les quartiers de Tunis, de Maroc et d’Alger ? Et, s’il ne s’y trouve pas des Tunisiens, des Marocains, des Algériens, leur population flottante n’en vaut guère mieux.</p>
@@ -1299,9 +1279,8 @@
         <p>Dans un numéro du <hi rend="i">Morgen-Blad</hi>, aux nouvelles de mer, il venait de lire la dépêche suivante, datée de Terre-Neuve :</p>
         <p>« L’aviso <hi rend="i">Telegraf</hi>, arrivé sur le lieu présumé du naufrage du <hi rend="i">Viken</hi>, n’en a retrouvé aucun vestige. Ses recherches sur la côte du Groënland n’ont pas eu plus de succès. On doit donc considérer comme certain qu’il ne reste aucun survivant de l’équipage du <hi rend="i">Viken.</hi> »</p>
       </div>
-      <div>
-        <head>XVIII
-<lb/></head>
+      <div type="chapter">
+        <head>XVIII</head>
         <p>– Bonjour, monsieur Benett ! Quand je trouve l’occasion de vous donner une poignée de main, cela me fait toujours plaisir.</p>
         <p>– Et cela me fait toujours honneur, monsieur Hog.</p>
         <p>– Honneur, plaisir, plaisir, honneur, répondit gaiement le professeur, l’un vaut l’autre !</p>
@@ -1413,9 +1392,8 @@
         <p>– Très pénible, j’en conviens ! Mais Ole a voulu que vous fussiez présente au tirage, Hulda, et il faut respecter la volonté de Ole !</p>
         <p>Décidément, cette phrase était devenue un refrain dans la bouche de Sylvius Hog !</p>
       </div>
-      <div>
-        <head>XIX
-<lb/></head>
+      <div type="chapter">
+        <head>XIX</head>
         <p>Quelle affluence en cette grande salle de l’Université de Christiania, où allait s’effectuer le tirage de la loterie – et même dans les cours, puisque la grande salle ne pouvait suffire à tant de monde – et jusque dans les rues avoisinantes, puisque les cours étaient encore trop petites pour contenir tout ce populaire !</p>
         <p>Certes, ce dimanche 15 juillet, ce n’est pas à leur calme qu’on eût pu reconnaître ces Norvégiens si étrangement surexcités. Quant à cette surexcitation, était-elle due à l’intérêt qui s’attachait à ce tirage, ou provenait-elle de la haute température de cette journée d’été ? Peut-être intérêt et chaleur y contribuaient-ils ? En tout cas, ce n’était pas l’absorption de ces fruits rafraîchissants, de ces <hi rend="i">multers</hi>, dont il se fait une si grande consommation en Scandinavie, qui eût pu la refroidir !</p>
         <p>Le tirage devait commencer à trois heures précises. Il y avait cent lots, divisés en trois séries : 1° quatre-vingt-dix lots de cent à mille marks, d’une valeur totale de quarante-cinq mille marks ; 2° neuf lots de mille à neuf mille marks, également d’une valeur totale de quarante-cinq mille marks ; 3° un lot de cent mille marks.</p>
@@ -1483,9 +1461,8 @@
         <p>– Moi ! Était-ce l’usurier de Drammen qui venait de jeter ce mot ? Non ! C’était un jeune homme – un jeune homme à la figure pâle, portant, sur ses traits comme dans toute sa personne, les marques de longues souffrances, mais vivant, bien vivant !</p>
         <p>À cette voix, Hulda s’était levée, elle avait poussé un cri, qui avait été entendu de tous. Puis, elle s’était affaissée… Mais ce jeune homme venait de fendre la foule, et ce fut lui qui reçut dans ses bras la jeune fille sans connaissance… C’était Ole Kamp !</p>
       </div>
-      <div>
-        <head>XX
-<lb/></head>
+      <div type="chapter">
+        <head>XX</head>
         <p>Oui ! c’était Ole Kamp. Ole Kamp qui avait survécu, comme par miracle, au naufrage du <hi rend="i">Viken.</hi></p>
         <p>Et, si le <hi rend="i">Telegraf</hi> ne l’avait pas ramené en Europe, c’est qu’il n’était plus alors dans les parages visités par l’aviso.</p>
         <p>Et, s’il n’y était plus, c’est que, à cette époque, il faisait déjà route pour Christiania sur le navire qui le rapatriait.</p>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -25,7 +26,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1888"/>
+        <date when="1889"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -37,7 +38,7 @@
       <div>
         <head>Première partie</head>
         <div type="chapter">
-          <head>Chapitre 1.<lb/>Quelques faits, quelques dates</head>
+          <head>I. Quelques faits, quelques dates</head>
           <p>« On plaint ce pauvre genre humain qui s’égorge à propos de quelques arpents de glace », disaient les philosophes à la fin du 18ème siècle – et ce n’est pas ce qu’ils ont dit de mieux, puisqu’il s’agissait du Canada, dont les Français disputaient alors la possession aux soldats de l’Angleterre.</p>
           <p>Deux cents ans avant eux, au sujet de ces territoires américains, revendiqués par les rois d’Espagne et de Portugal, François 1<hi rend="sup">er</hi> s’était écrié : « Je voudrais bien voir l’article du testament d’Adam, qui leur lègue ce vaste héritage ! » Le roi avait d’autant plus raison d’y prétendre, qu’une partie de ces territoires devait bientôt prendre le nom de Nouvelle-France.</p>
           <p>Les Français, il est vrai, n’ont pu conserver cette magnifique colonie américaine ; mais sa population, en grande majorité, n’en est pas moins restée française, et elle se rattache à l’ancienne Gaule par ces liens du sang, cette identité de race, ces instincts naturels, que la politique internationale ne parvient jamais à briser.</p>
@@ -176,7 +177,7 @@
           <p>Le général, le ministre et le colonel prirent alors congé de lord Gosford. Puis, sir John Colborne donna ordre au colonel Gore de partir immédiatement pour Montréal, où l’attendait son collègue, le colonel Witherall, chargé de prévenir ou d’enrayer dans les paroisses du comté tout mouvement insurrectionnel.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 2.<lb/>Douze années avant</head>
+          <head>II. Douze années avant</head>
           <p>Simon Morgaz ! Nom abhorré jusque dans les plus humbles hameaux des provinces canadiennes ! Nom voué depuis de longues années à l’exécration publique ! Un Simon Morgaz, c’est le traître qui a livré ses frères et vendu son pays.</p>
           <p>Et on le comprendra, surtout dans cette France, qui n’ignore plus « maintenant » combien sont implacables les haines que mérite le crime de lèse patrie.</p>
           <p>En 1825 – douze ans avant l’insurrection de 1837 – quelques Franco-Canadiens avaient jeté les bases d’une conspiration, dont le but était de soustraire le Canada à la domination anglaise, qui lui pesait si lourdement. Hommes audacieux, actifs, énergiques, de grande situation, issus pour la plupart des premiers émigrants qui avaient fondé la Nouvelle-France, ils ne pouvaient se faire à cette pensée que l’abandon de leur colonie au profit de l’Angleterre fût définitif. En admettant même que le pays ne dût pas revenir aux petits-fils des Cartier et des Champlain, qui l’avaient découvert au XVI<hi rend="sup">e</hi> siècle, n’avait-il pas le droit d’être indépendant ? Sans doute, et c’était pour lui conquérir son indépendance que ces patriotes allaient jouer leur tête.</p>
@@ -272,7 +273,7 @@
           <p>Et maintenant, devant le cadavre du traître qui s’était fait justice, il n’y avait plus qu’une famille flétrie, dont le nom allait disparaître avec celui qui l’avait déshonoré !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 3.<lb/>Un notaire huron</head>
+          <head>III. Un notaire huron</head>
           <p>Ce n’était pas sans de graves motifs que le gouverneur général, sir John Colborne, le ministre de la justice et le colonel Gore avaient conféré au palais de Québec, en vue de mesures à prendre pour réprimer les menées des patriotes. En effet, une redoutable insurrection allait prochainement soulever la population d’origine franco-canadienne.</p>
           <p>Mais si lord Gosford et son entourage s’en préoccupaient à bon droit, ce n’était pas pour inquiéter, semblait-il, un jeune garçon qui, dans la matinée du 3 septembre, grossoyait en l’étude de maître Nick, place du marché Bon-Secours, à Montréal.</p>
           <p>« Grossoyer » n’est peut-être pas le mot qui convenait à cet absorbant travail, auquel le second clerc, Lionel Restigouche, s’adonnait en ce moment – neuf heures du matin. Une colonne, de lignes inégales et de fine écriture, s’allongeait sur une belle feuille de papier bleuâtre, qui ne ressemblait en rien au rude parchemin des actes. Par instants, lorsque la main de Lionel s’arrêtait pour fixer quelque idée indécise, ses yeux se portaient vaguement, à travers la fenêtre entr'ouverte, vers le monument élevé sur la place Jacques Cartier, en l’honneur de l’amiral Nelson. Son regard s’animait alors, son front rayonnait, et sa plume se reprenait à courir, tandis qu’il balançait légèrement la tête, comme s’il eut battu la mesure sous l’influence d’un rythme régulier.</p>
@@ -538,7 +539,7 @@
           <p>Là, on se sépara, après compliments et poignées de mains échangées de part et d’autre. Puis, tandis que le voyageur gagnait directement les rues de Laval, maître Nick et Lionel, tournant la ville, se dirigèrent vers l’est de l’île Jésus.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 4.<lb/>La villa Montcalm</head>
+          <head>IV. La villa Montcalm</head>
           <p>L’île Jésus, couchée entre les deux bras supérieurs du Saint-Laurent, moins étendue que l’île Montréal, renferme un certain nombre de paroisses. Elle circonscrit dans son périmètre le comté de Laval – dont le nom appartient aussi à la grande Université catholique de Québec, en souvenir du premier évêque institué dans le pays canadien.</p>
           <p>Laval est également le nom de la principale bourgade de l’île Jésus, située sur sa rive méridionale. L’habitation de M. de Vaudreuil, bien qu’elle fît partie de cette paroisse, se trouvait à une lieue en descendant le cours du Saint-Laurent.</p>
           <p>C’était une maison d’agréable aspect, entourée d’un parc qui couvrait une cinquantaine d’acres, couvert de prairies et de hautes futaies, et dont la berge du fleuve formait la lisière.</p>
@@ -682,7 +683,7 @@
           <p>« Et surtout, ajouta-t-il, si tu avales quelques vers en mangeant, prends bien garde aux arêtes ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 5.<lb/>L'inconnu</head>
+          <head>V. L'inconnu</head>
           <p>Lorsque Vincent Hodge, William Clerc et André Farran arrivèrent à la villa, ils y furent reçus par M. de Vaudreuil.</p>
           <p>Clary venait de remonter dans sa chambre. Par la fenêtre ouverte sur le parc, elle laissa son regard errer à travers la campagne que le cadre des Laurentides fermait à l’extrême horizon. La pensée de l’être mystérieux, si vivement rappelé à son souvenir, l’occupait tout entière. On l’avait signalé dans le pays. On le recherchait activement dans l’île de Montréal…</p>
           <p>Pour que l’île Jésus lui offrît refuge, il lui suffirait de traverser un bras du fleuve ! Ne voudrait-il pas demander asile à la villa Montcalm ? Qu'il eût là des amis, prêts à l’accueillir, il n’en pouvait douter. Mais, s’abriter sous le toit de M. de Vaudreuil, président de l’un des comités réformistes, ne serait-ce pas s’exposer à des dangers plus grands ? La villa ne devait-elle pas être particulièrement surveillée ? Oui, sans doute ! Et, pourtant, Clary en avait le pressentiment, Jean-Sans-Nom y viendrait, ne fut-ce que pour un jour, pour une heure ! Et, l’imagination surexcitée, désireuse d’être seule, elle avait quitté le salon, avant que les amis de M. de Vaudreuil y fussent introduits.</p>
@@ -799,7 +800,7 @@
           <p>« Restez, » dit-elle.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 6.<lb/>Le Saint-Laurent</head>
+          <head>VI. Le Saint-Laurent</head>
           <p>La vallée du Saint-Laurent est peut-être l’une des plus vastes que les convulsions géologiques aient dessinées à la surface du globe. M. de Humboldt lui attribue une superficie de deux cent soixante-dix mille lieues carrées – superficie égale à peu près à celle de l’Europe entière. Le fleuve, dans son cours capricieux, semé d’îles, barré de rapides, accidenté de chutes, traverse cette riche vallée qui forme le Canada français par excellence. Ces territoires, où s’établirent les premières seigneuries de la noblesse émigrante, sont partagés à l’heure actuelle en comtés et districts. À l’embouchure du Saint-Laurent, sur cette large baie, au delà de l’estuaire, émergent l’archipel de la Madeleine, les îles du Cap Breton et du Prince-Édouard, et la grande île d’Anticosti, que les côtes si diverses d’aspect du Labrador, de Terre-Neuve et de l’Acadie ou Nouvelle-Écosse, abritent contre les redoutables vents de l’Atlantique septentrional.</p>
           <p>C'est vers la mi-avril, seulement, que commence la débâcle des glaces, accumulées par la rigoureuse et longue période hivernale du climat canadien. Le Saint-Laurent devient navigable alors. Les navires de grand tonnage peuvent le remonter jusqu’à la région des lacs – ces mers d’eau douce, dont le chapelet se déroule à travers ce poétique pays, qu’on a si justement appelé le « pays de Cooper ». à cet époque, le fleuve, servi par le flux et le reflux de ses marées, s’anime comme une rade dont un traité de paix viendrait de lever le blocus. Navires à voiles, steamers, <hi rend="i">steam-boats</hi>, trains de bois, bateaux pilotes, caboteurs, barques de pêche, embarcations de plaisance, canots de toutes sortes, glissent à la surface de ses eaux, délivrées de leur épaisse carapace. C'est la vie pour une demi-année, après une demi-année de mort.</p>
           <p>Le 13 septembre, vers six heures du matin, une embarcation, gréée en cotre, quittait le petit port de Sainte-Anne, situé à l’embouchure du Saint-Laurent, sur sa rive méridionale, dans la partie arrondie sur le golfe. Cette embarcation était montée par cinq de ces pêcheurs qui exercent leur fructueux métier depuis les rapides de Montréal jusqu’à l’estuaire du fleuve. Après avoir tendu leurs filets et leurs lignes, là où l’instinct de la profession les guide, ils vont vendre le poisson d’eau salée et d’eau douce de bourgades en bourgades, ou, pour mieux dire, de maisons en maisons, car c’est une suite presque ininterrompue d’habitations qui borde les deux rives jusqu’à la limite ouest de la province.</p>
@@ -906,7 +907,7 @@
           <p>Là-dessus, les deux amis se séparèrent. Puis, Jean, après avoir regagné le <hi rend="i">Champlain</hi>, mouillé à une encablure de la rive, reprit avec le courant la route de Montréal.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 7.<lb/>De Québec à Montréal</head>
+          <head>VII. De Québec à Montréal</head>
           <p>À minuit, le cotre avait déjà gagné quelques milles en amont. Au sein de cette nuit, éclairée par la lumière de la pleine lune, Pierre Harcher manœuvrait avec sûreté, bien qu’il dût courir des bordées d’une rive à l’autre, car le vent soufflait de l’ouest à l’état de fraîche brise.</p>
           <p>Le <hi rend="i">Champlain</hi> ne s’arrêta qu’un peu avant le lever de l’aube. De légères brumes noyaient alors les larges prairies au delà des deux berges. Bientôt les têtes d’arbres, groupés à l’arrière plan, émergèrent de ces vapeurs que le soleil commençait à dissoudre, et le cours du fleuve redevint visible.</p>
           <p>Nombre de pêcheurs étaient déjà à la besogne, traînant leurs filets et leurs lignes à la remorque de ces petites embarcations qui n’abandonnent guère le haut cours du Saint-Laurent ou ses affluents de droite et de gauche. Le <hi rend="i">Champlain</hi> alla se perdre au milieu de cette flottille, livrée à ses occupations matinales entre les rives des comtés de Port-Neuf et de Lotbinière. Les frères Harcher se mirent aussitôt au travail, après avoir jeté l’ancre du côté septentrional. Il leur fallait quelques mannes de poisson, afin de l’aller vendre dans les villages, dès que le flot permettrait de remonter le fleuve malgré le vent contraire.</p>
@@ -1023,7 +1024,7 @@
           <p>À huit heures du soir, le <hi rend="i">Champlain</hi> était solidement amarré dans une petite crique, au pied des premières maisons du bourg de Laprairie. Les frères Harcher avaient achevé leur campagne de pêche, après avoir, pendant six mois et sur deux cents lieues de parcours, remonté et descendu les eaux du grand fleuve.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 8.<lb/>Un anniversaire</head>
+          <head>VIII. Un anniversaire</head>
           <p>Il était cinq heures du soir, lorsque Jean quitta le <hi rend="i">Champlain.</hi> Trois lieues environ le séparaient de la bourgade de Chambly vers laquelle il se dirigeait. Qu'allait-il faire à Chambly ? N'avait-il pas déjà achevé son œuvre de propagande à travers les extrêmes comtés du sud-ouest, avant son arrivée à la villa Montcalm ? Oui, sans doute. Mais cette paroisse n’avait pas encore reçu sa visite. Pour quelle raison ? nul ne l’eût pu deviner. Il ne l’avait dit à personne, et c’est à peine s’il se la disait à lui-même. Il allait là, vers Chambly, comme s’il eût été attiré et repoussé à la fois, ayant conscience, pourtant, du combat qui se livrait en lui.</p>
           <p>Douze ans s’étaient écoulés depuis que Jean avait quitté la bourgade où il était né. On ne l’y avait jamais revu. On ne l’y reconnaîtrait pas. Lui-même, après une si longue absence, n’aurait-il pas oublié la rue dans laquelle il jouait tout petit, la maison où s’était passée son enfance ?</p>
           <p>Non ! ces souvenirs du premier âge ne pouvaient s’être effacés de sa mémoire si vivace ? Au sortir de la forêt riveraine, il se revit au milieu des prairies qu’il parcourait autrefois, lorsqu’il allait rejoindre le bac du Saint-Laurent. Ce n’était point un étranger qui franchissait ce territoire, c’était un enfant du pays. Il n’éprouva pas une hésitation à suivre certaines passes guéables, à prendre des chemins de traverse, à éviter quelques coudes pour abréger la route. Aussi, lorsqu’il serait à Chambly, il n’aurait aucune hésitation à reconnaître la petite place où s’élevait la maison paternelle, la rue étroite par laquelle il y rentrait le plus ordinairement, l’église à laquelle sa mère le conduisait, le collège où il avait commencé ses études, avant qu’il fût allé les achever à Montréal ?</p>
@@ -1117,7 +1118,7 @@
           <p>Et, en un instant, le feu eut dévoré, comme il le faisait à chaque anniversaire, l’effigie de Simon Morgaz. Les clameurs redoublèrent et ne cessèrent qu’au moment où les flammes s’éteignirent. Dans l’ombre, personne n’avait pu voir que Jean et Joann s’étaient rejoints, et que, là, tous deux, la main dans la main, ils baissaient la tête. Sans avoir prononcé une parole, ils quittèrent le théâtre de cette horrible scène, et s’enfuirent de cette bourgade de Chambly, où ils ne devaient jamais revenir.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 9.<lb/>Maison-close</head>
+          <head>IX. Maison-Close</head>
           <p>À six lieues de Saint-Denis s’élève le bourg de Saint-Charles, sur la rive nord du Richelieu, dans le comté de Saint-Hyacinthe, qui confine à celui de Montréal. C'est en descendant le Richelieu, un des affluents les plus considérables du Saint-Laurent, que l’on arrive à la petite ville de Sorel, où le <hi rend="i">Champlain</hi> avait relâché pendant sa dernière campagne de pêche.</p>
           <p>À cette époque, une maison isolée s’élevait à quelques centaines de pas avant le coude qui détourne brusquement la grande rue de Saint-Charles, lorsqu’elle s’engage entre les premières maisons de la bourgade. Modeste et triste habitation. Rien qu’un rez-de-chaussée, percé d’une porte et de deux fenêtres, précédé d’une petite cour, où foisonnent les mauvaises herbes. Le plus souvent, la porte est fermée, les fenêtres ne sont jamais ouvertes, même derrière les volets à panneaux pleins, qui sont repoussés contre elles. Si le jour pénètre à l’intérieur, c’est uniquement par deux autres fenêtres, pratiquées dans la façade opposée, et donnant sur un jardin.</p>
           <p>À vrai dire, ce jardin n’est qu’un carré, entouré de hauts murs festonnés de longues pariétaires, avec un puits à margelle, établi dans l’un des angles. Là, sur une superficie d’un cinquième d’acre, poussent divers légumes. Là, végètent une douzaine d’arbres à fruits, poiriers, noisetiers ou pommiers, abandonnés aux seuls soins de la nature. Une petite basse-cour, prise sur le jardin et contiguë à la maison, loge cinq à six poules, qui fournissent la quantité d’œufs nécessaires à la consommation quotidienne.</p>
@@ -1182,7 +1183,7 @@
           <p>Jean et Joann firent une centaine de pas sur la route ; puis, ils se séparèrent, après avoir donné un dernier regard à Maison-Close, où la mère priait pour ses fils.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 10.<lb/>La ferme de Chipogan</head>
+          <head>X. La ferme de Chipogan</head>
           <p>La ferme de Chipogan, située à sept lieues du bourg de Laprairie, dans le comté de ce nom, occupait un léger renflement du sol sur la rive droite d’un petit cours d’eau, tributaire du Saint-Laurent. M. de Vaudreuil possédait là, sur une superficie de quatre à cinq cents acres, une assez belle propriété de rapport, régie par le fermier Thomas Harcher.</p>
           <p>En avant de la ferme, du côté du <hi rend="i">rio</hi>, s’étendaient de vastes champs, un damier de prairies verdoyantes, entourées de ces haies à claire-voie, connues dans le Royaume-Uni sous le nom de « fewces ». C'était le triomphe du dessin régulier – saxon ou américain – dans toute sa rigueur géométrique. Des carrés, puis des carrés de barrières encadraient ces belles cultures, qui prospéraient, grâce aux riches éléments d’un humus noirâtre, dont la couche, épaisse de trois à quatre pieds, repose le plus généralement sur un lit de glaise. Telle est à peu près la composition du sol canadien jusqu’aux premières rampes des Laurentides.</p>
           <p>Entre ces carrés, cultivés avec un soin minutieux, poussaient diverses sortes de ces céréales que le cultivateur récolte dans les campagnes de la moyenne Europe, le blé, le maïs, le riz, le chanvre, le houblon, le tabac, etc. Là foisonnait aussi ce riz sauvage, improprement appelé « folle avoine », qui se multipliait dans les champs à demi noyés sur les bords du petit cours d’eau, et dont le grain bouilli donne un excellent potage.</p>
@@ -1320,7 +1321,7 @@
           <p>L'enfant fut alors porté au presbytère, où il fut triomphalement accueilli. De par les traditions de la dîme, le petit Jean appartenait à l’église. Comme tel, il serait élevé aux frais de la paroisse. Et, lorsque le cortège se remit en route pour revenir à la ferme de Chipogan, les cris de joie éclatèrent par centaines en l’honneur de Thomas et de Catherine Harcher.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 11.<lb/>Le dernier des Sagamores</head>
+          <head>XI. Le dernier des Sagamores</head>
           <p>Le lendemain, les cérémonies recommencèrent. Nouveau cortège qui se rendit à l’église, dès la première heure. Même recueillement à l’aller, même entrain au retour.</p>
           <p>Les jeunes Clément et Cécile Harcher, l’un dans son habit noir, qui en faisait comme un petit homme, l’autre dans son costume blanc, qui en faisait comme une petite fiancée, figuraient parmi les premiers communiants venus des fermes avoisinantes. Si les autres « habitants » n’étaient pas aussi riches en progéniture que Thomas Harcher de Chipogan, ils n’en avaient pas moins un nombre très respectable de rejetons. Le comté de Laprairie était véritablement comblé des bénédictions du Seigneur, et, à cet égard, il eût pu lutter avec les plus fécondes bourgades de la Nouvelle-Écosse.</p>
           <p>Ce jour-là, Pierre ne revit plus l’étranger, dont la présence l’avait inquiété la veille. En effet, cet agent était reparti. Avait-il soupçonné quelque chose relativement à Jean-Sans-Nom ? Était-il allé faire son rapport au chef de la police de Montréal ? On le saurait avant peu, sans doute.</p>
@@ -1503,7 +1504,7 @@
           <p>et aussi dans les « scotch-reels » d’origine écossaise, qui étaient si recherchés au commencement du siècle. Et, c’est de cette façon que se termina le deuxième jour de fête à la ferme de Chipogan.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 12.<lb/>Le festin</head>
+          <head>XII. Le festin</head>
           <p>Le grand jour était arrivé – le dernier aussi des cérémonies successives de baptême, de communion et de mariage, qui avaient mis en joie les hôtes de Chipogan. Le mariage de Rose Harcher et de Bernard Miquelon, après avoir été célébré pendant la matinée devant l’officier de l’état civil, le serait ensuite à l’église. Par suite, dans l’après-midi, le repas de noces réunirait les convives dont le nombre s’était considérablement accru dans les circonstances que l’on connaît. Vraiment, il était temps d’en finir, ou le comté de Laprairie et même le district de Montréal eussent pris place à la table hospitalière de Thomas Harcher.</p>
           <p>Le lendemain, on se séparerait. M. et Mlle de Vaudreuil retourneraient à la villa Montcalm. Jean quitterait la ferme et ne reparaîtrait sans doute qu’au jour où il viendrait se mettre à la tête du parti réformiste. Quant à ses compagnons du <hi rend="i">Champlain</hi>, ils continueraient le métier de chasseurs, de coureurs des bois, qu’ils exerçaient durant la saison hivernale, en attendant l’heure de rejoindre leur frère adoptif, tandis que la famille reprendrait les travaux habituels de la ferme. Pour les Hurons, ils regagneraient le village de Walhatta, où la tribu comptait faire à Nicolas Sagamore un accueil triomphal, lorsqu’il viendrait fumer pour la première fois le calumet au foyer de ses ancêtres.</p>
           <p>On l’a vu, maître Nick avait été aussi peu charmé que possible des hommages dont il était l’objet. Bien décidé, d’ailleurs, à ne point échanger son étude pour le titre de chef de tribu, il en avait causé avec M. de Vaudreuil, avec Thomas Harcher. Et son ahurissement était tel qu’il était difficile de ne point rire quelque peu de l’aventure.</p>
@@ -1582,7 +1583,7 @@
           <p>« Monsieur Rip ! »</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 13.<lb/>Coups de fusils au dessert</head>
+          <head>XIII. Coups de fusils au dessert</head>
           <p>Le chef de la maison Rip and Co, cette fois, n’était pas suivi de son propre personnel. Au dehors allaient et venaient une dizaine d’agents de Gilbert Argall, accompagnés d’une quarantaine de volontaires royaux, qui occupaient la principale entrée de la cour. Très probablement, la maison était cernée. S'agissait-il donc d’une simple visite domiciliaire, ou était-ce une arrestation qui menaçait le chef de la famille Harcher ? En tout cas, il avait fallu un motif d’une gravité exceptionnelle, pour que le ministre de la police eût jugé nécessaire d’envoyer une escouade aussi nombreuse à la ferme de Chipogan.</p>
           <p>Au nom de Rip, prononcé par le notaire, M. et Mlle de Vaudreuil se sentirent terrifiés. Eux savaient que Jean-Sans-Nom était dans cette salle. Ils savaient que c’était plus particulièrement à Rip qu’avait été donné le mandat de diriger les recherches contre lui. Et que pouvaient-ils penser, sinon que Rip, ayant enfin découvert sa retraite, venait procéder à son arrestation ? Si Jean tombait entre les mains de Gilbert Argall, il était perdu.</p>
           <p>Se contenant par un suprême effort de volonté, Jean n’avait même pas tressailli. C'est à peine si la pâleur de sa figure s’était accentuée. Aucun mouvement, même involontaire, n’avait pu le trahir. Et, pourtant, il venait de reconnaître Rip, avec lequel il s’était déjà rencontré, le jour où le stage le transportait avec maître Nick et Lionel de Montréal à l’île Jésus ! Rip, l’agent lancé à sa poursuite depuis plus de deux mois ! Rip, le provocateur, qui avait causé l’infamie de sa famille, en poussant à la trahison son père Simon Morgaz ! Malgré tout, il garda son sang-froid, il ne laissa rien paraître de la haine qui bouillonnait en lui, tandis que M. de Vaudreuil et sa fille tremblaient à ses côtés.</p>
@@ -1693,7 +1694,7 @@
       <div>
         <head>Deuxième partie</head>
         <div type="chapter">
-          <head>Chapitre 1.<lb/>Premières escarmouches</head>
+          <head>I. Premières escarmouches</head>
           <p>L'affaire de la ferme de Chipogan avait eu un retentissement considérable. Du comté de Laprairie, il s’était rapidement propagé à travers les provinces canadiennes.</p>
           <p>L'opinion publique n’aurait pu trouver une occasion plus favorable pour se manifester. Il ne s’agissait pas uniquement d’une collision entre la police et les « habitants » des campagnes, – collision dans laquelle les agents de l’autorité et les volontaires royaux avaient eu le dessous. Ce qui était plus grave, c’était la circonstance qui avait motivé l’envoi d’une escouade à Chipogan. Jean-Sans-Nom venait de reparaître dans le pays. Le ministre Gilbert Argall, avisé de sa présence à la ferme, avait voulu l’y faire arrêter. L'arrestation ayant échoué, le personnage dans lequel s’incarnait la revendication nationale était libre, et l’on pressentait qu’il saurait prochainement faire usage de sa liberté.</p>
           <p>Où Jean-Sans-Nom s’était-il réfugié, après avoir quitté Chipogan ? Les plus actives, les plus minutieuses, les plus sévères recherches n’avaient pu révéler le lieu de sa retraite. Rip, cependant, bien que très désappointé de l’insuccès de ses démarches, ne désespérait pas de prendre sa revanche. En dehors de l’intérêt personnel, l’honneur de sa maison était en jeu. Il jouerait la partie jusqu’à ce qu’il l’eût gagnée. Le gouvernement savait à quoi s’en tenir là-dessus. Il ne lui avait ni retiré sa confiance ni épargné ses encouragements.</p>
@@ -1777,7 +1778,7 @@
           <p>Mais, après l’affaire, lorsque Viger et les autres cherchèrent Jean-Sans-Nom, il n’était plus là. Sans doute, il avait espéré garder l’incognito jusqu’à l’issue de cette rencontre, et rien, en effet, n’aurait pu lui faire supposer qu’il se trouverait en présence de l’un des agents de Rip, et que sa personnalité serait révélée à ses compagnons. Aussi, dès que le combat avait pris fin, s’était-il hâté de disparaître, sans que personne eût pu voir de quel côté il se dirigeait. Toutefois, ce dont aucun patriote ne doutait maintenant, c’est qu’on le reverrait à l’heure où s’engagerait l’action qui déciderait de l’indépendance canadienne.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 2.<lb/>Saint-Denis et Saint-Charles</head>
+          <head>II. Saint-Denis et Saint-Charles</head>
           <p>Le jour de la prise d’armes ne pouvait être éloigné. Déjà les deux partis étaient en présence. Quel serait le théâtre du combat ? Évidemment, les comtés confinant au comté de Montréal, dans lesquels l’effervescence prenait rapidement des proportions inquiétantes pour le gouvernement, entre autres, les comtés de Verchères et de Saint-Hyacinthe. On signalait plus particulièrement deux des riches paroisses, traversées par le cours du Richelieu et situées à quelques lieues l’une de l’autre, – Saint-Denis, où les réformistes avaient centralisé leurs forces, Saint-Charles, où Jean, qui était revenu à Maison-Close, se préparait à donner le signal de l’insurrection.</p>
           <p>Le gouverneur général avait pris toutes les mesures que commandaient les circonstances. Surprendre celui-ci dans son palais, l’emprisonner, substituer l’autorité populaire à l’autorité royale, les réformistes ne pouvaient plus compter sur cette éventualité. Il fallait même prévoir que l’attaque viendrait des bureaucrates. Aussi, leurs adversaires s’étaient-ils cantonnés dans les positions où la résistance pouvait s’organiser en de meilleures conditions. Puis, de la défensive passer à l’offensive, c’est à quoi tendraient leurs efforts. Une première victoire remportée dans le comté de Saint-Hyacinthe, c’était le soulèvement des populations riveraines du Saint-Laurent, c’était l’anéantissement de la tyrannie anglo-saxonne depuis le lac Ontario jusqu’à l’embouchure du fleuve.</p>
           <p>Lord Gosford ne l’ignorait pas. Il ne disposait que de forces restreintes, qui seraient accablées sous le nombre, si la révolte se généralisait. Il importait donc de la frapper au cœur par un double coup à Saint-Denis et à Saint-Charles, – ce qui fut tenté, après l’affaire de Longueuil.</p>
@@ -1873,7 +1874,7 @@
           <p>Un instant après, M. de Vaudreuil et Jean étaient en sûreté dans la maison de Bridget Morgaz.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 3.<lb/>M. de Vaudreuil à Maison-Close</head>
+          <head>III. M. de Vaudreuil à Maison-Close</head>
           <p>« Ma mère, dit Jean, après avoir déposé le blessé sur le lit que son frère ou lui occupaient, lorsqu’ils venaient passer la nuit à Maison-Close, ma mère, il y va de la vie de cet homme, si les soins lui manquent !</p>
           <p>– Je le soignerai, Jean !</p>
           <p>– Il y va de ta vie, ma mère, si les soldats de Witherall le découvrent chez toi !</p>
@@ -2012,7 +2013,7 @@
           <p>Bientôt, Bridget frappait à la porte de Maison-Close, qui s’ouvrait immédiatement, elle faisait entrer la jeune fille, et tombait dans les bras de son fils.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 4.<lb/>Les huit jours qui suivent</head>
+          <head>IV. Les huit jours qui suivent</head>
           <p>Maison-Close avait donc offert un abri – précaire, sans doute – à M. et à Mlle de Vaudreuil. Tous deux se trouvaient sous le toit de la « Famille-Sans-Nom », près de la femme et du fils du traître. S'ils ignoraient encore quels liens rattachaient à Simon Morgaz cette vieille femme et ce jeune homme qui risquaient leur vie en leur donnant asile, Bridget et Jean ne le savaient que trop ! Et, ce qu’ils redoutaient surtout, c’était qu’un hasard ne vînt l’apprendre à leurs hôtes !</p>
           <p>Vers le matin de ce jour, – 26 novembre, – M. de Vaudreuil reprit quelque peu connaissance. La voix de sa fille l’avait réveillé de sa torpeur. Il ouvrit les yeux.</p>
           <p>« Clary !… murmura-t-il.</p>
@@ -2083,7 +2084,7 @@
           <p>Dès que la porte eut été ouverte, Jean parut et franchit rapidement le seuil.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 5.<lb/>Perquisitions</head>
+          <head>V. Perquisitions</head>
           <p>À peine la porte fut-elle refermée, que, l’oreille contre le vantail, Jean écouta les bruits du dehors. De la main, il avait fait signe à sa mère et à Clary de ne pas dire un mot, de ne pas faire un mouvement.</p>
           <p>Et Bridget qui allait s’écrier : « Pourquoi es-tu revenu, mon fils ? » Bridget se tut.</p>
           <p>À l’extérieur, on entendait aller et venir sur la route. Des propos étaient échangés entre une demi-douzaine d’hommes, qui avaient fait halte à la hauteur de Maison-Close.</p>
@@ -2196,7 +2197,7 @@
           <p>Et Jean s’élança hors de Maison-Close.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 6.<lb/>Maître Nick à Walhatta</head>
+          <head>VI. Maître Nick à Walhatta</head>
           <p>Après l’affaire de Chipogan, après l’échec des agents et des volontaires, Thomas Harcher et ses fils aînés, qui avaient dû chercher refuge hors du territoire canadien, étaient revenus prendre part à la bataille de Saint-Charles. À la suite de cette funeste défaite, qui avait coûté la vie à Rémy, Thomas, Pierre, Michel, Tony et Jacques avaient pu rejoindre les réformistes à Saint-Albans, sur la frontière américaine.</p>
           <p>En ce qui concerne le notaire Nick, on sait aussi qu’il s’était bien gardé de reparaître à Montréal. Comment eût-il expliqué son attitude à Chipogan ? Quelle que fût la considération dont il jouissait, Gilbert Argall n’aurait pas hésité à le poursuivre pour rébellion envers les représentants de l’autorité. Les portes de la prison de Montréal se fussent certainement refermées sur lui, et, en sa compagnie, Lionel aurait eu tout le loisir de s’abandonner à ses inspirations poétiques <hi rend="i">intra muros</hi>.</p>
           <p>Maître Nick avait donc pris le seul parti que commandaient les circonstances : suivre les Mahogannis à Walhatta, et attendre, sous le toit de ses ancêtres, que l’apaisement des esprits lui permit de rompre avec son rôle de chef de tribu pour rentrer modestement dans son étude.</p>
@@ -2286,7 +2287,7 @@
           <p>– Viens, mon enfant ! » répondit l’abbé Joann.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 7.<lb/>Le Fort Frontenac</head>
+          <head>VII. Le fort Frontenac</head>
           <p>Jean était comme fou, au moment où il avait fui Maison-Close. L'incognito de sa vie brutalement déchiré, les funestes paroles de Rip surprises par Clary, Mlle de Vaudreuil sachant que c’était chez la femme, chez le fils de Simon Morgaz que son père et elle avaient trouvé refuge, M. de Vaudreuil l’apprenant bientôt s’il ne l’avait entendu du fond de sa chambre, tout cela se confondait dans une pensée de désespoir. Rester en cette maison, il ne l’aurait pu – même un instant. Sans s’inquiéter de ce que deviendraient M. et Mlle de Vaudreuil, sans se demander si le nom infamant de sa mère les protégerait contre toute poursuite ultérieure, sans se dire que Bridget ne voudrait pas demeurer dans cette bourgade où son origine allait être connue, d’où on la chasserait sans doute, il s’était élancé à travers les épaisses forêts, il avait couru toute la nuit, ne se trouvant jamais assez loin de ceux pour lesquels il ne pouvait plus être qu’un objet de mépris et d’horreur.</p>
           <p>Et, pourtant, son œuvre n’était pas accomplie ! Son devoir, c’était de combattre, puisqu’il vivait encore ! C'était de se faire tuer, avant que son véritable nom eût été révélé ! Lui mort, mort pour son pays, peut-être aurait-il droit, sinon à l’estime, du moins à la pitié des hommes !</p>
           <p>Cependant le calme reprit le dessus en ce cœur si profondément troublé. Avec le sang-froid lui revint cette énergie que nulle défaillance ne devait plus abattre. Et, fuyant, il se dirigeait à grands pas vers la frontière, afin de rejoindre les patriotes et recommencer la campagne insurrectionnelle.</p>
@@ -2374,7 +2375,7 @@
           <p>C'était l’ordre d’exécution que le gouverneur général venait d’envoyer au fort Frontenac. Jean-Sans-Nom n’avait plus que deux heures à vivre.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 8.<lb/>Joann et Jean</head>
+          <head>VIII. Joann et Jean</head>
           <p>L'abbé Joann quitta la chambre du major Sinclair, plus maître de lui-même qu’il n’y était entré. Ce coup de foudre de l’exécution immédiate ne l’avait pas ébranlé. Dieu venait de lui inspirer un projet, et ce projet pouvait réussir.</p>
           <p>Jean ne savait rien de l’ordre arrivé à l’instant de Montréal, et c’était à Joann qu’incombait cette douloureuse tâche de le lui faire connaître. Eh bien, non ! Il ne le lui apprendrait pas ! Il lui cacherait que la terrible sentence devait recevoir son exécution dans deux heures ! Il fallait que Jean n’en fût pas instruit pour la réalisation du projet de Joann !</p>
           <p>Évidemment, il n’y avait plus à compter sur une évasion préparée de longue main, ni sur une attaque du fort Frontenac. Le condamné ne pouvait échapper à la mort que par une fuite immédiate. Si, dans deux heures, il se trouvait encore dans sa cellule, il n’en sortirait que pour tomber sous les balles, en pleine nuit, au pied de la palissade.</p>
@@ -2470,7 +2471,7 @@
           <p>C'était la première victime offerte en expiation du crime de Simon Morgaz !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 9.<lb/>L'île Navy</head>
+          <head>IX. L'île Navy</head>
           <p>Ce fut en 1668, sous les ordres de Cavelier de la Salle, que les Français firent naviguer le premier navire européen à la surface de l’Ontario. Arrivés à sa limite méridionale, où ils élevèrent le fort Niagara, leur bâtiment s’engagea sur la rivière de ce nom, dont il remonta le cours jusqu’aux rapides, à trois milles des chutes. Puis, un second navire, construit et lancé en amont des célèbres cataractes, vint déboucher dans le lac Érié et poursuivit son audacieuse navigation jusqu’au lac Michigan.</p>
           <p>En réalité, le Niagara n’est qu’un canal naturel, long de quinze à seize milles, qui permet aux eaux de l’Érié de s’écouler vers l’Ontario. À peu près au milieu de ce canal, le sol manque brusquement de cent soixante pieds – précisément à l’endroit où la rivière se coude en décrivant une sorte de fer à cheval. L'île aux Chèvres – Goat Island – la divise en deux parties inégales. À droite, la chute américaine, à gauche, la chute canadienne, précipitent leurs eaux bruyantes au fond d’un abîme que couronnent incessamment les brumes d’une poussière aqueuse.</p>
           <p>L'île Navy est située en amont des chutes, par conséquent du côté du lac Érié, à dix milles de la ville de Buffalo, et à trois milles du village de Niagara-Falls, bâti à la hauteur des cataractes dont il porte le nom. C'était là que les patriotes avaient élevé le dernier boulevard de l’insurrection, comme une sorte de camp jeté entre le Canada et l’Amérique sur le cours de ce Niagara, limite naturelle des deux pays.</p>
@@ -2532,7 +2533,7 @@
           <p>Et, les loyalistes s’applaudissaient de n’avoir plus rien à craindre du héros populaire, qui était l’âme des insurrections franco-canadiennes.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 10.<lb/>Bridget Morgaz</head>
+          <head>X. Bridget Morgaz</head>
           <p>Entre temps, deux autres coups, non moins terribles, allaient frapper le parti national et décourager ses derniers défenseurs du camp de l’île Navy.</p>
           <p>En vérité, il était à craindre que les réformistes fussent pris de désespoir devant les échecs successifs dont la mauvaise fortune les accablait.</p>
           <p>En premier lieu, la loi martiale, proclamée dans le district de Montréal, rendait presque impossible une entente commune entre les paroisses du Saint-Laurent. D'une part, le clergé canadien, sans rien abandonner de ses espérances pour l’avenir, engageait les opposants à se soumettre. De l’autre, il était difficile de triompher sans l’aide des États-Unis. Or, si ce n’est de la part des Américains de la frontière, il ne semblait pas que cette participation dût être effective. Le gouvernement fédéral se défendait de prendre ouvertement fait et cause pour ses voisins d’origine française. Des vœux, oui ! Des actes, peu ou point ! En outre, nombre de Canadiens, tout en réservant leurs droits, tout en protestant contre des abus manifestes, travaillaient à l’apaisement des esprits.</p>
@@ -2625,7 +2626,7 @@
           <p>C'était Jean-Sans-Nom, c’était Jean Morgaz !</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 11.<lb/>Expiation</head>
+          <head>XI. Expiation</head>
           <p>Voici dans quelles circonstances le nom de Morgaz avait été révélé aux défenseurs de l’île Navy.</p>
           <p>On ne l’a pas oublié, à plusieurs reprises déjà, les préparatifs de résistance, les points que l’on fortifiait pour repousser une attaque des royaux, quelques tentatives faites en vue de forcer le passage du Niagara, avaient été signalés au camp de Mac Nab. Évidemment, un espion s’était glissé dans les rangs des patriotes et tenait l’ennemi au courant de tout ce qui se faisait sur l’île. Cet espion, en vain avait-on cherché à le découvrir pour en tirer justice sommaire. Il avait toujours échappé aux recherches faites jusque dans les villages de la rive américaine.</p>
           <p>Cet espion n’était autre que Rip. Irrité de ses derniers insuccès, qui se traduisaient par des pertes considérables au détriment de sa maison de commerce, le chef de l’agence Rip and Co. avait tenté de remonter ses affaires par un coup audacieux avec l’espoir de balancer ses récentes déconvenues. Elles étaient graves, en effet. Il avait échoué à l’engagement de la ferme de Chipogan, où son escouade avait dû battre en retraite. À Saint-Charles, on sait comment il avait laissé à Jean-Sans-Nom, alors caché dans Maison-Close, la possibilité de s’enfuir. Enfin, ce n’étaient pas ses hommes, c’étaient ceux du chef de police Comeau qui avaient opéré la capture du proscrit.</p>
@@ -2712,7 +2713,7 @@
           <p>L'âme de Bridget s’était exhalée avec ces mots. Jean embrassa la morte et ferma ces pauvres yeux qui avaient tant pleuré.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 12.<lb/>Derniers jours</head>
+          <head>XII. Derniers jours</head>
           <p>La situation des patriotes à l’île Navy était alors extrêmement critique et ne pouvait se prolonger. Ce ne devait plus être qu’une question de jours – d’heures peut-être.</p>
           <p>En effet, si le colonel Mac Nab hésitait à tenter le passage du Niagara, il allait rendre intenable le camp des assiégés.</p>
           <p>Une batterie, installée sur la berge de Chippewa, venait d’être achevée, et les bonnets bleus seraient dans l’impossibilité de lui répondre, puisqu’ils ne possédaient pas une seule bouche à feu. Quelques centaines de fusils – les seules armes dont ils pussent faire usage à distance, pour empêcher un débarquement – seraient impuissantes contre l’artillerie des royaux.</p>
@@ -2778,7 +2779,7 @@
           <p>Cela dit, précédant M. de Vaudreuil, ses compagnons, tous ceux qui voulaient comme lui marcher à la mort, il s’élança vers la rive gauche de l’île.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 13.<lb/>Nuit du 20 décembre</head>
+          <head>XIII. Nuit du 20 décembre</head>
           <p>Trois heures du soir sonnaient, en ce moment, au clocher de la petite église de Schlosser. Une brume grisâtre et glaciale emplissait l’humide vallée du Niagara. Il faisait un froid très sec. Le ciel était couvert de nuages immobiles, que le moindre relèvement de la température eût condensés en neige sous l’influence des vents d’est.</p>
           <p>Le ronflement des canons de Chippewa déchirait l’air. Dans l’intervalle des détonations, on entendait distinctement le mugissement lointain des cataractes.</p>
           <p>Un quart d’heure après avoir quitté la maison de M. de Vaudreuil, les patriotes, cheminant entre les massifs d’arbres, se défilant le long des haies et des clôtures, étaient arrivés sur le bras gauche de la rivière.</p>
@@ -2855,7 +2856,7 @@
           <p>Le bateau dérivait avec une vitesse effrayante, en contournant Goat-Island, qui sépare la chute américaine de la chute canadienne. Et, alors, vers le milieu du fer à cheval, là où le courant se creuse en une gorge verdâtre, la <hi rend="i">Caroline</hi>, se penchant sur l’abîme, disparut dans le gouffre des cataractes.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre 14.<lb/>Dernières phases de l’insurrection</head>
+          <head>XIV. Dernières phases de l’insurrection</head>
           <p>L'acte commis par les Anglais, en violation du droit des gens et des droits d’humanité, eut un énorme retentissement dans les deux mondes. Une enquête fut ordonnée par les autorités de Niagara-Falls. Mac Leod avait été reconnu de quelques-uns de ceux qui avaient pu échapper au massacre et à l’incendie. D'ailleurs, ce misérable ne tarda pas à se vanter ouvertement d’avoir « mené l’affaire contre ces damnés de Yankees ! »</p>
           <p>Il n’était question, cependant, que d’une indemnité à demander à l’Angleterre, lorsque, au mois de novembre 1840, Mac Leod fut arrêté dans les rues de New York.</p>
           <p>Le représentant anglais, M. Fox, le réclama : le gouvernement fédéral refusa de le rendre. Aussi, à la Chambre des lords comme à la Chambre des communes, le ministère fut-il mis en demeure de rendre Mac Leod à la liberté, comme ayant agi d’après les ordres de la reine. Le congrès répondit à cette prétention en publiant un rapport qui justifiait les droits de l’État de New-York. Ce rapport ayant été considéré comme un véritable <hi rend="i">casus belli</hi>, le Royaume-Uni prit ses mesures en conséquence.</p>

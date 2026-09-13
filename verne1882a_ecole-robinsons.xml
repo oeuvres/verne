@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -35,10 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>I
-<lb/><hi rend="i">Où le lecteur trouvera, s’il le veut,
-<lb/>l’occasion d’acheter une île de l’océan Pacifique</hi></head>
+      <div type="chapter">
+        <head>I. Où le lecteur trouvera, s’il le veut, l’occasion d’acheter une île de l’océan Pacifique</head>
         <p>« Île à vendre, au comptant, frais en sus, au plus offrant et dernier enchérisseur ! » redisait coup sur coup, sans reprendre haleine, Dean Felporg, commissaire priseur de l’« auction », où se débattaient les conditions de cette vente singulière.</p>
         <p>« Île à vendre ! île à vendre ! » répétait d’une voix plus éclatante encore le crieur Gingrass, qui allait et venait au milieu d’une foule véritablement très excitée.</p>
         <p>Foule, en effet, qui se pressait dans la vaste salle de l’hôtel des ventes, au numéro 10 de la rue Sacramento. Il y avait là, non seulement un certain nombre d’Américains des États de Californie, de l’Oregon, de l’Utah, mais aussi quelques-uns de ces Français qui forment un bon sixième de la population, des Mexicains enveloppés de leur sarape, des Chinois avec leur tunique à larges manches, leurs souliers pointus, leur bonnet en cône, des Canaques de l’Océanie, même quelques Pieds-Noirs, Gros-Ventres ou Têtes-Plates, accourus des bords de la rivière Trinité.</p>
@@ -90,10 +88,8 @@
         <p>– Douze cent mille dollars !</p>
         <p>Ces quatre mots retentirent, au milieu de la salle, comme les quatre coups d’un revolver. Toute l’assemblée, muette un instant, se retourna vers l’audacieux, qui avait osé jeter ce chiffre… C’était William W. Kolderup, de San Francisco.</p>
       </div>
-      <div>
-        <head>II
-<lb/><hi rend="i">Comment William W. Kolderup de San Francisco
-<lb/>fut aux prises avec J.-R. Taskinar, de Stockton</hi></head>
+      <div type="chapter">
+        <head>II. Comment William W. Kolderup de San Francisco fut aux prises avec J.-R. Taskinar, de Stockton</head>
         <p>Il était une fois un homme extraordinairement riche, qui comptait par millions de dollars comme d’autres comptent par milliers. C’était William W. Kolderup.</p>
         <p>On le disait plus riche que le duc de Westminster, dont le revenu s’élève à huit cent mille livres, et qui peut dépenser cinquante mille francs par jour, soit trente-six francs par minute – plus riche que le sénateur Jones, de Nevada, qui possède trente-cinq millions de rentes –, plus riche que M. Mackay lui-même, auquel ses deux millions sept cent cinquante mille livres de rente annuelle assurent sept mille huit cents francs par heure, ou deux francs et quelques centimes par seconde.</p>
         <p>Je ne parle pas de ces petits millionnaires, les Rothschild, les Van Der Bilt, les ducs de Northumberland, les Stewart ; ni des directeurs de la puissante banque de Californie et autres personnages bien rentés de l’ancien et du nouveau monde, auxquels William W. Kolderup eût été en situation de pouvoir faire l’aumône. Il aurait, sans se gêner, donné un million, comme vous ou moi nous donnerions cent sous.</p>
@@ -170,10 +166,8 @@
         <p>– Je me vengerai ! murmura J.-R. Taskinar.</p>
         <p>Et, après avoir jeté un regard plein de haine sur son vainqueur, il s’en retourna à Occidental-Hotel. Cependant, les hurrahs, les « hip » retentissaient par trois fois à l’oreille de William W. Kolderup ; ils l’accompagnèrent jusqu’à Montgomery-Street, et, tel était l’enthousiasme de ces Américains en délire, qu’ils en oublièrent même de chanter le <hi rend="i">Yankee Doodle.</hi></p>
       </div>
-      <div>
-        <head>III
-<lb/><hi rend="i">Où la conversation de Phina Hollaney
-<lb/>et de Godfrey Morgan est accompagnée au piano</hi></head>
+      <div type="chapter">
+        <head>III. Où la conversation de Phina Hollaney et de Godfrey Morgan est accompagnée au piano</head>
         <p>William W. Kolderup était rentré dans son hôtel de la rue Montgomery. Cette rue, c’est le Regent-Street, le Broadway, le boulevard des Italiens de San Francisco. Tout le long de cette grande artère, qui traverse la ville parallèlement à ses quais, est le mouvement, l’entrain, la vie : tramways multiples, voitures attelées de chevaux ou de mules, gens affairés qui se pressent sur les trottoirs de pierre, devant les magasins richement achalandés, amateurs plus nombreux encore aux portes des « bars », où se débitent des boissons on ne peut plus californiennes.</p>
         <p>Inutile de décrire l’hôtel du nabab de Frisco. Ayant trop de millions, il avait trop de luxe. Plus de confort que de goût. Moins de sens artistique que de sens pratique. On ne saurait tout avoir.</p>
         <p>Que le lecteur se contente de savoir qu’il y avait un magnifique salon de réception, et, dans ce salon, un piano, dont les accords se propageaient à travers la chaude atmosphère de l’hôtel, au moment où y rentrait l’opulent Kolderup.</p>
@@ -251,10 +245,8 @@
         <p>– Phina, dit-il gravement, il ne faut jamais rester sur la « sensible ! »</p>
         <p>Et, de son gros doigt qui s’abattit verticalement sur une des touches, il fit résonner un « <hi rend="i">la</hi> » naturel.</p>
       </div>
-      <div>
-        <head>IV
-<lb/><hi rend="i">Dans lequel T. Artelett, dit Tartelett,
-<lb/>est correctement présenté au lecteur</hi></head>
+      <div type="chapter">
+        <head>IV. Dans lequel T. Artelett, dit Tartelett, est correctement présenté au lecteur</head>
         <p>Si T. Artelett eût été Français, ses compatriotes n’auraient pas manqué de le nommer plaisamment Tartelett. Mais, comme ce nom lui convient, nous n’hésiterons pas à le désigner ainsi. D’ailleurs, si Tartelett n’était pas Français, il était digne de l’être.</p>
         <p>Dans son <hi rend="i">Itinéraire de Paris à Jérusalem</hi>, Chateaubriand parle d’un petit homme « poudré et frisé comme autrefois, habit vert pomme, veste de droguet, jabot et manchettes de mousseline, qui raclait un violon de poche, et faisait danser <hi rend="i">Madelon Friquet</hi> aux Iroquois. »</p>
         <p>Les Californiens ne sont pas des Iroquois, il s’en faut, mais Tartelett n’en était pas moins professeur de danse et de maintien dans la capitale de la Californie. Si on ne lui soldait pas ses leçons, comme à son prédécesseur, en peaux de castor et en jambons d’ours, on les lui payait en dollars. Si, en parlant de ses élèves, il ne disait pas : « Ces messieurs sauvages et ces dames sauvagesses », c’est que ses élèves étaient fort civilisés, et, à l’en croire, il n’avait pas peu contribué à leur civilisation.</p>
@@ -310,10 +302,8 @@
         <p>Un signe du négociant lui fit alors comprendre que l’audience était terminée. Il se retira donc assez ému, pour que sa sortie et les grâces spéciales qu’il déployait habituellement dans cet acte difficile laissassent tant soit peu à désirer.</p>
         <p>En effet, pour la première fois de sa vie, le professeur Tartelett, oubliant, dans sa préoccupation, les plus élémentaires préceptes de son art, s’en allait les pieds en dedans !</p>
       </div>
-      <div>
-        <head>V
-<lb/><hi rend="i">Dans lequel on se prépare à partir,
-<lb/>et à la fin duquel on part pour tout de bon</hi></head>
+      <div type="chapter">
+        <head>V. Dans lequel on se prépare à partir, et à la fin duquel on part pour tout de bon</head>
         <p>Il n’y avait plus à y revenir. Avant ce long voyage, à deux, à travers la vie, qu’on appelle mariage, Godfrey allait faire le tour du monde – ce qui est quelquefois plus périlleux. Mais il comptait en revenir très aguerri, et, parti un jeune homme, ramener un homme au retour. Il aurait vu, observé, comparé. Sa curiosité serait satisfaite. Il ne lui resterait plus qu’à demeurer tranquille et sédentaire, à vivre heureux au foyer conjugal, que nulle tentation ne le porterait plus à quitter. Avait-il tort ou raison ? Courait-il à quelque bonne et solide leçon dont il ferait son profit ? Nous laisserons à l’avenir le soin de répondre.</p>
         <p>Bref, Godfrey était enchanté.</p>
         <p>Phina, anxieuse, sans en rien laisser paraître, se résignait à cet apprentissage.</p>
@@ -362,9 +352,8 @@
         <p>– Adieu ! Godfrey.</p>
         <p>Le <hi rend="i">steamer</hi> s’éloigna, les mouchoirs s’agitèrent, tant qu’il resta en vue du quai, même un peu au-delà. Bientôt cette baie de San Francisco, la plus vaste du monde, était traversée, le <hi rend="i">Dream</hi> franchissait l’étroit goulet de Golden-Gate, puis il tranchait de son étrave les eaux du Pacifique : c’était comme si cette « Porte d’or » venait de se refermer sur lui.</p>
       </div>
-      <div>
-        <head>VI
-<lb/><hi rend="i">Dans lequel le lecteur est appelé à faire connaissance avec un nouveau personnage</hi></head>
+      <div type="chapter">
+        <head>VI. Dans lequel le lecteur est appelé à faire connaissance avec un nouveau personnage</head>
         <p>Le voyage était commencé. Ce n’était pas le difficile, on en conviendra volontiers.</p>
         <p>Ainsi que le répétait souvent le professeur Tartelett, avec une incontestable logique :</p>
         <p>– Un voyage commence toujours ! Mais où et comment il finit, c’est l’important !</p>
@@ -415,10 +404,8 @@
         <p>– Pourquoi s’est-il embarqué frauduleusement sur le <hi rend="i">Dream</hi> ! répondit le second.</p>
         <p>– Surtout pour aller à Shangaï ! répliqua le capitaine Turcotte. Au diable John et les fils de John !</p>
       </div>
-      <div>
-        <head>VII
-<lb/><hi rend="i">Dans lequel on verra que William W. Kolderup
-<lb/>n’a peut-être pas eu tort de faire assurer son navire</hi></head>
+      <div type="chapter">
+        <head>VII. Dans lequel on verra que William W. Kolderup n’a peut-être pas eu tort de faire assurer son navire</head>
         <p>Pendant les jours qui suivirent, 13, 14 et 15 juin, le baromètre descendit lentement, mais d’une façon continue, sans reprise, ce qui indiquait une tendance à se maintenir au-dessous de variable, entre pluie ou vent et tempête. La brise fraîchit sensiblement en passant dans le sud-ouest. C’était vent debout pour le <hi rend="i">Dream ;</hi> il eut à lutter contre des lames assez fortes, qui le prenaient par l’avant. Les voiles furent donc serrées dans leurs étuis, et il fallut marcher avec l’hélice, mais sous médiocre pression, afin d’éviter les mauvais coups.</p>
         <p>Godfrey supporta très bien ces épreuves du tangage et du roulis, sans même perdre un seul instant de sa belle humeur. Très évidemment, ce brave garçon aimait la mer.</p>
         <p>Mais Tartelett, lui, n’aimait pas la mer, et elle le lui rendait bien. Il fallait voir l’infortuné professeur de maintien ne se maintenant plus, le professeur de danse dansant contrairement à toutes les règles de l’art. Rester dans sa cabine, par ces secousses qui ébranlaient le <hi rend="i">steamer</hi> jusqu’à ses varangues il ne le pouvait pas.</p>
@@ -532,10 +519,8 @@
         <p>Il n’y avait plus de doute : le <hi rend="i">Dream</hi> venait de couler à pic !</p>
         <p>Quant à Godfrey, il avait pu atteindre une haute et large roche, à l’abri du ressac. Là, appelant vainement dans l’ombre, n’entendant aucune voix répondre à la sienne, ne sachant s’il se trouvait sur un roc isolé ou à l’extrémité d’un banc de récifs, seul survivant peut-être de cette catastrophe, il attendit le jour.</p>
       </div>
-      <div>
-        <head>VIII
-<lb/><hi rend="i">Qui conduit Godfrey à de chagrines réflexions
-<lb/>sur la manie des voyages</hi></head>
+      <div type="chapter">
+        <head>VIII. Qui conduit Godfrey à de chagrines réflexions sur la manie des voyages</head>
         <p>Trois longues heures devaient encore se passer avant que le soleil ne reparût au-dessus de l’horizon. Ce sont ces heures-là dont on peut dire qu’elles durent des siècles.</p>
         <p>L’épreuve était rude pour un début ; mais, en somme, nous le répétons, Godfrey n’était pas parti pour une simple promenade. Il s’était bien dit, en prenant la mer, qu’il laissait derrière lui toute une existence de bonheur et de repos, qu’il ne la retrouverait pas en courant les aventures. Il s’agissait donc d’être à la hauteur de la situation.</p>
         <p>Temporairement il était à l’abri. La mer, après tout, ne pouvait le reprendre sur cette roche, que mouillaient seuls les embruns du ressac. Devait-il craindre que le flux ne l’atteignît bientôt ? Non, car en réfléchissant, il put établir que ce naufrage s’était fait au plus haut de la marée de nouvelle lune.</p>
@@ -611,10 +596,8 @@
         <p>– En place, mademoiselle !</p>
         <p>Le brave homme pensait à Phina.</p>
       </div>
-      <div>
-        <head>IX
-<lb/><hi rend="i">Où il est démontré que tout n’est pas rose
-<lb/>dans le métier de Robinson</hi></head>
+      <div type="chapter">
+        <head>IX. Où il est démontré que tout n’est pas rose dans le métier de Robinson</head>
         <p>Cela fait, le professeur et l’élève se jetèrent dans les bras l’un de l’autre.</p>
         <p>– Mon cher Godfrey ! s’écria Tartelett.</p>
         <p>– Mon bon Tartelett ! répondit Godfrey.</p>
@@ -693,10 +676,8 @@
         <p>Godfrey chercha quelque vieux tronc, évidé par les ans, qui pût offrir un abri entre ses parois ; mais ses recherches furent vaines, bien qu’il les eût poursuivies jusqu’à la nuit tombante.</p>
         <p>La faim les aiguillonnait vivement alors, et tous deux durent se contenter des coquillages, dont ils avaient préalablement fait une ample récolte sur la grève. Puis, brisés de fatigue, ils se couchèrent au pied d’un arbre et s’endormirent, comme on dit, à la grâce de Dieu.</p>
       </div>
-      <div>
-        <head>X
-<lb/><hi rend="i">Où Godfrey fait ce que tout autre naufragé
-<lb/>eût fait en pareille circonstance</hi></head>
+      <div type="chapter">
+        <head>X. Où Godfrey fait ce que tout autre naufragé eût fait en pareille circonstance</head>
         <p>La nuit se passa sans aucun incident. Les deux naufragés, rompus par les émotions et la fatigue, avaient reposé aussi tranquillement que s’ils eussent été couchés dans la plus confortable chambre de l’hôtel de Montgomery-Street.</p>
         <p>Le lendemain, 27 juin, aux premiers rayons du soleil levant, le chant du coq les réveillait.</p>
         <p>Godfrey revint presque aussitôt au sentiment de la situation, tandis que Tartelett dut longtemps se frotter les yeux et s’étirer les bras, avant d’être rentré dans la réalité.</p>
@@ -773,10 +754,8 @@
         <p>Et ce matin-là Godfrey et son compagnon durent encore se contenter de ce trop maigre repas d’œufs crus et de coquillages !</p>
         <p>– Régime très sain ! répétait Godfrey à Tartelett, qui n’était guère de cet avis et ne mangeait que du bout des lèvres.</p>
       </div>
-      <div>
-        <head>XI
-<lb/><hi rend="i">Dans lequel la question du logement
-<lb/>est résolue autant qu’elle peut l’être</hi></head>
+      <div type="chapter">
+        <head>XI. Dans lequel la question du logement est résolue autant qu’elle peut l’être</head>
         <p>La journée était déjà assez avancée. Aussi Godfrey résolut-il de remettre au lendemain le soin de procéder à une installation nouvelle. Mais, aux questions pressantes que lui posa le professeur sur les résultats de son exploration, il finit par répondre que c’était une île – l’île Phina –, sur laquelle ils avaient été jetés tous les deux, et qu’il faudrait aviser aux moyens d’y vivre, avant de songer aux moyens de la quitter.</p>
         <p>– Une île ! s’écria Tartelett.</p>
         <p>– Oui !… c’est une île !</p>
@@ -832,10 +811,8 @@
         <p>Mais, cette nuit, après un repas dont le dessert se composa de pommes sauvages, où pouvait-on mieux la passer que sur cette poussière végétale, qui couvrait le sol à l’intérieur du séquoia ?</p>
         <p>C’est ce qui fut fait sous la garde de la Providence, non sans que Godfrey, en souvenir de l’oncle William W. Kolderup, n’eût donné le nom de Will-Tree à cet arbre gigantesque, dont les similaires des forêts de Californie et des États voisins portent tous le nom de l’un des grands citoyens de la république américaine.</p>
       </div>
-      <div>
-        <head>XII
-<lb/><hi rend="i">Qui se termine juste à point
-<lb/>par un superbe et heureux coup de foudre</hi></head>
+      <div type="chapter">
+        <head>XII. Qui se termine juste à point par un superbe et heureux coup de foudre</head>
         <p>Pourquoi ne pas en convenir ? Godfrey était en train de devenir un nouvel homme dans cette situation nouvelle pour lui, si frivole, si léger, si peu réfléchi, alors qu’il n’avait qu’à se laisser vivre. En effet, jamais le souci du lendemain n’avait été pour inquiéter son repos. Dans le trop opulent hôtel de Montgomery-Street, où il dormait ses dix heures sans désemparer, le pli d’une feuille de rose n’avait pas encore troublé son sommeil.</p>
         <p>Mais il n’en allait plus être ainsi. Sur cette île inconnue, il se voyait bel et bien séparé du reste du monde, livré à ses seules ressources, obligé de faire face aux nécessités de la vie, dans des conditions où un homme, même beaucoup plus pratique, eût été fort empêché. Sans doute, en ne voyant plus reparaître le <hi rend="i">Dream</hi>, on se mettrait à sa recherche. Mais qu’étaient-ils tous deux ? Moins mille fois qu’une épingle dans une botte de foin, qu’un grain de sable au fond de la mer ! L’incalculable fortune de l’oncle Kolderup n’était pas une réponse à tout !</p>
         <p>Aussi, bien qu’il eût trouvé un abri à peu près acceptable, Godfrey n’y dormit-il que d’un sommeil agité. Son cerveau travaillait comme il ne l’avait jamais fait. C’est qu’il s’y associait des idées de toutes sortes : celles du passé qu’il regrettait amèrement, celles du présent dont il cherchait la réalisation, celles de l’avenir qui l’inquiétaient plus encore !</p>
@@ -902,10 +879,8 @@
         <p>– Du feu ! avait répondu Tartelett. Béni soit le Ciel qui nous l’envoie !</p>
         <p>Tous deux s’étaient aussitôt jetés sur ces brandons, dont les uns flambaient encore, dont les autres se consumaient sans flammes, Ils en ramassèrent en même temps qu’une certaine quantité de ce bois mort qui ne manquait pas au pied du séquoia, dont le tronc n’avait été que touché par la foudre. Puis ils rentrèrent dans leur sombre demeure, au moment où la pluie, se déversant à flots, éteignait l’incendie, qui menaçait de dévorer la ramure supérieure de Will-Tree.</p>
       </div>
-      <div>
-        <head>XIII
-<lb/><hi rend="i">Où Godfrey voit encore s’élever une légère fumée
-<lb/>sur un autre point de l’île</hi></head>
+      <div type="chapter">
+        <head>XIII. Où Godfrey voit encore s’élever une légère fumée sur un autre point de l’île</head>
         <p>Voilà un orage qui était venu à propos ! Godfrey et Tartelett n’avaient pas eu, comme Prométhée, à s’aventurer dans les espaces pour aller y dérober le feu céleste ! C’était bien le Ciel, en effet, comme l’avait dit Tartelett, qui avait été assez obligeant pour le leur envoyer par la voie d’un éclair. À eux maintenant le soin de le conserver !</p>
         <p>– Non ! nous ne le laisserons pas s’éteindre ! s’était écrié Godfrey.</p>
         <p>– D’autant plus que le bois ne manquera pas pour l’alimenter ! avait répondu Tartelett, dont la satisfaction se traduisait par de petits cris de joie.</p>
@@ -976,10 +951,8 @@
         <p>Godfrey, quittant le littoral, revint donc vers Will-Tree, en observant un peu plus le pays au retour qu’il ne l’avait fait à l’aller. Quelques ruminants se montrèrent, entre autres des wapitis, mais ils filaient avec une telle rapidité qu’il eût été impossible de les atteindre.</p>
         <p>Vers quatre heures, Godfrey était de retour. Cent pas avant d’arriver, il entendait l’aigre crin-crin de la pochette, et se retrouvait bientôt en face du professeur Tartelett, qui, dans l’attitude d’une vestale, veillait religieusement sur le feu sacré confié à sa garde.</p>
       </div>
-      <div>
-        <head>XIV
-<lb/><hi rend="i">Dans lequel Godfrey trouve une épave,
-<lb/>à laquelle son compagnon et lui font bon accueil</hi></head>
+      <div type="chapter">
+        <head>XIV. Dans lequel Godfrey trouve une épave, à laquelle son compagnon et lui font bon accueil</head>
         <p>Souffrir ce qu’on ne peut empêcher est un principe de philosophie qui, s’il ne porte peut-être pas à l’accomplissement des grandes choses, est, à coup sûr, éminemment pratique. Godfrey était donc bien résolu à lui subordonner désormais tous ses actes. Puisqu’il fallait vivre dans cette île, le plus sage était d’y vivre le mieux possible, jusqu’au moment où une occasion serait donnée de la quitter.</p>
         <p>On s’occupa, sans plus tarder, d’aménager quelque peu l’intérieur de Will-Tree. La question de propreté, à défaut de confort, domina toutes les autres. Les couchettes d’herbes furent souvent renouvelées. Les ustensiles se réduisaient à de simples coquilles, il est vrai ; mais les assiettes ou les plats d’un office américain n’auraient pas offert plus de netteté. Il faut le répéter à sa louange, le professeur Tartelett lavait admirable­ment la vaisselle. Son couteau aidant, Godfrey, au moyen d’un large morceau d’écorce aplanie et de quatre pieds fichés au sol, parvint à établir une table au milieu de la chambre. Des souches grossières servirent d’escabeaux. Les convives n’en furent plus réduits à manger sur leurs genoux, lorsque le temps ne permettait pas de dîner en plein air.</p>
         <p>Il y avait encore la question de vêtements, qui n’était pas sans préoccuper beaucoup. On les ménageait donc le mieux possible. Par cette température et sous cette latitude, il n’y avait aucun inconvénient à être demi-nu. Mais enfin, culotte, vareuse, chemise de laine finiraient par s’user. Comment pourrait-on les remplacer ? En viendrait-on à se vêtir des peaux de ces moutons, de ces chèvres, qui, après avoir nourri le corps, serviraient encore à l’habiller ? Il le faudrait sans doute. En attendant, Godfrey fit laver fréquemment le peu de vêtements dont ils disposaient. Ce fut encore à Tartelett, transformé en lessiveuse, qu’incomba cette tâche. Il s’en acquittait, d’ailleurs, à la satisfaction générale.</p>
@@ -1038,10 +1011,8 @@
         <p>Tartelett, avec la mobilité de son esprit, voyait maintenant l’avenir tout en rose. On ne s’étonnera donc pas que, ce jour-là, sa pochette à la main, il fût venu trouver son élève et lui eût très sérieusement dit, comme s’ils avaient été dans le salon de l’hôtel Kolderup :</p>
         <p>– Eh bien, mon cher Godfrey, ne serait-il pas temps de reprendre nos leçons de danse ?</p>
       </div>
-      <div>
-        <head>XV
-<lb/><hi rend="i">Où il arrive ce qui arrive au moins une fois
-<lb/>dans la vie de tout Robinson vrai ou imaginaire</hi></head>
+      <div type="chapter">
+        <head>XV. Où il arrive ce qui arrive au moins une fois dans la vie de tout Robinson vrai ou imaginaire</head>
         <p>L’avenir se montrait donc sous un jour moins sombre. Mais, si Tartelett, tout au présent, ne voyait dans la possession de ces instruments, de ces outils, de ces armes, qu’un moyen de rendre cette vie d’isolement un peu plus agréable, Godfrey, lui, songeait déjà à la possibilité de quitter l’île Phina. Ne pourrait-il, maintenant, construire une embarcation suffisamment solide, qui leur permettrait d’atteindre, soit une terre voisine, soit quelque navire passant en vue de l’île ?</p>
         <p>En attendant, ce furent les idées de Tartelett dont la réalisation occupa plus spécialement les semaines qui suivirent.</p>
         <p>Bientôt, en effet, la garde-robe de Will-Tree fut installée, mais il fut décidé qu’on n’en userait qu’avec toute la discrétion qu’imposait l’incertitude de l’avenir. Ne se servir de ces vêtements que dans la mesure du nécessaire, telle fut la règle à laquelle le professeur dut se soumettre.</p>
@@ -1098,10 +1069,8 @@
         <p>Godfrey, ne sachant que faire, eut alors l’idée d’enflammer un bouquet d’arbres résineux, qui croissait en arrière de Flag-Point. Il alluma un tas de feuilles sèches au moyen d’une amorce, puis il mit le feu au groupe de pins, qui brûla bientôt comme une énorme torche.</p>
         <p>Mais les feux de bord ne répondirent point à ce feu de terre, et Godfrey revint tristement à Will-Tree, se sentant plus abandonné, peut-être, qu’il ne l’avait été jusque-là !</p>
       </div>
-      <div>
-        <head>XVI
-<lb/><hi rend="i">Dans lequel se produit un incident
-<lb/>qui ne saurait surprendre le lecteur</hi></head>
+      <div type="chapter">
+        <head>XVI. Dans lequel se produit un incident qui ne saurait surprendre le lecteur</head>
         <p>Ce coup frappa Godfrey. Cette chance inespérée, qui venait de lui échapper, se représenterait-elle jamais ? Pouvait-il l’espérer ? Non ! L’indifférence de ce navire à passer en vue de l’île Phina, sans même chercher à la reconnaître, il était évident qu’elle serait partagée par tous autres bâtiments, qui s’aventureraient sur cette portion déserte du Pacifique. Pourquoi ceux-là y relâcheraient-ils plutôt que celui-ci, puisque cette île n’avait aucun port de refuge.</p>
         <p>Godfrey passa une triste nuit. À chaque instant, réveillé en sursaut, comme s’il eût entendu quelque coup de canon au large, il se demandait alors si le <hi rend="i">steamer</hi> n’avait pas enfin aperçu ce grand feu qui flambait encore sur le littoral, s’il ne cherchait pas à signaler sa présence par une détonation ?</p>
         <p>Godfrey écoutait… Tout cela n’était qu’une illusion de son cerveau surexcité. Quand le jour eut reparu, il en vint à se dire que cette apparition d’un navire n’avait été qu’un rêve, qui avait commencé la veille, à trois heures du soir !</p>
@@ -1170,10 +1139,8 @@
         <p>Godfrey regarda d’abord, sans se servir de sa lunette, afin d’observer les environs de Will-Tree de ce côté de l’île Phina.</p>
         <p>Tout était parfaitement tranquille. Godfrey, prenant alors sa lunette, parcourut le périple du littoral jusqu’à la pointe du promontoire de Flag-Point. Peut-être, et comme l’avait dit Tartelett, bien que cela eût été inexplicable, les naturels se seraient-ils rembarqués, après une nuit passée à terre, sans même avoir cherché à reconnaître si l’île était habitée.</p>
       </div>
-      <div>
-        <head>XVII
-<lb/><hi rend="i">Dans lequel le fusil du professeur Tartelett
-<lb/>fait véritablement merveille</hi></head>
+      <div type="chapter">
+        <head>XVII. Dans lequel le fusil du professeur Tartelett fait véritablement merveille</head>
         <p>Mais alors une exclamation échappa à Godfrey, qui fit bondir le professeur. On n’en pouvait plus douter, les sauvages devaient savoir que l’île était occupée par des êtres humains, puisque le pavillon, hissé jusqu’alors à l’extrémité du cap, emporté par eux, ne flottait plus en berne au mât de Flag-Point !</p>
         <p>Le moment était donc venu de mettre à exécution le parti projeté : aller en reconnaissance, afin de voir si les naturels étaient encore dans l’île et ce qu’ils y faisaient.</p>
         <p>– Partons, dit-il à son compagnon.</p>
@@ -1252,10 +1219,8 @@
         <p>Pendant ce temps, le prisonnier avait rejoint son sauveur. Un instant, il s’était arrêté, avec la crainte que lui inspiraient ces êtres supérieurs ; mais, presque aussitôt, il avait repris sa course. Dès qu’il fut arrivé devant les deux Blancs, il se courba jusqu’au sol ; puis, prenant le pied de Godfrey, il le plaça sur sa tête en signe de servitude.</p>
         <p>C’était à croire que ce naturel de la Polynésie, lui aussi, avait lu Robinson Crusoé !</p>
       </div>
-      <div>
-        <head>XVIII
-<lb/><hi rend="i">Qui traite de l’éducation morale et physique
-<lb/>d’un simple indigène du Pacifique</hi></head>
+      <div type="chapter">
+        <head>XVIII. Qui traite de l’éducation morale et physique d’un simple indigène du Pacifique</head>
         <p>Godfrey releva aussitôt le pauvre diable, qui restait prosterné devant lui. Il le regarda bien en face.</p>
         <p>C’était un homme âgé de trente-cinq ans au plus, uniquement vêtu d’un lambeau d’étoffe qui lui ceignait les reins. À ses traits, comme à la conformation de sa tête, on pouvait reconnaître en lui le type du Noir africain. Le confondre avec les misérables abâtardis des îles polynésiennes, qui, par la dépression du crâne, la longueur des bras, se rapprochent si étrangement du singe, cela n’eût pas été possible.</p>
         <p>Maintenant, comment il se faisait qu’un Nègre du Soudan ou de l’Abyssinie fût tombé entre les mains des naturels d’un archipel du Pacifique, on n’aurait pu le savoir que si ce noir eût parlé l’anglais ou l’une des deux ou trois langues européennes que Godfrey pouvait entendre. Mais il fut bientôt constant que ce malheureux n’employait qu’un idiome absolument incompréhensible – probablement le langage de ces indigènes, chez lesquels, sans doute, il était arrivé fort jeune.</p>
@@ -1327,9 +1292,8 @@
         <p>Il n’y avait pas à s’attarder. Une lutte directe avec un aussi formidable animal aurait pu avoir les plus funestes résultats. On sait que, dans les forêts de la Californie, l’attaque des ours gris fait courir, même aux chasseurs de profession, les plus terribles dangers.</p>
         <p>Aussi, le Noir saisit-il Godfrey par le bras, afin de l’entraîner rapidement vers Will-Tree. Godfrey, comprenant qu’il ne saurait être trop prudent, se laissa faire.</p>
       </div>
-      <div>
-        <head>XIX
-<lb/><hi rend="i">Dans lequel la situation déjà gravement compromise se complique de plus en plus</hi></head>
+      <div type="chapter">
+        <head>XIX. Dans lequel la situation déjà gravement compromise se complique de plus en plus</head>
         <p>La présence d’un fauve redoutable dans l’île Phina, c’était là, on en conviendra, de quoi préoccuper au plus haut point ceux que la mauvaise fortune y avait jetés.</p>
         <p>Godfrey – peut-être eut-il tort – ne crut pas devoir cacher à Tartelett ce qui venait de se passer.</p>
         <p>– Un ours ! s’écria le professeur en regardant autour de lui d’un œil effaré, comme si les environs de Will-Tree eussent été assaillis par une bande de ces fauves. Pourquoi un ours ? Jusqu’ici il n’y avait pas eu d’ours dans notre île ! S’il y en a un, il peut s’en trouver plusieurs, et même un grand nombre d’autres bêtes féroces : des jaguars, des panthères, des tigres, des hyènes, des lions !</p>
@@ -1400,10 +1364,8 @@
         <p>Un ours ! un tigre ! Il n’était plus possible de douter que l’île ne recelât de redoutables fauves !</p>
         <p>Cependant Godfrey, après avoir rejoint Carèfinotu, s’était assuré que le Noir n’avait reçu dans sa lutte que quelques éraflures sans gravité. Puis, très anxieux des éventualités que leur réservait l’avenir, il reprit le chemin de Will-Tree.</p>
       </div>
-      <div>
-        <head>XX
-<lb/><hi rend="i">Dans lequel Tartelett répète sur tous les tons
-<lb/>qu’il voudrait bien s’en aller</hi></head>
+      <div type="chapter">
+        <head>XX. Dans lequel Tartelett répète sur tous les tons qu’il voudrait bien s’en aller</head>
         <p>Lorsque Tartelett apprit qu’il y avait dans l’île non seulement des ours, mais des tigres, ses lamentations recommencèrent de plus belle. Maintenant il n’oserait plus sortir ! Ces fauves finiraient par connaître le chemin de Will-Tree ! On ne serait plus en sûreté nulle part ! Aussi, ce que le professeur, dans son effroi, demandait pour le protéger, c’était des fortifications, pour le moins, oui ! des murailles en pierre, avec escarpes et contrescarpes, courtines et bastions, des remparts, enfin, qui feraient un abri sûr du groupe des séquoias. Faute de quoi, il voulait, ou tout au moins il voudrait bien s’en aller.</p>
         <p>– Moi aussi, répondit simplement Godfrey.</p>
         <p>En effet, les conditions dans lesquelles les hôtes de l’île Phina avaient vécu jusqu’alors n’étaient plus les mêmes. Lutter contre le dénuement, lutter pour les besoins de la vie, ils y avaient réussi, grâce à d’heureuses circonstances. Contre la mauvaise saison, contre l’hiver et ses menaces, ils sauraient aussi se garder ; mais avoir à se défendre des animaux féroces, dont l’attaque était à chaque instant possible, c’était autre chose, et, en réalité, les moyens leur faisaient défaut.</p>
@@ -1496,10 +1458,8 @@
         <p>Quant au professeur, dans ses angoisses, il ne trouvait à répéter que ces mots qui résumaient toute sa pensée :</p>
         <p>– Je voudrais bien m’en aller !</p>
       </div>
-      <div>
-        <head>XXI
-<lb/><hi rend="i">Qui se termine par une réflexion
-<lb/>absolument surprenante du nègre Carèfinotu</hi></head>
+      <div type="chapter">
+        <head>XXI. Qui se termine par une réflexion absolument surprenante du nègre Carèfinotu</head>
         <p>La saison d’hiver, si dure sous ces latitudes, était enfin venue. Les premiers froids se faisaient déjà sentir, et il fallait compter avec l’extrême rigueur de la température. Godfrey dut donc s’applaudir d’avoir établi un foyer à intérieur. Il va sans dire que le travail de palissade avait été achevé et qu’une solide porte assurait maintenant la fermeture de l’enceinte.</p>
         <p>Durant les six semaines qui suivirent, c’est-à-dire jusqu’à la mi-décembre, il y eut de bien mauvais jours, pendant lesquels il n’était pas possible de s’aventurer au-dehors. Ce furent, pour premier assaut, des bourrasques terribles. Elles ébranlèrent le groupe des séquoias jusque dans leurs racines, elles jonchèrent le sol de branches cassées, dont il fut fait une ample réserve pour les besoins du foyer.</p>
         <p>Les hôtes de Will-Tree se vêtirent alors aussi chaudement qu’ils le purent ; les étoffes de laine, trouvées dans la malle, furent utilisées pendant les quelques excursions nécessaires au ravitaillement ; mais le temps devint si exécrable que l’on dut se consigner.</p>
@@ -1613,9 +1573,8 @@
         <p>– Tu dis ?… s’écria Godfrey, qui s’était laissé glisser jusqu’à lui à travers le branchage.</p>
         <p>– Je dis, répondit Carèfinotu, que c’est aujourd’hui que votre oncle Will doit arriver, et que, s’il ne vient pas, nous sommes fichus !</p>
       </div>
-      <div>
-        <head>XXII
-<lb/><hi rend="i">Lequel conclut en expliquant tout ce qui avait paru être absolument inexplicable jusqu’ici</hi></head>
+      <div type="chapter">
+        <head>XXII. Lequel conclut en expliquant tout ce qui avait paru être absolument inexplicable jusqu’ici</head>
         <p>À ce moment, et avant que Godfrey eût pu répondre, des coups de fusil éclataient à peu de distance de Will-Tree.</p>
         <p>En même temps, une de ces pluies d’orage, qui sont de véritables cataractes, venait à propos verser ses torrentielles averses au moment où, dévorant les premières branches, les flammes menaçaient de se communiquer aux arbres sur lesquels s’appuyait Will-Tree.</p>
         <p>Que devait penser Godfrey de cette série d’inexplicables incidents : Carèfinotu parlant l’anglais comme un Anglais de Londres, l’appelant par son nom, annonçant la prochaine arrivée de l’oncle Will, puis ces détonations d’armes à feu qui venaient d’éclater soudain ?</p>

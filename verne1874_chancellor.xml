@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-14T11:57:13+01:00-->
-<!-- TeiHeader à reprendre, attributs rend inutiles, oubli des dateline, stylage à revoir ! -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -37,18 +35,16 @@
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>I.
-<lb/></head>
+      <div type="chapter">
+        <head>I</head>
         <p>CHARLESTON. – <hi rend="i">27 septembre 1869.</hi> – Nous quittons le quai de la Batterie à trois heures du soir, à la pleine mer. Le jusant nous porte rapidement au large. Le capitaine Huntly a fait établir les hautes et basses voiles, et la brise du nord pousse le <hi rend="i">Chancellor</hi> à travers la baie. Bientôt le fort Sumter est doublé, et les batteries rasantes de la côte sont laissées sur la gauche. À quatre heures, le goulet, d’où s’échappe un rapide courant de reflux, livre passage au navire. Mais la haute mer est encore loin, et, pour l’atteindre, il faut suivre les étroites passes que le flot a creusées entre les bancs de sable. Le capitaine Huntly s’engage donc dans le chenal du sud-ouest et met le phare de la pointe par l’angle gauche du fort Sumter. Les voiles du <hi rend="i">Chancellor</hi> sont alors orientées au plus près, et, à sept heures du soir, la dernière pointe sablonneuse de la côte est rangée par notre bâtiment, qui, tout dessus, se lance sur l’Atlantique.</p>
         <p>Le <hi rend="i">Chancellor</hi>, beau trois-mâts carré de neuf cents tonneaux, appartient à la riche maison Leard frères, de Liverpool. C’est un navire de deux ans, doublé et chevillé en cuivre, bordé en bois de teck, et dont les bas mâts, sauf l’artimon, sont en fer, ainsi que le gréement. Ce solide et fin bâtiment, coté première cote au <hi rend="i">Veritas</hi>, accomplit en ce moment son troisième voyage entre Charleston et Liverpool. Au sortir des passes de Charleston, le pavillon britannique a été amené, mais à voir ce navire, un marin ne pourrait pas se tromper sur son origine : il est bien ce qu’il paraît être, c’est-à-dire anglais depuis la ligne de flottaison jusqu’à la pomme des mâts.</p>
         <p>Voici pourquoi j’ai pris passage à bord du <hi rend="i">Chancellor</hi>, qui retourne en Angleterre.</p>
         <p>Il n’existe aucun service direct de navire à vapeur entre la Caroline du Sud et le Royaume-Uni. Pour prendre une ligne transocéanienne, il faut, soit remonter au nord des États-Unis, à New York, soit redescendre au sud, à La Nouvelle-Orléans. Entre New York et l’ancien continent fonctionnent plusieurs lignes, anglaise, française, hambourgeoise, et un <hi rend="i">Scotia</hi>, un <hi rend="i">Pereire</hi>, un <hi rend="i">Holsatia</hi> m’auraient conduit rapidement à destination. Entre La Nouvelle-Orléans et l’Europe, les bateaux de <hi rend="i">National Steam navigation Co.</hi>, qui rejoignent la ligne française transatlantique de Colon et d’Aspinwall, font de rapides traversées. Mais, en parcourant les quais de Charleston, je vis le <hi rend="i">Chancellor.</hi> Le <hi rend="i">Chancellor</hi> me plut, et je ne sais quel instinct me poussa à bord de ce navire, dont les aménagements étaient confortables. D’ailleurs, la navigation à la voile, quand elle est favorisée par le vent et la mer – presque aussi rapide que la navigation à vapeur – est préférable à tous égards. Au commencement de l’automne, sous ces latitudes déjà basses, la saison est encore belle. Je me décidai donc à prendre passage sur le <hi rend="i">Chancellor.</hi></p>
         <p>Ai-je bien ou mal fait ? Aurai-je à me repentir de ma détermination ? L’avenir me l’apprendra. Je rédige ces notes jour par jour, et, au moment où j’écris, je n’en sais pas plus que ceux qui lisent ce journal – si ce journal doit jamais trouver de lecteurs.</p>
       </div>
-      <div>
-        <head>II.
-<lb/></head>
+      <div type="chapter">
+        <head>II</head>
         <p>– <hi rend="i">28 septembre. –</hi> J’ai dit que le capitaine du <hi rend="i">Chancellor</hi> se nomme Huntly, de ses prénoms John-Silas. C’est un Écossais de Dundee, âgé de cinquante ans, qui a la réputation d’un habile routier de l’Atlantique. Sa taille est moyenne, ses épaules sont étroites, sa tête est petite et par habitude un peu inclinée à gauche. Sans être un physionomiste de premier ordre, il me semble que je puis déjà juger le capitaine Huntly, bien que je ne le connaisse que depuis quelques heures.</p>
         <p>Que Silas Huntly ait la réputation d’être un bon marin, qu’il sache parfaitement son métier, je n’y contredis pas ; mais qu’il y ait en cet homme un caractère ferme, une énergie physique et morale à toute épreuve, non ! cela n’est pas admissible.</p>
         <p>En effet, l’attitude du capitaine Huntly est lourde, et son corps présente un certain affaissement. Il est nonchalant, et cela se voit à l’indécision de son regard, au mouvement passif de ses mains, à l’oscillation qui le porte lentement d’une jambe sur l’autre. Ce n’est pas, ce ne peut être un homme énergique, pas même un homme entêté, car ses yeux ne se contractent pas, sa mâchoire est molle, ses poings n’ont pas une tendance habituelle à se fermer. En outre, je lui trouve un air singulier, sur lequel je ne saurais m’expliquer encore, mais je l’observerai avec l’attention que mérite le commandant d’un navire, celui qui s’appelle « le maître après Dieu » !</p>
@@ -63,9 +59,8 @@
         <p rend="margin noindent">William Falsten, un ingénieur de Manchester, et John Ruby, négociant de Cardiff, Anglais tous deux ;</p>
         <p rend="margin noindent">J.-R. Kazallon, de Londres, l’auteur de ces notes.</p>
       </div>
-      <div>
-        <head>III.
-<lb/></head>
+      <div type="chapter">
+        <head>III</head>
         <p>– <hi rend="i">29 septembre. –</hi> Le connaissement du capitaine Huntly, c’est-à-dire l’acte qui constate le chargement des marchandises sur le <hi rend="i">Chancellor</hi> et les conditions du transport de ces marchandises, est conçu en ces termes :</p>
         <p>« BRONSFIELD &amp; CO., COMMISSIONNAIRES, CHARLESTON.</p>
         <p>« Je, John-Silas Huntly, de Dundee (Écosse), commandant le navire <hi rend="i">Chancellor</hi>, jaugeant neuf cents tonneaux ou environ, étant du présent à Charleston, pour, du premier temps convenable, aller en droite route, sous la garde de Dieu, jusqu’au-devant de la ville de Liverpool, là où sera ma décharge, reconnais avoir reçu dans mon dit navire et sous son franc tillac, de vous, MM. Bronsfield &amp; Co., commissionnaires en marchandises à Charleston, dix-sept cents balles de coton allant pour vingt-six mille livres<note place="bottom">650 000 francs environ.</note>, le tout entier et bien conditionné, marqué et numéroté comme en marge ; lesquels effets je promets de conduire en bon état, sauf les périls et fortunes de mer, à Liverpool, et là les délivrer à MM. Leard frères ou à leur ordre, en me payant pour mon fret la somme de deux mille livres<note place="bottom">50 000 francs environ.</note>, sans plus, suivant charte-partie, en outre, les avaries suivant les us et coutumes de mer. Et pour l’accomplissement de ce que ci-dessus, j’ai obligé ma personne, mes biens et mon dit bâtiment, avec toutes ses dépendances.</p>
@@ -73,9 +68,8 @@
         <p>Ainsi donc, le <hi rend="i">Chancellor</hi> porte à Liverpool dix-sept cents balles de coton. Expéditeurs : Bronsfield &amp; Co., de Charleston. Destinataires : Leard frères, de Liverpool.</p>
         <p>Ce chargement a été fait avec le plus grand soin, le bâtiment étant spécialement construit pour le transport du coton. Les balles occupent toute la cale, sauf une petite partie qui est spécialement réservée aux colis des passagers, et ces balles, dont le tassement a été obtenu au moyen de crics, ne forment plus qu’une masse extrêmement compacte. Donc, pas une place de la cale n’est perdue, avantage considérable pour un navire qui peut ainsi prendre son plein de marchandises.</p>
       </div>
-      <div>
-        <head>IV.
-<lb/></head>
+      <div type="chapter">
+        <head>IV</head>
         <p>– <hi rend="i">Du 30 septembre au 6 octobre.</hi> – Le <hi rend="i">Chancellor</hi> est un rapide marcheur, qui rendrait sans peine les perroquets à plus d’un navire de même taille, et, depuis que la brise a fraîchi, un long sillage, nettement tracé, s’étend à perte de vue à l’arrière. On dirait une longue dentelle blanche, étendue sur la mer comme sur un fond bleu.</p>
         <p>L’Atlantique n’est pas très tourmenté par le vent. Personne, à bord, que je sache, n’est plus incommodé ni par le roulis ni par le tangage du navire. D’ailleurs, aucun des passagers n’en est à sa première traversée, et tous sont plus ou moins familiarisés avec la mer. Aussi, pas de place inoccupée autour de la table, à l’heure des repas.</p>
         <p>Les relations entre les passagers commencent à s’établir, et la vie du bord devient moins monotone. Le Français, M. Letourneur, et moi, nous causons souvent ensemble.</p>
@@ -106,9 +100,8 @@
         <p>William Falsten, lui, est un ingénieur de Manchester, qui a l’air très Anglais. Il dirige une vaste usine hydraulique dans la Caroline du Sud et va chercher en Europe de nouveaux appareils perfectionnés, entre autres les moulins à force centrifuge de la maison Cail. C’est un homme de quarante-cinq ans, une sorte de savant qui ne pense qu’aux machines, que la mécanique ou le calcul absorbent tout entier et qui ne voit rien au-delà. Lorsqu’il vous tient dans sa conversation, il n’est plus possible de se dégager, et on y passe tout entier comme dans un engrenage.</p>
         <p>Quant au sieur Ruby, il représente le négociant vulgaire, sans grandeur, sans originalité. Depuis vingt ans, cet homme n’a rien fait qu’acheter et vendre, et, comme il a généralement vendu plus cher qu’il n’a acheté, sa fortune est faite. Ce qu’il en fera, il ne saurait le dire. Ce Ruby, dont toute l’existence s’est abrutie dans le commerce de détail, ne pense pas, ne réfléchit plus ; son cerveau est désormais fermé à toute impression, et il ne justifie en aucune façon ce mot de Pascal : « L’homme est visiblement fait pour penser. C’est toute sa dignité et tout son mérite. »</p>
       </div>
-      <div>
-        <head>V.
-<lb/></head>
+      <div type="chapter">
+        <head>V</head>
         <p>– <hi rend="i">7 octobre. –</hi> Voilà dix jours que nous avons quitté Charleston, et il me semble que nous avons fait bonne et rapide route. Il m’arrive souvent de causer avec le second, et une certaine intimité s’est établie entre nous.</p>
         <p>Aujourd’hui, Robert Kurtis m’apprend que nous ne devons pas être très éloignés du groupe des Bermudes, c’est-à-dire au large du cap Hatteras. Le point par observation a donné 32°20’ en latitude nord et 64°50’ en longitude à l’ouest du méridien de Greenwich.</p>
         <p>– Nous aurons connaissance des Bermudes et plus particulièrement de l’île Saint-Georges avant la nuit, me dit le second.</p>
@@ -132,9 +125,8 @@
         <p>En effet, ce sont de dangereux parages que ceux qui avoisinent l’archipel bermudien. Les Anglais, auquel ce groupe a toujours appartenu depuis sa découverte, ne l’utilisent que comme un poste militaire, jeté entre les Antilles et la Nouvelle-Écosse. D’ailleurs, il est destiné à s’accroître, et probablement sur une vaste échelle. Avec le temps – ce principe du travail de la nature – cet archipel, déjà composé de cent cinquante îles ou îlots, en comptera un plus grand nombre, car les madrépores travaillent incessamment à construire de nouvelles Bermudes, qui se relieront entre elles et formeront peu à peu un nouveau continent.</p>
         <p>Ni les trois autres passagers ni Mrs. Kear n’ont pris la peine de monter sur le pont pour examiner ce curieux archipel. Quant à miss Herbey, elle n’était pas arrivée à la dunette, que la voix traînante de Mrs. Kear se faisait entendre et obligeait la jeune fille à venir reprendre sa place près d’elle.</p>
       </div>
-      <div>
-        <head>VI.
-<lb/></head>
+      <div type="chapter">
+        <head>VI</head>
         <p>– <hi rend="i">Du 8 au 13 octobre. –</hi> Le vent commence à souffler du nord-est avec une certaine violence, et le <hi rend="i">Chancellor</hi>, sous ses huniers au bas ris et sa misaine, a dû se mettre en cape courante.</p>
         <p>La mer est très houleuse et le navire fatigue beaucoup. Les cloisons du carré gémissent avec un bruit qui finit par agacer. Les passagers se tiennent pour la plupart sous la dunette.</p>
         <p>Quant à moi, je préfère rester sur le pont, bien qu’une pluie fine me pénètre de ses molécules pulvérisées par le vent.</p>
@@ -161,9 +153,8 @@
         <p>Cette mer, enserrée par le tiède courant du Gulf Stream, est une vaste étendue d’eau, couverte de ces varechs que les Espagnols appellent « sargasso », et les vaisseaux de Colomb n’y naviguèrent pas sans peine pendant leur première traversée de l’Océan.</p>
         <p>Quand le jour vient, l’Atlantique s’offre à nos yeux sous un singulier aspect, et MM. Letourneur viennent l’observer, malgré les bruyantes rafales qui font résonner les haubans métalliques comme de véritables cordes de harpe. Nos vêtements, collés à notre corps, s’en iraient en lambeaux, s’ils donnaient la moindre prise à l’air. Le navire bondit sur cette mer, épaissie par cette prolifique famille des fucus, vaste plaine herbeuse que son étrave tranche comme un soc de charrue. Quelquefois, de longs filaments, enlevés par le vent, se contournent aux cordages ainsi que des sarments de vigne folle, et forment un berceau de verdure tendu d’un mât à l’autre. De ces longues algues – interminables rubans qui ne mesurent pas moins de trois ou quatre cents pieds – il en est qui vont s’enrouler jusqu’à la pomme des mâts comme autant de flammes flottantes. Pendant quelques heures, il faut lutter contre cette invasion de varechs, et, à certains moments, le <hi rend="i">Chancellor</hi>, avec sa mâture couverte d’hydrophytes reliées par ces lianes capricieuses, doit ressembler à un bosquet mouvant au milieu d’une prairie immense.</p>
       </div>
-      <div>
-        <head>VII.
-<lb/></head>
+      <div type="chapter">
+        <head>VII</head>
         <p>– <hi rend="i">14 octobre. –</hi> Le <hi rend="i">Chancellor</hi> a enfin quitté cet océan végétal, et la violence du vent a beaucoup diminué. Il est revenu à « bon frais », et nous marchons rapidement avec deux ris dans les huniers.</p>
         <p>Le soleil a paru aujourd’hui et brille d’un vif éclat. La température commence à devenir très chaude. Le point, établi dans de bonnes conditions, donne 21°33’ de latitude nord et 50°17’ de longitude ouest. Le <hi rend="i">Chancellor</hi> a donc descendu de plus de dix degrés dans le sud.</p>
         <p>Et sa route est toujours au sud-est ! J’ai voulu me rendre compte de cette inconcevable obstination du capitaine Huntly, et j’ai plusieurs fois causé avec lui. A-t-il son bon sens ou ne l’a-t-il pas ? je ne sais que croire. En général, il parle raisonnablement. Est-il donc sous l’influence d’une folie partielle, d’une sorte « d’absence » qui porte précisément sur les choses de son métier ? On a déjà observé quelques-uns de ces cas physiologiques, et j’en parle à Robert Kurtis, qui m’écoute froidement. Le second me l’a dit et me le répète encore : il n’a pas le droit de démonter son capitaine tant que le navire n’est pas en perdition par suite d’un acte de folie bien constaté. C’est, en effet, une mesure grave et qui engagerait sérieusement sa responsabilité. J’ai regagné ma cabine vers huit heures du soir, et, à la clarté de ma lampe de roulis, j’ai passé une heure à lire et à réfléchir aussi. Puis, je me suis couché et endormi.</p>
@@ -198,9 +189,8 @@
         <p>– Rien, monsieur Kazallon, répond Robert Kurtis. Un faux coup de barre du timonier a failli masquer le navire, et il a fallu brasser subitement, ce qui a causé une certaine agitation sur le pont. Mais le mal a été promptement réparé, et le <hi rend="i">Chancellor</hi> a repris immédiatement sa route.</p>
         <p>Il me semble que Robert Kurtis, si droit d’ordinaire, ne me dit pas la vérité.</p>
       </div>
-      <div>
-        <head>VIII.
-<lb/></head>
+      <div type="chapter">
+        <head>VIII</head>
         <p>– <hi rend="i">Du 15 au 18 octobre. –</hi> La navigation continue dans les mêmes conditions, le vent tenant toujours au nord-est, et, pour un esprit non prévenu, il ne semble pas qu’il y ait rien d’anormal à bord.</p>
         <p>Cependant, « il y a quelque chose » ! Les matelots, souvent groupés, causent entre eux et se taisent à notre approche. Plusieurs fois, j’ai saisi le mot « panneau » qui a déjà frappé M. Letourneur. Qu’y a-t-il donc dans la cale du <hi rend="i">Chancellor</hi> qui exige tant de précautions ? Pourquoi les panneaux sont-ils si hermétiquement condamnés ? Véritablement, nous aurions un équipage ennemi, prisonnier dans l’entrepont, que nous ne prendrions pas de mesures plus sévères pour l’y garder étroitement !</p>
         <p>Le 15, en me promenant sur le gaillard d’avant, j’entends le matelot Owen dire à ses camarades :</p>
@@ -221,9 +211,8 @@
         <p>Robert Kurtis m’entend, se retourne, vient à moi, et, répondant à une demande que je n’ai pas encore formulée :</p>
         <p>– Eh bien, oui ! me dit-il. Le feu est à bord !</p>
       </div>
-      <div>
-        <head>IX.
-<lb/></head>
+      <div type="chapter">
+        <head>IX</head>
         <p>– <hi rend="i">19 octobre. –</hi> Tout s’explique, les conciliabules des matelots, leur air inquiet, les paroles d’Owen, l’arrosage du pont, que l’on veut maintenir dans un état permanent d’humidité, et enfin cette chaleur qui se répand déjà dans le carré et qui devient presque intolérable. Les passagers en ont souffert comme moi et ne peuvent rien comprendre à cette température anormale.</p>
         <p>Après m’avoir fait cette grave communication, Robert Kurtis est resté silencieux. Il attend mes questions, mais j’avoue qu’au premier moment un frisson m’a saisi tout entier. C’est là, de toutes les éventualités, la plus terrible qui puisse se produire dans une traversée, et pas un homme, si maître qu’il soit de lui-même, n’entendra sans frémir ces mots sinistres : « Le feu est à bord. »</p>
         <p>Cependant, je recouvre mon sang-froid presque aussitôt, et ma première demande à Robert Kurtis est celle-ci :</p>
@@ -248,9 +237,8 @@
         <p>– Rien, et je vous prie de tenir secrète la communication que je viens de vous faire. Il ne faut pas que la terreur de femmes ou de gens pusillanimes accroisse encore nos embarras. Aussi l’équipage a-t-il reçu l’ordre de ne rien dire.</p>
         <p>Je comprends les raisons graves qui font ainsi parler le second, et je lui promets un secret absolu.</p>
       </div>
-      <div>
-        <head>X.
-<lb/></head>
+      <div type="chapter">
+        <head>X</head>
         <p>– <hi rend="i">20 et 21 octobre. –</hi> C’est dans ces conditions que le <hi rend="i">Chancellor</hi> continue à naviguer en faisant autant de toile que sa mâture en peut supporter. Quelquefois les mâts de perroquet plient au point que leur rupture est imminente, mais Robert Kurtis veille. Posté près de la roue du gouvernail, il ne veut pas laisser l’homme de barre livré à lui-même. Par de petites embardées adroitement ménagées, il cède à la brise, quand la sécurité du bâtiment pourrait être compromise, et, autant que possible, le <hi rend="i">Chancellor</hi> ne perd rien de sa vitesse sous la main qui le gouverne.</p>
         <p>Pendant cette journée du 20 octobre, les passagers sont tous montés sur la dunette. Ils ont évidemment dû remarquer l’élévation anormale de la température à l’intérieur du carré, mais, ne pouvant soupçonner la vérité, ils ne s’inquiètent point. D’ailleurs, leurs pieds, convenablement chaussés, n’ont pas ressenti cette chaleur qui pénètre les planches du pont, malgré l’eau que l’on y verse presque continuellement. Cette manœuvre des pompes aurait pu, au moins, provoquer quelque étonnement de leur part. Il n’en est rien, cependant, et la plupart, étendus sur les bancs, se laissent bercer au roulis du navire, dans un état de parfaite quiétude.</p>
         <p>M. Letourneur, seul, a paru surpris et s’aperçoit bien que l’équipage se livre à un excès de propreté peu ordinaire aux navires de commerce. Il me dit quelques mots à cet égard, et je réponds d’un ton indifférent. Cependant, ce Français est un homme énergique, je pourrais tout lui apprendre, mais j’ai promis à Robert Kurtis de me taire et je me tais.</p>
@@ -287,9 +275,8 @@
         <p>– Où cela ?</p>
         <p>– Dans la cale, avec les marchandises !</p>
       </div>
-      <div>
-        <head>XI.
-<lb/></head>
+      <div type="chapter">
+        <head>XI</head>
         <p>– <hi rend="i">Suite du 21 octobre.</hi> – Je ne peux raconter ce qui se passe en moi, en entendant la réponse de Falsten. Ce n’est pas de l’épouvante, et j’éprouve plutôt une sorte de résignation ! Il me semble que cela complète la situation, et même que cela peut la dénouer ! Aussi, est-ce très froidement que je vais trouver Robert Kurtis sur le gaillard d’avant.</p>
         <p>En apprenant qu’une bonbonne renfermant trente livres de picrate – c’est-à-dire de quoi faire sauter une montagne – est déposée à bord, à fond de cale, dans le foyer même de l’incendie, et que le <hi rend="i">Chancellor</hi> peut faire explosion d’un instant à l’autre, Robert Kurtis ne sourcille pas, et c’est à peine si son front se ride, si sa pupille se dilate.</p>
         <p>– Bien ! me répond-il. Pas un mot de ceci. Où est ce Ruby ?</p>
@@ -313,9 +300,8 @@
         <p>Robert Kurtis donne l’ordre aux matelots de s’emparer du passager, que l’on parvient à bâillonner et à attacher solidement. Puis, il est transporté dans sa cabine, où il sera désormais gardé à vue.</p>
         <p>Le mot terrible ne s’est pas échappé de sa bouche !</p>
       </div>
-      <div>
-        <head>XII.
-<lb/></head>
+      <div type="chapter">
+        <head>XII</head>
         <p>– <hi rend="i">22 et 23 octobre. –</hi> Robert Kurtis a tout appris au capitaine Huntly. Le capitaine Huntly, de droit sinon de fait, est son chef, et il ne pouvait lui cacher la situation.</p>
         <p>À cette communication, le capitaine n’a pas répondu un seul mot, et, après avoir passé la main sur son front comme un homme qui veut chasser une idée importune, il est tranquillement rentré dans sa cabine, sans donner aucun ordre.</p>
         <p>Robert Kurtis, le lieutenant, l’ingénieur Falsten et moi, nous tenons conseil, et je suis étonné du sang-froid que chacun apporte dans la circonstance. Toutes les chances de salut sont discutées, et Robert Kurtis résume ainsi la situation :</p>
@@ -361,9 +347,8 @@
         <p>Ainsi s’est opéré ce changement, qui ne peut tourner qu’au bien de tous. Nous avons à notre tête un homme énergique et sûr, qui ne reculera devant aucune mesure pour le salut commun. MM. Letourneur, l’ingénieur Falsten et moi, nous félicitons immédiatement Robert Kurtis, et le lieutenant et le bosseman joignent leurs compliments aux nôtres.</p>
         <p>La route du navire est maintenue au sud-ouest, et Robert Kurtis, en forçant de voiles, cherche à rallier dans le plus court délai la plus rapprochée des Petites-Antilles.</p>
       </div>
-      <div>
-        <head>XIII.
-<lb/></head>
+      <div type="chapter">
+        <head>XIII</head>
         <p>– <hi rend="i">Du 24 au 29 octobre. –</hi> Pendant les cinq jours qui suivent, la mer est très dure. Bien que le <hi rend="i">Chancellor</hi> ait renoncé à lutter contre elle et coure avec le vent et la lame, il est extrêmement secoué. Pendant cette navigation sur un brûlot, nous n’avons plus un seul moment de tranquillité. On contemple d’un œil d’envie cette eau qui entoure le navire, qui attire, qui fascine !</p>
         <p>– Mais, ai-je dit à Robert Kurtis, pourquoi ne pas saborder le pont ? Pourquoi ne pas précipiter des tonnes d’eau dans la cale ? Quand le navire en serait rempli, où serait le mal ? L’incendie éteint, les pompes rejetteraient toute cette eau à la mer !</p>
         <p>– Monsieur Kazallon, me répond Robert Kurtis, je vous l’ai dit, je vous le répète, si nous livrons passage à l’air, si peu que ce soit, le feu se propagera, en un instant, dans le navire tout entier, et les flammes l’envelopperont de la quille à la pomme des mâts ! Nous sommes condamnés à l’inaction, et il est des circonstances où il faut avoir le courage de ne rien faire !</p>
@@ -396,9 +381,8 @@
         <p>– Le picrate ! le picrate ! Nous allons tous sauter ! sauter ! sauter !…</p>
         <p>Puis, sans qu’on ait le temps de l’arrêter, il se précipite par le panneau dans la fournaise ardente.</p>
       </div>
-      <div>
-        <head>XIV.
-<lb/></head>
+      <div type="chapter">
+        <head>XIV</head>
         <p>– <hi rend="i">Pendant la nuit du 29 octobre. –</hi> Cette scène a été épouvantable ; et chacun, malgré la situation désespérée dans laquelle il se trouve, en a ressenti toute l’horreur.</p>
         <p>Ruby n’est plus, mais ses dernières paroles vont peut-être avoir des conséquences bien funestes. Les matelots l’ont entendu crier : « Le picrate ! le picrate ! » Ils ont compris que le navire peut sauter d’un instant à l’autre, et que ce n’est plus un incendie seulement, mais une épouvantable explosion qui les menace.</p>
         <p>Quelques hommes, ne se possédant plus, veulent s’enfuir à tout prix et sans retard.</p>
@@ -423,9 +407,8 @@
         <p>– Des brisants ! des brisants par tribord ! Robert Kurtis saute sur le bastingage, jette un coup d’œil rapide sur les lames blanches, et, se retournant vers le timonier :</p>
         <p>– La barre à tribord, toute ! crie-t-il d’une voix impérative. Mais il est trop tard. Je sens que nous sommes enlevés sur le dos d’une lame monstrueuse, et, soudain, un choc se produit. Le navire touche par l’arrière, talonne plusieurs fois, et le mât d’artimon, brisé au ras du pont, tombe à la mer. Le <hi rend="i">Chancellor</hi> est immobile.</p>
       </div>
-      <div>
-        <head>XV.
-<lb/></head>
+      <div type="chapter">
+        <head>XV</head>
         <p>– <hi rend="i">Suite de la nuit du 29 octobre. –</hi> Il n’est pas encore minuit. Il n’y a pas de lune, et l’obscurité est profonde. Nous ne pouvons savoir en quel endroit le navire vient d’échouer. Violemment repoussé par la tourmente, a-t-il donc enfin atteint la côte américaine, et la terre est-elle en vue ?</p>
         <p>J’ai dit que le <hi rend="i">Chancellor</hi>, après avoir donné quelques coups de talon, est resté absolument immobile. Quelques instants plus tard, un bruit de chaînes qui retentit à l’avant apprend à Robert Kurtis que les ancres viennent d’être mouillées.</p>
         <p>– Bien ! bien ! dit-il. Le lieutenant et le bosseman ont mouillé les deux ancres ! Il faut espérer qu’elles tiendront !</p>
@@ -444,9 +427,8 @@
         <p>Ces paroles de Robert Kurtis, je les rapporte immédiatement aux autres passagers. Elles ne sont pas absolument rassurantes, mais personne ne veut voir le nouveau danger que crée la situation du navire, si, par malheur, il s’est jeté sur quelque récif inconnu, à plusieurs centaines de milles de toute terre. Une seule considération domine tout : c’est que maintenant l’eau combat pour nous et lutte avantageusement contre l’incendie, et, par conséquent, contre les chances d’explosion.</p>
         <p>En effet, aux flammes éclatantes a succédé peu à peu une épaisse fumée noire qui s’échappe du panneau en tourbillons humides. Quelques langues ardentes se projettent encore au milieu des sombres volutes, mais elles s’éteignent presque aussitôt. Aux ronflements du feu succèdent les sifflements de l’eau, qui se vaporise sur le foyer intérieur. Il est certain que la mer fait là ce que ni nos pompes ni nos seaux n’auraient pu faire, et cet incendie, qui s’est propagé au milieu de dix-sept cents balles de coton, il ne fallait rien moins qu’une inondation pour l’éteindre !</p>
       </div>
-      <div>
-        <head>XVI.
-<lb/></head>
+      <div type="chapter">
+        <head>XVI</head>
         <p>– <hi rend="i">30 octobre. –</hi> Les premières lueurs matinales ont blanchi l’horizon, mais les brumes du large arrêtent le regard sur une circonférence assez restreinte.</p>
         <p>Aucune terre n’est encore en vue, et, cependant, notre œil fouille impatiemment toute la portion occidentale et méridionale de l’Océan.</p>
         <p>En ce moment, la mer s’est presque entièrement retirée, il n’y a pas six pieds d’eau autour du navire, qui en cale environ quinze à pleine charge. Quelques pointes de roc émergent çà et là, et on voit, à de certaines couleurs du fond, que cet écueil est composé de roches basaltiques. Comment le <hi rend="i">Chancellor</hi> a-t-il pu être transporté si avant sur ce récif ? Il faut qu’une lame énorme l’ait soulevé, et c’est bien ce que j’ai senti quelques instants avant l’échouement. Aussi, après avoir examiné la ligne des roches qui l’entourent, je me demande comment on parviendra à le tirer de là. Il est incliné de l’arrière à l’avant, ce qui rend la marche sur le pont fort pénible, et, en outre, à mesure que le niveau de l’Océan s’abaisse, il donne une bande plus accusée à bâbord. Robert Kurtis a pu redouter un moment qu’il ne chavirât à mer basse ; mais son inclinaison s’est enfin définitivement fixée, et il n’y a rien à craindre à cet égard.</p>
@@ -493,9 +475,8 @@
         <p>Telle est la situation. Elle est grave, mais l’impression qui résulte de cette communication du capitaine n’est pas mauvaise – en ce moment, du moins. Quels nouveaux dangers pourraient maintenant nous émouvoir, nous qui venons d’échapper aux menaces de l’incendie et de l’explosion ? On oublie que la cale du navire est envahie par l’eau, que la terre est éloignée, que le <hi rend="i">Chancellor</hi>, quand il reprendra la mer, peut sombrer en route… Mais les esprits sont encore sous l’impression des terreurs du passé, et, retrouvant un peu de calme, ils sont disposés à la confiance.</p>
         <p>À présent, que va faire Robert Kurtis ? Tout simplement ce que le simple bon sens commande : éteindre complètement l’incendie, jeter à la mer tout ou partie de la cargaison, sans oublier la bonbonne de picrate, boucher la voie d’eau, et, le navire étant allégé, profiter d’une pleine mer pour quitter l’écueil le plus vite possible.</p>
       </div>
-      <div>
-        <head>XVII.
-<lb/></head>
+      <div type="chapter">
+        <head>XVII</head>
         <p>– <hi rend="i">Suite du 30 octobre. –</hi> J’ai causé avec M. Letourneur de la situation qui nous est faite, et j’ai cru pouvoir lui assurer que notre séjour sur le récif serait court, si les circonstances nous favorisaient. Mais M. Letourneur ne semble pas partager mon avis.</p>
         <p>– Je crains bien, au contraire, me répond-il, que nous ne soyons longtemps retenus sur ces roches !</p>
         <p>– Et pourquoi ? ai-je repris. Quelques centaines de balles de coton à jeter par-dessus le bord, ce n’est pas là une besogne longue et difficile, et, en deux ou trois jours, elle peut être faite.</p>
@@ -508,9 +489,8 @@
         <p>Il importe, d’ailleurs, que le plan de ce récif, qui n’est pas indiqué sur les cartes, soit relevé avec soin. Je pense que MM. Letourneur et moi, nous pouvons faire assez facilement ce travail d’hydrographie, en laissant au capitaine Kurtis le soin de le compléter lorsqu’il calculera de nouveau la longitude et la latitude de l’écueil avec toute l’exactitude possible.</p>
         <p>Ma proposition est agréée de MM. Letourneur. La baleinière, munie de lignes de sonde, un matelot pour la conduire, sont mis à notre disposition, et nous quittons le <hi rend="i">Chancellor</hi> dans la matinée du 31 octobre.</p>
       </div>
-      <div>
-        <head>XVIII.
-<lb/></head>
+      <div type="chapter">
+        <head>XVIII</head>
         <p>– <hi rend="i">Du 31 octobre au 5 novembre. –</hi> Nous avons commencé par faire le tour de l’écueil, dont la longueur mesure environ un quart de mille.</p>
         <p>Ce petit voyage de « circumnavigation » est rapidement accompli, et, la sonde à la main, nous constatons que les abords du récif sont très accores. L’eau est extrêmement profonde à raser les roches, et il n’est pas douteux qu’un soulèvement brusque, une poussée violente, due à l’action des forces plutoniennes, n’ait projeté cet écueil hors des eaux.</p>
         <p>Du reste, l’origine de l’îlot n’est pas discutable. Elle est purement volcanique. Ce ne sont partout que blocs de basalte, disposés dans un ordre parfait, et dont les prismes réguliers donnent à l’ensemble l’aspect d’une cristallisation gigantesque. La mer est merveilleusement transparente à l’aplomb du contour de l’écueil et laisse voir le curieux faisceau de fûts prismatiques qui supporte cette remarquable substruction.</p>
@@ -550,9 +530,8 @@
         <p>– Non, monsieur Kazallon, répond la jeune fille en comprimant un soupir, et pourtant, c’est ici, peut-être, le seul endroit où j’aie été heureuse !</p>
         <p>– Et moi heureux ! murmure André. Il y a bien des souffrances cachées dans cette réponse de miss Herbey ! La jeune fille, pauvre, sans parents, sans amis, n’a encore trouvé le bonheur – un bonheur de quelques instants – que sur un roc ignoré de l’Atlantique !</p>
       </div>
-      <div>
-        <head>XIX.
-<lb/></head>
+      <div type="chapter">
+        <head>XIX</head>
         <p>– <hi rend="i">Du 6 au 15 novembre. –</hi> Pendant les cinq premiers jours depuis son échouement, des vapeurs âcres et épaisses se sont échappées de la cale du <hi rend="i">Chancellor ;</hi> puis, elles ont diminué peu à peu, et, le 6 novembre, on peut considérer l’incendie comme éteint. Cependant, par mesure de prudence, Robert Kurtis fait continuer la manœuvre des pompes, en sorte que la coque est maintenant noyée jusqu’à la hauteur de l’entrepont. Seulement, lorsque la mer baisse, l’eau baisse aussi dans la cale, et les deux surfaces liquides se nivellent intérieurement et extérieurement.</p>
         <p>– Ce qui prouve, me dit Robert Kurtis, que la voie d’eau est considérable, puisque l’écoulement se fait avec une telle rapidité.</p>
         <p>Et, en effet, l’ouverture produite dans la coque ne mesure pas moins de quatre pieds carrés de superficie. Un des matelots, Flaypol ayant plongé à mer basse, a reconnu la position et l’importance de l’avarie. La voie d’eau s’ouvre à trente pieds sur l’avant du gouvernail, et trois bordages ont été défoncés par une pointe de roc, à deux pieds environ au-dessus de la râblure de la quille. Le choc s’est produit avec une violence extrême, le navire étant lourdement chargé et la mer grosse. Il est même surprenant que la coque ne se soit pas ouverte en plusieurs endroits. Quant à la voie d’eau, sera-t-il facile de l’aveugler, c’est ce que l’on saura quand la cargaison, enlevée ou déplacée, permettra au maître charpentier d’arriver jusqu’à elle. Mais il faudra deux jours encore avant qu’il soit possible de pénétrer dans la cale du <hi rend="i">Chancellor</hi> et d’en retirer les balles de coton qui ont été respectées par le feu.</p>
@@ -567,9 +546,8 @@
         <p>Après deux jours de travail, l’eau a été en grande partie épuisée, et le déchargement des dernières balles de la cargaison s’est fait sans encombre. Nous avons dû manœuvrer les pompes à notre tour afin de soulager l’équipage, et nous l’avons fait consciencieusement. André Letourneur, malgré son infirmité, s’est joint à nous, et chacun, selon ses forces, a fait son devoir.</p>
         <p>Et, cependant, c’est un travail fatigant que celui-là ; nous ne pouvons le continuer longtemps sans prendre du repos. Les bras et les reins sont promptement brisés par ce va-et-vient des bringuebales, et je comprends que les matelots répugnent à cette tâche. Et encore l’accomplissons-nous dans des conditions favorables, puisque le bâtiment est sur un fond solide, et que le gouffre n’est pas sous nos pieds. Nous ne défendons pas notre vie contre une mer envahissante, et il n’y a pas lutte entre nous et une eau qui rentre à mesure qu’on l’épuise ! Fasse le Ciel que nous ne soyons jamais mis à pareille épreuve sur un navire qui sombre !</p>
       </div>
-      <div>
-        <head>XX.
-<lb/></head>
+      <div type="chapter">
+        <head>XX</head>
         <p>– <hi rend="i">Du 15 au 20 novembre. –</hi> Aujourd’hui, la visite de la cale a pu être effectuée ; on a enfin découvert la bonbonne de picrate, à l’arrière, en un endroit que le feu n’a heureusement pas atteint. Cette bonbonne est intacte, l’eau n’a même pas avarié son contenu, et elle est déposée en lieu sûr à l’extrémité de l’îlot. Pourquoi ne la jette-t-on pas à la mer immédiatement ? je n’en sais rien, mais enfin on ne l’a pas jetée.</p>
         <p>Robert Kurtis et Daoulas, pendant leur visite, constatent que le pont et les barreaux qui le soutiennent ont moins souffert qu’on ne le pensait. L’intense chaleur à laquelle ces épaisses planches et ces fortes traverses ont été soumises les a gondolées, mais sans les ronger profondément, et l’action du feu paraît s’être plus spécialement portée vers les flancs de la coque.</p>
         <p>En effet, sur une très grande longueur, le vaigrage<note place="bottom">Sorte de bordé intérieur.</note> a été dévoré par les flammes ; des bouts de gournables carbonisés sortent çà et là, et, malheureusement, la membrure est très sérieusement atteinte ; l’étoupe a joué dans les abouts et dans les coutures, et on peut considérer comme un miracle que le bâtiment ne se soit pas depuis longtemps entrouvert.</p>
@@ -596,9 +574,8 @@
         <p>– Eh bien, capitaine, demande alors le bosseman, comment passerons-nous ?</p>
         <p>– Je ne sais pas, répond Robert Kurtis, mais nous passerons.</p>
       </div>
-      <div>
-        <head>XXI.
-<lb/></head>
+      <div type="chapter">
+        <head>XXI</head>
         <p>– <hi rend="i">Du 21 au 23 novembre. –</hi> Il faut, en effet, quitter cet étroit bassin, et sans retard. Le temps, qui nous a favorisés pendant tout ce mois de novembre, menace de changer. Le baromètre a baissé depuis la veille, et la houle commence à se faire autour de Ham-Rock. Or, l’îlot ne peut être tenable par un coup de vent. Le <hi rend="i">Chancellor</hi> y serait mis en pièces.</p>
         <p>Ce soir même, à mer basse, Robert Kurtis, Falsten, le bosseman, Daoulas et moi, nous sommes allés examiner le radier basaltique, qui découvre alors. Il n’y a qu’un moyen de frayer un passage, c’est d’attaquer ce radier à coups de pic, sur une largeur de dix pieds et une longueur de six. Un abaissement de huit ou neuf pouces doit suffire au tirant d’eau du <hi rend="i">Chancellor</hi>, et en balisant avec soin ce petit canal, il le franchira et se retrouvera au-delà des eaux qui redeviennent immédiatement profondes.</p>
         <p>– Mais ce basalte a la dureté du granit, fait observer le bosseman, et le travail sera fort long, d’autant plus qu’il ne pourra s’exécuter qu’à marée basse, c’est-à-dire pendant deux heures à peine sur vingt-quatre !</p>
@@ -624,9 +601,8 @@
         <p>Pendant cette journée, MM. Letourneur, miss Herbey et moi, nous faisons encore une promenade entre les basaltes de ce récif que nous ne reverrons jamais et sur lequel nous avons séjourné pendant trois semaines. Le nom du <hi rend="i">Chancellor</hi>, celui de l’écueil, la date de l’échouement, sont artistement gravés par André sur une des parois de la grotte, et un dernier adieu est dit à ce rocher sur lequel nous avons passé bien des jours, dont quelques-uns compteront parmi les meilleurs de notre existence !</p>
         <p>Enfin, le 24 novembre, à la marée du matin, le <hi rend="i">Chancellor</hi> appareille sous ses basses voiles, ses huniers et ses perroquets, et, deux heures plus tard, le dernier sommet de Ham-Rock a disparu au-dessous de l’horizon.</p>
       </div>
-      <div>
-        <head>XXII.
-<lb/></head>
+      <div type="chapter">
+        <head>XXII</head>
         <p>– <hi rend="i">Du 24 novembre au 1<hi rend="sup">er</hi> décembre. –</hi> Nous voilà donc en mer, et sur un navire dont la solidité est compromise, mais, très heureusement, il ne s’agit pas de faire une longue traversée. Nous avons seulement huit cents milles à franchir. Si le vent de nord-est se maintient pendant quelques jours, le <hi rend="i">Chancellor</hi>, marchant vent arrière, fatiguera peu et atteindra sûrement la côte de la Guyane.</p>
         <p>La route est donnée au sud-ouest, et la vie du bord reprend son cours régulier.</p>
         <p>Les premiers jours se passent sans incident. La direction du vent est toujours bonne, mais Robert Kurtis ne veut pas se charger de toile, car il craint de provoquer quelque réouverture de la voie d’eau en imprimant trop de vitesse à son navire.</p>
@@ -650,9 +626,8 @@
         <p>La manœuvre des pompes a continué pendant toute la journée et toute la nuit. Mais la mer a encore gagné sur nous. L’équipage est exténué. Des symptômes de découragement se manifestent parmi les hommes. Cependant, le bosseman et le second prêchent d’exemple, et les passagers prennent place aux bringuebales.</p>
         <p>La situation n’est plus la même qu’à l’époque où le <hi rend="i">Chancellor</hi> était échoué sur le sol ferme de Ham-Rock. Notre navire flotte maintenant sur un abîme dans lequel il peut à chaque instant s’engloutir !</p>
       </div>
-      <div>
-        <head>XXIII.
-<lb/></head>
+      <div type="chapter">
+        <head>XXIII</head>
         <p>– <hi rend="i">Du 2 au 3 décembre. –</hi> Pendant vingt-quatre heures encore, nous luttons avec énergie et nous empêchons le niveau d’eau de s’accroître à l’intérieur du bâtiment ; mais il est évident qu’un moment arrivera bientôt où les pompes ne suffiront même plus à rejeter une quantité d’eau égale à celle qui pénètre par la fracture de la coque.</p>
         <p>Pendant cette journée, le capitaine Kurtis, qui ne prend pas un instant de repos, opère lui-même une nouvelle reconnaissance dans la cale, et je l’y accompagne avec le charpentier et le bosseman. Quelques balles de coton sont déplacées, et nous constatons, en prêtant l’oreille, qu’on entend une sorte de clapotis, de « glou-glou », pour employer un mot plus juste. Est-ce la voie d’eau qui s’est rouverte, est-ce une dislocation générale de toute la coque ? il est impossible de le constater exactement. En tout cas, Robert Kurtis va essayer de rendre la coque plus étanche à l’arrière en l’enveloppant extérieurement de voiles goudronnées. Peut-être parviendra-t-il ainsi à intercepter toute communication, provisoirement au moins, entre le dedans et le dehors. Si l’entrée de l’eau est momentanément arrêtée, on pourra pomper plus efficacement et sans doute relever le navire.</p>
         <p>L’opération est plus difficile qu’on ne l’imagine. Il faut d’abord diminuer la vitesse du bâtiment, et, après que de fortes voiles, maintenues par des cartahus, ont été coulées sous la quille, on les fait glisser jusqu’à l’endroit où s’ouvrait l’ancienne voie d’eau, de manière à envelopper complètement cette partie de la coque du <hi rend="i">Chancellor.</hi></p>
@@ -674,9 +649,8 @@
         <p>Robert Kurtis se dirige alors vers la dunette, entre dans sa cabine et en sort avec un revolver armé.</p>
         <p>Owen regarde un instant Robert Kurtis, mais Jynxtrop lui fait un signe, et tous reprennent leur travail.</p>
       </div>
-      <div>
-        <head>XXIV.
-<lb/></head>
+      <div type="chapter">
+        <head>XXIV</head>
         <p>– <hi rend="i">4 décembre. –</hi> Le premier mouvement de révolte a été arrêté par l’attitude énergique du capitaine. Robert Kurtis sera-t-il aussi heureux à l’avenir ? Il faut l’espérer, car l’indiscipline de l’équipage rendrait terrible une situation déjà si grave.</p>
         <p>Pendant la nuit, les pompes ne peuvent plus franchir. Les mouvements du navire sont lourds, et comme il lui est très difficile de s’élever à la lame, il reçoit des paquets de mer qui l’assomment et pénètrent par les panneaux. Autant d’eau ajoutée à l’eau de la cale.</p>
         <p>La situation va bientôt devenir aussi menaçante qu’elle l’était aux dernières heures de l’incendie. Les passagers, l’équipage, tous sentent que ce navire leur manque peu à peu sous les pieds. Ils voient monter lentement, mais incessamment, ces flots qui leur paraissent alors aussi redoutables que l’ont été les flammes.</p>
@@ -698,9 +672,8 @@
         <p>Mais, avant moi, Robert Kurtis a rejoint André, et il va le porter dans les haubans du grand mât, quand le <hi rend="i">Chancellor</hi>, que le vent poussait alors rapidement, s’arrête soudain. Une secousse violente se produit.</p>
         <p>Le navire s’enfonce ! L’eau me gagne les jambes. Instinctivement, je saisis un cordage… Mais, tout à coup, l’engloutissement s’arrête, et, lorsque le pont est à deux pieds déjà au-dessous du niveau de la mer, le <hi rend="i">Chancellor</hi> reste immobile.</p>
       </div>
-      <div>
-        <head>XXV.
-<lb/></head>
+      <div type="chapter">
+        <head>XXV</head>
         <p>– <hi rend="i">Nuit du 4 au 5 décembre. –</hi> Robert Kurtis a enlevé le jeune Letourneur, et, courant sur le pont inondé, il le place dans les haubans de tribord. Son père et moi, nous nous hissons près de lui.</p>
         <p>Puis, je regarde autour de moi. La nuit est assez claire pour que je puisse apercevoir ce qui se passe.</p>
         <p>Robert Kurtis, revenu à son poste, est debout sur la dunette. Tout à fait à l’arrière, près du couronnement non encore immergé, j’aperçois dans l’ombre Mr. Kear, sa femme, miss Herbey et Falsten ; sur l’extrémité du gaillard d’avant, le lieutenant et le bosseman ; dans les hunes et sur les haubans, le reste de l’équipage.</p>
@@ -722,9 +695,8 @@
         <p>Depuis que les lames sont devenues plus fortes, Mrs. Kear s’est enfin décidée à quitter la place qu’elle occupait à l’arrière de la dunette, et elle a pu atteindre la grand-hune, sur laquelle elle s’est couchée dans un état de complète prostration. Mr. Kear, lui, est installé avec Silas Huntly dans la hune de misaine. Près de Mrs. Kear et de miss Herbey sont placés MM. Letourneur, fort à l’étroit, comme l’on pense, sur cette plate-forme qui ne mesure que douze pieds à son plus grand diamètre. Mais des filières ont été établies d’un hauban à l’autre et leur permettent de tenir bon contre les coups de roulis. En outre, Robert Kurtis a eu soin de faire disposer au-dessus de la hune une voile qui abrite les deux femmes.</p>
         <p>Quelques barils qui flottaient entre les mâts du navire après la submersion, et qu’on a recueillis à temps, ont été hissés sur les hunes et solidement amarrés aux étais. Ce sont des caisses de conserves et de biscuits, ainsi que des barriques d’eau douce, qui forment maintenant toute notre réserve.</p>
       </div>
-      <div>
-        <head>XXVI.
-<lb/></head>
+      <div type="chapter">
+        <head>XXVI</head>
         <p>– <hi rend="i">5 décembre. –</hi> La journée est chaude. Décembre, sous le seizième parallèle, n’est plus un mois d’automne, mais un véritable mois d’été. Nous devons nous attendre à supporter de cruelles chaleurs, si la brise ne vient pas tempérer les ardeurs du soleil.</p>
         <p>Cependant, la mer est restée assez houleuse. La coque du navire, immergée aux trois quarts, est battue comme un écueil. L’écume des lames saute jusqu’à la hauteur des hunes, et nos vêtements sont traversés par les embruns comme par une pluie fine.</p>
         <p>Voici ce qui reste uniquement du <hi rend="i">Chancellor</hi>, c’est-à-dire ce qui est au-dessus du niveau de la mer : les trois bas mâts, surmontés de leurs mâts d’hune, le beaupré, auquel on a suspendu la baleinière, afin qu’elle ne fût pas brisée par les flots, puis la dunette et le gaillard d’avant, réunis seulement par l’étroit cadre des bastingages. Quant au pont, il est complètement immergé.</p>
@@ -752,9 +724,8 @@
         <p>Je me lève. Accroché fortement à la filière, j’essaie d’apercevoir, pendant quelques instants, un point noir qui s’élève et s’abaisse au milieu de l’intense blancheur des eaux. Ce ne peut être un rocher, puisqu’il suit les mouvements de la houle. Qu’est-ce donc ?</p>
         <p>Puis, la lune se voile de nouveau, l’obscurité redevient profonde, et je me couche près des haubans de bâbord.</p>
       </div>
-      <div>
-        <head>XXVII.
-<lb/></head>
+      <div type="chapter">
+        <head>XXVII</head>
         <p>– <hi rend="i">6 décembre. –</hi> Je suis parvenu à dormir pendant quelques heures. À quatre heures du matin, le sifflement de la brise me réveille brusquement. J’entends la voix de Robert Kurtis qui retentit au milieu des rafales, dont les secousses ébranlent la mâture.</p>
         <p>Je me lève. Accroché fortement à la filière, j’essaie de voir ce qui se passe au-dessous et autour de moi.</p>
         <p>Au milieu de l’obscurité, la mer mugit sous mes yeux. De grandes nappes d’écume, livides plutôt que blanches, passent entre les mâts, auxquels le roulis imprime de larges oscillations. Deux ombres noires, à l’arrière du navire, tranchent sur la couleur blanchâtre de la mer. Ces ombres sont le capitaine Kurtis et le bosseman. Leurs voix, peu distinctes au milieu du fracas des flots et des sifflements de la brise, n’arrivent à mon oreille que comme un gémissement.</p>
@@ -779,9 +750,8 @@
         <p>– Cinq de perdus ! répond le vieil Irlandais. En effet, l’état de la mer ne peut que justifier les paroles d’O’Ready. Nous ne sommes plus que vingt-deux à bord. De combien ce nombre va-t-il encore se réduire ? En apprenant cette lâche désertion et le vol de la baleinière, l’équipage accable les fugitifs d’invectives. Si le hasard les ramenait à bord, ils paieraient cher leur trahison !</p>
         <p>Je recommande de cacher à Mrs. Kear la fuite de son mari. La malheureuse femme est minée par une fièvre incessante contre laquelle nous sommes impuissants, puisque l’engloutissement du navire a été si prompt que la boîte de pharmacie n’a pu être sauvée. Et, d’ailleurs, eussions-nous des médicaments, quel effet en attendre dans les conditions où se trouve Mrs. Kear ?</p>
       </div>
-      <div>
-        <head>XXVIII.
-<lb/></head>
+      <div type="chapter">
+        <head>XXVIII</head>
         <p>– <hi rend="i">Suite du 6 décembre. –</hi> Cependant, le <hi rend="i">Chancellor</hi> n’est plus maintenu en équilibre au milieu des couches d’eau. Il est probable que sa coque se disloque, et l’on sent qu’il s’enfonce peu à peu.</p>
         <p>Heureusement, le radeau va être achevé dans la soirée, et on pourra s’y installer, à moins que Robert Kurtis ne préfère s’embarquer que le lendemain, dès que le jour sera venu. Le bâti a été solidement établi. Les espars qui le forment ont été liés entre eux avec de fortes cordes, et, comme ces pièces s’entrecroisent les unes au-dessus des autres, l’ensemble s’élève de deux pieds environ au-dessus du niveau de la mer.</p>
         <p>Quant à la plate-forme, elle est construite avec les planches des pavois que les lames ont arrachées et qu’on a utilisées soigneusement. Dans l’après-midi, on commence à y charger tout ce qui a été sauvé en fait de vivres, de voiles, d’instruments, d’outils. Il faut se hâter, car, en ce moment, la grand-hune n’est plus qu’à dix pieds au-dessus de la mer, et il ne reste du beaupré que l’extrémité de son bout-dehors qui se dresse obliquement.</p>
@@ -794,9 +764,8 @@
         <p>À ce moment, un des hommes qui se trouvent dans les haubans fait entendre ces épouvantables paroles :</p>
         <p>– Voilà un cadavre que nous regretterons ! Je me retourne. C’est Owen qui a parlé ainsi. Puis, la pensée me vient que les vivres, en effet, nous manqueront peut-être un jour !</p>
       </div>
-      <div>
-        <head>XXIX.
-<lb/></head>
+      <div type="chapter">
+        <head>XXIX</head>
         <p>– <hi rend="i">7 décembre. –</hi> Le navire s’enfonce toujours. La mer est arrivée maintenant au trélingage de la hune de misaine. La dunette, le gaillard d’avant sont complètement immergés, et le bout-dehors du beaupré a disparu. Il ne reste plus que les trois bas mâts qui sortent de l’Océan.</p>
         <p>Mais le radeau est prêt et chargé de tout ce qui a pu être sauvé. Une emplanture, ménagée à l’avant, est destinée à recevoir un mât que soutiendront des haubans frappés sur les côtés de la plate-forme. La voile du grand cacatois sera enverguée et nous poussera peut-être vers la côte.</p>
         <p>Qui sait si ce que le <hi rend="i">Chancellor</hi> n’a pu faire, ce frêle assemblage de planches, moins facile à submerger, ne le fera pas ? L’espoir est si fortement enraciné au cœur de l’homme, que j’espère encore !</p>
@@ -814,9 +783,8 @@
         <p>Et, secouant la tête, il s’élance sur le radeau. Robert Kurtis reste un instant encore sur la hune, jette un regard autour de lui ; puis, le dernier, il quitte son bâtiment.</p>
         <p>Il est temps. L’amarre est coupée, et le radeau s’éloigne lentement. Nous regardons tous vers cet endroit où sombre le navire. L’extrémité du mât de misaine disparaît d’abord, puis le bout du grand mât, et, bientôt, rien ne reste plus de ce beau bâtiment qui fut le <hi rend="i">Chancellor.</hi></p>
       </div>
-      <div>
-        <head>XXX.
-<lb/></head>
+      <div type="chapter">
+        <head>XXX</head>
         <p>– <hi rend="i">Suite du 7 décembre. –</hi> Un nouvel appareil flottant nous porte. Il ne peut couler, car les pièces de bois qui le composent surnageront, quoi qu’il arrive. Mais la mer ne le disjoindra-t-elle pas ? Ne rompra-t-elle pas les cordes qui le lient ? N’anéantira-t-elle pas enfin les naufragés qui sont entassés à sa surface ?</p>
         <p>De vingt-huit personnes que comptait le <hi rend="i">Chancellor</hi> au départ de Charleston, dix ont déjà péri.</p>
         <p>Nous sommes donc dix-huit encore – dix-huit sur ce radeau qui forme une sorte de quadrilatère irrégulier, mesurant environ quarante pieds de long sur vingt de large.</p>
@@ -828,9 +796,8 @@
         <p>De vêtements de rechange, nous n’en avons absolument aucun. Quelques voiles nous serviront à la fois de couvertures et d’abri. Les outils, appartenant au charpentier Daoulas, le sextant et la boussole, une carte, nos couteaux de poche, une bouilloire de métal, une tasse de fer-blanc qui n’a jamais quitté le vieil Irlandais O’Ready : tels sont les instruments et ustensiles qui nous restent. Toutes les caisses, déposées sur le pont et destinées au premier radeau, ont coulé au moment de l’engloutissement partiel du navire, et, depuis ce moment, il n’a plus été possible de pénétrer dans la cale.</p>
         <p>Voilà donc la situation. Elle est grave sans être désespérée. Malheureusement, il est à craindre que l’énergie morale en même temps que l’énergie physique manque à plus d’un. D’ailleurs, il en est parmi nous dont les mauvais instincts seront bien difficiles à contenir !</p>
       </div>
-      <div>
-        <head>XXXI.
-<lb/></head>
+      <div type="chapter">
+        <head>XXXI</head>
         <p>– <hi rend="i">Suite du 7 décembre. –</hi> Le premier jour n’a été marqué par aucun incident.</p>
         <p>Aujourd’hui, à huit heures du matin, le capitaine Kurtis nous a tous rassemblés, passagers et marins.</p>
         <p>– Mes amis, a-t-il dit, entendez bien ceci. Je commande sur ce radeau comme je commandais à bord du <hi rend="i">Chancellor.</hi> Je compte donc être obéi de tous sans exception. Ne pensons qu’au salut commun, soyons unis, et que le Ciel nous protège !</p>
@@ -849,9 +816,8 @@
         <p>Il faut bien remarquer aussi que nous avons toujours deux autres chances qui peuvent accroître nos réserves : la pluie, qui donnerait l’eau, la pêche, qui donnerait le poisson. Aussi deux barriques vides sont-elles disposées pour recevoir l’eau de pluie. Quant aux engins de pêche, des matelots s’occupent de les préparer, afin de mettre quelques lignes à la traîne.</p>
         <p>Telles sont les dispositions prises. Elles sont approuvées et seront rigoureusement maintenues. Ce n’est qu’en observant une règle sévère que nous pouvons espérer d’échapper aux horreurs de la famine. Trop d’exemples nous ont appris à être prévoyants, et si nous sommes réduits aux dernières privations, c’est que le sort n’aura cessé de nous frapper !</p>
       </div>
-      <div>
-        <head>XXXII.
-<lb/></head>
+      <div type="chapter">
+        <head>XXXII</head>
         <p>– <hi rend="i">Du 8 au 17 décembre. –</hi> Le soir venu, nous nous sommes blottis sous les voiles. Très fatigué des longues heures passées dans la mâture, j’ai pu dormir pendant quelques heures. Le radeau, étant relativement peu chargé, s’élève assez facilement. Comme la mer ne déferle pas, nous ne sommes pas atteints par les lames. Malheureusement, si la houle tombe, c’est parce que le vent mollit, et, vers le matin, je suis forcé de noter sur mon journal : temps calme.</p>
         <p>Quand le jour a reparu, je n’ai rien eu de nouveau à constater. MM. Letourneur ont également dormi pendant une partie de la nuit. Nous nous sommes encore une fois serré la main. Miss Herbey a pu reposer également ; ses traits, moins fatigués, ont repris leur calme habituel.</p>
         <p>Nous sommes au-dessous du onzième parallèle. La chaleur pendant le jour est extrêmement forte, et le soleil brille d’un vif éclat. Une sorte de vapeur ardente est mêlée à l’atmosphère. Comme la brise ne vient que par bouffées, la voile pend sur le mât pendant les accalmies, qui se prolongent trop longtemps. Mais Robert Kurtis et le bosseman, à certains indices que des marins seuls peuvent reconnaître, pensent qu’un courant de deux à trois milles à l’heure nous entraîne dans l’ouest. Ce serait là une circonstance favorable, qui pourrait abréger considérablement notre traversée. Puissent le capitaine et le bosseman ne s’être pas trompés, car, dès ces premiers jours et par cette température élevée, la ration d’eau suffit à peine à calmer notre soif !</p>
@@ -872,9 +838,8 @@
         <p>C’est vraiment une pêche miraculeuse, et, ce jour-là, on dirait qu’il y a fête à bord. De ces poissons, les uns ont été grillés, les autres cuits dans l’eau de mer sur un feu de bois allumé à l’avant du radeau. Quel régal ! C’est autant d’économisé sur nos réserves. Ces spares sont si abondants que, pendant deux jours, on en prend près de deux cents livres. Que la pluie vienne à tomber maintenant, et tout sera pour le mieux.</p>
         <p>Par malheur, cette bande de poissons n’a pas séjourné longtemps dans nos eaux. Le 17, quelques gros requins – appartenant à cette monstrueuse espèce des roussettes tigrées, qui sont longues de quatre à cinq mètres – ont paru à la surface de la mer. Ils ont les nageoires et le dessus du corps noirs, avec des taches et des bandes transversales de couleur blanche. La présence de ces horribles squales est toujours inquiétante. Par suite du peu d’élévation du radeau, nous sommes presque de niveau avec eux, et plusieurs fois leur queue bat nos espars avec une effroyable violence. Cependant, les matelots sont parvenus à les éloigner à coups d’anspect. Je serai bien surpris s’ils ne nous suivent pas obstinément comme une proie qui leur est réservée. Je n’aime pas ces « monstres à pressentiments ».</p>
       </div>
-      <div>
-        <head>XXXIII.
-<lb/></head>
+      <div type="chapter">
+        <head>XXXIII</head>
         <p>– <hi rend="i">Du 18 au 20 décembre. –</hi> Aujourd’hui, le temps s’est modifié, et le vent a fraîchi. Ne nous plaignons pas, car il est favorable. On prend seulement la précaution d’assujettir le mât au moyen d’un bastaque, afin que la tension de la voile ne puisse amener sa rupture. Cela fait, la lourde machine se déplace avec une vitesse un peu plus grande et laisse enfin une sorte de long sillage derrière elle.</p>
         <p>Dans l’après-midi, quelques nuages ont couvert le ciel, et la chaleur a été un peu moins forte. La houle a balancé plus vivement le radeau, et deux ou trois lames ont embarqué. Heureusement, en employant quelques bordages, le charpentier a pu établir des pavois hauts de deux pieds, qui nous défendent mieux contre la mer.</p>
         <p>On saisit fortement aussi, au moyen de doubles cordages, les barils contenant les provisions, ainsi que les barriques d’eau. Un coup de mer qui les enlèverait nous réduirait à la plus horrible détresse. On ne peut songer à une pareille éventualité sans frémir !</p>
@@ -902,9 +867,8 @@
         <p>– Je dis : non. Le matelot regarde fixement Robert Kurtis, et un méchant sourire déplisse ses lèvres. Il hésite un instant, se demandant s’il doit insister, mais il se retient, et, sans ajouter un mot, il retourne vers ses camarades, qui confèrent à voix basse. Robert Kurtis a-t-il bien fait de refuser d’une manière absolue ? L’avenir nous l’apprendra. Quand je lui parle de cet incident :</p>
         <p>– Du brandevin à ces hommes ! me répond-il. J’aimerais mieux jeter le baril à la mer !</p>
       </div>
-      <div>
-        <head>XXXIV.
-<lb/></head>
+      <div type="chapter">
+        <head>XXXIV</head>
         <p>– <hi rend="i">21 décembre. –</hi> Cet incident n’a encore eu aucune conséquence – aujourd’hui du moins.</p>
         <p>Pendant quelques heures, des spares se montrent de nouveau le long du radeau, et on en peut prendre encore un très grand nombre. On les empile dans une barrique vide, et ce surcroît de provision nous fait espérer que, du moins, la faim ne nous éprouvera pas.</p>
         <p>Le soir est venu, sans apporter sa fraîcheur accoutumée. Ordinairement les nuits sont fraîches sous les tropiques, mais celle-ci menace d’être étouffante. Des masses de vapeur roulent pesamment au-dessus des flots. La lune sera nouvelle à une heure trente minutes du matin. Aussi l’obscurité est-elle profonde, jusqu’au moment où des éclairs de chaleur, d’une éblouissante intensité, viennent illuminer l’horizon. Ce sont de longues et larges décharges électriques, sans forme déterminée, qui embrasent un vaste espace. Mais, de tonnerre, il n’en est pas question, et on peut même dire que le calme de l’atmosphère est effrayant, tant il est absolu.</p>
@@ -932,9 +896,8 @@
         <p>Aussitôt, la voix d’un des matelots se fait entendre :</p>
         <p>– La rafale ! La rafale !</p>
       </div>
-      <div>
-        <head>XXXV.
-<lb/></head>
+      <div type="chapter">
+        <head>XXXV</head>
         <p>– <hi rend="i">Nuit du 21 au 22 décembre. –</hi> Le bosseman se précipite vers la drisse qui soutient la voile, et la vergue est amenée aussitôt. Il était temps, car la rafale passe comme un tourbillon. Sans le cri du matelot qui nous a prévenus, nous aurions été renversés et peut-être précipités à la mer. La tente, à l’arrière, a été emportée du coup.</p>
         <p>Mais si le radeau n’a rien à craindre directement du vent, s’il est trop ras pour lui donner prise, il a tout à redouter des lames monstrueuses, soulevées par l’ouragan. Ces lames ont été, pendant quelques minutes, aplaties et comme écrasées sous la pression des couches d’air ; puis, elles se sont relevées plus furieusement, et leur hauteur s’accroît en raison même de la compression qu’elles viennent de subir.</p>
         <p>Aussitôt, le radeau suit les mouvements désordonnés de cette houle, et s’il ne se déplace pas plus qu’elle, un va-et-vient incessant le fait, du moins, osciller d’un bord sur l’autre et d’avant en arrière.</p>
@@ -951,9 +914,8 @@
         <p>Je veux courir à lui, je parviens à dénouer les cordes qui me lient… Il est trop tard, et, dans un éclair éblouissant, je vois l’infortuné, dont le pied s’est dégagé, emporté par un coup de mer qui nous couvre en grand. Son camarade a disparu avec lui, sans qu’il ait été possible de leur porter secours.</p>
         <p>Quant à moi, le coup de mer m’a étendu sur la plate-forme, et ma tête ayant porté sur l’angle d’un espar, j’ai perdu connaissance.</p>
       </div>
-      <div>
-        <head>XXXVI.
-<lb/></head>
+      <div type="chapter">
+        <head>XXXVI</head>
         <p>– <hi rend="i">22 décembre. –</hi> Le jour est enfin arrivé, et le soleil a paru entre les derniers nuages que la tempête a laissés derrière elle. Cette lutte des éléments n’a duré que quelques heures, mais elle a été effroyable, et l’air et l’eau se sont heurtés avec une violence sans pareille.</p>
         <p>Je n’ai pu indiquer que les incidents principaux, car l’évanouissement qui a suivi ma chute ne m’a pas permis d’observer la fin de ce cataclysme. Je sais seulement que, peu de temps après le coup de mer, l’ouragan s’est calmé sous l’action de violentes averses, et que la tension électrique de l’atmosphère s’est amoindrie. La tempête ne s’est donc pas prolongée au-delà de la nuit. Mais en ce court espace de temps, que de dommages elle nous a causés, quelles irréparables pertes, et, par suite, que de misères nous attendent ! Nous n’avons pas même pu conserver une goutte de ces torrents d’eau qu’elle a versés !</p>
         <p>Je suis revenu à moi, grâce aux soins de MM. Letourneur et de miss Herbey, mais c’est à Robert Kurtis que je dois de ne pas avoir été emporté par un second coup de mer.</p>
@@ -970,9 +932,8 @@
         <p>La journée s’est passée dans un abattement général. Chacun a reçu sa demi-livre de biscuit réglementaire. Les uns l’ont dévorée immédiatement avec une sorte de rage, les autres l’ont prudemment ménagée. Il me semble que l’ingénieur Falsten a divisé sa ration en autant de parts qu’il fait habituellement de repas par jour.</p>
         <p>Si un seul doit survivre, Falsten sera celui-là.</p>
       </div>
-      <div>
-        <head>XXXVII.
-<lb/></head>
+      <div type="chapter">
+        <head>XXXVII</head>
         <p>– <hi rend="i">Du 23 au 30 décembre. –</hi> Après la tempête, le vent a halé le nord-est, et il se maintient à l’état de belle brise. Il faut en profiter, puisqu’il tend à nous rapprocher de la terre. Le mât, rétabli par les soins de Daoulas, est solidement assujetti, la voile est rehissée dans le bout, et le radeau marche vent arrière à raison de deux milles à deux milles et demi par heure.</p>
         <p>On s’est occupé aussi de rajuster une godille, qui est faite au moyen d’un espar et d’une large planche. Elle fonctionne tant bien que mal ; mais, sous l’allure que le vent imprime au radeau, il n’est pas besoin d’un grand effort pour le maintenir.</p>
         <p>La plate-forme est également réparée avec des coins et des cordes, qui en rapprochent les planches disjointes. Les pavois de tribord, enlevés par la lame, sont remplacés et nous couvrent des atteintes de la mer. En un mot, tout ce qu’il est possible de faire pour consolider cet assemblage de mâts et de vergues a été fait, mais le pire danger n’est pas là.</p>
@@ -1002,9 +963,8 @@
         <p>– Vous le saurez plus tard ! répond le bosseman, en me regardant d’un air singulier.</p>
         <p>Que signifient ces paroles de la part d’un homme qui m’a toujours paru très réservé ? J’y ai songé pendant toute la nuit.</p>
       </div>
-      <div>
-        <head>XXXVIII.
-<lb/></head>
+      <div type="chapter">
+        <head>XXXVIII</head>
         <p>– <hi rend="i">Du 1<hi rend="sup">er</hi> au 5 janvier. –</hi> Voilà plus de trois mois que nous avons quitté Charleston sur le <hi rend="i">Chancellor</hi>, et voici vingt jours que nous sommes emportés sur ce radeau, à la merci des vents et des courants ! Avons-nous gagné dans l’ouest, vers la côte américaine, ou bien la tempête nous a-t-elle rejetés au large de toute terre ? Il n’est même plus possible de le constater. Pendant le dernier ouragan qui nous a été si funeste, les instruments du capitaine ont été brisés, malgré toutes les précautions prises. Robert Kurtis n’a plus ni compas pour relever la direction suivie, ni sextant pour prendre hauteur. Sommes-nous à proximité ou à plusieurs centaines de milles d’une côte ? On ne peut le savoir, mais il est bien à craindre que, toutes les circonstances ayant été contre nous, nous n’en soyons fort éloignés.</p>
         <p>Il y a dans cette ignorance absolue de la situation quelque chose de désespérant, sans doute ; mais, comme l’espoir n’abandonne jamais le cœur de l’homme, nous nous prenons souvent à croire, contre toute raison, que la côte est proche. Aussi, chacun observe-t-il l’horizon et cherche-t-il à relever sur cette ligne si nette une apparence de terre. À cet égard, nos yeux, à nous, passagers, nous trompent sans cesse et rendent notre illusion plus douloureuse. On croit voir… et il n’y a rien ! C’est un nuage, c’est un brouillard, c’est une ondulation de la houle. Aucune terre n’est là, aucun navire ne tranche sur ce périmètre grisâtre, où se confondent la mer et le ciel. Le radeau est toujours le centre de cette circonférence déserte.</p>
         <p>Le 1<hi rend="sup">er</hi> janvier, nous avons mangé notre dernier biscuit, ou, pour mieux dire, nos dernières miettes de biscuit. Le 1<hi rend="sup">er</hi> janvier ! Quels souvenirs ce jour nous rappelle, et, par comparaison, qu’il nous paraît lamentable ! Le renouvellement de l’année, les vœux que ce « premier de l’An » provoque, les épanchements de la famille qu’il amène, l’espoir dont il remplit le cœur, rien de cela n’est plus fait pour nous ! Ces mots : « Je vous souhaite une bonne année ! » qui ne se disent qu’en souriant, qui de nous oserait les prononcer ? Qui de nous oserait espérer un seul jour pour lui-même ?</p>
@@ -1046,9 +1006,8 @@
         <p>– Vous avez donc bien envie de me manger ! répond Owen avec une insolence sans égale.</p>
         <p>Cette atroce réponse lui sauve la vie. Robert Kurtis rejette la hache qu’il a déjà levée sur Owen, et, tout pâle, il va s’asseoir à l’arrière du radeau.</p>
       </div>
-      <div>
-        <head>XXXIX.
-<lb/></head>
+      <div type="chapter">
+        <head>XXXIX</head>
         <p>– <hi rend="i">5 et 6 janvier. –</hi> Cette scène nous a profondément impressionnés. La réponse d’Owen, étant donné les circonstances, est faite pour accabler les plus énergiques.</p>
         <p>Dès que mon esprit a repris quelque calme, j’ai vivement remercié le jeune Letourneur, dont l’intervention m’a sauvé la vie.</p>
         <p>– Vous me remerciez, répond-il, quand vous devriez peut-être me maudire !</p>
@@ -1100,9 +1059,8 @@
         <p>– Et mon père ? dit-il. Je lui réponds que M. Letourneur a eu sa part… moi, la mienne… que demain… les jours suivants, je pourrai sans doute lui en donner encore… qu’il prenne !… qu’il prenne !…</p>
         <p>André ne m’a pas demandé d’où me venait ce biscuit, et il l’a porté avidement à ses lèvres.</p>
       </div>
-      <div>
-        <head>XL.
-<lb/></head>
+      <div type="chapter">
+        <head>XL</head>
         <p>Et ce soir-là, malgré l’offre de M. Letourneur, je n’ai rien mangé !… rien !</p>
         <p>– <hi rend="i">7 janvier. –</hi> Depuis quelques jours, l’eau de mer qui balaie presque incessamment la plate-forme du radeau, dès que la houle s’élève, a mis au vif la peau des pieds et des jambes de quelques-uns des matelots. Owen, que le bosseman a tenu attaché à l’avant depuis la scène de la révolte, est dans un état déplorable. Sur notre demande, ses liens lui sont ôtés. Sandon et Burke ont été aussi rongés par le mordant de ces eaux salines, et nous autres, nous n’avons été préservés jusqu’ici que parce que l’arrière du radeau est moins battu par les lames.</p>
         <p>Aujourd’hui, le bosseman, en proie à une fureur famélique, s’est jeté sur des chiffons de voiles, sur des bouts de bois. J’entends encore ses dents qui s’incrustent dans ces substances. Le malheureux, poussé par l’horrible faim, cherche à remplir son estomac pour en distendre la muqueuse. Enfin, à force de chercher, il trouve sur l’un des mâts qui supportent la plate-forme une garniture de cuir. Ce cuir, c’est une matière animale, qu’il arrache, qu’il dévore avec une inexprimable avidité, et il semble que l’absorption de cette matière lui procure quelque soulagement. Tous de l’imiter aussitôt. Un chapeau de cuir bouilli, la visière des casquettes, tout ce qui est substance animale est rongé. C’est un instinct bestial qui nous entraîne et que nul ne peut réprimer. Il semble, en cet instant, que nous n’avons plus rien d’humain. Jamais je n’oublierai cette scène !</p>
@@ -1119,9 +1077,8 @@
         <p>J’ai remis la lettre du lieutenant Walter dans sa main déjà froide, et je l’ai posée sur ses lèvres. Son regard s’est animé un instant, et nous avons entendu comme le faible bruit d’un baiser !</p>
         <p>Il est mort, le lieutenant Walter ! Dieu ait son âme !</p>
       </div>
-      <div>
-        <head>XLI.
-<lb/></head>
+      <div type="chapter">
+        <head>XLI</head>
         <p>– <hi rend="i">8 janvier. –</hi> Pendant toute la nuit, je suis resté près du corps de l’infortuné, et, à plusieurs reprises, miss Herbey est venue prier pour le mort.</p>
         <p>Quand le jour a paru, le cadavre était entièrement refroidi. J’avais hâte… oui ! hâte de le jeter à la mer. J’ai demandé à Robert Kurtis de m’aider dans cette triste opération. Lorsque le corps sera enveloppé de ses misérables vêtements, nous le précipiterons dans les flots, et, grâce à son extrême maigreur, j’espère qu’il ne surnagera pas.</p>
         <p>Dès l’aube, Robert Kurtis et moi, tout en prenant certaines précautions pour ne pas être vus, nous enlevons des poches du lieutenant quelques objets qui seront remis à sa mère, si l’un de nous survit.</p>
@@ -1163,9 +1120,8 @@
         <p>– Non ! Et savez-vous ce que cela prouve, monsieur ? ajoute-t-il en m’étreignant le bras. Cela prouve qu’il ne faut pas faire les choses à demi…</p>
         <p>Je lui mets la main sur la bouche ! J’ai compris !… Pauvre Walter !</p>
       </div>
-      <div>
-        <head>XLII.
-<lb/></head>
+      <div type="chapter">
+        <head>XLII</head>
         <p>– <hi rend="i">Du 9 au 10 janvier. –</hi> Aujourd’hui, nous sommes repris par le calme. Le soleil est ardent, la brise tombe complètement, et pas une ride ne flétrit les longues ondulations de la mer, qui se soulève insensiblement. S’il n’existe pas quelque courant, dont il nous est impossible de constater la direction, le radeau doit être absolument stationnaire.</p>
         <p>J’ai dit que la chaleur est intolérable aujourd’hui. Notre soif, par suite, est plus intolérable encore. L’insuffisance d’eau nous fait souffrir cruellement pour la première fois. Je prévois qu’elle causera des tortures plus insupportables que celles de la faim. Déjà, chez la plupart de nous, la bouche, la gorge, le pharynx sont contractés par la sécheresse, les muqueuses se racornissent sous cet air chaud que l’aspiration leur apporte.</p>
         <p>Sur mes instances, le capitaine a modifié, pour cette fois, le régime habituel. Il accorde une double ration d’eau, et nous avons pu nous désaltérer, tant bien que mal, quatre fois dans la journée. Je dis « tant bien que mal », car cette eau, conservée dans le fond de la barrique, bien qu’on l’ait couverte d’une toile, est véritablement tiède.</p>
@@ -1188,9 +1144,8 @@
         <p>Nous n’avons pas les médicaments nécessaires pour neutraliser les effets de ce poison. Cependant, on peut provoquer des vomissements pour évacuer les matières contenues dans l’estomac d’Owen. L’eau tiède doit amener ce résultat. Je demande à Robert Kurtis un peu d’eau. Le capitaine y consent. Le liquide de la première barrique étant épuisé, je vais puiser à la seconde barrique, qui est encore intacte, quand Owen se redresse sur les genoux et d’une voix qui n’est plus une voix humaine, crie :</p>
         <p>– Non ! non ! non ! Pourquoi ce non ? Je reviens près d’Owen, et lui explique ce que je veux faire. Plus énergiquement encore, il me répond qu’il ne veut pas boire de cette eau. J’essaie alors de provoquer les vomissements du malheureux en lui titillant la luette, et bientôt il rend des matières bleuâtres. Il n’est que trop certain qu’Owen a été empoisonné avec un sulfate de cuivre, avec de la couperose, et, quoi que l’on fasse, Owen est perdu ! Mais comment s’est-il empoisonné ? Les vomissements lui ont procuré quelque répit. Il peut enfin parler. Le capitaine et moi, nous l’interrogeons… Je n’essaierai pas de décrire l’impression qu’a produite sur nous la réponse de ce malheureux ! Owen, poussé par une soif atroce, a volé quelques pintes d’eau de la barrique intacte !… L’eau de cette barrique est empoisonnée !</p>
       </div>
-      <div>
-        <head>XLIII.
-<lb/></head>
+      <div type="chapter">
+        <head>XLIII</head>
         <p>– <hi rend="i">Du 11 au 14 janvier. –</hi> Owen est mort dans la nuit, au milieu de secousses tétaniques qui ont atteint un rare degré de violence.</p>
         <p>Il n’est que trop vrai ! La barrique empoisonnée a contenu autrefois de la couperose. C’est un fait évident. Maintenant, par quelle fatalité cette barrique a-t-elle été convertie en une pièce à eau, et par quelle fatalité plus déplorable encore l’a-t-on prise pour l’embarquer sur le radeau ?… Peu importe. Ce qui est certain, c’est que nous n’avons plus d’eau.</p>
         <p>Le corps d’Owen a dû être jeté à la mer, car il est immédiatement tombé en décomposition. Le bosseman n’aurait même pas pu amorcer ses lignes avec des chairs qui n’avaient plus aucune consistance. La mort de ce misérable ne nous aura pas même été utile !</p>
@@ -1223,9 +1178,8 @@
         <p>Mais c’en est trop ! Je ne veux plus rien voir, je me glisse sous la voile, je me cache, des sanglots s’échappent de ma poitrine…</p>
         <p>Pendant ce temps, le navire a pris d’autres amures ; puis, il s’éloigne lentement dans l’est, et, trois heures après, les yeux les plus perçants n’en pourraient découvrir les hautes voiles au-dessus de l’horizon.</p>
       </div>
-      <div>
-        <head>XLIV
-<lb/></head>
+      <div type="chapter">
+        <head>XLIV</head>
         <p>– <hi rend="i">15 janvier. –</hi> Après ce dernier coup, nous n’avons plus qu’à attendre la mort. Elle sera plus ou moins lente, mais elle viendra.</p>
         <p>Aujourd’hui, des nuages se sont levés dans l’ouest, et ils ont apporté quelques bouffées de vent. Aussi la température est-elle un peu plus supportable, et, malgré notre état de prostration, nous subissons cette influence. Ma gorge aspire un air moins sec, mais depuis la pêche du bosseman, c’est-à-dire depuis sept jours, nous n’avons pas mangé. Il n’y a plus rien sur le radeau. J’ai donné hier à André Letourneur le dernier morceau de biscuit que son père eût conservé et qu’il m’a remis en pleurant.</p>
         <p>Depuis hier, le nègre Jynxtrop a pu se débarrasser de ses liens, et Robert Kurtis n’a point ordonné de le rattacher. À quoi bon, d’ailleurs ! Ce misérable et ses complices sont affaiblis par un long jeûne. Que pourraient-ils tenter maintenant ?</p>
@@ -1259,9 +1213,8 @@
         <p>Mais je ne me suis pas éloigné si vite que je n’aie entendu le bosseman dire à Robert Kurtis :</p>
         <p>– Capitaine, quel jour tirerons-nous au sort ? Robert Kurtis n’a pas répondu, mais la question est posée.</p>
       </div>
-      <div>
-        <head>XLV.
-<lb/></head>
+      <div type="chapter">
+        <head>XLV</head>
         <p>– <hi rend="i">16 janvier. –</hi> Nous sommes tous étendus sur les voiles. L’équipage d’un navire qui passerait croirait voir une épave couverte de morts.</p>
         <p>Je souffre horriblement. Dans l’état où sont mes lèvres, ma langue, mon gosier, pourrais-je manger ? je ne le crois pas, et cependant mes compagnons et moi, nous jetons les uns sur les autres des regards sauvages.</p>
         <p>La chaleur, aujourd’hui, est d’autant plus forte que le ciel est orageux. Il y a de grosses vapeurs qui se lèvent, mais il me semble vraiment qu’il peut pleuvoir partout, excepté sur ce radeau.</p>
@@ -1282,9 +1235,8 @@
         <p>Je goûte à mon tour. Cette eau est plus que saumâtre ! On dirait de l’eau de mer !</p>
         <p>C’est que les voiles, depuis si longtemps exposées à l’action des lames, ont communiqué à l’eau recueillie une salure extrême. C’est un malheur irréparable ! N’importe ! Nous avons confiance. D’ailleurs, il reste quelques pintes potables dans la barrique ! Et puis, la pluie est venue ! Elle reviendra !</p>
       </div>
-      <div>
-        <head>XLVI.
-<lb/></head>
+      <div type="chapter">
+        <head>XLVI</head>
         <p>– <hi rend="i">17 janvier. –</hi> Si notre soif s’est un instant calmée, la faim, par une conséquence naturelle, nous a repris avec plus de violence. N’y a-t-il donc aucun moyen, sans émerillon ni amorce, de s’emparer de l’un de ces requins qui fourmillent autour du radeau ? Non, à moins de se jeter à la mer, pour attaquer ces monstres à coups de couteau et dans leur propre élément, ainsi que font les Indiens des pêcheries de perles. Robert Kurtis a songé à tenter l’aventure. Nous l’avons retenu. Les requins sont trop nombreux, et ce serait se dévouer, sans aucun profit, à une mort certaine.</p>
         <p>J’observe ici que si l’on peut parvenir à tromper la soif, soit en se plongeant dans la mer, soit en mâchant quelque objet de métal, il n’en est pas ainsi de la faim, et que rien ne peut suppléer la substance nutritive. D’ailleurs, l’eau peut toujours être produite par un fait naturel – la pluie, par exemple. Donc, si l’on ne doit jamais complètement désespérer de boire, on peut absolument désespérer de manger.</p>
         <p>Or, nous en sommes arrivés là ! Pour tout avouer, quelques-uns de mes compagnons se regardent d’un œil avide. Que l’on comprenne sur quelle pente nos idées glissent, et à quelle sauvagerie la misère peut pousser des cerveaux obsédés par une préoccupation unique !</p>
@@ -1309,9 +1261,8 @@
         <p>J’ai le même intérêt que lui à me taire. Il ne faut pas que d’autres viennent m’arracher cette proie ! Je lutte donc silencieusement, mais avec d’autant plus de rage que j’entends Hobbart dire entre ses dents :</p>
         <p>– Mon dernier morceau ! ma dernière bouchée ! Sa dernière bouchée ! Il me la faut à tout prix, je la veux, je l’aurai ! Je prends à la gorge mon adversaire, qui râle sous ma main et reste bientôt sans mouvement ! Et moi, je broie ce morceau de lard entre mes dents, tandis que je tiens Hobbart renversé… Puis, lâchant le malheureux, je rampe de nouveau, et je reviens prendre ma place à l’arrière. Personne ne m’a vu. J’ai mangé !</p>
       </div>
-      <div>
-        <head>XLVII.
-<lb/></head>
+      <div type="chapter">
+        <head>XLVII</head>
         <p>– <hi rend="i">18 janvier. –</hi> J’attends le jour dans une anxiété singulière ! Que dira Hobbart ? Il me semble qu’il aura le droit de me dénoncer ! Non ! C’est absurde. Si je raconte ce qui s’est passé, si je dis comment Hobbart a vécu pendant que nous mourions de faim, comment il s’est nourri à notre insu, à notre préjudice, ses compagnons le massacreront sans pitié.</p>
         <p>N’importe ! je voudrais être au grand jour. La faim a été momentanément arrêtée en moi, quoique ce morceau de lard fût bien peu de chose – une bouchée, « la dernière », comme a dit ce malheureux. Cependant, je ne souffre plus, et, je le dis du fond du cœur, j’ai comme un remords de ne pas avoir partagé ce misérable débris avec mes compagnons. J’aurais dû penser à miss Herbey, à André, à son père… et je n’ai songé qu’à moi !</p>
         <p>Cependant, la lune monte sur l’horizon, et bientôt les premières blancheurs du matin la suivent. Le jour se fera rapidement, car nous sommes sous ces basses latitudes qui ne connaissent ni l’aube ni le crépuscule.</p>
@@ -1339,9 +1290,8 @@
         <p>– Et nous salerons ce qui reste, dit-il.</p>
         <p>– Oui, répond le bosseman. Puis, c’est tout. Sans doute la proposition du charpentier a été adoptée, car je n’entends plus rien. Un silence profond s’établit à bord du radeau, et j’en conclus que mes compagnons dorment. Ils n’ont plus faim.</p>
       </div>
-      <div>
-        <head>XLVIII.
-<lb/></head>
+      <div type="chapter">
+        <head>XLVIII</head>
         <p>– <hi rend="i">19 janvier. –</hi> Pendant la journée du 19 janvier, même ciel, même température. La nuit arrive sans apporter aucune modification dans l’état de l’atmosphère. Je n’ai pu dormir même pendant quelques heures.</p>
         <p>Vers le matin, j’entends des cris de colère qui éclatent à bord.</p>
         <p>MM. Letourneur, miss Herbey, qui sont avec moi sous la tente, se relèvent. J’écarte la toile, et je regarde ce qui se passe.</p>
@@ -1361,9 +1311,8 @@
         <p>– Fouillons la tente ! s’écrie Sandon. Les matelots s’avancent. Je ne puis résister à ces malheureux, que la colère aveugle. Une horrible crainte me saisit. Est-ce que M. Letourneur, non pour lui, mais pour son fils, aurait été jusqu’à prendre… S’il l’a fait il va être déchiré par ces furieux ! Je regarde Robert Kurtis comme pour lui demander protection. Robert Kurtis vient se placer près de moi. Ses deux mains sont enfoncées dans ses poches, mais je devine qu’elles sont armées. Cependant, sur l’injonction du bosseman, miss Herbey et MM. Letourneur ont dû quitter la tente, qui est fouillée jusque dans ses coins les plus secrets – en vain, heureusement. Il est évident que, puisque les restes d’Hobbart ont disparu, c’est qu’ils ont été jetés à la mer. Le bosseman, le charpentier, les matelots sont en proie au plus effrayant désespoir. Mais qui donc a fait cela ? Je regarde miss Herbey, M. Letourneur. Leur regard répond que ce ne sont pas eux. Mes yeux se portent sur André, qui détourne un instant la tête.</p>
         <p>Le malheureux jeune homme ! Est-ce lui ? Et si c’est lui, comprend-il les conséquences de cet acte ?</p>
       </div>
-      <div>
-        <head>XLIX.
-<lb/></head>
+      <div type="chapter">
+        <head>XLIX</head>
         <p>– <hi rend="i">Du 20 au 22 janvier. –</hi> Pendant les jours suivants, ceux qui ont pris part à l’horrible repas du 18 janvier ont peu souffert, ayant été nourris et désaltérés.</p>
         <p>Mais miss Herbey, André Letourneur, son père, moi, est-il possible de décrire ce que nous éprouvons ! N’en sommes-nous pas à regretter que ces débris aient disparu ? Si l’un de nous meurt, résisterons-nous ?…</p>
         <p>Le bosseman, Daoulas et les autres ont été bientôt repris par la faim, et ils nous regardent avec des yeux égarés. Sommes-nous donc une proie assurée pour eux ?</p>
@@ -1378,18 +1327,16 @@
         <p>Pendant quelques minutes, il se démène ainsi, et se dirige vers l’avant du radeau, criant toujours :</p>
         <p>– Buvez ! Buvez ! Puis, il s’élance, et j’entends son corps tomber à la mer. Le bosseman, Falsten, Daoulas se précipitent à l’avant du radeau pour reprendre ce corps, mais ils ne voient plus qu’un large cercle rouge, au milieu duquel se débattent des requins monstrueux !</p>
       </div>
-      <div>
-        <head>L.
-<lb/></head>
+      <div type="chapter">
+        <head>L</head>
         <p>– <hi rend="i">22 et 23 janvier. –</hi> Nous ne sommes plus que onze à bord, et il me paraît impossible que chaque jour, maintenant, ne compte pas quelque nouvelle victime. La fin de ce drame, quelle qu’elle soit, approche. Avant huit jours, ou la terre aura été atteinte, ou un navire aura opéré le sauvetage des naufragés. Sinon, le dernier survivant du <hi rend="i">Chancellor</hi> aura vécu.</p>
         <p>Le 23, l’aspect du ciel a changé. La brise a notablement fraîchi. Le vent, pendant la nuit, a halé le nord-est. La voile du radeau s’est gonflée, et un sillage assez prononcé indique qu’il se déplace sensiblement. Le capitaine évalue ce déplacement à trois milles à l’heure.</p>
         <p>Robert Kurtis et l’ingénieur Falsten sont certainement les plus valides d’entre nous. Quoique leur maigreur soit extrême, ils supportent d’une façon surprenante ces privations. Je ne saurais peindre à quelle extrémité est réduite la pauvre miss Herbey. Ce n’est plus qu’une âme, mais une âme vaillante encore, et toute sa vie semble s’être réfugiée dans ses yeux, qui brillent extraordinairement. Elle vit dans le ciel, non sur la terre !</p>
         <p>Un homme d’une grande énergie, cependant, maintenant complètement abattu, c’est le bosseman. Il est méconnaissable. Sa tête courbée sur sa poitrine, ses longues mains osseuses allongées sur ses genoux, dont les rotules aiguës saillissent sous son pantalon usé, il reste invariablement assis dans un angle du radeau, sans jamais relever les yeux. Bien différent de miss Herbey, lui ne vit plus que par le corps, et son immobilité est telle, que je suppose, parfois, qu’il a cessé de vivre.</p>
         <p>Plus de paroles, plus de gémissements même, sur ce radeau. Silence absolu. Il ne s’échange pas dix paroles par jour. D’ailleurs, les quelques mots que notre langue, nos lèvres, tuméfiées et durcies, pourraient prononcer, seraient absolument inintelligibles. Le radeau ne porte plus que des spectres, hâves, exsangues, qui n’ont plus rien d’humain !</p>
       </div>
-      <div>
-        <head>LI.
-<lb/></head>
+      <div type="chapter">
+        <head>LI</head>
         <p>– <hi rend="i">24 janvier. –</hi> Où sommes-nous ? Vers quelle partie de l’Atlantique le radeau a-t-il été poussé ? Deux fois j’ai interrogé Robert Kurtis, et il n’a pu me répondre que vaguement. Cependant, comme il a toujours noté la direction des courants et des vents, il pense que nous avons dû être reportés dans l’ouest, c’est-à-dire du côté de la terre.</p>
         <p>Aujourd’hui, la brise est complètement tombée. Cependant, il existe à la surface de la mer une large houle qui indique que quelque trouble des eaux s’est produit dans l’est. Une tempête aura, sans doute, bouleversé cette portion de l’Atlantique. Le radeau fatigue beaucoup. Robert Kurtis, Falsten, le charpentier usent ce qui leur reste de force à en consolider les parties qui menacent de se disjoindre.</p>
         <p>Pourquoi se donner cette peine ? Qu’elles se disjoignent donc enfin, ces planches. Que cet Océan nous engloutisse ! C’est trop lui disputer notre misérable vie !</p>
@@ -1406,9 +1353,8 @@
         <p>– La terre ! la terre est là ! Ce mot galvaniserait un mort ! Je fais un effort douloureux, et je me redresse. Pas de terre ! Flaypol se promène sur la plate-forme, il rit. Il chante, il fait des signaux vers une côte imaginaire ! Certes, les perceptions directes de l’ouïe, de la vue, du goût lui manquent, mais un phénomène purement cérébral les supplée. Aussi parle-t-il à des amis absents. Il les entraîne à sa taverne de Cardiff, Aux Armes-de-Georges. Là, il offre du gin, du whisky, de l’eau – de l’eau surtout, de l’eau qui l’enivre ! Le voilà marchant sur ces corps étendus, bronchant à chaque pas, tombant, se relevant, chantant d’une voix avinée. Il semble arrivé au dernier degré de l’ivresse. Sous l’empire de sa folie, il ne souffre plus, et sa soif est apaisée ! Ah ! je voudrais être halluciné comme lui ! Le malheureux va-t-il donc finir comme a fini le nègre Jynxtrop, et se précipiter dans les flots ? Il faut que Daoulas, Falsten, le bosseman l’aient pensé, car si Flaypol veut se tuer, ils ne le laisseront pas faire « sans profit pour eux » ! Aussi, les voilà qui se relèvent, qui le suivent, qui l’épient ! Si Flaypol veut se jeter à la mer, cette fois, ils le disputeront aux requins !</p>
         <p>Il n’en devait pas être ainsi. Pendant son hallucination, Flaypol est arrivé réellement au dernier degré de l’ivresse, comme s’il se fût enivré des liqueurs qu’il offrait dans son délire, et, tombant comme une masse, il s’est endormi pesamment.</p>
       </div>
-      <div>
-        <head>LII.
-<lb/></head>
+      <div type="chapter">
+        <head>LII</head>
         <p>– <hi rend="i">25 janvier. –</hi> La nuit du 24 au 25 janvier a été brumeuse, et, par suite de je ne sais quel phénomène, une des plus chaudes que l’on puisse imaginer. Ce brouillard est étouffant. C’est à croire qu’une étincelle suffirait à y mettre le feu, comme à quelque substance explosive. Le radeau est non seulement stationnaire, mais il ne ressent plus aucun mouvement. Je me demande quelquefois s’il flotte encore.</p>
         <p>Pendant cette nuit, j’essaie de compter combien nous sommes à bord. Il me semble que nous sommes encore onze, mais je puis à peine rassembler les idées nécessaires pour établir ce calcul. Tantôt je trouve dix, tantôt douze. Ce doit être onze, depuis que Jynxtrop a péri. Demain, ils ne seront plus que dix, je serai mort.</p>
         <p>Je sens bien, en effet, que j’arrive au terme de mes souffrances, car toute ma vie repasse dans mon souvenir. Mon pays, mes amis, ma famille, il m’est donné de les revoir une dernière fois en rêve !</p>
@@ -1442,9 +1388,8 @@
         <p>– Capitaine, dit-il, nous allons tirer au sort.</p>
         <p>Au moment de me jeter à la mer, je m’arrête. Pourquoi ? je ne saurais le dire, mais je reviens à l’arrière du radeau.</p>
       </div>
-      <div>
-        <head>LIII.
-<lb/></head>
+      <div type="chapter">
+        <head>LIII</head>
         <p>– <hi rend="i">26 janvier. –</hi> La proposition a été faite. Tous l’ont entendue, et tous l’ont comprise. Depuis quelques jours, c’était devenu une idée fixe, que personne n’osait formuler.</p>
         <p>On va tirer au sort. Celui que le sort désignera, chacun en aura sa part. Eh bien, soit ! Si le sort me désigne, je ne me plaindrai pas.</p>
         <p>Il me semble qu’une exception est proposée en faveur de miss Herbey, et que c’est André Letourneur qui l’a faite. Mais un murmure de colère court parmi les matelots. Nous sommes onze à bord, chacun de nous a donc dix chances pour lui, une contre, et l’exception proposée changerait cette proportion. Miss Herbey subira le sort commun.</p>
@@ -1466,9 +1411,8 @@
         <p>– Daoulas ! Le charpentier est sauvé. Un hurlement s’échappe de sa poitrine. Puis, M. Letourneur prend le dernier billet, et, sans l’ouvrir, il le déchire. Mais un morceau du papier déchiré a volé vers un coin du radeau. Personne n’y fait attention. Je rampe de ce côté, je ramasse ce papier, et, sur un coin, je lis : And…</p>
         <p>M. Letourneur se précipite vers moi, il m’arrache violemment des mains ce bout de papier, il le tord dans ses doigts, puis, me regardant d’un air grave, il le jette à la mer.</p>
       </div>
-      <div>
-        <head>LIV.
-<lb/></head>
+      <div type="chapter">
+        <head>LIV</head>
         <p>– <hi rend="i">Suite du 26 janvier. –</hi> J’avais bien compris. Le père s’est dévoué pour le fils, et, n’ayant plus que sa vie à lui donner, il la lui donne.</p>
         <p>Cependant, tous ces affamés ne veulent plus attendre. Les tiraillements de leurs entrailles redoublent en présence de cette victime qui leur est dévolue. M. Letourneur n’est plus un homme pour eux. Ils n’ont encore rien dit, mais leurs lèvres s’avancent en pointe, leurs dents qui se découvrent, prêtes au rapt violent, déchireront comme des dents de carnassiers, avec la voracité brutale des bêtes. Veut-on donc qu’ils se jettent sur leur victime et qu’ils la dévorent vivante ?</p>
         <p>Qui croira que, en ce moment, un appel est fait au reste d’humanité que ces hommes peuvent avoir encore en eux, et qui croira, surtout, que cet appel a été entendu ? Oui ! une parole les a arrêtés à l’instant où ils allaient se jeter sur M. Letourneur. Le bosseman prêt à jouer le rôle de boucher, Daoulas la hache à la main, sont demeurés immobiles.</p>
@@ -1486,9 +1430,8 @@
         <p>Comme moi, Robert Kurtis observe la mer. Miss Herbey, Falsten, le bosseman lui-même concentrent toute leur vie dans leur regard.</p>
         <p>Cependant, la nuit se fait, mais j’ai la conviction que quelque navire s’approchera, dans cette obscurité profonde, et qu’il verra nos signaux au lever du jour.</p>
       </div>
-      <div>
-        <head>LV.
-<lb/></head>
+      <div type="chapter">
+        <head>LV</head>
         <p>– <hi rend="i">27 janvier. –</hi> Je ne ferme pas l’œil. J’écoute les moindres bruits, les clapotements de l’eau, le murmure des lames. Une remarque que je fais, c’est qu’il n’y a plus un seul requin autour du radeau. Je vois là un heureux présage.</p>
         <p>La lune s’est levée à minuit quarante-six minutes, montrant son demi-disque de quadrature, mais son insuffisante lumière ne me permet pas d’observer la mer dans un rayon étendu. Que de fois j’ai cru entrevoir à quelques encablures cette voile si désirée !</p>
         <p>Mais le matin vient… Le soleil se lève sur une mer déserte !</p>
@@ -1519,9 +1462,8 @@
         <p>Je ferme ma bouche, je veux mourir étouffé !… La suffocation est plus forte que ma volonté. Mes lèvres s’ouvrent ! Quelques gorgées d’eau pénètrent !…</p>
         <p>Dieu éternel ! Cette eau est douce !</p>
       </div>
-      <div>
-        <head>LVI.
-<lb/></head>
+      <div type="chapter">
+        <head>LVI</head>
         <p>– <hi rend="i">Suite du 27 janvier. –</hi> J’ai bu, j’ai bu ! Je renais ! Soudain la vie est rentrée en moi ! Je ne veux plus mourir !</p>
         <p>Je crie. Mes cris sont entendus. Robert Kurtis apparaît au-dessus du bord, me jette une corde, que ma main saisit. Je me hisse et je retombe sur la plate-forme.</p>
         <p>Mes premiers mots sont ceux-ci :</p>
@@ -1535,9 +1477,8 @@
         <p>– Quelle terre ? demande le bosseman.</p>
         <p>– La terre d’Amérique, la terre où coule l’Amazone, le seul fleuve qui ait un courant assez fort pour dessaler l’Océan jusqu’à vingt milles de son embouchure !</p>
       </div>
-      <div>
-        <head>LVII.
-<lb/></head>
+      <div type="chapter">
+        <head>LVII</head>
         <p>– <hi rend="i">Suite du 27 janvier. –</hi> Robert Kurtis a évidemment raison. Cette embouchure de l’Amazone, dont le débit est de deux cent quarante mille mètres cubes à l’heure<hi rend="b"><note place="bottom">3000 fois le débit de la Seine.</note></hi>, c’est le seul endroit de l’Atlantique où nous ayons pu trouver de l’eau douce. La terre est là ! Nous le sentons ! Le vent nous y porte !</p>
         <p>En ce moment, la voix de miss Herbey s’élève vers le Ciel, et nous mêlons nos prières aux siennes.</p>
         <p>André Letourneur est dans les bras de son père, à l’arrière du radeau, tandis qu’à l’avant, tous, nous regardons l’horizon de l’ouest…</p>

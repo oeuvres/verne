@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-12T13:55:45+01:00-->
-<!-- sérieux nettoyage à faire -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -37,8 +35,7 @@
     <body>
       <div type="chapter">
 <pb n="1"/>
-        <head>Chapitre I.
-<lb/>Le frère Sam et le frère Sib</head>
+        <head>Chapitre I. Le frère Sam et le frère Sib</head>
         <p>« Bet !</p>
         <p>— Beth !</p>
         <p>— Bess !</p>
@@ -139,8 +136,7 @@
       </div>
       <div type="chapter">
 <pb n="11"/>
-        <head>Chapitre II.
-<lb/>Helena Campbell</head>
+        <head>Chapitre II. Helena Campbell</head>
         <p>Le cottage, habité par les frères Melvill et miss Campbell, était situé à trois milles de la petite bourgade d’Helensburgh, sur les bords du Gare-Loch, l’une de ces pittoresques indentations qui se creusent capricieusement sur la rive droite de la Clyde.</p>
         <p>Pendant la saison d’hiver, les frères Melvill et leur nièce occupaient, à Glasgow, un vieil hôtel de West-George Street, dans le quartier aristocratique de la nouvelle ville, non loin de Blythswood Square. C’est là qu’ils demeuraient six mois de l’année, à moins qu’un caprice d’Helena, — à qui ils se soumettaient sans observation, — ne les entraînât en quelque déplacement de longue durée, du côté de l’Italie, de l’Espagne ou de la France. Au cours de ces voyages, ils continuaient à ne voir que par les yeux de la jeune fille, allant où il lui plaisait d’aller, s’arrêtant où il lui convenait de s’arrêter, n’admirant que ce qu’elle admirait. Puis, lorsque miss Campbell avait fermé l’album sur lequel elle consignait, soit d’un trait de crayon, soit d’un trait de plume, ses impressions de voyageuse, ils reprenaient docilement le chemin du Royaume-Uni, et rentraient, non sans quelque satisfaction, dans la confortable habitation de West-George Street.</p>
         <p>Le mois de mai étant déjà vieux de trois semaines, le frère Sam et frère Sib ressentaient alors un immodéré désir de s’en aller à la campagne. Cela les prenait juste au moment où miss Campbell manifestait elle-même le désir non moins immodéré de quitter, avec Glasgow, le bruit d’une grande cité industrielle, de fuir le mouvement des affaires, qui refluait parfois jusqu’au quartier de Blythswood Square, de revoir enfin un ciel moins enfumé, de respirer un air moins chargé d’acide carbonique que le ciel et l’air de l’antique métropole, dont les lords du tabac, « Tobacco-Lords », ont fondé, il y a quelques siècles, l’importance commerciale. <pb n="12"/></p>
@@ -178,8 +174,7 @@
       </div>
       <div type="chapter">
 <pb n="16"/>
-        <head>Chapitre III.
-<lb/>L'article du « morning post »</head>
+        <head>Chapitre III. L'article du « Morning Post »</head>
         <p>Voici ce que les amateurs de curiosités physiques avaient pu lire dans le <hi rend="i">Morning Post</hi> de ce jour :</p>
         <p>« Avez-vous quelquefois observé le soleil qui se couche sur un horizon de mer ? Oui ! sans doute. L’avez-vous suivi jusqu’au moment où, la partie <pb n="17"/>supérieure de son disque effleurant la ligne d’eau, il va disparaître ? C’est très probable. Mais avez-vous remarqué le phénomène qui se produit à l’instant précis où l’astre radieux lance son dernier rayon, si le ciel, dégagé de brumes, est alors d’une pureté parfaite ? Non ! peut-être. Eh bien, la première fois que vous trouverez l’occasion, — elle se présente très rarement, — de faire cette observation, ce ne sera pas, comme on pourrait le croire, un rayon rouge qui viendra frapper la rétine de votre œil, ce sera un rayon « vert », mais d’un vert merveilleux, d’un vert qu’aucun peintre ne peut obtenir sur sa palette, d’un vert dont la nature, ni dans la teinte si variée des végétaux, ni dans la couleur <pb n="18"/>des mers les plus limpides, n’a jamais reproduit la nuance ! S’il y a du vert dans le Paradis, ce ne peut être que ce vert-là, qui est, sans doute, le vrai vert de l’Espérance ! »</p>
         <p>Tel était l’article du <hi rend="i">Morning Post</hi>, le journal que miss Campbell tenait à la main lorsqu’elle entra dans le hall. Cette note l’avait tout simplement passionnée. Aussi fut-ce d’une voix enthousiaste qu’elle lut à ses oncles les quelques lignes précitées, qui chantaient sous une forme lyrique les beautés du Rayon-Vert.</p>
@@ -272,8 +267,7 @@
       </div>
       <div type="chapter">
 <pb n="110"/>
-        <head>Chapitre IV.
-<lb/>En descendant la Clyde</head>
+        <head>Chapitre IV. En descendant la Clyde</head>
         <p>Le lendemain, 2 août, à la première heure, miss Campbell, accompagnée des frères Melvill, suivie de Partridge et de dame Bess, montait dans le train à la station du railway d’Helensburgh. Il fallait aller prendre à Glasgow le bateau à vapeur qui, dans son service quotidien de la métropole à Oban, ne fait point escale à ce point de la côte.</p>
         <p>À sept heures, le train déposait les cinq voyageurs à la gare d’arrivée de Glasgow, et une voiture les conduisait à Broomielaw Bridge.</p>
         <p>Là, le steamer <hi rend="i">Columbia</hi> attendait ses passagers ; de ses deux cheminées s’échappait une fumée noire, qui se mêlait aux brumes encore épaisses de la Clyde ; mais toutes ces vapeurs matinales commençaient à se résoudre, et le disque plombé du soleil se nuançait déjà de quelques teintes d’or. C’était le début d’une belle journée.</p>
@@ -317,8 +311,7 @@
       </div>
       <div type="chapter">
 <pb n="111"/>
-        <head>Chapitre V.
-<lb/>D'un bateau à l’autre</head>
+        <head>Chapitre V. D'un bateau à l’autre</head>
         <p>Après le repas, demi-froid, demi-chaud, — un excellent déjeunera la mode anglaise, qui fut servi dans le « dining-room » du <hi rend="i">Columbia</hi>, — miss Campbell et les frères Melvill remontèrent sur le pont.</p>
         <p>Helena ne put retenir un cri de désappointement, lorsqu’elle eut repris sa place sur le spardeck.</p>
         <p>« Et mon horizon ! » dit-elle.</p>
@@ -348,8 +341,7 @@
       </div>
       <div type="chapter">
 <pb n="112"/>
-        <head>Chapitre VI.
-<lb/>Le gouffre de Corryvrekan</head>
+        <head>Chapitre VI. Le gouffre de Corryvrekan</head>
         <p>Il était alors six heures du soir. Le soleil n’avait encore parcouru que les quatre cinquièmes de sa course. Très certainement, le <hi rend="i">Glengarry</hi> serait arrivé à Oban, avant que l’astre du jour ne se fût couché dans les eaux de l’Atlantique. Miss Campbell était donc fondée à croire que ses vœux seraient comblés ce soir même. En effet, le ciel, sans nuages ni vapeurs, semblait fait exprès pour l’observation du phénomène, et l’horizon de mer devait rester visible entre les îles Oronsay, Colonsay, Mull, pendant cette dernière partie de la traversée. <pb n="38"/></p>
         <p>Mais un incident très imprévu allait quelque peu retarder la marche du steamer.</p>
         <p>Miss Campbell, possédée par son idée fixe, immobile à la même place, ne perdait pas de vue la ligne circulaire, qui se tendait entre les deux îles. À l’affleurement du ciel, la réverbération dessinait un triangle d’argent, dont les dernières nuances venaient mourir au flanc du <hi rend="i">Glengarry</hi>.</p>
@@ -433,8 +425,7 @@
       </div>
       <div type="chapter">
 <pb n="113"/>
-        <head>Chapitre VII.
-<lb/>Aristobulus Usiclos</head>
+        <head>Chapitre VII. Aristobulus Ursiclos</head>
         <p>Quand bien même Oban eût attiré un aussi grand concours de baigneurs sur ses plages, que les stations si fréquentées de Brighton, de Margate ou de <pb n="46"/>Ramsgate, un personnage de la valeur d’Aristobulus Ursiclos n’aurait pu y passer inaperçu.</p>
         <p>Oban, sans se placer à la hauteur de ses rivales, est une ville de bains fort recherchée des oisifs du Royaume-Uni. Sa situation sur le détroit de Mull, à l’abri des vents d’ouest, dont l’île Kerrera arrête l’action directe, attire nombre d’étrangers. Les uns viennent se retremper dans ses eaux salutaires ; les autres s’y installent comme en un point central, d’où rayonnent les itinéraires pour Glasgow, Inverness et les plus curieuses îles des Hébrides. Il faut ajouter ceci : c’est qu’Oban n’est point, ainsi que tant d’autres stations balnéaires, une sorte de cour d’hôpital ; la plupart de ceux qui veulent y passer la saison chaude sont bien portants, et on ne risque pas, comme en certaines villes d’eaux, d’y faire son whist avec deux malades et « un mort ».</p>
         <p>Oban compte à peine cent cinquante ans d’existence. Elle offre donc dans la disposition de ses places, l’agencement de ses maisons, le percement de ses rues, un cachet tout moderne. Cependant l’église, sorte de construction normande, surmontée d’un joli clocher, le vieux château de Dunolly, habillé de lierre, dont la masse se dresse sur un roc détaché de sa pointe nord, son panorama d’habitations blanches et de villas multicolores, qui s’étagent sur les collines de l’arrière-plan, enfin les eaux tranquilles de sa baie, sur lesquelles viennent mouiller d’élégants yachts de plaisance, tout cet ensemble présente un pittoresque coup d’œil.</p>
@@ -525,8 +516,7 @@
       </div>
       <div type="chapter">
 <pb n="114"/>
-        <head>Chapitre VIII.
-<lb/>Un nuage à l’horizon</head>
+        <head>Chapitre VIII. Un nuage à l’horizon</head>
         <p>Une explication était devenue nécessaire ; mais, comme Aristobulus Ursiclos n’avait rien à voir en cette explication, miss Campbell le salua froidement et retourna vers Caledonian Hotel.</p>
         <p>Aristobulus Ursiclos avait rendu non moins froidement son salut à la jeune fille. Évidemment froissé d’avoir été mis en balance avec un rayon, de quelque couleur qu’il fût, il reprit le chemin de la grève, tout en se parlant à lui-même dans les termes les plus convenables.</p>
         <p>Le frère Sam et le frère Sib ne se sentaient point dans leur assiette. Aussi, lorsqu’ils furent dans le salon réservé, ils attendirent, l’oreille basse, que miss Campbell leur adressât la parole.</p>
@@ -597,8 +587,7 @@
       </div>
       <div type="chapter">
 <pb n="115"/>
-        <head>Chapitre IX.
-<lb/>Propos de dame Bess</head>
+        <head>Chapitre IX. Propos de dame Bess</head>
         <p>Le retour à Oban se fit silencieusement. Miss Campbell ne parlait pas : les frères Melvill n’osaient parler. Ce n’était pourtant point leur faute, si cette malencontreuse vapeur avait apparu juste à point pour absorber le dernier rayon du soleil. Après tout, il ne fallait pas désespérer. La belle saison devait se prolonger pendant plus de six semaines encore. Si, durant toute la durée de l’automne, quelque beau soir ne venait pas offrir son horizon sans brumes, ce serait véritablement jouer de malheur !</p>
         <p>Cependant, c’était une admirable soirée perdue, et le baromètre ne paraissait pas devoir en promettre une semblable, — de sitôt du moins. En effet, pendant la nuit, la capricieuse aiguille de l’anéroïde revint doucement vers le variable. Mais ce qui était encore du beau temps pour tout le monde ne pouvait satisfaire miss Campbell.</p>
         <p>Le lendemain, 8 août, quelques chaudes vapeurs tamisaient les rayons solaires. La brise de midi, cette fois, ne fut point assez forte pour les dissiper. Une vive coloration empourpra le ciel vers le soir. Toutes les nuances fondues, depuis le jaune de chrome jusqu’au sombre outremer, firent de l’horizon une éblouissante palette de coloriste. Sous le voile floconneux de petites nuées, le coucher du soleil teinta l’arrière-plan du littoral de tous les rayons du spectre, sauf celui que la fantaisiste et superstitieuse miss Campbell tenait à voir.</p>
@@ -628,8 +617,7 @@
       </div>
       <div type="chapter">
 <pb n="116"/>
-        <head>Chapitre X.
-<lb/>Une partie de Croquet</head>
+        <head>Chapitre X. Une partie de Croquet</head>
         <p>Les frères Melvill, il faut bien l’avouer, commençaient à compter les jours, s’ils n’en étaient pas encore à compter les heures. Cela ne marchait pas comme ils le voulaient. L’ennui visible de leur nièce, ce besoin d’être seule qui lui prenait, le peu d’accueil qu’elle faisait au savant Ursiclos, et dont celui-ci se préoccupait peut-être moins qu’eux-mêmes, tout cela n’était pas pour rendre agréable ce séjour à Oban. Ils ne savaient qu’imaginer dans le but de rompre cette monotonie. Ils guettaient, inutilement, les moindres variations atmosphériques. Ils se disaient que, son désir satisfait, miss Campbell redeviendrait sans doute plus traitable, — au moins pour eux.</p>
         <p>C’est que, depuis deux jours, Helena, plus absorbée encore, oubliait de leur donner ce baiser du matin, qui les mettait en bonne humeur pour le reste de la journée.</p>
         <p>Cependant le baromètre, insensible aux récriminations des deux oncles, ne se décidait point à prédire une modification prochaine du temps. Quel que fût leur soin à le frapper dix fois par jour d’un petit coup sec pour déterminer une oscillation de l’aiguille, l’aiguille ne remontait pas d’une ligne. Oh ! ces baromètres !</p>
@@ -696,8 +684,7 @@
       </div>
       <div type="chapter">
 <pb n="117"/>
-        <head>Chapitre XI.
-<lb/>Oliver Sinclair</head>
+        <head>Chapitre XI. Olivier Sinclair</head>
         <p>Olivier Sinclair était un « joli homme », pour employer l’expression jadis usitée en Écosse à l’égard des garçons braves, prompts et alertes ; mais, si cette expression lui convenait au moral, il faut avouer qu’elle ne lui convenait pas moins au physique.</p>
         <p>Dernier rejeton d’une honorable famille d’Édimbourg, ce jeune Athénien de l’Athènes du Nord était le fils d’un ancien conseiller de cette capitale du Mid-Lothian. Sans père ni mère, élevé par son oncle, l’un des quatre baillis de l’administration municipale, il avait fait de bonnes études à l’Université ; puis, à l’âge de vingt ans, un peu de fortune lui assurant au moins l’indépendance, curieux de voir le monde, il visita les principaux États de l’Europe, l’Inde, l’Amérique, et la célèbre <hi rend="i">Revue d’Édimbourg</hi> ne refusa pas, en quelques occasions, de publier ses notes de voyages. Peintre distingué, qui aurait pu vendre ses œuvres à haut prix, s’il l’eût voulu, poète, à ses heures, — et qui ne le serait à un âge où toute l’existence vous sourit ? — cœur chaud, nature artiste, il était fait pour plaire et plaisait sans pose ni fatuité.</p>
         <p>Il est facile de se marier dans la capitale de la vieille Calédonie. En effet, les sexes y sont en proportion très inégale, et le faible, numériquement, l’emporte de beaucoup sur le fort. Aussi un jeune homme, instruit, aimable, comme il faut, fort bien fait de sa personne, ne peut-il manquer d’y trouver plus d’une héritière à son goût.</p>
@@ -788,8 +775,7 @@
       </div>
       <div type="chapter">
 <pb n="118"/>
-        <head>Chapitre XII.
-<lb/>Nouveaux projets</head>
+        <head>Chapitre XII. Nouveaux projets</head>
         <p>Le retour à Oban se fit dans des conditions beaucoup moins agréables que l’aller à l’île Seil. On avait cru partir pour un succès, et on revenait avec une défaite.</p>
         <p>Si la déception éprouvée par miss Campbell pouvait être atténuée en quelque chose, c’était parce que Aristobulus Ursiclos en était la cause. Elle avait le droit de l’accabler, ce grand coupable, de charger sa tête de malédictions. Elle ne s’en fit faute. Les frères Melvill auraient été mal venus à essayer de le défendre. Non ! il avait fallu que l’embarcation de ce maladroit, auquel on ne pensait guère, fût arrivée juste à point pour cacher l’horizon, au moment où le soleil lançait son dernier trait lumineux. Ce sont là de ces choses qui ne sauraient se pardonner.</p>
         <p>Il va sans dire qu’après cette algarade, Aristobulus Ursiclos, qui, pour s’excuser, s’était en outre permis de plaisanter le Rayon-Vert, avait regagné la chaloupe afin de revenir à Oban. Il avait sagement fait, car, très probablement, on ne lui aurait pas offert une place dans la calèche, ni même sur le siège de derrière.</p>
@@ -848,8 +834,7 @@
       </div>
       <div type="chapter">
 <pb n="119"/>
-        <head>Chapitre XIII.
-<lb/>Les magnificences de la mer</head>
+        <head>Chapitre XIII. Les magnificences de la mer</head>
         <p>Qui se montra désespéré en apprenant la résolution prise par ses hôtes ? ce fut l’hôtelier de Caledonian Hotel. Comme maître Mac-Fyne eût fait sauter, s’il l’avait pu, toutes ces îles et tous ces îlots, qui masquent la vue d’Oban du côté de la mer. Il se consola, d’ailleurs, dès qu’elle fut partie, en exprimant tous ses regrets d’avoir hébergé une pareille famille de monomanes.</p>
         <p>À huit heures du matin, les frères Melvill, miss Campbell, dame Bess et Partridge s’embarquaient sur le « swift steamer <hi rend="i">Pioneer</hi> », — ainsi disaient les prospectus, — qui fait le tour de l’île de Mull avec escales à Iona, à Staffa, puis revient le soir même à Oban.</p>
         <p>Olivier Sinclair avait précédé ses compagnons au quai d’embarquement, à l’appontement de l’estacade, et il les attendait sur la passerelle, jetée d’un tambour à l’autre du bateau à vapeur.</p>
@@ -889,8 +874,7 @@
       </div>
       <div type="chapter">
 <pb n="120"/>
-        <head>Chapitre XIV.
-<lb/>La vie à Iona</head>
+        <head>Chapitre XIV. La vie à Iona</head>
         <p>Cependant, Iona, — de son vieux nom l’île des Vagues, — dressant sa colline de l’Abbé à une altitude qui ne dépasse pas quatre cents pieds au-dessus du niveau de la mer, émergeait de plus en plus, et le steamer s’en rapprochait rapidement.</p>
         <p>Vers midi, le <hi rend="i">Pioneer</hi> vint accoster le long d’une petite jetée faite de roches à peine équarries, toutes verdies parles eaux. Les passagers débarquèrent, les uns, en grand nombre, pour reprendre la mer une heure après et revenir à Oban par le détroit de Mull, les autres, en petit nombre, — on sait lesquels, — avec l’intention de séjourner à Iona.</p>
         <p>L’île n’a pas de port proprement dit. Un quai de pierre en protège une des criques contre les lames du large. Rien de plus. C’est là que s’abritent, pendant la belle saison, quelques yachts de plaisance et les chaloupes de pêche, qui exploitent ces parages.</p>
@@ -928,8 +912,7 @@
       </div>
       <div type="chapter">
 <pb n="121"/>
-        <head>Chapitre XV.
-<lb/>Les ruines d’Iona</head>
+        <head>Chapitre XV. Les ruines d’Iona</head>
         <p>Ce jour-là, miss Campbell, les frères Melvill, les deux jeunes gens, partirent donc après déjeuner. Il faisait un beau temps d’automne. À chaque moment, quelque échappée de lumière filtrait à travers la déchirure des nuages peu épais. Sous ces intermittences, les ruines qui couronnent cette partie de l’île, les roches heureusement groupées du littoral, les maisons éparses sur le terrain <pb n="108"/>mouvementé d’Iona ; la mer, striée au loin par les caresses d’une jolie brise, semblaient renouveler leur aspect un peu triste et s’égayer sous des effets de soleil.</p>
         <p>Ce n’était point le jour des visiteurs. Le steamer en avait débarqué une cinquantaine la veille ; il en débarquerait sans doute autant le lendemain ; mais, aujourd’hui, l’île d’Iona appartenait tout entière à ses nouveaux habitants. Les ruines seraient donc absolument désertes, lorsque les promeneurs y arriveraient.</p>
         <p>La route se fit gaiement. La bonne humeur du frère Sam et du frère Sib avait gagné leurs compagnons. Ils causaient, allaient et venaient, s’éloignaient à travers les petits sentiers rocailleux, entre de basses murailles de pierres sèches.</p>
@@ -1019,8 +1002,7 @@
       </div>
       <div type="chapter">
 <pb n="122"/>
-        <head>Chapitre XVI.
-<lb/>Deux coups de fusil</head>
+        <head>Chapitre XVI. Deux coups de fusil</head>
         <p>Le lendemain, et pendant les premiers jours de septembre, on ne revit plus Aristobulus Ursiclos. Avait-il quitté Iona par le bateau des touristes, après avoir compris qu’il perdait son temps près de miss Campbell ? Personne n’aurait pu le dire. En tout cas, il faisait bien de ne pas se montrer. Ce n’était plus seulement de l’indifférence, c’était une sorte d’aversion qu’il inspirait à la jeune fille. Avoir dépoétisé son rayon, avoir matérialisé son rêve, avoir changé l’écharpe d’une Valkyrie en un brutal phénomène d’optique ! Peut-être lui eût-elle tout pardonné, tout excepté cela.</p>
         <p>Les frères Melvill n’eurent pas même la permission d’aller s’enquérir de ce que devenait Aristobulus Ursiclos.</p>
         <p>À quoi bon, d’ailleurs ? Qu’auraient ils pu lui dire et qu’espéraient-ils encore ? Pouvaient-ils songer, désormais, à l’union projetée entre deux êtres aussi antipathiques, séparés par l’abîme qui se creuse entre la vulgaire prose et la sublime poésie, l’un avec sa manie de tout réduire à des formules scientifiques, l’autre ne vivant que dans l’idéal, qui dédaigne les causes et se contente des impressions !</p>
@@ -1096,8 +1078,7 @@
       </div>
       <div type="chapter">
 <pb n="126"/>
-        <head>Chapitre XVII.
-<lb/>A bord de la « Clorinda »</head>
+        <head>Chapitre XVII. À bord de la « Clorinda »</head>
         <p>Le lendemain, dès six heures du matin, un charmant yawl de quarante-cinq à cinquante tonneaux, la <hi rend="i">Clorinda</hi>, quittait le petit port d’Iona, et, sous une légère brise du nord-est, ses amures à tribord, s’élevait au plus près, gagnant la haute mer.</p>
         <p>La <hi rend="i">Clorinda</hi> emportait miss Campbell, Olivier Sinclair, le frère Sam, le frère Sib, dame Bess et Partridge.</p>
         <p>Il va sans dire que le malencontreux Aristobulus Ursiclos n’était point à bord. <pb n="1261"/></p>
@@ -1163,8 +1144,7 @@
       </div>
       <div type="chapter">
 <pb n="133"/>
-        <head>Chapitre XVIII.
-<lb/>Staffa</head>
+        <head>Chapitre XVIII. Staffa</head>
         <p>Si Staffa n’est qu’un simple îlot, la nature en a fait du moins le plus curieux de tout l’archipel des Hébrides. Ce gros rocher, de forme ovale, long d’un mille, large d’un demi, cache sous sa carapace d’admirables grottes d’origine basaltique. Aussi est-ce là le rendez-vous aussi bien des géologues que des touristes. Cependant, ni miss Campbell, ni les frères Melvill n’avaient encore visité Staffa. Seul, Olivier Sinclair en connaissait les merveilles. Il était donc tout désigné pour faire les honneurs de cette île, à laquelle ils étaient venus demander une hospitalité de quelques jours.</p>
         <p>Ce rocher est uniquement dû à la cristallisation d’une énorme loupe de basalte, qui s’est figée là, aux premières périodes de formation de l’écorce terrestre. Et cela date de loin. En effet, suivant les observations d’Hemholtz, — concluant des expériences de Bischof sur le refroidissement du basalte, qui n’a pu fondre qu’à une température de deux mille degrés, — il n’a pas fallu, pour opérer son entier refroidissement, moins de trois cent cinquante millions d’années. Ce serait donc à une époque fabuleusement reculée que la solidification du globe, après avoir passé de l’état gazeux à l’état liquide, aurait commencé à se produire.</p>
         <p>Si Aristobulus Ursiclos se fût trouvé là, il aurait eu matière à quelque belle dissertation sur les phénomènes de l’histoire géologique. Mais il était loin, miss Campbell ne pensait plus à lui, et, comme le dit le frère Sam au frère Sib :</p>
@@ -1215,8 +1195,7 @@
       </div>
       <div type="chapter">
 <pb n="140"/>
-        <head>Chapitre XIX.
-<lb/>La  grotte de Fingal</head>
+        <head>Chapitre XIX. La  grotte de Fingal</head>
         <p>Si le capitaine de la <hi rend="i">Clorinda</hi> s’était trouvé depuis vingt-quatre heures dans un des ports du Royaume-Uni, il aurait eu connaissance d’un bulletin météorologique peu rassurant pour les navires en cours de navigation à travers l’Atlantique.</p>
         <p>En effet, une bourrasque avait été annoncée par le fil de New-York. Après avoir traversé l’Océan de l’ouest au nord est, elle menaçait de se jeter brutalement sur le littoral de l’Irlande et de l’Écosse, avant d’aller se perdre au delà des côtes de Norvège.</p>
         <p>Mais, à défaut de ce télégramme, le baromètre du yacht indiquait prochainement un grand trouble atmosphérique, dont un marin prudent devait tenir compte.</p>
@@ -1301,8 +1280,7 @@
       </div>
       <div type="chapter">
 <pb n="150"/>
-        <head>Chapitre XX.
-<lb/>Pour miss Campbell !</head>
+        <head>Chapitre XX. Pour miss Campbell !</head>
         <p>Quelques instants après, Olivier Sinclair, ayant franchi la chaussée d’un pas rapide, arrivait devant l’entrée de la grotte, à l’endroit où montait l’escalier de basalte.</p>
         <p>Les frères Molvill et Partridge l’avaient suivi de près.</p>
         <p>Dame Bess était restée à Clam-Shell, attendant avec une inexprimable anxiété, préparant tout afin de recevoir Helena à son retour.</p>
@@ -1361,8 +1339,7 @@
       </div>
       <div type="chapter">
 <pb n="156"/>
-        <head>Chapitre XXI.
-<lb/>Toute une tempête dans une grotte</head>
+        <head>Chapitre XXI. Toute une tempête dans une grotte</head>
         <p>Olivier Sinclair était sain et sauf, et momentanément en sûreté. L’obscurité était alors assez profonde pour qu’il ne pût rien voir à l’intérieur. Le jour crépusculaire ne pénétrait qu’entre l’intervalle de deux lames, lorsque l’entrée se dégageait à demi de la masse des eaux.</p>
         <p>Olivier Sinclair, cependant, essaya de reconnaître en quel endroit miss Campbell avait pu trouver un refuge… Ce fut en vain.</p>
         <p>Il appela :</p>
@@ -1417,8 +1394,7 @@
       </div>
       <div type="chapter">
 <pb n="163"/>
-        <head>Chapitre XXII.
-<lb/>Le rayon vert</head>
+        <head>Chapitre XXII. Le rayon vert</head>
         <p>Quelques minutes après, sous la fraîcheur de l’air, au fond de Clam-Shell, miss Campbell revenait à elle, comme d’un rêve, dont l’image d’Olivier Sinclair avait occupé toutes les phases. Des dangers auxquels l’avait exposée son imprudence, elle ne se souvenait même plus.</p>
         <p>Elle ne pouvait parler encore ; mais, à la vue d’Olivier Sinclair, quelques larmes de reconnaissance lui vinrent aux yeux, et elle tendit la main à son sauveur.</p>
         <p>Le frère Sam et le frère Sib, sans pouvoir dire un mot, pressaient le jeune <pb n="1631"/>homme dans une même étreinte. Dame Bess lui faisait révérence sur révérence, et Partridge avait bonne envie de l’embrasser.</p>
@@ -1488,8 +1464,7 @@
       </div>
       <div type="chapter">
 <pb n="171"/>
-        <head>Chapitre XXIII.
-<lb/>Conclusion</head>
+        <head>Chapitre XXIII. Conclusion</head>
         <p>Le lendemain, 12 septembre, la <hi rend="i">Clorinda</hi> appareillait avec jolie mer et brise favorable, et, tout dessus, courait dans le sud-ouest de l’archipel des Hébrides. Bientôt Staffa, Iona, la pointe de Mull, disparaissaient derrière les hautes falaises de la grande île.</p>
         <p>Après une heureuse traversée, les passagers du yacht débarquèrent au petit port d’Oban ; puis, par le railway d’Oban à Dalmaly, et de Dalmaly à Glascow, à travers le pays le plus pittoresque des highlands, ils rentraient au cottage d’Helensburgh.</p>
         <p>Dix-huit jours plus tard, un mariage était célébré en grande cérémonie à l’église Saint-George de Glasgow ; mais il faut bien avouer que ce n’était pas celui d’Aristobulus Ursiclos et de miss Campbell. Bien que le fiancé fût Olivier <pb n="1711"/>Sinclair, le frère Sam et le frère Sib ne s’en montraient pas moins satisfaits que leur nièce.</p>

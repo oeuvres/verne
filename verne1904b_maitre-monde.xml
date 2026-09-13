@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-03-06T19:08:15+01:00-->
 <!-- ok -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -31,12 +31,8 @@
   </teiHeader>
   <text>
     <body>
-      <div
-        type="chapter">
-            <head>Chapitre 1.</head>
-          </div>
-      <div>
-        <head>Ce qui se passe dans le pays</head>
+      <div type="chapter">
+        <head>I. Ce qui se passe dans le pays</head>
         <p>Cette rangée de montagnes, parallèle au littoral américain de l’Atlantique, qui sillonne la Caroline du Nord, la Virginie, le Maryland, la Pennsylvanie, l’État de New York, porte le double nom de monts Alleghanys et de monts Appalaches. Elle est formée de deux chaînes distinctes: à l’ouest, les monts Cumberland, à l’est, les Montagnes-Bleues.</p>
         <p>Si ce système orographique, le plus considérable de cette partie de l’Amérique du Nord, se dresse sur une longueur d’environ neuf cents milles, soit seize cents kilomètres, il ne dépasse pas six mille pieds en moyenne altitude et son point culminant est marqué par le mont Washington<note place="bottom">1918 mètres d’altitude.</note>.</p>
         <p>Cette sorte d’échine, dont les deux extrémités trempent, l’une dans les eaux de l’Alabama, l’autre dans les eaux du Saint-Laurent, ne sollicite que médiocrement la visite des alpinistes. Son arête supérieure ne se profilant pas à travers les hautes zones de l’atmosphère, elle ne saurait attirer comme les superbes sommités de l’ancien et du nouveau monde. Cependant il était un point de cette chaîne, le Great-Eyry, que les touristes n’auraient pu atteindre, et il semblait bien qu’il fût pour ainsi dire inaccessible.</p>
@@ -86,12 +82,9 @@
         <p>Mais voici que, vers cinq heures du matin, au-dessus des crêtes de la montagne, encore noyées de l’ombre nocturne, un bruit étrange se fit entendre à travers l’atmosphère, une sorte de halètement régulier, accompagné d’un puissant battement d’ailes. Et, s’il eût fait jour, peut-être les gens des fermes et des villages eussent-ils vu passer un gigantesque oiseau de proie, quelque monstre aérien, qui, après s’être enlevé du Great-Eyry, fuyait dans la direction de l’est!</p>
         
         
-        <div type="chapter">
-            <head>Chapitre II</head>
-          </div>
         </div>
-      <div>
-        <head>À Morganton</head>
+      <div type="chapter">
+        <head>II. À Morganton</head>
         <p>Le 27 avril, parti la veille de Washington, j’arrivai à Raleigh, chef-lieu de l’État de la Caroline du Nord.</p>
         <p>Deux jours avant, le directeur général de la police m’avait demandé à son cabinet. Mon chef m’attendait non sans quelque impatience. Voici l’entretien que j’eus avec lui, et qui motiva mon départ:</p>
         <p>«John Strock, débuta-t-il, êtes-vous toujours l’agent sagace et dévoué qui, en mainte occasion, nous a donné des preuves de dévouement et de sagacité?...</p>
@@ -196,12 +189,9 @@
         <p>–Nous le saurons, monsieur Strock, et pas plus tard que demain...</p>
         <p>–À demain donc!»</p>
         
-        <div type="chapter">
-            <head>Chapitre III.</head>
-          </div>
         </div>
-      <div>
-        <head>Great-Eyry</head>
+      <div type="chapter">
+        <head>III. Great-Eyry</head>
         <p>Le lendemain, dès l’aube, Elias Smith et moi, nous quittions Morganton par la route qui, en longeant la rive gauche de la Sarawba-river, conduit à la bourgade de Pleasant-Garden.</p>
         <p>Les guides nous accompagnaient, – Harry Horn, âgé de trente ans, James Bruck, âgé de vingt-cinq ans, tous deux habitants de la bourgade, au service des touristes qui désiraient visiter les principaux sites des Montagnes-Bleues et du Cumberland, formant la double chaîne des Alleghanys. Intrépides ascensionnistes, vigoureux de bras et de jambes, adroits et expérimentés, ils connaissaient bien cette partie du district jusqu’au pied de la chaîne.</p>
         <p>Une voiture attelée de deux bons chevaux devait nous transporter jusqu’à la limite occidentale de l’État. Elle ne contenait des vivres que pour deux ou trois jours, notre campagne ne devant sans doute pas se prolonger au-delà de ce délai. Il n’y avait eu qu’à s’en remettre à M. Smith pour le choix des victuailles, conserves de bœuf en daube, tranches de jambon, un gigot de chevreuil cuit à point, un tonnelet de bière, plusieurs fioles de whisky et de brandevin, du pain en quantité suffisante. Quant à l’eau fraîche, les sources de la montagne la fourniraient en abondance, alimentées par les pluies torrentielles qui ne sont point rares à cette époque de l’année.</p>
@@ -309,12 +299,9 @@
         <p>Le plus sage, en somme, était de revenir à Washington et de consulter M. Ward. Aussi, le lendemain soir, à Morganton, après avoir réglé mes deux guides, je pris congé de M. Smith et me rendis à la gare d’où le rapide pour Raleigh allait partir.</p>
         
         
-        <div type="chapter">
-            <head>Chapitre IV.</head>
-          </div>
         </div>
-      <div>
-        <head>Un concours de l’Automobile-Club</head>
+      <div type="chapter">
+        <head>IV. Un concours de l’Automobile-Club</head>
         <p>Le mystère du Great-Eyry devait-il être dévoilé un jour par suite d’éventualités difficiles à prévoir... C’était le secret de l’avenir. Y avait-il un intérêt de premier ordre à ce qu’il le fût?... Aucun doute à ce sujet, puisque la sécurité des habitants de ce district de la Caroline du Nord en dépendait peut-être.</p>
         <p>Quoi qu’il en soit, une quinzaine de jours après, alors que j’étais de retour à Washington, l’attention publique fut non moins sollicitée par un fait d’ordre tout différent. Ce fait allait demeurer aussi mystérieux que les phénomènes dont le Great-Eyry venait d’être le théâtre.</p>
         <p>Vers le milieu de ce mois de mai, les journaux de la Pennsylvanie portèrent à la connaissance de leurs lecteurs ledit fait qui s’était récemment produit en divers points de l’État.</p>
@@ -379,12 +366,9 @@
         <p>En tout cas, lorsqu’il eut disparu au tournant de la route, on ne trouva plus trace de son passage.</p>
         
         
-        <div type="chapter">
-            <head>Chapitre V.</head>
-          </div>
         </div>
-      <div>
-        <head>En vue du littoral de la Nouvelle-Angleterre</head>
+      <div type="chapter">
+        <head>V. En vue du littoral de la Nouvelle-Angleterre</head>
         <p>À l’époque où ces faits furent rapportés par les journaux d’Amérique, j’étais depuis un mois de retour à Washington.</p>
         <p>Dès mon arrivée, j’avais eu soin de me présenter chez mon chef. Je ne pus le voir. Pour des raisons de famille, une absence allait le tenir éloigné quelques semaines. Mais, à n’en pas douter, M. Ward connaissait l’insuccès de ma mission. Les diverses feuilles de la Caroline du Nord avaient rapporté fort exactement les détails de cette ascension au Great-Eyry, en compagnie du maire de Morganton.</p>
         <p>On comprendra le violent dépit que je ressentais de cette tentative inutile, sans parler de ma curiosité non satisfaite. Et, au vrai, je ne pouvais me faire à cette idée qu’elle ne le serait pas dans l’avenir... Quoi! ne pas surprendre les secrets du Great-Eyry!... Non! quand je devrais dix fois, vingt fois, me remettre en campagne et au risque d’y succomber!...</p>
@@ -461,12 +445,9 @@
         <p>–Eh bien, qui sait si les deux appareils n’en font pas qu’un?... »</p>
         
         
-        <div type="chapter">
-            <head>Chapitre VI.</head>
-          </div>
         </div>
-      <div>
-        <head>Première lettre</head>
+      <div type="chapter">
+        <head>VI. Première lettre</head>
         <p>Après avoir quitté M. Ward, je regagnai ma demeure de Long-Street.</p>
         <p>Là, j’aurais tout le temps de m’abandonner à mes réflexions, sans être dérangé, n’ayant ni femme ni enfant. Pour tout personnel, une vieille domestique qui, après avoir été au service de ma mère, depuis quinze ans était au mien.</p>
         <p>Un mois auparavant, j’avais obtenu un congé. Il devait durer quinze jours encore, à moins de circonstances imprévues, une mission ne souffrant aucun retard.</p>
@@ -547,12 +528,9 @@
         <p rend="right">«M. D. M.»</p>
         
         
-        <div type="chapter">
-            <head>Chapitre VII.</head>
-          </div>
         </div>
-      <div>
-        <head>Et de trois</head>
+      <div type="chapter">
+        <head>VII. Et de trois</head>
         <p>Je l’avoue, tout d’abord, ma surprise fut grande à la lecture de cette lettre. Des oh! et des ah! s’échappèrent de ma bouche. La vieille servante me regardait, ne sachant trop que penser.</p>
         <p>«Est-ce que monsieur vient de recevoir une mauvaise nouvelle?... »</p>
         <p>À cette demande de Grad – je n’avais guère de secrets pour elle –, je répondis simplement en lui lisant la lettre depuis la première jusqu’à la dernière ligne.</p>
@@ -645,12 +623,9 @@
         <p>«Faut-il en conclure qu’ils sont tous trois dus au génie du même inventeur et que tous trois ne font qu’un seul appareil?»</p>
         
         
-        <div type="chapter">
-            <head>Chapitre VIII.</head>
-          </div>
         </div>
-      <div>
-        <head>À tout prix</head>
+      <div type="chapter">
+        <head>VIII. À tout prix</head>
         <p>Ce fut comme une révélation, et d’un effet immense, acceptée, dirait-on, unanimement. Étant donné la propension de l’esprit humain vers l’extraordinaire, souvent même vers l’impossible, personne n’en voulut plus douter. Non seulement c’était le même inventeur, mais c’était le même appareil.</p>
         <p>Et pourtant, comment pouvait s’accomplir, dans la pratique, cette transformation d’une automobile qui devenait bateau, puis sous-marin?... Un engin de locomotion propre à circuler sur terre, sur et sous les eaux!... Eh bien, il ne lui manquerait plus que de voler à travers l’espace!</p>
         <p>Mais, enfin, rien qu’à s’en tenir à ce que l’on savait, à ce qui était constaté, à ces faits auxquels de nombreux témoins apportaient un indiscutable appui, cela devait être regardé comme absolument extraordinaire. Aussi le public, déjà blasé sur les derniers événements, trouva-t-il un nouveau regain de curiosité.</p>
@@ -729,12 +704,9 @@
         <p>Elle était conçue en ces termes:</p>
         
         
-        <div type="chapter">
-            <head>Chapitre IX.</head>
-          </div>
         </div>
-      <div>
-        <head>Seconde lettre</head>
+      <div type="chapter">
+        <head>IX. Seconde lettre</head>
         <p rend="right">«À bord de l’<hi rend="i">Épouvante</hi>,</p>
         <p rend="right">«Ce 15 juillet.</p>
         <p>«À l’Ancien et au Nouveau Monde,</p>
@@ -750,12 +722,9 @@
         <p rend="right">«Maître du Monde.»</p>
         
         
-        <div type="chapter">
-            <head>Chapitre X.</head>
-          </div>
-        </div>
-      <div>
-        <head>Hors la loi</head>
+      </div>
+      <div type="chapter">
+        <head>X. Hors la loi</head>
         <p>Telle était la lettre adressée au gouvernement des États-Unis, déposée à l’hôtel de la police, sans l’intermédiaire de la poste. Quant à l’individu qui l’avait apportée pendant la nuit du 14 au 15 juillet, personne ne l’avait aperçu.</p>
         <p>Cependant un assez grand nombre d’impatients affluaient encore après le coucher du soleil et jusqu’à son lever aux abords de l’hôtel. Il est vrai, comment eussent-ils vu le porteur de cette lettre – peut-être son auteur lui-même –, se glissant le long du trottoir et la jetant dans la boîte?... Il faisait nuit, une nuit de nouvelle lune. On ne s’apercevait pas d’un côté de la rue à l’autre.</p>
         <p>J’ai dit que cette lettre avait paru en fac-similé dans les journaux auxquels les autorités la communiquèrent dès la première heure. Or, il ne faudrait pas s’imaginer que l’impression qu’elle causa eût été tout d’abord celle-ci:</p>
@@ -840,12 +809,9 @@
         <p>–De réussir... cette fois... de réussir!»</p>
         
         
-        <div type="chapter">
-            <head>Chapitre XI.</head>
-          </div>
         </div>
-      <div>
-        <head>En campagne</head>
+      <div type="chapter">
+        <head>XI. En campagne</head>
         <p>Ainsi, l’introuvable capitaine venait de réapparaître en un point du territoire des États-Unis. Il n’avait été se montrer ni sur les routes ni sur les mers de l’Europe. Tout cet Atlantique qu’il eût mis moins de quatre jours à traverser, il ne l’avait pas franchi... Était-ce donc la seule Amérique dont il faisait le théâtre de ses expériences, et devait-on en conclure qu’il fût américain?</p>
         <p>Qu’on ne s’étonne pas si j’insiste sur ce point que le submersible aurait pu franchir la vaste mer qui sépare le Nouveau de l’Ancien Continent. Sans parler de sa vitesse qui lui assurait un voyage de courte durée comparé à la marche des plus rapides paquebots de l’Angleterre, de la France ou de l’Allemagne, il n’avait, en somme, rien à craindre des mauvais temps qui désolent ces parages. La houle n’existait pas pour lui. Il lui suffisait d’abandonner la surface des eaux pour trouver le calme absolu à quelque vingtaine de pieds au-dessous.</p>
         <p>Mais enfin, il ne l’avait pas tenté, ce voyage à travers l’Atlantique, et, si sa capture réussissait, ce serait dans l’Ohio probablement, puisque Toledo est une des villes de cet État.</p>
@@ -931,12 +897,9 @@
         <p>Rien... rien!... La place où Wells a laissé l’<hi rend="i">Épouvante</hi>, vingt-quatre heures avant, est vide!... Le Maître du Monde n’est plus à la crique de Black-Rock.</p>
         
         
-        <div type="chapter">
-            <head>Chapitre XII.</head>
-          </div>
         </div>
-      <div>
-        <head>La crique de Black-Rock</head>
+      <div type="chapter">
+        <head>XII. La crique de Black-Rock</head>
         <p>On sait combien la nature humaine est portée aux illusions. Certes, des chances existaient pour que l’appareil tant recherché ne fût plus à cette place... en admettant que ce fût lui dont Wells avait observé l’émersion dans l’après-midi du 27... Si quelque avarie survenue à son triple système de locomotion l’avait empêché de regagner par terre ou par eau sa retraite et obligé à relâcher au fond de la crique de Black-Rock, que devions-nous penser enfin, ne l’y voyant plus?... C’est que, réparations faites, il s’était remis en route, c’est qu’il avait abandonné ces parages du lac Érié...</p>
         <p>Eh bien, ces éventualités, si probables pourtant, nous n’avions pas voulu les admettre à mesure que cette journée s’avançait. Non! nous ne doutions plus ni qu’il s’agissait bien de l’<hi rend="i">Épouvante</hi>, ni qu’elle ne fût mouillée au pied des roches, là où Wells avait pu constater sa présence...</p>
         <p>Et alors, quel désappointement, je dirai même quel désespoir! Toute notre campagne réduite à néant! Si l’<hi rend="i">Épouvante</hi> naviguait encore sur ou sous les eaux du lac, la retrouver, la rejoindre, la capturer, c’était hors de notre pouvoir, et – pourquoi s’illusionner à cet égard? – hors de tout pouvoir humain!</p>
@@ -1048,14 +1011,9 @@
         <p>Mais il suffirait qu’elle soit coupée du bord, pour que le bateau puisse se remettre en marche...</p>
         <p>Soudain, le grappin s’arrache du sable, et, une de ses pattes me prenant à la ceinture tandis que Walker est renversé par la secousse, je suis entraîné sans parvenir à me dégager...</p>
         <p>À ce moment, l’<hi rend="i">Épouvante</hi>, poussée par son moteur, fait comme un bond, et file de toute sa vitesse à travers la crique de Black-Rock.</p>
-        
-        
-        <div type="chapter">
-            <head>Chapitre XIII.</head>
-          </div>
-        </div>
-      <div>
-        <head>À bord de l’Épouvante</head>
+      </div>
+      <div type="chapter">
+        <head>XIII. À bord de l’Épouvante</head>
         <p>Lorsque je revins à moi, il faisait jour. Une demi-clarté traversait l’épais hublot de l’étroite cabine, où l’on m’avait déposé... Depuis combien d’heures, je n’aurais pu le dire. Mais il me semblait bien, à l’obliquité de ses rayons, que le soleil ne devait pas être très élevé au-dessus de l’horizon.</p>
         <p>Un cadre me servait de lit, une couverture était étendue sur moi. Mes vêtements, pendus dans un coin, avaient été séchés. Ma ceinture, déchirée en partie par la patte du grappin, gisait sur le plancher.</p>
         <p>Du reste, je ne me sentais aucune blessure. Un peu de courbature seulement. Si j’avais perdu connaissance, je me rendais bien compte que ce n’était pas par faiblesse. Comme ma tête plongeait parfois dans l’eau, lorsque l’amarre me traînait à la surface du lac, j’aurais été asphyxié, si l’on ne m’eût remonté à temps sur le pont.</p>
@@ -1136,13 +1094,9 @@
         <p>Heureusement, je parvins à me contenir, et, désespérant d’obtenir une réponse à mes questions, je revins m’asseoir près du panneau de ma cabine... Et, pendant de longues heures, je ne cessai d’observer l’horizon dans l’espoir qu’une terre paraîtrait bientôt.</p>
         <p>Oui! attendre... j’en étais réduit là... attendre!... La journée ne finirait pas sans doute avant que l’<hi rend="i">Épouvante</hi> ne fût en vue du littoral de l’Érié, puisque sa direction se maintenait imperturbablement au nord-est!</p>
         
-        
-        <div type="chapter">
-            <head>Chapitre XIV.</head>
-          </div>
-        </div>
-      <div>
-        <head>Le Niagara</head>
+      </div>
+      <div type="chapter">
+        <head>XIV. Le Niagara</head>
         <p>Cependant le temps s’écoulait et la situation ne se modifiait pas. Le timonier était revenu à la barre, le capitaine, à l’intérieur, surveillait la marche des machines. Je le répète, même lorsque la vitesse s’accroissait, le moteur fonctionnait sans bruit, avec une remarquable régularité. Jamais un de ces à-coups inévitables qui résultent de l’emploi des cylindres et des pistons. J’en concluais donc que le déplacement de l’<hi rend="i">Épouvante</hi>, dans chacune de ses transformations, s’effectuait au moyen de machines rotatives. Mais impossible de m’en assurer.</p>
         <p>D’autre part, j’observai que l’orientation ne changeait pas. Toujours vers le nord-est du lac, et, par conséquent, en direction de Buffalo.</p>
         <p>«Pourquoi le capitaine suit-il cette route?... me disais-je. Il ne peut avoir l’intention de mouiller dans ce port... au milieu de la flottille de pêche et de commerce!... S’il veut sortir de l’Érié, ce n’est pas le Niagara qui lui offrirait passage, et les chutes sont infranchissables même avec un appareil tel que le sien!... Le seul chemin, c’est Detroit-river, et l’<hi rend="i">Épouvante</hi> s’en éloigne visiblement!...»</p>
@@ -1225,12 +1179,9 @@
         <p>Soudain, un violent bruit de mécanisme, qui jouait à l’intérieur, se fait entendre. Les grandes dérives, plaquées sur les flancs de l’appareil, se détendent comme des ailes, et, au moment où l’<hi rend="i">Épouvante</hi> est entraînée dans la chute, elle s’élève à travers l’espace, franchissant les mugissantes cataractes au milieu d’un spectre d’arc-en-ciel lunaire!</p>
         
         
-        <div type="chapter">
-            <head>Chapitre XV.</head>
-          </div>
         </div>
-      <div>
-        <head>Le nid de l’aigle</head>
+      <div type="chapter">
+        <head>XV. Le nid de l’aigle</head>
         <p>Le lendemain, lorsque je me réveillai après un assez lourd sommeil, l’appareil ne faisait plus aucun mouvement. Je m’en rendis compte aussitôt: il ne roulait pas sur terre, il ne naviguait ni sur ni sous les eaux, il ne volait pas au milieu des airs. Devais-je en conclure que son inventeur avait regagné la mystérieuse retraite où jamais être humain n’avait mis le pied avant lui?...</p>
         <p>Et alors, puisqu’il ne s’était pas débarrassé de ma personne, son secret allait-il enfin m’être révélé?...</p>
         <p>Peut-être s’étonnera-t-on que j’eusse si profondément dormi pendant ce voyage aérien. Je m’en suis étonné moi-même, et je me demandai si ce sommeil ne fut pas provoqué par une substance soporifique mêlée à mon dernier repas... le capitaine de l’<hi rend="i">Épouvante</hi> voulant me mettre ainsi dans l’impossibilité de connaître le lieu de son atterrissement?... Tout ce que je puis affirmer, c’est qu’elle avait été terrible, l’impression que je ressentis au moment où l’appareil, au lieu d’être entraîné dans les tourbillons de la cataracte, s’enleva sous l’action de son moteur, comme un oiseau dont les larges ailes battaient avec une extraordinaire puissance!...</p>
@@ -1295,10 +1246,9 @@
         <p>–Vous?... m’écriai-je au comble de la stupéfaction.</p>
         <p>–Moi... répondit-il, en se redressant dans tout son orgueil, moi... Robur... Robur-le-Conquérant!»</p>
         
-        <p rend="b">Chapitre XVI. </p>
       </div>
-      <div>
-        <head>Robur-le-Conquérant</head>
+      <div type="chapter">
+        <head>XVI. Robur-le-Conquérant</head>
         <p>Une taille moyenne, avec carrure géométrique – ce que serait un trapèze régulier dont le plus grand côté est formé par la ligne des épaules. Sur cette ligne, rattachée par un cou robuste, une énorme tête sphéroïdale. Des yeux que la moindre émotion devait porter à l’incandescence, et au-dessus, en permanente contraction, le muscle sourcilier, signe d’extrême énergie. Des cheveux courts, un peu crépus, à reflets métalliques, comme eût été un toupet de paille de fer, large poitrine qui s’élevait et s’abaissait avec des mouvements de soufflet de forge, des bras, des mains, des jambes dignes du tronc, pas de moustaches, pas de favoris, une large barbiche à l’américaine, qui laissait voir les attaches de la mâchoire, dont les masséters devaient posséder une puissance formidable.</p>
         <p>Tel était le portrait de l’homme extraordinaire que reproduisirent tous les journaux de l’Union, à la date du 13 juin 18..., le lendemain du jour où ce personnage fit son apparition sensationnelle à la séance du Weldon-Institut de Philadelphie.</p>
         <p>Et c’était ce Robur-le-Conquérant qui venait de se révéler à moi, en me jetant son nom retentissant comme une menace, et dans l’enceinte même du Great-Eyry!...</p>
@@ -1369,10 +1319,9 @@
         <p>On ne s’étonnera donc pas que ces sentiments se fussent peu à peu aggravés au point qu’il prétendait s’asservir le monde entier, ainsi que le marquaient sa dernière lettre, et ses menaces très significatives. Fallait-il donc admettre que, avec le temps, sa surexcitation mentale s’était accrue dans une mesure effrayante, qu’elle risquait de l’entraîner aux pires excès?...</p>
         <p>Quant à ce qui s’était passé depuis le départ de l’<hi rend="i">Albatros</hi>, ce que je savais me permettait de le reconstituer aisément. Il n’avait pas suffi à ce prodigieux inventeur de créer une machine volante, si perfectionnée qu’elle fût. La pensée lui était venue de construire un appareil apte à se mouvoir sur terre, sur et sous les eaux comme à travers l’espace. Et, probablement, dans le chantier de l’île X, un personnel de choix, qui garda le secret, parvint à établir de toutes pièces l’appareil à triple transformation. Puis, le second <hi rend="i">Albatros</hi> fut détruit, et, sans doute, dans cette enceinte du Great-Eyry, infranchissable à tout autre. L’<hi rend="i">Épouvante</hi> fit alors son apparition sur les routes des États-Unis, dans les mers voisines, à travers les zones aériennes de l’Amérique. Et l’on sait en quelles conditions, après avoir été vainement poursuivie à la surface du lac Érié, elle s’échappa par la voie des airs, tandis que j’étais prisonnier à bord!</p>
         
-        <p rend="b">Chapitre XVII. </p>
       </div>
-      <div>
-        <head>Au nom de la loi!...</head>
+      <div type="chapter">
+        <head>XVII. Au nom de la loi!...</head>
         <p>Quelle serait l’issue de l’aventure dans laquelle je m’étais engagé?... Son dénouement, proche ou lointain, pouvais-je le provoquer?... Seul, Robur ne le tenait-il pas entre ses mains?... Je n’aurais probablement jamais la possibilité de m’enfuir, ainsi que l’avaient fait Uncle Prudent et Phil Evans sur l’île Chatam... Il fallait attendre, et que durerait cette attente?...</p>
         <p>En tout cas, si ma curiosité se trouvait partiellement satisfaite, elle ne l’était que pour ce qui concernait le mystère du Great-Eyry. Ayant enfin visité cette enceinte, je connaissais la cause des phénomènes observés dans cette région des Montagnes-Bleues. J’avais la certitude que ni les campagnards de ce district de la Caroline du Nord, ni les habitants de Pleasant-Garden et de Morganton n’étaient menacés d’une éruption ou d’un tremblement de terre. Aucune force plutonienne ne travaillait les entrailles du sol. Aucun cratère ne s’ouvrait en ce coin des Alleghanys. Le Great-Eyry servait simplement de retraite à Robur-le-Conquérant. Cette aire infranchissable où il mettait en dépôt son matériel, ses approvisionnements, le hasard, sans doute, la lui avait fait découvrir pendant un de ses voyages aériens, retraite plus sûre probablement que cette île X, de l’océan Pacifique...</p>
         <p>Oui, mais si ce secret m’était révélé, du merveilleux appareil de locomotion, de ses divers modes de fonctionnement, que savais-je en somme?... En admettant que son multiple mécanisme fût actionné par l’électricité, et que cette électricité, comme l’<hi rend="i">Albatros</hi>, il la tirât par des procédés nouveaux de l’air ambiant, comment était disposé ce mécanisme?... On ne m’en avait laissé, on ne m’en laisserait rien voir.</p>
@@ -1452,12 +1401,9 @@
         <p>L’<hi rend="i">Épouvante</hi> venait d’être foudroyée, coup sur coup, et ses ailes rompues, ses turbines brisées, elle tomba d’une hauteur de plus de mille pieds dans les profondeurs du golfe!...</p>
         
         
-        <div type="chapter">
-            <head>Chapitre XVIII.</head>
-          </div>
         </div>
-      <div>
-        <head>Le dernier mot à la vieille Grad</head>
+      <div type="chapter">
+        <head>XVIII. Le dernier mot à la vieille Grad</head>
         <p>Lorsque je revins à moi, après être resté sans connaissance – combien d’heures, je n’aurais pu le dire –, un groupe de marins, dont les soins m’avaient rappelé à la vie, entourait le cadre de la cabine où j’étais déposé.</p>
         <p>À mon chevet, un officier m’interrogea, et, ma mémoire retrouvée, je pus répondre à ses questions.</p>
         <p>Je dis tout, oui!... tout, et, assurément, ceux qui m’entendirent durent croire qu’ils avaient affaire à un malheureux dont la raison n’était pas revenue avec la vie!</p>

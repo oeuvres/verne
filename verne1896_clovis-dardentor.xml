@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-06T15:13:39+01:00-->
-<!-- Structure du document à revoir (toc) ! -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -36,13 +34,8 @@
   </teiHeader>
   <text>
     <body>
-       <div>
-            <head>
-              <num>1</num>
-            </head>
-          </div>
-      <div>
-        <head>Dans lequel le principal personnage de cette histoire n’est pas présenté au lecteur</head>
+      <div type="chapter">
+        <head>I. Dans lequel le principal personnage de cette histoire n’est pas présenté au lecteur</head>
         <p>Lorsque tous les deux descendirent en gare de Cette – train de Paris à la Méditerranée – Marcel Lornans, s’adressant à Jean Taconnat, lui dit :</p>
         <p>« Qu’allons-nous faire, s’il te plaît, en attendant le départ du paquebot ?...</p>
         <p>– Rien, répondit Jean Taconnat.</p>
@@ -176,18 +169,9 @@
         <p>Puis, cette pénible opération achevée, M. Désirandelle remonta sur la dunette, d’où son œil furieux et menaçant parcourut les quais du vieux bassin.</p>
         <p>Le retardataire n’était pas là, et, y eût-il été, qu’aurait-il pu faire, si ce n’est son <hi rend="i">mea culpa</hi>, en se frappant la poitrine !</p>
         <p>En effet, son évolution achevée, l’<hi rend="i">Argèlès</hi> avait pris le milieu de la passe et recevait les saluts des curieux massés, d’une part sur le musoir de la jetée, de l’autre autour du môle Saint-Louis. Puis, il modifia légèrement sa direction à bâbord, afin d’éviter une goélette dont la dernière bordée se prolongeait à l’intérieur du bassin. Enfin, la passe franchie, le capitaine Bugarach manœuvra de manière à tourner le brise-lames par le nord et à doubler le cap de Cette sous petite vapeur.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>2</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel le principal personnage de cette histoire est décidément présenté au lecteur</head>
+      <div type="chapter">
+        <head>II. Dans lequel le principal personnage de cette histoire est décidément présenté au lecteur</head>
         <p>« Nous voici en route, dit Marcel Lornans, en route vers...</p>
         <p>– L’inconnu, répliqua Jean Taconnat, l’inconnu qu’il faut fouiller pour trouver du nouveau, a dit Baudelaire !</p>
         <p>– L’inconnu, Jean ?... Est-ce que tu espères le rencontrer dans une simple traversée de la France à l’Afrique, un voyage de Cette à Oran ?...</p>
@@ -299,18 +283,9 @@
         <p>Quelques secondes plus tard, ledit personnage, suivi de son domestique qui portait une valise, enjambait le bastingage, sautait sur le pont, et, la physionomie joyeuse, souriant et se déhanchant avec grâce, saluait à la ronde.</p>
         <p>Puis, avisant M. Désirandelle, qui se préparait à lui adresser des reproches :</p>
         <p>« Et oui... me voilà, gros père ! » s’écria-t-il, en lui envoyant une bonne claque par le travers du ventre.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>3</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel l’aimable héros de cette histoire commence à se poser au premier plan</head>
+      <div type="chapter">
+        <head>III. Dans lequel l’aimable héros de cette histoire commence à se poser au premier plan</head>
         <p>M. Dardentor – de son prénom Clovis – avait reçu le jour, quarante-cinq ans avant le début de cette histoire, place de la Loge, n° 4, dans l’ancienne Ruscino, devenue capitale du Roussillon, aujourd’hui chef-lieu des Pyrénées-Orientales, la célèbre et patriotique Perpignan.</p>
         <p>Le type de Clovis Dardentor n’est pas rare en cette bonne ville de province. Qu’on se figure un homme d’une taille au-dessus de la moyenne, carré des épaules, vigoureux de charpente, le système musculeux dominant le système nerveux, en parfaite eusthénie – c’est-à-dire pour ceux qui ont oublié le grec, en complet équilibre de ses forces – la tête ronde, les cheveux ras poivre et sel, la barbe brune en éventail, le regard vif, la bouche grande, la denture superbe, le pied sûr, la main adroite, bien trempé moralement et physiquement, bon enfant quoique de nature impérieuse, de belle humeur, d’une faconde intarissable, très débrouillard, très expéditif, enfin méridional autant que peut l’être un individu qui n’est pas originaire de cette Provence dans laquelle tout le Midi français se résume et s’absorbe.</p>
         <p>Clovis Dardentor était célibataire, et, vraiment, on ne concevrait pas un tel homme apparié dans les liens conjugaux, ni qu’une quelconque lune de miel se fût jamais levée sur son horizon. Ce n’est pas qu’il se montrât misogyne, car il se plaisait dans la société des femmes, mais il était misogame au plus haut degré. Cet ennemi du mariage ne concevait pas qu’un homme, sain d’esprit et de corps, lancé dans les affaires, eût le temps d’y songer. Le mariage ! il ne l’admettait ni d’inclination, ni de convenance, ni d’intérêt, ni d’argent, ni de raison, ni sous le régime de la communauté, ni sous le régime de la séparation de biens, ni d’aucune des façons usitées en ce bas monde.</p>
@@ -394,18 +369,9 @@
         <p>Il est des capitaines – pas tous – mais il en est, paraît-il, qui, dans un but compréhensible, modifient quelque peu la direction du paquebot juste au commencement du repas – oh ! un léger changement de la barre, rien de plus. Et, en vérité, pourrait-on leur en faire un reproche ? Est-il donc interdit de mettre un navire debout à la lame pendant un demi-quart d’heure seulement ?... Est-il défendu de conniver avec le roulis et le tangage pour réaliser une économie sensible sur les frais de table ?... Non, et si cela se fait, il ne faut pas trop se récrier !</p>
         <p>Du reste, ce remue-ménage ne se prolongea pas outre mesure. Il est vrai, les évincés ne furent point tentés de réintégrer leurs places à la table commune, bien que le paquebot eût repris une allure plus calme et, disons-le, plus honnête.</p>
         <p>Le dîner, réduit à quelques convives de choix, allait donc se continuer dans des conditions excellentes, sans que personne s’inquiétât de ces malheureux chassés de la salle à manger, et groupés sur le pont en des attitudes aussi variées que lamentables.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>4</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel Clovis Dardentor dit des choses dont Jean Taconnat compte faire son profit</head>
+      <div type="chapter">
+        <head>IV. Dans lequel Clovis Dardentor dit des choses dont Jean Taconnat compte faire son profit</head>
         <p>« Que de vides à votre table, mon cher capitaine ! s’écria Clovis Dardentor, alors que le maître d’hôtel surveillait la circulation des plats sans se départir de sa dignité habituelle.</p>
         <p>– Peut-être est-il à craindre que ces vides s’augmentent encore, si la mer devient plus mauvaise... fit observer Marcel Lornans.</p>
         <p>– Mauvaise ?... Une mer d’huile ! répondit le capitaine Bugarach. L’<hi rend="i">Argèlès</hi> est tombé dans un contre-courant où la lame est plus dure !... Cela arrive quelquefois...</p>
@@ -571,18 +537,9 @@
         <p>– Toi et moi... ou bien toi ou moi !...</p>
         <p>– Tu es fou, Jean !...</p>
         <p>– La nuit porte conseil, Marcel, et, de quel conseil elle m’aura favorisé, je te le dirai demain ! »</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>5</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel Patrice continue à trouver que son maître manque parfois de distinction</head>
+      <div type="chapter">
+        <head>V. Dans lequel Patrice continue à trouver que son maître manque parfois de distinction</head>
         <p>Le lendemain, à huit heures, il n’y avait encore personne sur la dunette. L’état de la mer n’était point cependant pour obliger les passagers à se chambrer dans leurs cabines. À peine les courtes houles méditerranéennes imprimaient-elles un faible balancement à l’<hi rend="i">Argèlès</hi>. À cette paisible nuit allait succéder une journée splendide. Si donc les passagers n’avaient point quitté leur cadre au lever du soleil, c’est que la paresse les y retenait, les uns sous l’empire d’un reste de sommeil, les autres rêvassant tout éveillés, ceux-ci comme ceux-là s’abandonnant à ce roulis de l’enfant dans son berceau.</p>
         <p>Il ne s’agit ici que de ces privilégiés qui ne sont jamais malades en mer, même par mauvais temps, et non de ces malchanceux qui le sont toujours, même par beau temps. À ranger dans cette dernière catégorie les Désirandelle et nombre d’autres, qui ne recouvreraient leur aplomb moral et physique qu’au mouillage du paquebot dans le port.</p>
         <p>L’atmosphère, très claire et très pure, s’échauffait de rayons lumineux que réverbérait le léger clapotis à la surface des eaux. L’<hi rend="i">Argèlès</hi> marchait à une vitesse de dix milles à l’heure, cap au sud-sud-est, dans la direction de l’archipel des Baléares. Quelques bâtiments passaient au large à contre-bord, déroulant leur panache de fumée ou arrondissant leur blanche voilure sur le fond un peu brumeux de l’horizon.</p>
@@ -777,18 +734,9 @@
         <p>Vers une heure, Majorque montra les ondulations variées de son littoral et les pittoresques hauteurs qui le dominent.</p>
         <p>L’<hi rend="i">Argèlès</hi> modifia sa direction afin de contourner l’île, et, sous l’abri de la terre, trouva la mer plus calme – ce qui fit sortir nombre de passagers de leurs cabines.</p>
         <p>Le paquebot doubla bientôt le rocher dangereux de la Dragonera, sur lequel se dresse un phare, et il donna dans l’étroite passe de Friou, entre le parement des falaises abruptes. Puis, le cap Calanguera ayant été laissé sur bâbord, l’<hi rend="i">Argèlès</hi> évolua à l’entrée de la baie de Palma, et, longeant le môle, vint s’amarrer au quai, où les curieux se pressaient en foule.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>6</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Où les incidents multiples de cette histoire se poursuivent à travers la ville de Palma</head>
+      <div type="chapter">
+        <head>VI. Où les incidents multiples de cette histoire se poursuivent à travers la ville de Palma</head>
         <p>S’il est une contrée que l’on puisse connaître à fond sans l’avoir jamais visitée, c’est ce magnifique archipel des Baléares. Assurément, il mérite d’attirer les touristes, qui n’auront point à regretter d’avoir passé d’une île à l’autre, lors même que les flots bleus de la Méditerranée auraient été blancs de fureur. Après Majorque, Minorque, après Minorque, ce sauvage îlot de Cabrera, l’îlot des Chèvres. Et, après les Baléares, qui forment le groupe principal, Ivitza, Formentera, Conigliera, avec leurs profondes forêts de pins, connues sous le nom de Pityuses.</p>
         <p>Oui ! si ce qui a été fait pour ces oasis de la mer méditerranéenne l’était pour n’importe quel autre pays des deux continents, il serait inutile de se déranger, de quitter sa maison, de se mettre en route, inutile d’aller <hi rend="i">de visu</hi> admirer les merveilles naturelles recommandées aux voyageurs. Il suffirait de s’enfermer dans une bibliothèque, à la condition que cette bibliothèque possédât l’ouvrage de Son Alteste l’archiduc Louis-Salvator d’Autriche<note place="bottom">Louis-Salvator d’Autriche, neveu de l’empereur, dernier frère de Ferdinand IV, grand-duc de Toscane, et dont le frère alors qu’il naviguait sous le nom de Jean Orth, n’est jamais revenu d’un voyage dans les mers du Sud-Amérique.</note> sur les Baléares, d’en lire le texte si complet et si précis, d’en regarder les gravures en couleurs, les vues, les dessins, les croquis, les plans, les cartes, qui font de cette publication une œuvre sans rivale.</p>
         <p>C’est, en effet, un travail incomparable pour la beauté de l’exécution, pour sa valeur géographique, ethnique, statistique, artistique... Malheureusement, ce chef-d’œuvre de librairie n’est pas dans le commerce.</p>
@@ -892,18 +840,9 @@
         <p>Au-delà du théâtre, les visiteurs prirent une large voie, le paseo de la Rambla, qui, sur une longueur de trois mille mètres, va rejoindre la plaza de Jésus. Le paseo est bordé d’églises, de couvents, entre autres le couvent des religieuses de la Madeleine, qui fait face au quartier de l’infanterie.</p>
         <p>Au fond de la place de Jésus se découpe la porte de ce nom, percée dans la courtine bastionnée, au-dessus de laquelle se tendent les fils télégraphiques. De chaque côté, des maisons toutes coloriées par les bannes des balcons ou les persiennes verdâtres des fenêtres. À gauche, quelques arbres, agrémentant ce joli coin de place ensoleillé de la lumière après-midienne.</p>
         <p>À travers la porte grande ouverte apparaissait la plaine verdoyante, traversée d’une route qui s’abaisse vers le Terreno et conduit au château de Bellver.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>7</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel Clovis Dardentor revient du château de Bellver plus vite qu’il n’y est allé</head>
+      <div type="chapter">
+        <head>VII. Dans lequel Clovis Dardentor revient du château de Bellver plus vite qu’il n’y est allé</head>
         <p>Il était quatre heures et demie. Restait donc assez de temps pour prolonger l’excursion jusqu’à ce castillo, dont le guide avait vanté l’heureuse situation, pour en visiter l’intérieur, pour monter à la plate-forme de sa grande tour, pour prendre une vue du littoral autour de la baie de Palma.</p>
         <p>En effet, une voiture peut faire le trajet en moins de quarante minutes, si son attelage ne flâne pas sur ces chemins montueux. Cela, d’ailleurs, n’est qu’une question de douros, et il serait facile de la résoudre au mieux des intérêts des trois excursionnistes que le capitaine Bugarach n’attendrait pas, s’ils étaient en retard. Le Perpignanais en savait quelque chose.</p>
         <p>Précisément, à cette porte de Jésus, stationnaient une demi-douzaine de galeras, qui ne demandaient qu’à s’élancer sur la route extra-urbaine au galop de leurs fringantes mules. Telle est l’habitude de ces voitures de construction légère, bien roulantes, qui, en palier, en pente comme en rampe, ne connaissent que l’allure du galop.</p>
@@ -1027,18 +966,9 @@
         <p>Quant à cet astronome, avait-il donc passé son temps à observer le soleil sur l’horizon des Baléares ? Personne ne l’eût pu dire. En tout cas, il rapportait divers paquets renfermant des produits comestibles spéciaux à ces îles, des « encimadas », sorte de gâteaux feuilletés dans lesquels le beurre est remplacé par la graisse et qui n’en sont pas moins savoureux, et aussi une demi-douzaine de « tourds », poissons très recherchés des pêcheurs du cap Formentor, et que le maître d’hôtel reçut ordre de faire apprêter avec un soin particulier pour son usage.</p>
         <p>En vérité, ce président de la Société astronomique de Montélimar se servait plus de sa bouche que de ses yeux – du moins depuis le départ de France.</p>
         <p>Vers huit heures et demie furent larguées les amarres, et l’<hi rend="i">Argèlès</hi> quitta le port de Palma, sans que le capitaine Bugarach eût accordé à ses passagers la nuit complète dans la cité majorquaine. Et c’est pourquoi Clovis Dardentor n’entendit point la voix des « serenos » et leurs chants nocturnes, ni les refrains des « habaneras » et des « jotas » nationales, accompagnés des grincements mélodieux de la guitare, dont les patios des maisons baléariennes s’emplissent jusqu’au lever du jour.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>8</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel la famille Désirandelle vient prendre contact avec la famille Elissane</head>
+      <div type="chapter">
+        <head>VIII. Dans lequel la famille Désirandelle vient prendre contact avec la famille Elissane</head>
         <p>« Aujourd’hui, nous retarderons le dîner jusqu’à huit heures, dit M<hi rend="sup">me</hi> Elissane. M. et M<hi rend="sup">me</hi> Désirandelle avec leur fils, et très probablement ce M. Dardentor, cela fera quatre couverts.</p>
         <p>– Oui, madame, répondit la femme de chambre.</p>
         <p>– Nos amis auront grand besoin de se refaire, Manuela, et je crains bien que cette pauvre M<hi rend="sup">me</hi> Désirandelle ait eu à souffrir d’une si pénible traversée. Veille à ce que sa chambre soit prête, car il est possible qu’elle préfère se coucher en arrivant.</p>
@@ -1151,18 +1081,9 @@
         <p>– C’est entendu, Marcel.</p>
         <p>– Mais tu seras gai, Jean ?...</p>
         <p>– Gai comme le plus pinsonnant des pinsons ! »</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>9</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel le délai s’écoule sans résultat ni pour Marcel Lornans ni pour Jean Taconnat</head>
+      <div type="chapter">
+        <head>IX. Dans lequel le délai s’écoule sans résultat ni pour Marcel Lornans ni pour Jean Taconnat</head>
         <p>Un coq n’est pas plus joyeux aux premières lueurs de l’aube que ne l’était Jean Taconnat lorsqu’il sauta hors de son lit en réveillant Marcel Lornans par ses roulades matinales. Quinze jours, il avait quinze jours devant lui pour transformer en leur père adoptif ce brave homme doublé d’un bi-millionnaire.</p>
         <p>Il était certain, d’ailleurs, que Clovis Dardentor ne quitterait pas Oran avant que n’eût été célébré le mariage d’Agathocle Désirandelle et de Louise Elissane. Ne devait-il pas servir de témoin au fils de ses vieux amis de Perpignan ? Or, à tout le moins, de quatre à cinq semaines s’écouleraient jusqu’à l’accomplissement de cette cérémonie nuptiale... si elle s’accomplissait... Mais, à vrai dire, s’accomplirait-elle ?...</p>
         <p>Ce « si » et ce « mais » voltigeaient volontiers à travers le cerveau de Marcel Lornans. Il lui semblait invraisemblable que ce garçon devînt le mari de cette adorable jeune fille, car, si peu qu’il l’eût aperçue sur le pont de l’<hi rend="i">Argèlès</hi>, il trouvait que c’eût été manquer à ses devoirs que de ne pas l’adorer. Que M. et M<hi rend="sup">me</hi> Désirandelle vissent dans leur Agathocle un époux parfaitement convenable pour Louise, cela s’explique. De tout temps, un père et une mère ont été doués d’un « coup de rétine » spécial, comme dirait M. Dardentor, à l’égard de leur progéniture. Mais il était inadmissible que – tôt plutôt que tard – le Perpignanais ne se rendît pas compte de la nullité d’Agathocle et ne reconnût que deux êtres si différents n’étaient point faits l’un pour l’autre.</p>
@@ -1361,18 +1282,9 @@
         <p>– Hé ! hé ! Marcel, cela peut se rencontrer... L’eau... le feu... le combat surtout... Et c’est bien pour me procurer ces occasions que tu as cette idée ?...</p>
         <p>– Uniquement ! répondit Marcel Lornans.</p>
         <p>– Farceur ! » répondit Jean Taconnat.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>10</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel s’offre une première et sérieuse occasion sur le chemin de fer d’Oran à Saïda</head>
+      <div type="chapter">
+        <head>X. Dans lequel s’offre une première et sérieuse occasion sur le chemin de fer d’Oran à Saïda</head>
         <p>Le voyage organisé par la Compagnie des Chemins de fer algériens était de nature à plaire aux touristes oranais. Aussi le public accepta-t-il avec faveur cet itinéraire de six cent cinquante kilomètres à travers la province – soit trois cents en wagon, et trois cent cinquante dans les voitures ou autres modes de transport entre Saïda, Daya, Sebdou, Tlemcen et Sidi-bel-Abbès. Une promenade, on le voit, une simple promenade, que les amateurs pourraient exécuter de mai à octobre, à leur choix, c’est-à-dire pendant les mois de l’année que ne compromettent point les grands troubles atmosphériques.</p>
         <p>D’ailleurs – il importe d’y insister – il ne s’agissait aucunement de ces voyages économiques des Agences Lubin, Cook ou autres, qui vous astreignent à un itinéraire impérieux, vous obligent à visiter au même jour et à la même heure les mêmes villes et les mêmes monuments, programme qui gêne et géhenne la clientèle, et dont on ne saurait s’écarter. Non, et Patrice se trompait à cet égard. Nulle servitude, nulle promiscuité. Les billets étaient valables pour toute la belle saison. On partait quand on voulait, et l’on s’arrêtait à son gré. De cette faculté que chacun avait de ne se mettre en route qu’à sa convenance, il résulta que ce premier départ du 10 mai ne réunit qu’une trentaine d’excursionnistes.</p>
         <p>L’itinéraire avait été convenablement choisi. Des trois sous-préfectures que possède la province d’Oran, Mostaganem, Tlemcen et Mascara, ledit itinéraire traversait les deux dernières, et, des subdivisions militaires – Mostaganem, Saïda, Oran, Mascara, Tlemcen et Sidi-bel-Abbès – en comprenait trois sur cinq. Dans ces limites, la province que borne au nord la Méditerranée, à l’est le département d’Alger, à l’ouest le Maroc, et le Sahara au sud, présente des aspects variés, montagnes d’une altitude supérieure à mille mètres, forêts dont la superficie totale n’est pas inférieure à quatre cent mille hectares, puis des lacs, des cours d’eau, la Macta, l’Habra, le Chélif, le Mekena, le Sig. Si la caravane ne la parcourait pas tout entière, du moins en visiterait-elle les plus beaux territoires.</p>
@@ -1502,18 +1414,9 @@
         <p>– Certes ! s’écria Jean Taconnat. Mais voilà... cette fois, c’est vous qui... et ce n’est pas la même chose ! »</p>
         <p>Et plus bas, à l’oreille de son cousin :</p>
         <p>« Décidément... pas de chance ! »</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>11</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Qui n’est qu’un chapitre préparatoire au chapitre suivant</head>
+      <div type="chapter">
+        <head>XI. Qui n’est qu’un chapitre préparatoire au chapitre suivant</head>
         <p>L’heure était enfin venue où les divers éléments du groupe Dardentor allaient se concréter en caravane. Plus de ligne de chemin de fer à suivre pour aller de Saïda à Sidi-bel-Abbès, plus de transport en wagons traînés par la hennissante locomotive. Les routes carrossables se substitueraient aux lignes railwayennes.</p>
         <p>Il y avait trois cent cinquante kilomètres – soit une centaine de lieues à faire « dans les conditions les plus agréables », répétait M. Dardentor. On irait à cheval, à mulet, à chameau, à dromadaire, en voiture, à la surface de ces territoires exploités par les alfaciers, à travers ces interminables forêts sud-oranaises, qui sur les cartes coloriées, apparaissent comme des corbeilles verdoyantes, baignées par le réseau des oueds de cette montagneuse région.</p>
         <p>Depuis le départ d’Oran, pendant ce parcours de cent soixante-seize kilomètres, il était visible que l’héritier des Désirandelle, figé dans sa nullité indéniable, n’avait point approché le but vers lequel le poussait sa famille. D’autre part, comment M<hi rend="sup">me</hi> Elissane ne se serait-elle pas aperçue que Marcel Lornans recherchait les occasions de rencontrer sa fille, de faire en un mot tout ce que ne faisait pas, bien qu’il en eût le droit, cet imbécile d’Agathocle ?... D’ailleurs, que Louise fût sensible aux attentions du jeune homme, oui ! peut-être... mais rien de plus, M<hi rend="sup">me</hi> Elissane en répondait. Et, en fin de compte, elle n’était pas femme à se déjuger... Jamais Louise, qu’elle sermonnerait au besoin, n’oserait refuser son consentement au mariage projeté.</p>
@@ -1633,18 +1536,9 @@
         <p>Si Jean Taconnat dut passer encore cette journée par profits et pertes, Marcel Lornans, lui, put inscrire un heureux article à son actif. En effet, il avait eu l’occasion de s’entretenir avec Louise Elissane, de la remercier de ses soins...</p>
         <p>« Ah ! monsieur, avait répondu la jeune fille, lorsque je vous ai vu inanimé, respirant à peine, j’ai cru que... Non ! je n’oublierai jamais... »</p>
         <p>Il faut l’avouer, ces quelques mots étaient autrement significatifs que « la belle peur », dont avait parlé M. Dardentor.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>12</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel la caravane quitte Saïda et arrive à Daya</head>
+      <div type="chapter">
+        <head>XII. Dans lequel la caravane quitte Saïda et arrive à Daya</head>
         <p>Le lendemain, une heure avant le départ, le personnel et le matériel de la caravane attendaient à la gare l’arrivée des touristes. L’agent Derivas donnait ses derniers ordres. L’Arabe Moktani finissait de seller son cheval. Trois chars à bancs et un chariot, rangés au fond de la cour, les conducteurs sur le siège, étaient prêts à s’élancer au galop de leurs attelages. Une douzaine de chevaux et de mulets s’ébrouaient et piaffaient, tandis que deux paisibles chameaux, richement harnachés, étaient couchés sur le sol. Cinq indigènes, engagés pour la durée de l’excursion, accroupis en un coin, les bras croisés, immobiles sous leurs burnous blancs, guettaient le signal du chef.</p>
         <p>Avec le groupe Dardentor, représenté par neuf personnes, la caravane devait se composer de seize excursionnistes. Sept voyageurs, partis d’Oran – M. Oriental compris – descendus depuis deux jours à Saïda, allaient accomplir cette tournée circulaire, organisée dans les meilleures conditions. Aucune voyageuse ne s’était jointe à eux. M<hi rend="sup">me</hi> et M<hi rend="sup">lle</hi> Elissane, M<hi rend="sup">me</hi> Désirandelle, seraient seules à représenter le contingent féminin.</p>
         <p>Clovis Dardentor, ses compagnons et ses compagnes que Patrice avait précédés, arrivèrent les premiers à la gare. Peu à peu les autres touristes apparurent, la plupart des Oranais, dont quelques-uns connaissaient M<hi rend="sup">me</hi> Elissane.</p>
@@ -1764,18 +1658,9 @@
         <p>« Taisez-vous, sottes bêtes, qui passez le jour à dormir ! s’écria-t-il.</p>
         <p>Puis, avant de fermer les yeux :</p>
         <p>« Allons, il est écrit que je ne parviendrai pas à devenir le fils de cet excellent homme... ni même son petit-fils ! »</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>13</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel la reconnaissance et le désappointement de Jean Taconnat se mélangent à dose égale</head>
+      <div type="chapter">
+        <head>XIII. Dans lequel la reconnaissance et le désappointement de Jean Taconnat se mélangent à dose égale</head>
         <p>Daya, l’ancienne Sidi-bel-Khéradji des Arabes – maintenant une ville entourée d’un mur crénelé, défendue par quatre bastions – commande cette entrée des hauts plateaux oranais.</p>
         <p>Afin de reposer les touristes des fatigues de ces deux premiers jours, le programme avait prévu vingt-quatre heures de halte dans ce chef-lieu d’annexe. La caravane ne devait donc en repartir que le lendemain.</p>
         <p>Du reste, il n’y aurait eu aucun inconvénient à y prolonger le séjour, car le climat de cette bourgade, à près de quatorze cents mètres d’altitude, au flanc de montagnes boisées, au milieu d’une forêt de pins et de chênes de quatorze mille hectares, jouit d’une salubrité exceptionnelle, qui est à juste titre très recherchée des Européens.</p>
@@ -1891,18 +1776,9 @@
         <p>Cette réponse ne fut comprise que de l’ami Marcel.</p>
         <p>Puis, derrière un massif d’arbres, à quelques pas de la rive, Clovis Dardentor et Jean Taconnat, auxquels Patrice apporta quelques vêtements tirés de leurs valises, se changèrent de la tête aux pieds.</p>
         <p>La caravane se remit en route après une courte halte, et, à huit heures et demie du soir, elle terminait sa longue étape au hameau d’El-Gor.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>14</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel Tlemcen n’est pas visitée avec le soin que mérite cette charmante ville</head>
+      <div type="chapter">
+        <head>XIV. Dans lequel Tlemcen n’est pas visitée avec le soin que mérite cette charmante ville</head>
         <p>Sebdou, un chef-lieu de cercle, une commune mixte de seize cents habitants – à peine quelques douzaines de Français – est située au milieu d’un pays dont les sites sont de toute beauté, le climat d’une salubrité exceptionnelle, la campagne d’une fertilité incomparable. On dit même qu’elle fut la Tafraoua des indigènes !... Et, pourtant, Jean Taconnat s’en « fichait comme un esturgeon d’un cure-dents », ainsi que l’aurait pu dire Clovis Dardentor, au risque de froisser les délicatesses de son fidèle serviteur.</p>
         <p>En effet, ce pauvre Jean n’avait décoléré ni depuis l’arrivée à El-Gor, ni depuis l’arrivée à Sebdou ? Pendant le restant de la journée que la caravane passa dans cette petite bourgade, il ne fut pas possible de le tirer de sa chambre. Marcel Lornans dut l’abandonner à lui-même. Il ne voulait voir ni recevoir personne. Cette reconnaissance qu’il devait, en somme, au courageux Perpignanais, il s’estimait incapable de la ressentir, encore moins de l’exprimer. S’il eût sauté au cou de son sauveur, quelle envie féroce il aurait eue de l’étrangler.</p>
         <p>Il résulte de ceci que seuls M. Dardentor et Marcel Lornans, sans parler de quelques autres touristes, fidèles au programme du voyage, visitèrent consciencieusement Sebdou. Les dames, mal remises encore de leur émotion et de leurs fatigues, avaient pris la résolution de consacrer cette journée au repos – résolution dont fut fort marri Marcel Lornans, car il ne rencontra Louise Elissane qu’au déjeuner et au dîner.</p>
@@ -2057,18 +1933,9 @@
         <p>« Merci, monsieur Dardentor. Voulez-vous me permettre de vous embrasser ?...</p>
         <p>– Parbleu... je ne les ai achetées que pour cela ! Un baiser par babouche !... »</p>
         <p>Et la jeune fille embrassa de bon cœur M. Dardentor.</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>15</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel une des trois conditions imposées par l’article 345 du Code civil est enfin remplie</head>
+      <div type="chapter">
+        <head>XV. Dans lequel une des trois conditions imposées par l’article 345 du Code civil est enfin remplie</head>
         <p>À vrai dire, il était peut-être temps de terminer ce voyage, si convenablement organisé par la Compagnie des Chemins de fer algériens. Bien commencé, il menaçait de mal finir – tout au moins pour le groupe Dardentor.</p>
         <p>En quittant Tlemcen, la caravane était réduite de moitié. Plusieurs des touristes avaient désiré prolonger de quelques jours cette halte dans une ville qui méritait de les retenir. L’agent Derivas demeurant avec eux, M. Dardentor et les siens, sous la conduite du guide Moktani, avaient seuls pris direction vers Sidi-bel-Abbès, dès l’aube du 21 mai.</p>
         <p>Il convient de mentionner, en outre, la présence de M. Eustache Oriental, qui avait hâte sans doute de regagner Oran. Que son intention fût de rédiger un rapport scientifique sur cette excursion, cela ne laisserait pas d’étonner M. Dardentor et les autres. En effet, il ne s’était jamais servi que de sa longue-vue pour relever des positions, et ses autres instruments étaient restés au fond de sa valise.</p>
@@ -2194,18 +2061,9 @@
         <p>– Pas d’objection, répliqua le Perpignanais, car si vous ne consentez pas...</p>
         <p>– Si je ne consens pas ?...</p>
         <p>– Je vous épouse, chère madame, et M<hi rend="sup">lle</hi> Louise deviendra ma fille tout de même ! »</p>
-        <p/>
-        <p/>
-        <div>
-          <div>
-            <head>
-              <num>16</num>
-            </head>
-          </div>
-        </div>
       </div>
-      <div>
-        <head>Dans lequel un dénouement convenable termine ce roman au gré de M. Clovis Dardentor</head>
+      <div type="chapter">
+        <head>XVI. Dans lequel un dénouement convenable termine ce roman au gré de M. Clovis Dardentor</head>
         <p>Le lendemain, à neuf heures du matin, le train de Sidi-bel-Abbès emportait la fraction de cette caravane, qui, après un voyage de quatorze jours, allait revenir à son point de départ.</p>
         <p>Cette fraction comprenait M. Clovis Dardentor, M<hi rend="sup">me</hi> et M<hi rend="sup">lle</hi> Elissane, les époux Désirandelle et leur fils Agathocle, Jean Taconnat et Marcel Lornans, sans compter Patrice, lequel aspirait à reprendre sa vie tranquille et régulière dans la maison de la place de la Loge, à Perpignan.</p>
         <p>Restaient à Sidi-bel-Abbès, par convenance ou nécessité, le guide Moktani qui allait être consciencieusement soigné, après avoir été rémunéré royalement par M. Dardentor, et les indigènes attachés au service de la Compagnie des chemins de fer algériens.</p>

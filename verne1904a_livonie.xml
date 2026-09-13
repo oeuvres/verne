@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-03-14T12:44:41+01:00-->
-<!-- balayage lignes vides -->
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -38,8 +36,8 @@
   <text>
     <body>
       
-      <div>
-        <head>Frontière franchie</head>
+      <div type="chapter">
+        <head>I. Frontière franchie</head>
         <p>Cet homme était seul dans la nuit. Il passait comme un loup entre les blocs de glace entassés par les froids d’un long hiver. Son pantalon doublé, son « khalot », sorte de cafetan rugueux, en poil de vache, sa casquette à oreillettes rabattues, ne le défendaient qu’imparfaitement des atteintes de l’âpre bise. De douloureuses gerçures fendaient ses lèvres et ses mains. La pince de l’onglée lui serrait l’extrémité des doigts. Il allait à travers une obscurité profonde, sous un ciel bas dont les nuages menaçaient de se résoudre en neige, bien que l’on fût déjà aux premiers jours d’avril, mais à la haute latitude du cinquante-huitième degré.</p>
         <p>Il s’obstinait à ne pas s’arrêter. Après une halte, peut-être eût-il été incapable de reprendre sa marche.</p>
         <p>Vers onze heures du soir, cet homme s’arrêta cependant. Ce ne fut pas parce que ses jambes lui refusaient le service, ni parce que le souffle lui manquait, ni parce qu’il succombait à la fatigue. Son énergie physique valait son énergie morale. Et, d’une voix forte, avec un inexprimable accent de patriotisme :</p>
@@ -126,14 +124,10 @@
         <p>L’échelle résista, et il put en atteindre les derniers échelons avec l’agilité d’un gabier sur les enfléchures des haubans.</p>
         <p>Là faisait saillie l’extrémité d’une poutre, une sorte de gros moyeu au bout duquel il était possible de s’achevaler.</p>
         <p>L’homme était hors de l’atteinte des loups, qui bondissaient au pied de l’échelle et s’épuisèrent en affreux hurlements.</p>
-        
-        
-          <div>
-            <head>II</head>
-          </div>
-        </div>
-      <div>
-        <head>Slave pour Slave</head>
+</div>
+<div type="chapter">
+
+<head>II. Slave pour Slave</head>
         <p>Le fugitif était momentanément en sûreté. Des loups ne peuvent grimper comme l’eussent fait des ours, qui sont non moins nombreux que redoutables dans les forêts livoniennes. Mais il ne fallait pas être contraint de descendre avant que les derniers fauves n’eussent disparu, ce qui arriverait certainement au lever du soleil.</p>
         <p>Et, d’abord, pourquoi cette échelle se trouvait-elle disposée en cet endroit, et où s’appuyait son extrémité supérieure ?...</p>
         <p>C’était, on l’a dit, au moyeu d’une roue, sur lequel s’implantaient trois autres échelles de même sorte – en réalité, les quatre ailes d’un moulin élevé sur un petit tertre, non loin de l’endroit où l’Embach s’alimente des eaux du lac. Par une heureuse chance, ce moulin ne fonctionnait pas au moment où le fugitif avait pu s’accrocher à l’une de ses ailes.</p>
@@ -249,14 +243,10 @@
         <p>Aucune trace du fugitif, qui avait certainement péri dans l’écrasement.</p>
         <p>« Mieux eût valu le prendre... dit un des agents.</p>
         <p>– Sans doute, répondit le brigadier Eck, mais, puisque nous n’avons pu l’avoir vivant, tâchons de l’avoir mort ! »</p>
-        
-        
-          <div>
-            <head>III</head>
-          </div>
-        </div>
-      <div>
-        <head>Famille Nicolef</head>
+</div>
+<div type="chapter">
+
+<head>III. Famille Nicolef</head>
         <p>Le lendemain de ce jour, – 12 avril, – trois personnes, qui en attendaient une quatrième, causaient, entre sept et huit heures du soir, dans la salle à manger d’une maison du faubourg de Riga, principalement affecté aux habitants russes. Maison de modeste apparence, construite en briques, ce qui est rare en ce faubourg dont elle occupait l’extrémité, et dans lequel les habitations sont le plus ordinairement bâties en bois. Le poêle, établi dans un évidement du mur de la salle, fonctionnant depuis le matin, entretenait une température de quinze à seize degrés très suffisante, puisque le thermomètre, placé au dehors, se tenait à cinq ou six degrés au-dessus du zéro centigrade.</p>
         <p>La petite lampe à pétrole, abritée de son abat-jour, n’éclairait la table du milieu que d’une assez vague lumière. Un samovar bouillonnait sur une servante à dessus de marbre. Quatre tasses, dressées sur leurs soucoupes, indiquaient que quatre personnes allaient prendre le thé.</p>
         <p>Mais la quatrième n’avait pas encore paru, bien que l’heure fût dépassée de quarante minutes.</p>
@@ -352,14 +342,10 @@
         <p>Et tous les jours, depuis quatre longues années, c’était ainsi : il n’y avait pas de lettre, – du moins de lettre venant de Sibérie, de lettre où Ilka aurait pu mouiller de ses larmes la signature de Wladimir Yanof !...</p>
         <p>« Bonne nuit, père... dit-elle.</p>
         <p>– Bonne nuit, mon enfant. »</p>
-        
-        
-          <div>
-            <head>IV</head>
-          </div>
-        </div>
-      <div>
-        <head>En malle-poste</head>
+</div>
+<div type="chapter">
+
+<head>IV. En malle-poste</head>
         <p>À cette époque, les moyens de transport sur les interminables plaines des provinces Baltiques se réduisaient à deux, à moins que le voyageur ne voulût se contenter de les parcourir comme piéton ou comme cavalier. De chemin de fer il n’y en avait qu’un, celui qui desservait le littoral de l’Esthonie, contournant le golfe de Finlande. Si Revel se trouvait en communication avec Pétersbourg, les deux autres capitales de la Livonie et de la Courlande, Riga et Mittau, n’étaient point reliées par railway à la capitale de l’empire russe.</p>
         <p>Malle-poste ou télègue, il n’existait aucun autre véhicule à la disposition des touristes.</p>
         <p>On connaît la télègue, – un chariot bas, sans clous, sans ferrures, dont les différentes pièces sont jointes par des cordes ; pour banquette, un sac d’écorces, ou tout simplement les bagages, et encore faut-il prendre soin de s’assujettir par une courroie, si l’on veut prévenir les chutes très à craindre sur ces routes cahoteuses.</p>
@@ -516,14 +502,10 @@
         <p>Comme le garçon de banque marchait avec difficulté, le voyageur crut devoir lui offrir de s’appuyer sur son bras. Poch accepta après avoir remercié son compagnon, qui, en somme, était plus sociable qu’on ne l’eût supposé par son attitude depuis le départ de Riga.</p>
         <p>Les deux cents pas furent franchis sans accident, en suivant la grande route au bord de laquelle s’élevait l’auberge.</p>
         <p>Suspendu à la porte d’entrée, brillait le fanal garni de sa lampe à pétrole. À l’angle du mur se dressait une longue perche, dont la destination est d’attirer les regards des passants pendant le jour. À travers les joints des contrevents filtraient les lueurs de l’intérieur et s’échappait aussi un bruit de voix et de verres. Une enseigne grossièrement peinte s’étalait au-dessus de la porte principale, et, à la clarté du fanal, on pouvait y lire ces mots : Kabak de la Croix-Rompue.</p>
-        
-        
-          <div>
-            <head>V</head>
-          </div>
-        </div>
-      <div>
-        <head>Le kabak de la « Croix-Rompue »</head>
+</div>
+<div type="chapter">
+
+<head>V. Le kabak de la « Croix-Rompue »</head>
         <p>Le cabaret de la Croix-Rompue justifiait ce nom par un dessin sang de bœuf figurant, sur un des pignons de l’auberge, – une double croix russe détachée de sa base et gisant à terre. Sans doute, quelque légende relative à une profanation iconoclaste perdue dans la nuit des temps.</p>
         <p>Un certain Kroff, d’origine slave, veuf, âgé de quarante à quarante-cinq ans, tenait ce cabaret, que son père possédait avant lui, en ce coin isolé de la grande route de Riga à Pernau. Dans un rayon de deux ou trois verstes on n’eût pas rencontré de maison plus voisine, ou, pour mieux dire, de hameau plus rapproché. C’était l’isolement dans toute sa plénitude.</p>
         <p>Pour clients, passagers ou habituels, Kroff ne recevait que de rares voyageurs obligés à cette halte, une douzaine de ces paysans qui travaillaient sur les cultures environnantes, et quelques bûcherons ou charbonniers occupés aux bois d’alentour.</p>
@@ -671,14 +653,10 @@
         <p>Kroff retira de la porte les barres de bois qui la maintenaient à l’intérieur. Puis il introduisit la clef dans la serrure, dont le pêne grinça.</p>
         <p>L’obscurité était profonde encore. La pluie avait cessé, mais le vent soufflait en tempête. Des branches brisées jonchaient le chemin.</p>
         <p>Le voyageur assura son capuchon, boutonna sa houppelande, puis, sans prononcer aucune parole, sortit précipitamment, et en quelques pas il eut disparu au milieu de la nuit. Alors, tandis qu’il remontait la grande route vers Pernau, Kroff, replaçant les barres intérieures, refermait la porte du kabak de la Croix-Rompue.</p>
-        
-        
-          <div>
-            <head>VI</head>
-          </div>
-        </div>
-      <div>
-        <head>Slaves et Germains</head>
+</div>
+<div type="chapter">
+
+<head>VI. Slaves et Germains</head>
         <p>Le premier thé, avec tartines au beurre, se servait exactement à neuf heures du matin sur la table de la salle à manger des frères Johausen. L’exactitude « poussée jusqu’à la dixième décimale », comme ils le disaient eux-mêmes, était l’une des qualités principales de ces riches banquiers, dans la vie courante comme dans les affaires, aussi bien quand il s’agissait de recevoir que lorsqu’il s’agissait de payer. Frank Johausen, le frère aîné, tenait surtout à ce que les repas, les visites, le lever, le coucher, fussent réglés militairement, et aussi, sans doute, les sentiments et les plaisirs, tels les articles du grand-livre de sa maison de banque, l’une des plus importantes de Riga.</p>
         <p>Or, ce matin-là, à l’heure dite, le samovar ne se trouva pas en état de fonctionner. Pour quelle raison ? Un peu de paresse dont se reconnut coupable Trankel, le valet de chambre, spécialement chargé de ce service près de son maître.</p>
         <p>Il advint donc que, au moment où M. Frank Johausen et son frère, Mme Johausen et sa fille Margarit Johausen entrèrent, le thé n’était point prêt à être versé dans les tasses rangées sur la table.</p>
@@ -798,14 +776,10 @@
         <p>– Et dites-leur de se rendre à l’instant à la banque Johausen, où je les attendrai. »</p>
         <p>Les agents quittèrent précipitamment le bureau de police, et, quelques instants après, le major Verder se dirigeait vers la maison de banque.</p>
         <p>Et voilà comment, dans le trouble produit par la nouvelle du crime, Trankel ne reçut pas, ce jour-là, les vingt-cinq coups de verge qui lui étaient dus pour manquement dans son service.</p>
-        
-        
-          <div>
-            <head>VII</head>
-          </div>
-        </div>
-      <div>
-        <head>Descente de police</head>
+</div>
+<div type="chapter">
+
+<head>VII. Descente de police</head>
         <p>Deux heures après, une voiture courait à toute vitesse sur la route de Pernau. Ce n’était ni une télègue ni une malle-poste. La berline de voyage de M. Frank Johausen avait été attelée de chevaux de poste qu’elle devait changer aux relais. Si rapidement qu’elle fût conduite, on ne pouvait compter qu’elle arriverait au kabak de la Croix-Rompue avant la nuit. Elle ferait halte au dernier relais, et, le lendemain, dès le point du jour, elle s’arrêterait à l’auberge.</p>
         <p>Dans la berline avaient pris place le banquier, le major Verder, le docteur Hamine pour les constatations, le juge Kerstorf, qui allait être chargé de l’instruction de cette affaire, et le greffier. Deux agents de la police occupaient le siège de derrière.</p>
         <p>Un mot sur le juge Kerstorf, puisque les autres personnages ont déjà figuré dans ce récit et sont connus suffisamment.</p>
@@ -956,20 +930,16 @@
         <p>Un peu avant de remonter dans la berline, M. Johausen, prenant à part le juge, lui dit :</p>
         <p>« Il y a une particularité dont je n’ai encore fait part à personne, monsieur Kerstorf, et il est bon que vous la connaissiez...</p>
         <p>– Laquelle ?</p>
-        <p>– C’est que je possède les numéros des billets volés... Il y en avait cent cinquante de cent roubles chacun<note place="bottom">Les billets russes sont tous émis par l’État, en coupons de 500, 100, 50, 25, 10, 5, 3 et 1 rouble. Ce papier-monnaie représente presque exclusivement l’instrument monétaire de la Russie. Ces billets d’État sont à cours forcé. Leur émission est réglée par un service administratif, ressortissant du ministère des finances, et placé sous la surveillance du Conseil des établissements de crédit de l’Empire, qui s’adjoint deux conseillers pris parmi la noblesse et les négociants de Pétersbourg. Le rouble-papier valait environ 2 fr. 75 à cette époque, et le rouble-argent était calculé à 4 francs. Actuellement, on connaît les réformes récentes des monnaies russes.<space/></note> et dont Poch a fait une liasse...</p>
+        <p>– C’est que je possède les numéros des billets volés... Il y en avait cent cinquante de cent roubles chacun<note place="bottom">Les billets russes sont tous émis par l’État, en coupons de 500, 100, 50, 25, 10, 5, 3 et 1 rouble. Ce papier-monnaie représente presque exclusivement l’instrument monétaire de la Russie. Ces billets d’État sont à cours forcé. Leur émission est réglée par un service administratif, ressortissant du ministère des finances, et placé sous la surveillance du Conseil des établissements de crédit de l’Empire, qui s’adjoint deux conseillers pris parmi la noblesse et les négociants de Pétersbourg. Le rouble-papier valait environ 2 fr. 75 à cette époque, et le rouble-argent était calculé à 4 francs. Actuellement, on connaît les réformes récentes des monnaies russes.</note> et dont Poch a fait une liasse...</p>
         <p>– Ah ! vous avez conservé les numéros ?... répondit le magistrat en réfléchissant.</p>
         <p>– Oui, comme d’habitude, et je vais signaler ces numéros aux différentes banques des Provinces et de Russie.</p>
         <p>– Je pense qu’il n’en faut rien faire, répondit M. Kerstorf. Si vous prenez cette mesure, elle pourra venir à la connaissance du voleur, et il se défiera, il ira à l’étranger, il trouvera toujours un pays où les numéros des billets ne sont pas connus. Laissons-le donc agir en toute liberté et peut-être se fera-t-il prendre ? »</p>
         <p>Quelques instants après, la berline emportait le juge et son greffier, le banquier, le major Verder et le docteur Hamine.</p>
         <p>Le kabak de la Croix-Rompue restait sous la surveillance de deux agents qui ne devaient s’absenter ni nuit ni jour.</p>
-        
-        
-          <div>
-            <head>VIII</head>
-          </div>
-        </div>
-      <div>
-        <head>À l’université de Dorpat</head>
+</div>
+<div type="chapter">
+
+<head>VIII. À l’université de Dorpat</head>
         <p>Ce 16 avril, le lendemain du jour où les magistrats avaient procédé à l’enquête dans l’auberge de la Croix-Rompue, un groupe de cinq à six jeunes étudiants arpentait la cour de l’Université de Dorpat, l’une des principales villes de la Livonie. Ils paraissaient mettre une certaine vivacité aux demandes et réponses qui s’échangeaient entre eux.</p>
         <p>Leurs longues bottes craquaient sur le sable. Ils allaient et venaient, la taille étroitement serrée par leur ceinture de cuir, leur casquette, aux couleurs voyantes, coquettement inclinée sur l’oreille.</p>
         <p>L’un disait :</p>
@@ -1111,14 +1081,10 @@
         <p>– Eh bien, moi, répondit Karl, il y a une chose à laquelle je ne consentirai pas, Jean Nicolef, c’est de me battre avec toi !...</p>
         <p>– Et pourquoi, Karl ?...</p>
         <p>– Parce que l’on ne se bat pas avec le fils d’un assassin !... »</p>
-        
-        
-          <div>
-            <head>IX</head>
-          </div>
-        </div>
-      <div>
-        <head>Dénonciation</head>
+</div>
+<div type="chapter">
+
+<head>IX. Dénonciation</head>
         <p>Voici ce qui s’était passé la journée précédente à Riga, où le juge Kerstorf, le major Verder, le docteur Hamine et M. Frank Johausen étaient rentrés dans la nuit du 15 au 16 avril.</p>
         <p>Douze heures auparavant, dès le matin, s’était répandue la nouvelle du crime commis au kabak de la Croix-Rompue. En même temps que l’assassinat on apprenait le nom de la victime, Poch, le garçon de banque.</p>
         <p>Cet infortuné était très connu de toute la ville. Chaque jour on le rencontrait, lorsque, la sacoche pendue à son épaule, sous le bras le portefeuille retenu à sa ceinture par une chaînette de cuivre, il allait faire les recouvrements pour la maison Johausen frères. Homme bon et serviable, d’heureuse et belle humeur, très aimé et estimé, il n’avait que des amis, pas un ennemi. À la veille d’épouser Zénaïde Parensof, après une si longue attente, grâce à son travail, à sa conduite, à la régularité de son existence, à la sympathie qu’il inspirait, ses économies lui permettaient, en les joignant à celles de sa femme, d’assurer leur avenir. Le surlendemain, les futurs devaient se trouver en présence du pasteur protestant qui célébrerait leur union. Il y aurait une fête de famille à laquelle se joindraient les collègues des autres banques, afin de prendre joyeuse part à la cérémonie nuptiale. On ne doutait pas que MM. Johausen frères voulussent l’honorer de leur présence. Les préparatifs étaient commencés, achevés même. Et voilà que Poch venait de tomber sous les coups d’un assassin, dans un cabaret isolé, sur l’une des routes de la Livonie !... Quel effet produisit cette nouvelle !</p>
@@ -1262,14 +1228,10 @@
         <p>Le soir, lorsque M. Delaporte et lui se rencontrèrent dans la salle, pas un mot ne fut prononcé à ce sujet. D’ailleurs, ils avaient haussé les épaules. Nicolef, un assassin !... Ils refusaient de le croire.</p>
         <p>Mais le télégraphe avait joué. Les brigades de police du territoire étaient prévenues : ordre d’arrêter Dimitri Nicolef si elles le découvraient.</p>
         <p>Et c’est ainsi que cette nouvelle était parvenue à Dorpat, dans l’après-midi du 16. Karl Johausen en avait été instruit un des premiers, et l’on sait par quelle réponse il accueillit Jean Nicolef en présence de ses camarades de l’Université.</p>
-        
-        
-          <div>
-            <head>X</head>
-          </div>
-        </div>
-      <div>
-        <head>Interrogatoire</head>
+</div>
+<div type="chapter">
+
+<head>X. Interrogatoire</head>
         <p>Dimitri Nicolef rentra à Riga dans la nuit du 16 au 17 avril, sans avoir été reconnu en route.</p>
         <p>Dévorée d’inquiétude, Ilka ne dormait pas. Et dans quel état aurait été l’infortunée jeune fille, si elle eût appris quelle accusation pesait sur la tête de son père !...</p>
         <p>En outre, un nouveau sujet d’anxiété, ce soir-là, après le départ de M. Delaporte et du docteur Hamine, une dépêche, venue de Dorpat, annonçait l’arrivée de Jean Nicolef pour le lendemain, sans indiquer la cause de ce brusque départ.</p>
@@ -1487,14 +1449,10 @@
         <p>– Pour la dernière fois, reprit M. Kerstorf, voulez-vous dire où vous êtes allé en sortant de l’auberge ?...</p>
         <p>– Pour la dernière fois, non ! répondit le professeur. Arrêtez-moi, si vous le voulez.</p>
         <p>– Non, monsieur Nicolef, conclut le magistrat, à l’extrême stupéfaction du major Verder. Les charges relevées contre vous sont très graves, mais un homme de votre situation, connu par l’honorabilité de toute son existence, a droit à certains égards... Je ne signerai pas l’ordre d’arrestation... aujourd’hui du moins... Vous êtes libre... Toutefois, tenez-vous à la disposition de la justice. »</p>
-        
-        
-          <div>
-            <head>XI</head>
-          </div>
-        </div>
-      <div>
-        <head>En face de la foule</head>
+</div>
+<div type="chapter">
+
+<head>XI. En face de la foule</head>
         <p>Après cet interrogatoire, le major s’attendait à ce que l’arrestation de Nicolef fût ordonnée, et bien d’autres le pensaient avec lui. En effet, le professeur s’était refusé à indiquer les motifs de son voyage. Sa précipitation à quitter le kabak dès quatre heures du matin, il n’en avait donné aucune raison plausible, sans même vouloir dire où il passa ses trois jours d’absence avant de revenir à Riga. Évidemment ce refus était de nature à augmenter les présomptions à son égard. Pourquoi donc, dans ces conditions, Dimitri Nicolef n’avait-il pas été mis en état d’arrestation ?... Pourquoi était-il libre de regagner son domicile, au lieu d’être conduit à la prison de la forteresse ?... Sans doute, il devrait se tenir à la disposition de la justice... Mais ne profiterait-il pas de cette liberté pour s’enfuir, maintenant qu’il se sentait si directement impliqué dans cette affaire de la Croix-Rompue ?...</p>
         <p>En Russie, comme ailleurs, il n’y a pas à nier l’indépendance de la justice civile. Elle s’y exerce en toute plénitude. Cependant, lorsque l’élément politique apparaît dans une cause quelconque, l’intervention de l’autorité supérieure ne tarde pas à se produire.</p>
         <p>Tel était le cas de Dimitri Nicolef, accusé d’un crime au moment où le parti slave le mettait en avant.</p>
@@ -1613,14 +1571,10 @@
         <p>– Je suis un proscrit que Dimitri Nicolef a voulu sauver au prix de son honneur, et qui vient le sauver au prix de sa vie !...</p>
         <p>– Votre nom ?... demanda le colonel en s’avançant.</p>
         <p>– Wladimir Yanof ! »</p>
-        
-        
-          <div>
-            <head>XII</head>
-          </div>
-        </div>
-      <div>
-        <head>Wladimir Yanof</head>
+</div>
+<div type="chapter">
+
+<head>XII. Wladimir Yanof</head>
         <p>Que l’on veuille bien se reporter de quinze jours en arrière au début de ce drame.</p>
         <p>Un homme vient d’apparaître sur la rive orientale du lac Peipous. Pendant la nuit, il s’est jeté à travers les glaçons dont la surface du lac est hérissée. Une ronde de douaniers, croyant suivre la piste de quelque fraudeur, s’est lancée sur ses traces, et, au moment où il se dissimulait entre les blocs, elle a fait feu sur lui. Cet homme n’a pas été atteint et a pu se réfugier dans une hutte de pêcheurs, où il a passé la journée. Puis, le soir venu, il s’est remis en marche, a dû fuir devant une bande de loups, n’a trouvé d’abri que dans un moulin d’où un brave meunier a favorisé son évasion. Enfin, poursuivi par l’escouade du brigadier Eck, c’est miracle s’il a pu lui échapper en se jetant sur les glaçons en dérive de la Pernova. C’est miracle aussi s’il n’a pas péri dans la débâcle, et s’il lui a été possible de séjourner à Pernau sans y être découvert.</p>
         <p>Wladimir Yanof est le fils de Michel Yanof, un vieil ami de Dimitri Nicolef, qui, avant de mourir, lui a confié toute sa fortune. Ce dépôt sacré de vingt mille roubles en billets d’État devait être remis à Wladimir Yanof, lorsque le proscrit reviendrait dans son pays natal, s’il lui était jamais donné d’y revenir.</p>
@@ -1696,14 +1650,10 @@
         <p>Que l’on juge de l’effet de cette rencontre lorsque la nouvelle en parvint à Riga ! M. et Mme Johausen partirent aussitôt pour aller soigner leur fils mortellement atteint peut-être. Et, à leur retour, avec quelle violence, sans doute, reprendrait la lutte entre ces ennemis acharnés !</p>
         <p>En attendant, cinq jours après, la réponse relative à Wladimir Yanof arrivait de Pétersbourg.</p>
         <p>On avait eu raison de compter sur la générosité de l’Empereur. Grâce entière était accordée au proscrit, échappé des mines de Sibérie, et Wladimir Yanof fut immédiatement remis en liberté.</p>
-        
-        
-          <div>
-            <head>XIII</head>
-          </div>
-        </div>
-      <div>
-        <head>Deuxième perquisition</head>
+</div>
+<div type="chapter">
+
+<head>XIII. Deuxième perquisition</head>
         <p>La grâce de Wladimir Yanof allait produire un effet énorme, non seulement à Riga, mais dans toutes les provinces Baltiques. On voulut voir là une marque plus intentionnelle du gouvernement de se montrer favorable aux tendances antigermaniques. La population ouvrière y applaudit sans réserve. Chez la noblesse et la bourgeoisie, on blâma la clémence impériale qui, après Wladimir, semblait atteindre et couvrir Dimitri Nicolef. Certes, la généreuse conduite du fugitif, se livrant lui-même, méritait cette grâce, et, avec elle, sa complète réhabilitation, le recouvrement de tous ses droits civils dont une condamnation politique l’avait privé. Mais n’était-ce pas aussi comme une protestation contre les inculpations qui visaient le professeur, un citoyen jusqu’alors honorable et honoré, et désigné au choix du parti slave dans les prochaines élections ?...</p>
         <p>C’est ainsi, du moins, que fut jugé l’acte de l’Empereur, et le général Gorko ne cacha point son opinion à ce sujet.</p>
         <p>Wladimir Yanof quitta la forteresse de Riga en compagnie du colonel Raguenof, qui était venu lui communiquer l’ukase du tsar. Il se rendit aussitôt chez Dimitri Nicolef, et, la nouvelle ayant été tenue secrète, Ilka et son père l’apprirent de sa bouche même.</p>
@@ -1837,14 +1787,10 @@
         <p>M. Kerstorf ne l’avait point interrompu, et lorsque le professeur, en terminant, ajouta :</p>
         <p>« Signez-vous l’ordre de mon arrestation ?...</p>
         <p>– Non, monsieur Nicolef », répondit-il.</p>
-        
-        
-          <div>
-            <head>XIV</head>
-          </div>
-        </div>
-      <div>
-        <head>Coups sur coups</head>
+</div>
+<div type="chapter">
+
+<head>XIV. Coups sur coups</head>
         <p>Il est de toute évidence que l’affaire se limitait maintenant au cabaretier Kroff et au professeur Dimitri Nicolef. Le fragment de billet ramassé au coin de l’âtre écartait toute idée que le crime eût été commis par un de ces malfaiteurs dont la police signalait la présence en cette partie de la province livonienne. Après l’assassinat, comment un de ces rôdeurs eût-il pu, sans être surpris, s’introduire dans la chambre du voyageur, y déposer le tisonnier, en admettant que cet ustensile eût servi à forcer le volet de la fenêtre, et jeter dans la cheminée ce billet, brûlé moins l’angle recueilli sous les cendres ?... Comment Dimitri Nicolef, d’une part, Kroff, de l’autre, n’auraient-ils rien entendu, si profond qu’eût été leur sommeil ?... Et comment, enfin, l’assassin aurait-il pu avoir la pensée de faire retomber la responsabilité du crime sur ce voyageur ?... Le meurtre et le vol accomplis, il se fût enfui au plus vite, et, le jour venu, il eût été loin du kabak de la Croix-Rompue.</p>
         <p>Cela était le bon sens même. L’instruction devait donc se restreindre à ces deux hommes, de situation sociale si différente, et se prononcer entre eux.</p>
         <p>Et cependant, ce qui ne laissa pas d’étonner les esprits les plus calmes, après cette dernière perquisition faite à l’auberge, il n’y eut mandat d’arrestation ni contre l’un ni contre l’autre.</p>
@@ -1972,14 +1918,10 @@
         <p>Des paysans vinrent avec une civière, et Nicolef fut rapporté à sa maison, où le docteur Hamine, immédiatement appelé, ne put que constater à quelle cause était due la mort.</p>
         <p>Dimitri Nicolef s’était frappé et comme avait été frappé Poch, – un coup au cœur, et le couteau avait laissé autour de la blessure une empreinte semblable à celle que portait le cadavre du garçon de banque.</p>
         <p>Le misérable, se sentant perdu, s’était suicidé pour échapper au châtiment de son crime !</p>
-        
-        
-          <div>
-            <head>XV</head>
-          </div>
-        </div>
-      <div>
-        <head>Sur une tombe</head>
+</div>
+<div type="chapter">
+
+<head>XV. Sur une tombe</head>
         <p>Il était enfin terminé, ce drame judiciaire qui avait passionné la population des provinces Baltiques et surexcité la lutte des partis à la veille de se mesurer sur le terrain électoral. Encore une fois, après la mort violente de l’homme qui représentait l’élément slave, les Allemands allaient l’emporter. Toutefois, l’antagonisme devait reprendre tôt ou tard, et la russification finirait par s’opérer sous l’influence du gouvernement.</p>
         <p>Et non seulement Dimitri Nicolef s’était suicidé, mais ce suicide, accompli dans des circonstances terribles, alors que l’incident des billets volés venait de se produire, ne permettait plus de mettre sa culpabilité en doute. Ainsi, lorsqu’il avait quitté Riga, au reçu de la lettre de Wladimir Yanof, il ne possédait plus le dépôt à lui confié. Se rendait-il près du fils de son ami pour lui dire la vérité, ou son projet était-il de s’enfuir après cet abus de confiance qu’il ne pouvait réparer ?... Il eût été difficile d’être fixé sur ce point. Ce que l’on doit croire, c’est que Nicolef avait été surpris par l’arrivée inattendue du proscrit échappé des mines de Sibérie ; c’est qu’il se sentait saisi dans un engrenage où allait passer tout son honneur ; c’est que, entre Wladimir Yanof, auquel il ne pouvait rendre l’héritage de son père, et MM. Johausen, qu’il serait dans l’impossibilité de rembourser quelques semaines plus tard, il ne voyait aucun moyen de salut... Et alors, le garçon de banque Poch s’était rencontré sur sa route, et le produit du vol lui avait permis de porter à Pernau la somme qu’il avait dissipée. C’était la première dette éteinte, mais à quel prix ? Au prix d’un double crime, un assassinat et un vol !</p>
         <p>Puis, lorsque tout fut découvert, quand la lumière s’était faite sur cette affaire si obscure jusque-là, lorsque, grâce à leurs numéros, les billets présentés par Wladimir Yanof avaient été reconnus pour être ceux que renfermait le portefeuille de Poch, Dimitri Nicolef, le vrai coupable, Dimitri Nicolef, le meurtrier, s’était frappé du couteau même dont il avait frappé sa victime, d’un seul coup, au cœur.</p>
@@ -2090,14 +2032,10 @@
         <p>– La fille d’un innocent, et qui n’est même pas coupable de s’être donné la mort !... répondit le pope en attestant le ciel.</p>
         <p>– Et l’assassin ?... demanda Jean, tremblant d’émotion.</p>
         <p>– C’est l’aubergiste de la Croix-Rompue. C’est Kroff ! »</p>
-        
-        
-          <div>
-            <head>XVI</head>
-          </div>
-        </div>
-      <div>
-        <head>Confession</head>
+</div>
+<div type="chapter">
+
+<head>XVI. Confession</head>
         <p>La veille de ce jour, l’aubergiste Kroff, frappé d’une congestion pulmonaire, avait succombé en quelques heures.</p>
         <p>Avant de mourir, torturé par les remords depuis cinq mois, il avait fait appeler le pope Axief, qui était venu entendre sa confession.</p>
         <p>Cette confession, le pope l’avait écrite, et Kroff l’avait signée de son nom. Après sa mort, elle devrait être rendue publique.</p>

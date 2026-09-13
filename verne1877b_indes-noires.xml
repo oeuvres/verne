@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,8 +26,7 @@
   <text>
     <body>
       <div type="chapter">
-        <head>Chapitre Premier
-<lb/>Deux lettres contradictoires </head>
+        <head>I. Deux lettres contradictoires</head>
         <p rend="center noindent i">« Mr. J. R. Starr, ingénieur,</p>
         <p rend="center noindent i">30, Canongate.</p>
         <p rend="center noindent i">Édimbourg. </p>
@@ -90,8 +89,7 @@
         <p>Et pas de signature.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre II
-<lb/>Chemin faisant </head>
+        <head>II. Chemin faisant</head>
         <p>Le cours des idées de James Starr fut brusquement arrêté, lorsqu’il eut lu cette seconde lettre, contradictoire de la première.</p>
         <p>« Qu’est-ce que cela veut dire ? » se demanda-t-il.</p>
         <p>James Starr reprit l’enveloppe à demi déchirée. Elle portait, ainsi que l’autre, le timbre du bureau de poste d’Aberfoyle. Elle était donc partie de ce même point du comté de Stirling. Ce n’était pas le vieux mineur qui l’avait écrite, – évidemment. Mais, non moins évidemment, l’auteur de cette seconde lettre connaissait le secret de l’overman, puisqu’il contremandait formellement l’invitation faite à l’ingénieur de se rendre au puits Yarow.</p>
@@ -119,8 +117,7 @@
         <p>C’était Harry, le fils de Simon Ford.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre III
-<lb/>Le sous-sol du Royaume-Uni </head>
+        <head>III. Le sous-sol du Royaume-Uni</head>
         <p>Il est convenable, pour l’intelligence de ce récit, de rappeler en quelques mots quelle est l’origine de la houille.</p>
         <p>Pendant les époques géologiques, lorsque le sphéroïde terrestre était encore en voie de formation, une épaisse atmosphère l’entourait, toute saturée de vapeurs d’eau et largement imprégnée d’acide carbonique. Peu à peu, ces vapeurs se condensèrent en pluies diluviennes, qui tombèrent comme si elles eussent été projetées du goulot de quelques millions de milliards de bouteilles d’eau de Seltz. C’était, en effet, un liquide chargé d’acide carbonique qui se déversait torrentiellement sur un sol pâteux, mal consolidé, sujet aux déformations brusques ou lentes, à la fois maintenu dans cet état semi-fluide autant par les feux du soleil que par les feux de la masse intérieure. C’est que la chaleur interne n’était pas encore emmagasinée au centre du globe. La croûte terrestre, peu épaisse et incomplètement durcie, la laissait s’épancher à travers ses pores. De là, une phénoménale végétation – telle, sans doute, qu’elle se produit peut-être à la surface des planètes inférieures, Vénus ou Mercure, plus rapprochées que la terre de l’astre radieux.</p>
         <p>Le sol des continents, encore mal fixé, se couvrit donc de forêts immenses ; l’acide carbonique, si propre au développement du règne végétal, abondait. Aussi les végétaux se développaient-ils sous la forme arborescente. Il n’y avait pas une seule plante herbacée. C’étaient partout d’énormes massifs d’arbres, sans fleurs, sans fruits, d’un aspect monotone, qui n’auraient pu suffire à la nourriture d’aucun être vivant. La terre n’était pas prête encore pour l’apparition du règne animal.</p>
@@ -186,8 +183,7 @@
         <p>Dix minutes après, tous deux avaient quitté la ville.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre IV
-<lb/>La fosse Dochart </head>
+        <head>IV. La fosse Dochart</head>
         <p>Harry Ford était un grand garçon de vingt-cinq ans, vigoureux, bien découplé. Sa physionomie un peu sérieuse, son attitude habituellement pensive, l’avaient, dès son enfance, fait remarquer entre ses camarades de la mine. Ses traits réguliers, ses yeux profonds et doux, ses cheveux assez rudes, plutôt châtains que blonds, le charme naturel de sa personne, tout concordait à en faire le type accompli du Lowlander, c’est-à-dire un superbe spécimen de l’Écossais de la plaine. Endurci presque dès son bas âge au travail de la houillère, c’était, en même temps qu’un solide compagnon, une brave et bonne nature. Guidé par son père, poussé par ses propres instincts, il avait travaillé, il s’était instruit de bonne heure, et, à un âge où l’on n’est guère qu’un apprenti, il était arrivé à se faire quelqu’un – l’un des premiers de sa condition –, dans un pays qui compte peu d’ignorants, car il fait tout pour supprimer l’ignorance. Si, pendant les premières années de son adolescence, le pic ne quitta pas la main d’Harry Ford, néanmoins le jeune mineur ne tarda pas à acquérir les connaissances suffisantes pour s’élever dans la hiérarchie de la houillère, et il aurait certainement succédé à son père en qualité d’overman de la fosse Dochart, si la mine n’eût pas été abandonnée.</p>
         <p>James Starr était un bon marcheur encore, et, cependant, il n’aurait pas suivi facilement son guide, si celui-ci n’eût modéré son pas.</p>
         <p>La pluie tombait alors avec moins de violence. Les larges gouttes se pulvérisaient avant d’atteindre le sol. C’étaient plutôt des rafales humides, qui couraient dans l’air, soulevées par une fraîche brise.</p>
@@ -309,8 +305,7 @@
         <p>Mais, derrière et devant lui, tout n’était que silence et ténèbres.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre V
-<lb/>La famille Ford </head>
+        <head>V. La famille Ford</head>
         <p>Dix minutes après, James Starr et Harry sortaient enfin de la galerie principale.</p>
         <p>Le jeune mineur et son compagnon étaient arrivés au fond d’une clairière – si toutefois ce mot peut servir à désigner une vaste et obscure excavation. Cette excavation, cependant, n’était pas absolument dépourvue de jour. Quelques rayons lui arrivaient par l’orifice d’un puits abandonné, qui avait été foncé dans les étages supérieurs. C’était par ce conduit que s’établissait le courant d’aération de la fosse Dochart. Grâce à sa moindre densité, l’air chaud de l’intérieur était entraîné vers le puits Yarow.</p>
         <p>Donc, un peu d’air et de clarté pénétrait à la fois à travers l’épaisse voûte de schiste jusqu’à la clairière.</p>
@@ -415,8 +410,7 @@
         <p>– Un bon souper, femme, tu entends, s’écria Simon Ford. Nous aurons faim à notre retour, et nous lui ferons honneur ! »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre VI
-<lb/>Quelques phénomènes inexplicables </head>
+        <head>VI. Quelques phénomènes inexplicables</head>
         <p>On sait ce que sont les croyances superstitieuses dans les hautes et basses terres de l’Écosse. En certains clans, les tenanciers du laird, réunis pour la veillée, aiment à redire les contes empruntés au répertoire de la mythologie hyperboréenne. L’instruction, quoique largement et libéralement répandue dans le pays, n’a pas pu réduire encore à l’état de fictions ces légendes, qui semblent inhérentes au sol même de la vieille Calédonie. C’est encore le pays des esprits et des revenants, des lutins et des fées. Là apparaissent toujours le génie malfaisant qui ne s’éloigne que moyennant finances, le « Seer » des Highlanders, qui, par un don de seconde vue, prédit les morts prochaines, le « May Moullach », qui se montre sous la forme d’une jeune fille aux bras velus et prévient les familles des malheurs dont elles sont menacées, la fée « Branshie », qui annonce les événements funestes, les « Brawnies », auxquels est confiée la garde du mobilier domestique, l’« Urisk », qui fréquente plus particulièrement les gorges sauvages du lac Katrine – et tant d’autres.</p>
         <p>Il va de soi que la population des houillères écossaises devait fournir son contingent de légendes et de fables à ce répertoire mythologique. Si les montagnes des Hautes-Terres sont peuplées d’êtres chimériques, bons ou mauvais, à plus forte raison les sombres houillères devaient-elles être hantées jusque dans leurs dernières profondeurs. Qui fait trembler le gisement pendant les nuits d’orage, qui met sur la trace du filon encore inexploité, qui allume le grisou et préside aux explosions terribles, sinon quelque génie de la mine ? C’était, du moins, l’opinion communément répandue parmi ces superstitieux Écossais. En vérité, la plupart des mineurs croyaient volontiers au fantastique, quand il ne s’agissait que de phénomènes purement physiques, et on eût perdu son temps à vouloir les désabuser. Où la crédulité se fût-elle développée plus librement qu’au fond de ces abîmes ?</p>
         <p>Or, les houillères d’Aberfoyle, précisément parce qu’elles étaient exploitées dans le pays des légendes, devaient se prêter plus naturellement à tous les incidents du surnaturel.</p>
@@ -454,8 +448,7 @@
         <p>Harry voyait donc là une tentative directe contre lui et son père, ou même contre l’ingénieur. Après ce qu’on sait, peut-être conviendra-t-on qu’il était fondé à le croire.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre VII
-<lb/>Une expérience de Simon Ford </head>
+        <head>VII. Une expérience de Simon Ford</head>
         <p>Midi sonnait à la vieille horloge de bois de la salle, lorsque James Starr et ses deux compagnons quittèrent le cottage.</p>
         <p>La lumière, pénétrant à travers le puits d’aération, éclairait vaguement la clairière. La lampe d’Harry eût été inutile alors, mais elle ne devait pas tarder à servir, car c’était vers l’extrémité même de la fosse Dochart que le vieil overman allait conduire l’ingénieur.</p>
         <p>Après avoir suivi sur un espace de deux milles la galerie principale, les trois explorateurs – on verra qu’il s’agissait d’une exploration – arrivèrent à l’orifice d’un étroit tunnel. C’était comme une contre-nef dont la voûte reposait sur un boisage, tapissé d’une mousse blanchâtre. Elle suivait à peu près la ligne que traçait, à quinze cents pieds au-dessus, le haut cours du Forth.</p>
@@ -551,8 +544,7 @@
         <p>« Hurrah ! hurrah ! hurrah ! monsieur James ! Le grisou brûle ! Donc, le filon est là ! »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre VIII
-<lb/>Un coup de dynamite </head>
+        <head>VIII. Un coup de dynamite</head>
         <p>L’expérience annoncée par le vieil overman avait réussi. L’hydrogène protocarboné, on le sait, ne se développe que dans les gisements houillers. Donc, l’existence d’un filon du précieux combustible ne pouvait être mise en doute. Quelles étaient son importance et sa qualité ? on les déterminerait plus tard.</p>
         <p>Telles furent les conséquences que l’ingénieur déduisit du phénomène qu’il venait d’observer. Elles étaient en tout conformes à celles qu’en avait déjà tirées Simon Ford.</p>
         <p>« Oui, se dit James Starr, derrière cette paroi s’étend une couche carbonifère que nos sondages n’ont pas su atteindre ! Cela est fâcheux, puisque tout l’outillage de la mine abandonnée depuis dix ans, est maintenant à refaire ! N’importe ! Nous avons retrouvé la veine que l’on croyait épuisée, et, cette fois, nous l’exploiterons jusqu’au bout !</p>
@@ -600,8 +592,7 @@
         <p>« Venez, monsieur Starr ! Venez, mon père ! La route est libre dans la Nouvelle-Aberfoyle. »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre IX
-<lb/>La Nouvelle-Aberfoyle </head>
+        <head>IX. La Nouvelle-Aberfoyle</head>
         <p>Si, par quelque puissance surhumaine, des ingénieurs eussent pu enlever d’un bloc et sur une épaisseur de mille pieds toute cette portion de la croûte terrestre qui supporte cet ensemble de lacs, de fleuves, de golfes et les territoires riverains des comtés de Stirling, de Dumbarton et de Renfrew, ils auraient trouvé, sous cet énorme couvercle, une excavation immense, et telle qu’il n’en existait qu’une autre au monde qui pût lui être comparée – la célèbre grotte de Mammouth, dans le Kentucky.</p>
         <p>Cette excavation se composait de plusieurs centaines d’alvéoles, de toutes formes et de toutes grandeurs. On eût dit une ruche, avec ses nombreux étages de cellules, capricieusement disposées, mais une ruche construite sur une vaste échelle, et qui, au lieu d’abeilles, eût suffi à loger tous les ichthyosaures, les mégathériums, et les ptérodactyles de l’époque géologique !</p>
         <p>Un labyrinthe de galeries, les unes plus élevées que les plus hautes voûtes des cathédrales, les autres semblables à des contre-nefs, rétrécies et tortueuses, celles-ci suivant la ligne horizontale, celles-là remontant ou descendant obliquement en toutes directions, réunissaient ces cavités et laissaient libre communication entre elles.</p>
@@ -615,8 +606,7 @@
         <p>Quoiqu’il fût impropre à toute production végétale, ce sous-sol eût, cependant, pu servir de demeure à toute une population. Et qui sait si, dans ces milieux à température constante, au fond de ces houillères d’Aberfoyle, aussi bien que dans celles de Newcastle, d’Alloa ou de Cardiff, lorsque leurs gisements seront épuisés, qui sait si la classe pauvre du Royaume-Uni ne trouvera pas refuge quelque jour ?</p>
       </div>
       <div type="chapter">
-        <head>Chapitre X
-<lb/>Aller et retour </head>
+        <head>X. Aller et retour</head>
         <p>À la voix d’Harry, James Starr, Madge et Simon Ford s’étaient introduits par l’étroit orifice qui mettait en communication la fosse Dochart avec la nouvelle houillère.</p>
         <p>Ils se trouvaient alors à la naissance d’une galerie assez large. On aurait pu croire qu’elle avait été percée de main d’homme, que le pic et la pioche l’avaient évidée pour l’exploitation d’un nouveau gisement. Les explorateurs devaient se demander si, par un singulier hasard, ils n’avaient pas été transportés dans quelque ancienne houillère, dont les plus vieux mineurs du comté n’auraient jamais connu l’existence.</p>
         <p>Non ! C’étaient les couches géologiques qui avaient « épargné » cette galerie, à l’époque où se faisait le tassement des terrains secondaires. Peut-être quelque torrent l’avait-il parcourue autrefois, lorsque les eaux supérieures allaient se mélanger aux végétaux enlisés ; mais, maintenant, elle était aussi sèche que si elle eût été forée, quelque mille pieds plus bas, dans l’étage des roches granitoïdes. En même temps, l’air y circulait avec aisance – ce qui indiquait que certains « éventoirs » naturels la mettaient en communication avec l’atmosphère extérieure.</p>
@@ -690,8 +680,7 @@
         <p>Quoi qu’il en soit, James Starr et ses compagnons étaient emprisonnés dans la Nouvelle-Aberfoyle !</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XI
-<lb/>Les Dames de feu </head>
+        <head>XI. Les Dames de feu</head>
         <p>Huit jours après ces événements, les amis de James Starr étaient fort inquiets. L’ingénieur avait disparu sans qu’aucun motif pût être allégué à cette disparition. On avait appris, en interrogeant son domestique, qu’il s’était embarqué à Granton-pier, et on savait par le capitaine du steam-boat <hi rend="i">Prince de Galles</hi> qu’il avait débarqué à Stirling. Mais, depuis ce moment, plus de traces de James Starr. La lettre de Simon Ford lui avait recommandé le secret, et il n’avait rien dit de son départ pour les houillères d’Aberfoyle.</p>
         <p>Donc, à Édimbourg, il ne fut plus question que de l’absence inexplicable de l’ingénieur. Sir W. Elphiston, le président de « Royal Institution », communiqua à ses collègues la lettre que lui avait adressée James Starr, en s’excusant de ne pouvoir assister à la prochaine séance de la Société. Deux ou trois autres personnes produisirent aussi des lettres analogues. Mais, si ces documents prouvaient que James Starr avait quitté Édimbourg – ce que l’on savait de reste –, rien n’indiquait ce qu’il était devenu. Or, de la part d’un tel homme, cette absence, en dehors de ses habitudes, devait surprendre d’abord, inquiéter ensuite, puisqu’elle se prolongeait.</p>
         <p>Aucun des amis de l’ingénieur n’aurait pu supposer qu’il se fût rendu aux houillères d’Aberfoyle. On savait qu’il n’eût point aimé à revoir l’ancien théâtre de ses travaux. Il n’y avait jamais remis les pieds, depuis le jour où la dernière benne était remontée à la surface du sol. Cependant, puisque le steam-boat l’avait déposé au débarcadère de Stirling, on fit quelques recherches de ce côté.</p>
@@ -757,8 +746,7 @@
         <p>Et maintenant, du <hi rend="i">Motala</hi>, il ne restait plus que de rares épaves, dont le ressac achevait de briser les débris sur les roches du littoral.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XII
-<lb/>Les exploits de Jack Ryan </head>
+        <head>XII. Les exploits de Jack Ryan</head>
         <p>Jack Ryan et trois de ses compagnons, blessés comme lui, avaient été transportés dans une des chambres de la ferme de Melrose, où des soins leur furent immédiatement prodigués.</p>
         <p>Jack Ryan avait été le plus maltraité, car, au moment où, la corde aux reins, il s’était jeté à la mer, les lames furieuses l’avaient rudement roulé sur les récifs. Peu s’en était fallu, même, que ses camarades ne l’eussent rapporté sans vie sur le rivage.</p>
         <p>Le brave garçon fut donc cloué au lit pour quelques jours, ce dont il enragea fort. Cependant, lorsqu’on lui eut permis de chanter autant qu’il le voudrait, il prit son mal en patience, et la ferme de Melrose retentit, à toute heure, des joyeux éclats de sa voix. Mais Jack Ryan, dans cette aventure, ne puisa qu’un plus vif sentiment de crainte à l’égard de ces brawnies et autres lutins qui s’amusent à tracasser le pauvre monde, et ce fut eux qu’il rendit responsables de la catastrophe du <hi rend="i">Motala</hi>. On fût mal venu à lui soutenir que les Dames de feu n’existaient pas, et que cette flamme, si soudainement projetée entre les ruines, n’était due qu’à un phénomène physique. Aucun raisonnement ne l’eût convaincu. Ses compagnons étaient encore plus obstinés que lui dans leur crédulité. À les entendre, une des Dames de feu avait méchamment attiré le <hi rend="i">Motala</hi> à la côte. Quant à vouloir l’en punir, autant mettre l’ouragan à l’amende ! Les magistrats pouvaient décréter toutes poursuites qui leur conviendraient. On n’emprisonne pas une flamme, on n’enchaîne pas un être impalpable. Et, s’il faut le dire, les recherches qui furent ultérieurement faites, semblèrent donner raison – au moins en apparence – à cette façon superstitieuse d’expliquer les choses.</p>
@@ -866,8 +854,7 @@
         <p>Ainsi donc, pendant qu’ils exploraient la vaste crypte, toute communication avait été volontairement fermée par une main ennemie entre l’ancienne et la Nouvelle-Aberfoyle !</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XIII
-<lb/>Coal-city </head>
+        <head>XIII. Coal-city</head>
         <p>Trois ans après les événements qui viennent d’être racontés, les Guides Joanne ou Murray recommandaient, « comme grande attraction », aux nombreux touristes qui parcouraient le comté de Stirling, une visite de quelques heures aux houillères de la Nouvelle-Aberfoyle.</p>
         <p>Aucune mine, en n’importe quel pays du nouveau ou de l’ancien monde, ne présentait un plus curieux aspect.</p>
         <p>Tout d’abord, le visiteur était transporté sans danger ni fatigue jusqu’au sol de l’exploitation, à quinze cents pieds au-dessous de la surface du comté.</p>
@@ -916,8 +903,7 @@
         <p>Enfin, de tout cela il résultait, au dire de Simon Ford, que Coal-city pouvait déjà se poser en rivale de la capitale de l’Écosse, de cette cité soumise aux froids de l’hiver, aux chaleurs de l’été, aux intempéries d’un climat détestable, et qui, dans une atmosphère encrassée de la fumée de ses usines, justifiait trop justement son surnom de « Vieille-Enfumée »<hi rend="b"><note place="bottom">Auld-Reeky, surnom donné au vieil Édimbourg.</note></hi>.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XIV
-<lb/>Suspendu à un fil </head>
+        <head>XIV. Suspendu à un fil</head>
         <p>Dans de telles conditions, ses plus chers désirs satisfaits, la famille de Simon Ford était heureuse. Cependant, on eût pu observer qu’Harry, déjà d’un caractère un peu sombre, était de plus en plus « en dedans », comme disait Madge. Jack Ryan, malgré sa bonne humeur si communicative, ne parvenait pas à le mettre « en dehors ».</p>
         <p>Un dimanche – c’était au mois de juin –, les deux amis se promenaient sur les bords du lac Malcolm. Coal-city chômait. À l’extérieur, le temps était orageux. De violentes pluies faisaient sortir de la terre une buée chaude. On ne respirait pas à la surface du comté.</p>
         <p>Au contraire, à Coal-city, calme absolu, température douce, ni pluie ni vent. Rien n’y transpirait de la lutte des éléments du dehors. Aussi, un certain nombre de promeneurs de Stirling et des environs étaient-ils venus chercher un peu de fraîcheur dans les profondeurs de la houillère.</p>
@@ -1020,8 +1006,7 @@
         <p>La réaction se fit alors, et Harry tomba sans connaissance entre les bras de ses camarades.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XV
-<lb/>Nell au cottage </head>
+        <head>XV. Nell au cottage</head>
         <p>Deux heures après, Harry, qui n’avait pas aussitôt recouvré ses sens, et l’enfant, dont la faiblesse était extrême, arrivaient au cottage avec l’aide de Jack Ryan et de ses compagnons.</p>
         <p>Là, le récit de ces événements fut fait au vieil overman, et Madge prodigua ses soins à la pauvre créature, que son fils venait de sauver.</p>
         <p>Harry avait cru retirer un enfant de l’abîme… C’était une jeune fille de quinze à seize ans, au plus. Son regard vague et plein d’étonnement, sa figure maigre, allongée par la souffrance, son teint de blonde que la lumière ne semblait avoir jamais baigné, sa taille frêle et petite, tout en faisait un être à la fois bizarre et charmant. Jack Ryan, avec quelque raison, la compara à un farfadet d’aspect un peu surnaturel. Était-ce dû aux circonstances particulières, au milieu exceptionnel dans lequel cette jeune fille avait peut-être vécu jusqu’alors, mais elle paraissait n’appartenir qu’à demi à l’humanité. Sa physionomie était étrange. Ses yeux, que l’éclat des lampes du cottage semblait fatiguer, regardaient confusément, comme si tout eût été nouveau pour eux.</p>
@@ -1117,8 +1102,7 @@
         <p>« Ceux qui t’ont sauvée, Nell, ajouta-t-il d’une voix émue, te devaient déjà la vie, et crois-tu qu’ils puissent jamais l’oublier ? »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XVI
-<lb/>Sur l’échelle oscillante </head>
+        <head>XVI. Sur l’échelle oscillante</head>
         <p>Cependant, les travaux d’exploitation de la Nouvelle-Aberfoyle étaient conduits avec grand profit. Il va sans dire que l’ingénieur James Starr et Simon Ford – les premiers découvreurs de ce riche bassin carbonifère – participaient largement à ces bénéfices. Harry devenait donc un parti. Mais il ne songeait guère à quitter le cottage. Il avait remplacé son père dans les fonctions d’overman et surveillait assidûment tout ce monde de mineurs.</p>
         <p>Jack Ryan était fier et ravi de toute cette fortune qui arrivait à son camarade. Lui aussi, il faisait bien ses affaires. Tous deux se voyaient souvent, soit au cottage, soit dans les travaux du fond. Jack Ryan n’était pas sans avoir observé les sentiments qu’éprouvait Harry pour la jeune fille. Harry n’avouait pas, mais Jack riait à belles dents, lorsque son camarade secouait la tête en signe de dénégation.</p>
         <p>Il faut dire que l’un des plus vifs désirs de Jack Ryan était d’accompagner Nell, lorsqu’elle ferait sa première visite à la surface du comté. Il voulait voir ses étonnements, son admiration devant cette nature encore inconnue d’elle. Il espérait bien qu’Harry l’emmènerait pendant cette excursion. Jusqu’ici, cependant, celui-ci ne lui en avait pas fait la proposition – ce qui ne laissait pas de l’inquiéter un peu.</p>
@@ -1196,8 +1180,7 @@
         <p>« Elle et lui ! Jamais ! »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XVII
-<lb/>Un lever de soleil </head>
+        <head>XVII. Un lever de soleil</head>
         <p>Un mois après – c’était le soir du 20 août –, Simon Ford et Madge saluaient de leurs meilleurs « wishes » quatre touristes qui s’apprêtaient à quitter le cottage.</p>
         <p>James Starr, Harry et Jack Ryan allaient conduire Nell sur un sol que son pied n’avait jamais foulé, dans cet éclatant milieu, dont ses regards ne connaissaient pas encore la lumière.</p>
         <p>L’excursion devait se prolonger pendant deux jours. James Starr, d’accord avec Harry, voulait qu’après ces quarante-huit heures passées au-dehors, la jeune fille eût vu tout ce qu’elle n’avait pu voir dans la sombre houillère, c’est-à-dire les divers aspects du globe, comme si un panorama mouvant de villes, de plaines, de montagnes, de fleuves, de lacs, de golfes, de mers, se fût déroulé devant ses yeux.</p>
@@ -1310,8 +1293,7 @@
         <p>Cette jeune fille, dont la vie s’était écoulée jusqu’alors dans les entrailles du massif terrestre, avait enfin contemplé ce qui constitue presque tout l’univers, tel que l’ont fait le Créateur et l’homme. Ses regards, après avoir plané sur la ville et sur la campagne, venaient de s’étendre, pour la première fois, sur l’immensité de la mer et l’infini du ciel.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XVIII
-<lb/>Du lac Lomond au lac Katrine </head>
+        <head>XVIII. Du lac Lomond au lac Katrine</head>
         <p>Harry, portant Nell dans ses bras, suivi de James Starr et de Jack Ryan, redescendit les pentes d’Arthur-Seat. Après quelques heures de repos et un déjeuner réconfortant qui fut pris à Lambret’s-Hotel, on songea à compléter l’excursion par une promenade à travers le pays des lacs.</p>
         <p>Nell avait recouvré ses forces. Ses yeux pouvaient désormais s’ouvrir tout grands à la lumière, et ses poumons aspirer largement cet air vivifiant et salubre. Le vert des arbres, la nuance variée des plantes, l’azur du ciel, avaient déployé devant ses regards la gamme des couleurs.</p>
         <p>Le train qu’ils prirent à Général railway station conduisit Nell et ses compagnons à Glasgow. Là, du dernier pont jeté sur la Clyde, ils purent admirer le curieux mouvement maritime du fleuve. Puis, ils passèrent la nuit à Comrie’s Royal-hôtel.</p>
@@ -1434,8 +1416,7 @@
         <p>« Mes amis, s’était écrié James Starr, comme si la cause du phénomène se fût soudain révélée à son esprit, Dieu sauve la Nouvelle-Aberfoyle ! »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XIX
-<lb/>Une dernière menace </head>
+        <head>XIX. Une dernière menace</head>
         <p>Ce jour-là, dans la Nouvelle-Aberfoyle, les travaux s’accomplissaient d’une façon régulière. On entendait au loin le fracas des cartouches de dynamite, faisant éclater le filon carbonifère. Ici, c’étaient les coups de pic et de pince qui provoquaient l’abattage du charbon ; là, le grincement des perforatrices, dont les fleurets trouaient les failles de grès ou de schiste. Il se faisait de longs bruits caverneux. L’air aspiré par les machines fusait à travers les galeries d’aération. Les portes de bois se refermaient brusquement sous ces violentes poussées. Dans les tunnels inférieurs, les trains de wagonnets, mus mécaniquement, passaient avec une vitesse de quinze milles à l’heure, et les timbres automatiques prévenaient les ouvriers de se blottir dans les refuges. Les cages montaient et descendaient sans relâche, halées par les énormes tambours des machines installées à la surface du sol. Les disques, poussés à plein feu, éclairaient vivement Coal-city.</p>
         <p>L’exploitation était donc conduite avec la plus grande activité. Le filon s’égrenait dans les wagonnets, qui venaient par centaines se vider dans les bennes, au fond des puits d’extraction. Pendant qu’une partie des mineurs se reposait après les travaux nocturnes, les équipes de jour travaillaient sans perdre une heure.</p>
         <p>Simon Ford et Madge, leur dîner terminé, s’étaient installés dans la cour du cottage. Le vieil overman faisait sa sieste accoutumée. Il fumait sa pipe bourrée d’excellent tabac de France. Lorsque les deux époux causaient, c’était pour parler de Nell, de leur garçon, de James Starr, de cette excursion à la surface de la terre. Où étaient-ils ? Que faisaient-ils en ce moment ? Comment, sans éprouver la nostalgie de la houillère, pouvaient-ils rester si longtemps au-dehors ?</p>
@@ -1514,8 +1495,7 @@
         <p>« La main qui a tracé ces lignes, dit-il, est celle qui m’avait écrit la lettre contradictoire de la vôtre, Simon ! Cet homme se nomme Silfax ! Je vois à votre trouble que vous le connaissez ! Quel est ce Silfax ? »</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XX
-<lb/>Le pénitent </head>
+        <head>XX. Le pénitent</head>
         <p>Ce nom avait été toute une révélation pour le vieil overman.</p>
         <p>C’était celui du dernier « pénitent » de la fosse Dochart.</p>
         <p>Autrefois, avant l’invention de la lampe de sûreté, Simon Ford avait connu cet homme farouche, qui, au risque de sa vie, allait chaque jour provoquer les explosions partielles du grisou. Il avait vu cet être étrange, rôdant dans la mine, toujours accompagné d’un énorme harfang, sorte de chouette monstrueuse, qui l’aidait dans son périlleux métier en portant une mèche enflammée là où la main de Silfax ne pouvait atteindre. Un jour, ce vieillard avait disparu, et, en même temps que lui, une petite orpheline, née dans la mine et qui n’avait plus pour parent que lui, son arrière-grand-père. Cette enfant, évidemment, c’était Nell.</p>
@@ -1568,8 +1548,7 @@
         <p>Mais l’émotion était trop forte. On vit blêmir les lèvres de la jeune fille, et elle tomba dans les bras de Madge, qui pria l’ingénieur, Simon et Harry de la laisser seule avec elle.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXI
-<lb/>Le mariage de Nell </head>
+        <head>XXI. Le mariage de Nell</head>
         <p>On se sépara, mais il fut d’abord convenu que les hôtes du cottage seraient plus que jamais sur leurs gardes.</p>
         <p>La menace du vieux Silfax était trop directe pour qu’il n’en fût pas tenu compte. C’était à se demander si l’ancien pénitent ne disposait pas de quelque moyen terrible qui pouvait anéantir toute l’Aberfoyle.</p>
         <p>Des gardiens armés furent donc postés aux diverses issues de la houillère, avec ordre de veiller jour et nuit. Tout étranger à la mine dut être amené devant James Starr, afin qu’il pût constater son identité. On ne craignit pas de mettre les habitants de Coal-city au courant des menaces dont la colonie souterraine était l’objet. Silfax n’ayant aucune intelligence dans la place, il n’y avait nulle trahison à craindre. On fit connaître à Nell toutes les mesures de sûreté qui venaient d’être prises, et, sans qu’elle fût rassurée complètement, elle retrouva quelque tranquillité. Mais la résolution d’Harry de la suivre partout où elle irait, avait plus que tout contribué à lui arracher la promesse de ne pas s’enfuir.</p>
@@ -1646,8 +1625,7 @@
         <p>Les eaux du lac Malcolm ne rendirent pas leur proie. Elles s’étaient à jamais refermées sur le vieux Silfax.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre XXII
-<lb/>La légende du vieux Silfax </head>
+        <head>XXII. La légende du vieux Silfax</head>
         <p>Six mois après ces événements, le mariage, si étrangement interrompu, d’Harry Ford et de Nell, se célébrait dans la chapelle de Saint-Gilles.</p>
         <p>Après que le révérend Hobson eut béni leur union, les jeunes époux, encore vêtus de noir, rentrèrent au cottage.</p>
         <p>James Starr et Simon Ford, désormais exempts de toute inquiétude, présidèrent joyeusement à la fête qui suivit la cérémonie et se prolongea jusqu’au lendemain.</p>
