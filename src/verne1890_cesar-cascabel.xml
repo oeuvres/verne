@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model  href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet  type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -242,7 +240,7 @@
 
 
             <p>écrié sous une grêle de balles : Suivez mon panache blanc, vous le trouverez toujours, etc. »</p>
-            <p>Et, lorsqu’on lui faisait observer que c’était Henri <seg n="4" rend="c7">IV</seg> qui avait prononcé ces belles paroles :</p>
+            <p>Et, lorsqu’on lui faisait observer que c’était Henri <num value="4">IV</num> qui avait prononcé ces belles paroles :</p>
             <p>« Possible, répondait-il, mais Napoléon eût bien été capable de les dire ! »</p>
           </div>
         </div>
@@ -1555,7 +1553,7 @@
             <p>M. Serge sentait à quel point cette famille s’était attachée à lui, et combien il éprouvait d’amitié pour elle. À mesure que s’écoulaient les jours dans cette intimité, l’affection devenait plus étroite entre elle et lui. La séparation serait douloureuse, et se retrouverait-on jamais à travers les hasards d’une existence si différente de part et d’autre ? Et puis M. Serge emmènerait Kayette, et il avait déjà observé l’amitié de Jean pour la jeune Indienne. M. Cascabel avait-il remarqué ce sentiment déjà si vif dans le cœur de son fils ? M. Serge n’aurait pu se prononcer. Quant à Cornélia, comme l’excellente femme ne s’était jamais expliquée à ce sujet, il avait cru devoir se tenir sur la même réserve. À quoi eût servi une explication ? C’était un autre avenir qui attendait la fille adoptive de M. Serge, et le pauvre Jean s’abandonnait à des espérances qui ne pourraient se réaliser.</p>
             <p>Enfin le voyage se faisait sans grands obstacles, sans trop de fatigue. Port-Clarence serait atteint avant que l’hiver eût solidifié le détroit de Behring, et là, il y aurait lieu de séjourner pendant un certain temps. Dès lors, nulle nécessité de surmener les gens et l’attelage.</p>
             <p>Toutefois, on était toujours à la merci d’un accident possible. Un cheval blessé ou malade, une roue brisée, aurait mis la <hi>Belle-Roulotte</hi> dans un réel embarras. Il convenait, dans cette prévision, de ne point se départir de la plus rigoureuse prudence. </p>
-            <p>Pendant les trois premiers jours, l’itinéraire ne cessa de suivre le cours du fleuve, qui se dirigeait vers l’ouest ; mais, lorsque le Youkon commença à s’infléchir vers le sud, il parut bon de se maintenir sur la ligne du soixante-cinquième parallèle<ref target="#cite_note-1"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref>.</p>
+            <p>Pendant les trois premiers jours, l’itinéraire ne cessa de suivre le cours du fleuve, qui se dirigeait vers l’ouest ; mais, lorsque le Youkon commença à s’infléchir vers le sud, il parut bon de se maintenir sur la ligne du soixante-cinquième parallèle<note>La latitude de Trondheim en Norvège.</note>.</p>
             <p>En cet endroit, le fleuve était très sinueux, et la vallée se rétrécissait sensiblement, dans un cadre de ces collines de médiocre hauteur, que la carte désigne sous le nom de « remparts », à cause de leur forme bastionnée.</p>
             <p>Il y eut quelques difficultés pour sortir de ce dédale, et toutes les précautions furent prises, afin d’épargner un accident au véhicule. On le déchargerait en partie dans les passes trop raides, on poussait à la roue, et cela avec d’autant plus de raison, faisait observer M. Cascabel, « que les charrons paraissaient très rares dans le paysage ! »</p>
             <p>Il y eut aussi quelques creeks à franchir, entre autres le Nocolocargout, le Shetehaut, le Klakencot. Heureusement, en cette saison, ces cours d’eau étaient peu profonds, et il ne fut pas difficile de trouver des gués praticables.</p>
@@ -1621,9 +1619,7 @@
             <p>Port-Clarence est le port le plus avancé vers le nord-ouest que l’Amérique septentrionale possède sur le détroit de Behring. Situé au sud du cap du Prince-de-Galles, il se creuse dans la partie du littoral, où se dessine le nez de cette figure dont le profil est représenté par la côte alaskienne. Ce port présente un excellent mouillage, très apprécié des navigateurs et, plus particulièrement, de ces baleiniers dont les navires vont chercher fortune dans les mers arctiques.</p>
             <p>La <hi>Belle-Roulotte</hi> était venue camper près de la berge intérieure du port, près de l’embouchure d’une petite rivière, à l’accore de hautes roches, couronnées par un massif de maigres bouleaux. Là devait se faire la plus longue halte de tout le voyage. Là se prolongerait le repos de la petite troupe — un repos forcé que commandait l’état du détroit, dont la surface n’était pas encore solidifiée à cette époque de l’année.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">La latitude de Trondheim en Norvège.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Port-Clarence">

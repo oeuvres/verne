@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model  href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet  type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -132,7 +130,7 @@
           <p>— N’y a-t-il pas d’autres tavernes que les <hi>Three-Magpies</hi> dans le voisinage ?… — Il y en a, répondit Vin Mod, mais, du moment que nous n’avons pas recruté ici, nous ne recruterons pas ailleurs ! »</p>
           <p>Flig Balt ne put retenir un juron accompagné d’un rude coup de poing qui fit tressauter verres et bouteilles. Son projet menaçait-il donc d’échouer ?… Ne parviendrait-il pas à introduire quatre hommes de choix dans l’équipage du <hi>James-Cook ?</hi>… Serait-on réduit à le compléter avec de braves matelots qui tiendraient pour le capitaine Gibson ?… Il est vrai, les bons faisaient défaut tout comme les mauvais, et des semaines s’écouleraient sans doute avant que le brick, par insuffisance du personnel, pût reprendre la mer.</p>
           <p>Cependant il fallait voir autre part. Les cabarets à matelots ne manquent point dans le quartier, et, comme disait Vin Mod, il y en a plus que d’églises ou de banques, Flig Balt se disposait donc à payer les consommations, lorsqu’un tumulte plus accentué s’éleva à l’autre extrémité de la salle.</p>
-          <p>La discussion de Sexton et de Bryce, à propos du règlement de la dépense, prenait une tournure inquiétante. Tous deux avaient certainement bu plus que ne le permettait l’état de leurs finances<seg rend="coquille">.</seg> Or, Adam Fry n’était pas homme à faire crédit, ne fût-ce que de quelques pences. Ils en avaient pour deux schellings, et ils paieraient les deux schellings ou les policemen interviendraient et les bloqueraient là où ils avaient été bloqués plus d’une fois pour coups, injures et méfaits de diverses sortes.</p>
+          <p>La discussion de Sexton et de Bryce, à propos du règlement de la dépense, prenait une tournure inquiétante. Tous deux avaient certainement bu plus que ne le permettait l’état de leurs finances. Or, Adam Fry n’était pas homme à faire crédit, ne fût-ce que de quelques pences. Ils en avaient pour deux schellings, et ils paieraient les deux schellings ou les policemen interviendraient et les bloqueraient là où ils avaient été bloqués plus d’une fois pour coups, injures et méfaits de diverses sortes.</p>
           <p>L’hôte des <hi>Three-Magpies</hi>, prévenu par le garçon, était en train de réclamer son dû, dont Sexton et Bryee n’auraient pu s’acquitter, quand on eût fouillé jusqu’au fond de leurs poches, aussi vides de monnaie qu’ils étaient pleins de wisky et de gin. Peut-être, en cette occasion, l’intervention de Vin Mod, argent en main, serait-elle efficace, et les deux matelots accepteraient-ils quelques piastres à titre d’avance sur les gages futurs ?… Il tenta le coup, et fut proprement envoyé au diable… Partagé entre le désir d’être payé et le désagrément de perdre deux clients s’ils s’embarquaient dès le lendemain sur le <hi>James-Cook</hi>, Adam Fry ne lui vint même point en aide, comme il l’espérait.</p>
           <p>Alors, quand il vit cela, maître Balt, comprenant qu’il fallait en finir, dit à Vin Mod :</p>
           <p>« Partons…</p>
@@ -408,9 +406,7 @@
             <p>— Et demain, ajouta Flig Balt, l’armateur et Nat Gibson seront à bord ! »</p>
             <p>Il aurait fallu s’éloigner de l’aviso, et peut-être le maître d’équipage l’eût-il tenté, si le capitaine, au lieu de regagner sa cabine, ne fût demeuré la plus grande partie de la nuit sur le pont. Impossible de prendre le large… Donc, nécessité de renoncer au projet de s’emparer du brick.  Le jour revint de bonne heure. Le <hi>James-Cook</hi> avait passé à l’ouvert de Blenheim, situé sur le littoral de Tawaï-Pounamou, côté ouest du détroit ; puis il s’était rapproché de la pointe Nicholson, qui se projette à l’entrée de la baie de Wellington. Enfin, à six heures du matin, il pénétrait dans cette baie en même temps que l’aviso et venait mouiller au milieu du port.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Fac-similé d’une gravure extraite de l’<hi>Histoire des Grands Voyages</hi>, par J. Verne</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="À Wellington">
@@ -568,9 +564,7 @@
             <p>Ces Maoris résistèrent à l’envahissement britannique jusqu’en 1875, et c’est à cette époque que le dernier roi de King-Country se soumit à l’autorité de la Grande-Bretagne.</p>
             <p>Vers six heures, M. Hawkins, le capitaine et Nat Gibson rentrèrent au comptoir pour dîner ; puis, après avoir pris congé de M. Balfour, il se firent conduire à bord du brick, qui serait prêt à lever l’ancre dès les premières lueurs du jour.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n88"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n83"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Fac-similé d’une gravure ancienne extraite de l’<hi>Histoire des Grands Voyages</hi>, de J. <hi rend="sc">Verne</hi>.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Quelques jours de navigation">
@@ -705,9 +699,7 @@
             <p>— Bon voyage, capitaine Foucault ! »</p>
             <p>Une heure après, le <hi>James-Cook</hi>, qui avait perdu de vue le steamer, remontait cap au nord-nord-ouest, en se dirigeant vers l’île Norfolk.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n107"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n98"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Fac-similé d’une gravure extraite de l’<hi>Histoire des Grands Voyages</hi>, de J. Verne.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="En vue de l’île Norfolk">
@@ -1135,9 +1127,7 @@
             <p>Dès que l’embarcation eut été rehissée à son poste, le brick éventa ses voiles, et, sous l’allure du largue, servi par une belle brise, gagna rapidement en direction du nord-ouest.</p>
             <p>Pendant cinq jours, la navigation ne présenta aucun incident, et, dès la matinée du 14, la vigie signalait les premières hauteurs de la Nouvelle-Guinée.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n164"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n151"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Gravure extraite de l’<hi>Histoire des Grands Voyages</hi>, par Jules Verne.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="À travers la Louisiade">
@@ -1252,7 +1242,7 @@
             <p>Et Karl Kip lui répondit sans hésiter :</p>
             <p>« Je n’en ferais rien à votre place, monsieur Gibson… Ces parages ne sont pas sûrs… Une attaque des indigènes est toujours à craindre… Si cela arrive, mieux vaut ne pas être au mouillage et, pour peu que la brise se déclare, pouvoir s’éloigner sans perdre du temps à lever l’ancre et à hisser les voiles. »</p>
             <p>Le capitaine, comprenant la justesse de ces raisons, s’y rendit. Donc, à l’extrême mécontentement du maître d’équipage et de ses complices, le James-Cook conserva sa voilure de Huit, lorsque le soleil fut couché, et il demeura en vue de l’ile d’Entrecasteaux, distante de deux à trois milles.</p>
-            <p>D’autre part, la pluie, qui avait commencé vers cinq heures du soir, ne dura pas. L’orage se manifestait par des éclairs de chaleur et de lointains roulements. La température était très élevée, le thermomètre Fahrenheit marquant quatre-vingt-dix degrés<ref target="#cite_note-2"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>2<seg rend="cite-bracket">]</seg></seg></ref>. Aussi, ni M. Hawkins, ni Nat Gibson, ni Karl et Pieter Kip n’allèrent-ils occuper leurs cabines. Tous, comme les matelots qui n’étaient pas de quart, s’étendirent sur le pont.</p>
+            <p>D’autre part, la pluie, qui avait commencé vers cinq heures du soir, ne dura pas. L’orage se manifestait par des éclairs de chaleur et de lointains roulements. La température était très élevée, le thermomètre Fahrenheit marquant quatre-vingt-dix degrés<note>32° 22 centigrades.</note>. Aussi, ni M. Hawkins, ni Nat Gibson, ni Karl et Pieter Kip n’allèrent-ils occuper leurs cabines. Tous, comme les matelots qui n’étaient pas de quart, s’étendirent sur le pont.</p>
             <p>Décidément, la malchance se déclarait une fois de plus contre Flig Balt, Vin Mod et leurs partisans.</p>
             <p>Il va sans dire que M. Gibson avait donné des ordres et pris ses mesures pour que les approches du brick fussent surveillées avec le plus grand soin. Les hommes durent se tenir à l’avant et à l’arrière. Quoi qu’eût dit M. Hawkins, l’observation de Karl Kip subsistait. Le capitan n’était-il venu à bord que dans le but d’échanger son oiseau de Paradis contre un objet quelconque, ou, pour reconnaître les forces du <hi>James-Cook</hi> ?…</p>
             <p>Précisément, devant le rouf, on causa de l’incident, tout d’abord, puis de choses et autres. La tente avait été serrée afin de donner plus d’air, Un profond silence régnait autour du navire. Au large, pas un feu n’attirait les regards, ni du côté de l’ile d’Entrecasteaux, certainement inhabitée. </p>
@@ -1300,10 +1290,7 @@
             <p>Puis, se penchant à l’oreille de son compagnon :</p>
             <p>« Fâcheux, tout de même !… murmura-t-il. À cette heure, Flig Balt serait le capitaine du brick, et Vin Mod son maître d’équipage ! »</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n189"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n173"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Fac-similé d’une gravure ancienne extraite de l’<hi>Histoire des Grands Voyages</hi>, par J. Verne.</seg></item>
-<item xml:id="cite_note-2"><seg rend="mw-cite-backlink"><ref target="#cite_ref-2"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">32° 22 centigrades.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="En remontant vers le Nord">
@@ -1357,7 +1344,7 @@
             <p>— Une dizaine d’années avant, monsieur Kip ; et, lorsque cette maison a liquidé, j’ai pris la suite des ses affaires. Puis, après la convention de 1884 entre l’Angleterre et l’Allemagne, je suis entré en relation avec les nouveaux comptoirs fondés par les colons allemands. C’est même le <hi>James-Cook</hi> qui fut plus particulièrement affecté à ces voyages, dont les bénéfices tendent à s’accroître, — Est-ce que le commerce a gagné plus d’extension depuis le traité ?…</p>
             <p>— Assurément ; monsieur Kip, et je crois qu’il se développera encore… La race teutonne émigre volontiers dans l’espoir de faire fortune.</p>
             <p>— Et qu’exporte surtout l’archipel ?…</p>
-            <p>— De la nacre, qui est abondante, et, comme on trouve en quantité sur ces îles les plus beaux cocotiers du monde, ainsi que vous pourrez en juger, elles fournissent des cargaisons de ce coprah<ref target="#cite_note-1-n211"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref>, dont nous devons embarquer précisément trois cents tonnes à Port-Praslin.</p>
+            <p>— De la nacre, qui est abondante, et, comme on trouve en quantité sur ces îles les plus beaux cocotiers du monde, ainsi que vous pourrez en juger, elles fournissent des cargaisons de ce coprah<note>Le coprah, c’est l’amande de la noix de coco, lorsque, concassée et séchée sur le sable à l’ardeur du soleil, elle est prête à être envoyée au moulin pour en extraire l’huile dont on fait du savon.</note>, dont nous devons embarquer précisément trois cents tonnes à Port-Praslin.</p>
             <p>— Et comment, demanda Karl Kip, l’Allemagne a-t-elle établi sa domination sur cet archipel ?…</p>
             <p>— Tout simplement, répondit M. Hawkins, en affermant les différentes îles à une Compagnie commerciale, laquelle détient aussi l’autorité politique. Mais, en réalité, son pouvoir n’est pas très étendu, et son action sur les indigènes est peu considérable. Elle se borne à assurer la sécurité des émigrants et la sûreté des transactions.</p>
             <p>— D’ailleurs, comme le dit M. Hawkins, ajouta Nat Gibson, tout porte à croire que la prospérité de l’archipel augmentera. On a pu constater de grands progrès, surtout à Tombara, dont la découverte fut faîte en 1616 par le Hollandais Shouten. C’est un de vos compatriotes, monsieur Kip, qui s’est aventuré le premier à travers ces mers si dangereuses.</p>
@@ -1365,7 +1352,7 @@
             <p>— C’est exact, déclara M. Gibson.</p>
             <p>— Cependant elle n’a pas conservé toutes ses découvertes, fit observer M. Hawkins.</p>
             <p>— Non, sans doute, mais, en gardant les Moluques, il lui en est resté une grosse part, et elle abandonne volontiers à l’Allemagne son archipel Bismarck »</p>
-            <p>C’était, en effet, le navigateur Shouten qui, au commencement du <hi n="17" rend="sc">xvii</hi><hi rend="sup">e</hi> siècle, avait reconnu la bande orientale de la Nouvelle-Irlande. Les premiers rapports avec les indigènes furent hostiles, attaques de pirogues à coups de fronde, ripostes à coups de mousquets, et ce début de la campagne fut marqué par la mort d’une douzaine de sauvages.</p>
+            <p>C’était, en effet, le navigateur Shouten qui, au commencement du <num value="17">xvii</num><hi rend="sup">e</hi> siècle, avait reconnu la bande orientale de la Nouvelle-Irlande. Les premiers rapports avec les indigènes furent hostiles, attaques de pirogues à coups de fronde, ripostes à coups de mousquets, et ce début de la campagne fut marqué par la mort d’une douzaine de sauvages.</p>
             <p>Après Shouten, c’est encore un Hollandais, Tasman, celui qui devait donner son nom à la Tasmanie, appelée également la Diémanie, du nom d’un autre Hollandais, Van Diemen, lequel releva cette côte en 1643.</p>
             <p>Après eux viennent les Anglais, et entre autres Dampier, dont le nom est attribué au détroit qui sépare la Nouvelle-Guinée de Birara, Dampier releva la côte du nord au sud, prit terre sur plusieurs points, eut à repousser l’agression des insulaires dans une baie qu’il nomma baie des Frondeurs.</p>
             <p>En 1767, Carteret, un navigateur anglais, visita la partie sud-ouest de l’île et lit relâche à Port-Praslin, puis au havre qui porte son nom dans l’anse aux Anglais.</p>
@@ -1405,7 +1392,7 @@
             <p>Le canal ne mesure en largeur que quelques milles, La navigation n’y est point aisée et de dangereux récifs se rencontrent sur toute sa longueur, mais il abrège la distance d’une bonne moitié. Il est vrai, pour les navires qui peuvent rallier directement l’extrémité occidentale de Tombara au lieu de prolonger la côte méridionale de Birara afin de chercher le passage de Dampier, il faut des pratiques aussi excellents que le capitaine Gibson.</p>
             <p>Du reste, il n’y avait pas à le faire, puisque Port-Praslin est situé dans la partie sud de la Nouvelle-Irlande, sur ce littoral qui fait face au Pacifique, près du cap Saint-Georges, presque à l’entrée du détroit.</p>
             <p>Comme le <hi>James-Cook</hi> fut à peu près encalminé aux approches de la terre, M. Hawkins, Nat Gibson, les frères Kip eurent tout le loisir d’observer cette partie de la côte.</p>
-            <p>L’ossature de l’île est formée par une double chaîne de montagnes d’une altitude moyenne de six mille pieds, qui prend naissance sur ce point du littoral. Des forêts les hérissent jusqu’à leurs cimes. Impénétrables aux rayons solaires, il s’en dégage une humidité constante et la température est plus supportable qu’en ces autres contrées voisines de l’Équateur, où l’air est aussi sec que brûlant. Cette circonstance atténue très heureusement la chaleur qui règne d’ordinaire dans l’archipel Bismarck, et il est rare que la colonne thermométrique s’élève au-dessus de quatre-vingt-huit degrés Fahrenheit<ref target="#cite_note-2-n212"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>2<seg rend="cite-bracket">]</seg></seg></ref>.</p>
+            <p>L’ossature de l’île est formée par une double chaîne de montagnes d’une altitude moyenne de six mille pieds, qui prend naissance sur ce point du littoral. Des forêts les hérissent jusqu’à leurs cimes. Impénétrables aux rayons solaires, il s’en dégage une humidité constante et la température est plus supportable qu’en ces autres contrées voisines de l’Équateur, où l’air est aussi sec que brûlant. Cette circonstance atténue très heureusement la chaleur qui règne d’ordinaire dans l’archipel Bismarck, et il est rare que la colonne thermométrique s’élève au-dessus de quatre-vingt-huit degrés Fahrenheit<note>Trente degrés centigrades.</note>.</p>
             <p>Pendant cette journée, le brick ne croisa que quelques pirogues sans balanciers, gréées de voiles quadrangulaires. Elles filaient le long du rivage et ne cherchèrent point à le rejoindre. Du reste, il n’y a rien à craindre de ces naturels de la Nouvelle-Irlande ou plutôt du Neu-Meckleuburg, depuis que l’archipel s’abrite sous le pavillon de l’Allemagne. </p>
             
 
@@ -1415,10 +1402,7 @@
             <p>Aucun incident de mer ou autre ne troubla la nuit. Lorsque la brise revint après vingt-quatre heures de calme, il fallut manœuvrer sous petite voilure entre les bancs madréporiques et les récifs coralligènes, plus nombreux aux approches de Port-Praslin. Un navire doit se défier et éviter des avaries qui ne seraient pas aisément réparables. Tout l’équipage resta donc sur le pont, et il fut nécessaire de brasser souvent les vergues. Inutile de le dire, ces côtes ne sont point encore éclairées entre le coucher et le lever du soleil, et les points de relèvement font défaut dans l’obscurité. Mais M. Gibson connaissait parfaitement ces approches de Port-Praslin.</p>
             <p>Lorsque le jour revint, la vigie signala l’entrée de la rade, couverte par les hautes montagnes de Lanut. Le <hi>James-Cook</hi> s’engagea à travers les passes, navigables au plein de la mer. Vers neuf heures du matin, il prenait son mouillage sur deux ancres au milieu du port.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n211"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n200"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Le coprah, c’est l’amande de la noix de coco, lorsque, concassée et séchée sur le sable à l’ardeur du soleil, elle est prête à être envoyée au moulin pour en extraire l’huile dont on fait du savon.</seg></item>
-<item xml:id="cite_note-2-n212"><seg rend="mw-cite-backlink"><ref target="#cite_ref-2-n208"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Trente degrés centigrades.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Port-Praslin">
@@ -1683,9 +1667,7 @@
             <p>Ce pressentiment ne le trompait pas.</p>
             <p>Au point du jour, la nouvelle se répandit que le cadavre du capitaine Gibson venait d’être découvert dans la forêt, à un demi-mille du port.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n252"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n242"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Fac-similé d’une gravure ancienne extraite de l’<hi>Histoire des Grands Voyages</hi>, de Jules Verne.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="L’assassinat">
@@ -1858,7 +1840,7 @@ Assassiné le 2 décembre 1885,
             <p>Karl Kip ne crut donc pas devoir prévenir M. Hawkins. Toutefois, en dépit de Flig Balt, qui s’en apercevait, il ne cessa de surveiller la direction donnée à l’homme de barre. </p>
             <p>Au surplus, Flig Balt et ses complices ne tardèrent pas à être servis par les circonstances.</p>
             <p>Dans la soirée du 17, le temps changea. Le soleil venait de se coucher sur un horizon chargé de nuages lourds. La mer, qui sentait quelque chose, devenait houleuse. Toute la journée, la chaleur avait été accablante. À plusieurs reprises, la brise ayant refusé, les voiles battirent sur les mâts.</p>
-            <p>Vers trois heures de l’après-midi, le thermomètre Fahrenheit avait accusé cent trois degrés à l’ombre<ref target="#cite_note-1-n291"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref> et, vers cinq heures, le baromètre était tombé à vingt-sept pouces<ref target="#cite_note-2-n292"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>2<seg rend="cite-bracket">]</seg></seg></ref>. Ce rapide abaissement de la colonne mercurielle indiquait un profond trouble atmosphérique.</p>
+            <p>Vers trois heures de l’après-midi, le thermomètre Fahrenheit avait accusé cent trois degrés à l’ombre<note>39° 44 centigrades.</note> et, vers cinq heures, le baromètre était tombé à vingt-sept pouces<note>730 millimètres.</note>. Ce rapide abaissement de la colonne mercurielle indiquait un profond trouble atmosphérique.</p>
             <p>Du reste, la houle très mouvementée, quelques lames qui déferlaient déjà, annonçaient que le vent faisait rage dans l’ouest.</p>
             <p>Ce trouble atmosphérique fut précédé d’un violent orage. Vers neuf heures, après de lointains roulements de foudre, l’horizon s’embrasa d’éclairs si ardents, si multipliés, que la mer, en les réverbérant, paraissait rouler des vagues de feu. Quand ils ne se déchargeaient pas à sa surface, ils s’échangeaient d’un nuage à l’autre sans discontinuité. Les éclats du tonnerre devinrent tels que l’oreille en était assourdie, comme les yeux étaient éblouis par les fulgurantes décharges électriques.</p>
             <p>Vers onze heures, l’orage atteignit sa plus haute intensité. La foudre atteignit plusieurs fois l’extrémité de la mâture, sans causer de dommage, et s’écoula par les fils des paratonnerres. On pouvait être assuré maintenant que cet orage serait suivi d’un coup de vent d’une grande violence, et il fallait être prêt à le recevoir. </p>
@@ -1956,11 +1938,7 @@ Assassiné le 2 décembre 1885,
             <p>La configuration des hautes terres modifie souvent le sens des courants atmosphériques. Aussi le <hi>James-Cook</hi> trouva-t-il à l’ouvert de Storm-Bay une assez fraîche brise du sud-est. Ce fut donc à pleines voiles qu’il traversa la baie du sud au nord, en gagnant l’embouchure de la rivière Derwent, et le 2 Janvier, vers trois heures de l’après-midi, il jetait l’ancre dans le port d’Hobart-Town.</p>
             <p rend="c6 small-caps">fin de la première partie.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n291"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n276"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">39° 44 centigrades.</seg></item>
-<item xml:id="cite_note-2-n292"><seg rend="mw-cite-backlink"><ref target="#cite_ref-2-n277"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">730 millimètres.</seg></item>
-<item xml:id="cite_note-3"><seg rend="mw-cite-backlink"><ref target="#cite_ref-3"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Gravure extraite de l’<hi>Histoire des Grands Voyages</hi> de J. <hi rend="sc">Verne</hi>.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Hobart-Town">
@@ -2588,7 +2566,7 @@ Assassiné le 2 décembre 1885,
           </div>
           <quote xml:lang="fr" rend="prp-pages-output">
 <p>appuyées de preuves matérielles, il n’aurait à opposer que des dénégations.</p>
-<p>Suivant la loi anglaise, le président se borna à leur demander s’ils plaidaient coupables ou non coupables<ref target="#cite_note-1-n391"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref>.</p>
+<p>Suivant la loi anglaise, le président se borna à leur demander s’ils plaidaient coupables ou non coupables<note><foreign xml:lang="en">Guilty or not guilty</foreign>.</note>.</p>
 <p>« Non coupables ! » répondirent-ils ensemble et d’une voix forte.</p>
 <p>Et alors ils n’eurent qu’à reprendre la déposition qu’ils avaient faite au premier procès, à redire ce que fut leur conduite en cours de navigation depuis l’embarquement à l’île Norfolk jusqu’au débarquement en rade d’Hobart-Town.</p>
 <p>Ils affirmèrent que la valise rapportée à bord du brick ne contenait qu’un peu de linge et quelques vêtements. Quant au poignard malais, ils ne l’avaient point retrouvé sur l’épave et ne pouvaient s’expliquer comment il était en leur possession. À l’affirmation de Flig Balt, déclarant que ladite valise renfermait les papiers et l’argent du capitaine Gibson, ils opposaient le démenti le plus formel. Ou le maître d’équipage se trompait, ou il altérait sciemment la vérité.</p>
@@ -2676,9 +2654,7 @@ Assassiné le 2 décembre 1885,
 <p>Karl et Pieter Kip furent condamnés à mort, et, au prononcé de cette condamnation, quelques applaudissements se firent entendre.</p>
 <p>Les deux frères, après un douloureux regard, s’étaient pris la main, leurs bras s’ouvrirent, et, sans prononcer une parole, ils se serrèrent cœur contre cœur.</p>
 </quote>
-          <list rend="ol">
-<item xml:id="cite_note-1-n391"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n381"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text c8"><foreign xml:lang="en">Guilty or not guilty</foreign>.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="En attendant l’exécution">
@@ -2783,7 +2759,7 @@ Assassiné le 2 décembre 1885,
             <p>Un mois après ce jour où les condamnés à mort avaient bénéficié de la commutation de leur peine, deux hommes travaillaient sous le fouet des argousins dans le pénitencier de Port-Arthur.</p>
             <p>Ces deux forçats n’appartenaient pas à la même escouade. Séparés l’un de l’autre, ne pouvant échanger ni une parole ni un regard, ils ne partageaient ni la même gamelle ni le même cabanon. Ils allaient, chacun de son côté, vêtus de l’ignoble vareuse du galérien, accablés sous les injures et les coups de la chiourme, au milieu de cette tourbe de bandits que la Grande-Bretagne expédie à ses colonies d’outre-mer. Le matin, ils quittaient le bagne et n’y rentraient que le soir, épuisés de fatigues, insuffisamment soutenus par une grossière nourriture. Ils y reprenaient le lit de camp, côte à côte avec un compagnon de chaîne, cherchant en vain l’oubli dans quelques heures de sommeil. Puis, le jour revenu, alors sous les chaleurs étouffantes de l’été, plus tard sous les terribles froids de l’hiver, ils iraient ainsi jusqu’à l’heure où la mort tant souhaitée les délivrerait de cette abominable existence.</p>
             <p>Ces deux hommes étaient les frères Kip, qui, trois semaines avant, avaient été transportés au pénitencier de Port-Arthur.</p>
-            <p>Jusqu’au milieu du <hi n="17" rend="sc">XVII</hi><hi rend="sup">e</hi> siècle, on le sait, la Tasmanie ne fut habitée que par les plus misérables peuplades du globe, des indigènes placés, pourrait-on dire, sur cette limite qui sépare l’animalité de l’humanité. Or, les premiers Européens qui devaient prendre pied sur cette grande île ne valaient guère mieux, sans doute, que ces sauvages. Mais, après eux, vinrent les émigrants, lesquels, avec leur concours et le temps aidant, en firent une colonie des plus florissantes.</p>
+            <p>Jusqu’au milieu du <num value="17">XVII</num><hi rend="sup">e</hi> siècle, on le sait, la Tasmanie ne fut habitée que par les plus misérables peuplades du globe, des indigènes placés, pourrait-on dire, sur cette limite qui sépare l’animalité de l’humanité. Or, les premiers Européens qui devaient prendre pied sur cette grande île ne valaient guère mieux, sans doute, que ces sauvages. Mais, après eux, vinrent les émigrants, lesquels, avec leur concours et le temps aidant, en firent une colonie des plus florissantes.</p>
             <p>À cette époque, la Grande-Bretagne avait déjà fondé un établissement de ce genre à Botany-Bay, sur la côte orientale de l’Australie, alors dénommée Nouvelle-Galles du Sud. Comme elle put supposer chez les Français l’intention de créer un bagne similaire en terre tasmanienne, elle se hâta de les y devancer, ainsi qu’elle le fit plus tard en Nouvelle-Zélande.</p>
             <p>Vers le milieu de l’année 1803, John Bowin, quittant Sydney avec un détachement de troupes coloniales, débarqua sur la rive gauche de la rivière Derwent, à vingt milles au-dessus de son embouchure, au lieu dit « Ridens ». Il emmenait un certain nombre de convicts, dont le chiffre monta à quatre cents l’année suivante, sous le lieutenant-colonel Collins.</p>
             <p>Cet officier, abandonnant Ridens, jeta les fondements d’Hobart-Town sur l’autre rive du Derwent, en un endroit où une petite rivière fournissait l’eau douce, au fond de la baie de Sullivan-Cove dans laquelle les navires, même d’un tonnage élevé, trouvaient d’excellents mouillages. La nouvelle ville ne tarda pas à prendre de l’extension, et, entre les bâtiments civils qu’elle compta bientôt, l’un des premiers construits fut le bagne, enfermé de quatre hautes murailles en pierres dures comme le granit.</p>
@@ -2791,7 +2767,7 @@ Assassiné le 2 décembre 1885,
             <p>Ces convicts comprenaient trois catégories : 1° les condamnés aux peines les plus graves, qui deviennent les hôtes du bagne et, sous la direction des constables, sont employés aux travaux de force, et particulièrement à l’établissement des routes ; 2° les condamnés pour fautes plus légères, — les magistrats anglais ont souvent la main lourde, — qui obtiennent la faveur d’entrer au service des colons sans aucun salaire, mais à la condition d’être convenablement logés, nourris suivant la ration réglementaire, mis à même de remplir chaque dimanche leurs devoirs religieux ; 3° les condamnés qui, grâce à leur bonne conduite, ont la liberté de travailler pour leur compte, et, de ceux-là, il en est quelques-uns qui sont arrivés à la fortune, à l’indépendance. Il est vrai, en dépit des efforts tentés par les gouverneurs, aucun d’eux ne peut reprendre rang dans la société des hommes libres.</p>
             <p>Telles furent donc les premières mesures adoptées au début de la colonie pour l’organisation pénale, et telles étaient les différentes catégories de convicts, aussi bien hommes que femmes. D’après ce que note Dumont d’Urville, lors de son arrivée en Tasmanie, vers 1840, les peines infligées étaient graduées ainsi qu’il suit suivant la gravité des délits : réprimande, condamnation à tourner la roue d’un moulin pendant un temps limité, travaux forcés le jour et emprisonnement solitaire la nuit, travaux forcés sur les grands chemins, travaux forcés dans les escouades enchaînées, envoi à l’établissement pénal de Port-Arthur.</p>
             <p>À propos de ce dernier établissement, il convient de rappeler qu’en 1768 un pénitencier avait été fondé sur l’île Norfolk, — cette île où furent recueillis par le <hi>James-Cook</hi> Karl et Pieter Kip, les naufragés de la <hi>Wilhelmina</hi>. Mais, dès 1805, le gouvernement le fit évacuer, parce que, faute de port, il était très difficile d’y débarquer. L’île, cependant, redevint plus tard siège de colonie pénale, et c’est là que l’administration déportait les criminels les plus redoutables de la Tasmanie et de la Nouvelle-Galles du Sud. </p>
-            <p>Plus tard, en 1842, il fut abandonné définitivement et remplacé par celui de Port-Arthur<ref target="#cite_note-1-n426"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref>.</p>
+            <p>Plus tard, en 1842, il fut abandonné définitivement et remplacé par celui de Port-Arthur<note>Actuellement Port-Arthur est désaffecté et l’établissement pénal n’existe plus en Tasmanie.</note>.</p>
             <p>Ainsi, sans parler du bagne d’Hobart-Town, la Tasmanie en possédait un second, dont il convient de faire connaître la situation avec quelque détail.</p>
             <p>La grande île, profondément entaillée dans sa partie méridionale par Storm-Bay, est limitée à l’ouest par le littoral très découpé, que traverse le Dervent, dont Hobart-Town occupe la rive droite. À l’est, elle a pour frontière la presqu’île de Tasman qui, de l’autre côté, est battue par les longues houles du Pacifique. Au nord, cette presqu’île se rattache par un isthme très resserré à la péninsule de Forestier, qui elle-même ne tient au district de Panbroke que par une étroite langue de terre. Au sud, vers le large, se projettent les pointes aiguës du cap du Sud-Ouest et du cap Pillar.</p>
             <p>Depuis l’isthme qui relie les presqu’îles Forestier et Tasman jusqu’au cap Pillar, on compte environ six milles, et ce fut dans une petite baie de la côte méridionale que l’administration fonda l’établissement de Port-Arthur.</p>
@@ -2858,9 +2834,7 @@ Assassiné le 2 décembre 1885,
 <p>« Karl… Karl !… »</p>
 <p>En vain les gardiens auraient-ils voulu le retenir. D’ailleurs, sur un signe du capitaine vers qui M<hi rend="sup">me</hi> Skirtle tendait les mains et dont le fils implorait la pitié pour son sauveur, il fit signe aux constables de s’écarter. Et, pour la première fois, depuis sept longs mois de séparation, de misères, de désespoir, Karl et Pieter Kip pleuraient dans les bras l’un de l’autre.</p>
 </quote>
-          <list rend="ol">
-<item xml:id="cite_note-1-n426"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n414"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Actuellement Port-Arthur est désaffecté et l’établissement pénal n’existe plus en Tasmanie.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Ensemble">
@@ -3007,7 +2981,7 @@ Assassiné le 2 décembre 1885,
             <p>Déjà, deux siècles avant, les sujets catholiques de la Verte Erin avaient enduré de graves persécutions, lorsque les soldats de Cromwell, aussi intolérants que féroces, voulurent imposer aux populations irlandaises le joug de la réforme. Les persécutés résistèrent noblement, fidèles à leur foi religieuse comme à leur foi politique. Les années s’écoulèrent, la situation ne s’améliora pas, et l’Angleterre fit plus durement sentir sa main brutale. Aussi, à la fin du dix-huitième siècle, en 1798, éclata une révolte, bientôt comprimée, qui amena la suppression du parlement irlandais, défenseur naturel des libertés irlandaises.</p>
             <p>En 1829, un protecteur apparut, dont le nom retentit dans le monde entier. O’Connell vint siéger dans la Chambre des Communes. Là, sa voix puissante protesta contre les violences britanniques en faveur de sept millions de catholiques sur huit millions d’habitants que comptait l’Irlande.</p>
             <p>À quel degré d’appauvrissement et de misère en était arrivé le malheureux pays, on en jugera par ce seul fait que, sur cinq millions d’hectares labourables, quinze cent mille, abandonnés du cultivateur sans ressources, restaient en friche.</p>
-            <p>Il n’y a pas lieu d’insister sur cette période de troubles qui allait provoquer les représailles du fenianisme, et il ne faut le prendre que dans ses rapports avec cette histoire<ref target="#cite_note-1-n462"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref>.</p>
+            <p>Il n’y a pas lieu d’insister sur cette période de troubles qui allait provoquer les représailles du fenianisme, et il ne faut le prendre que dans ses rapports avec cette histoire<note>Cette période de l’histoire irlandaise a déjà été traitée dans la série des <hi>Voyages extraordinaires</hi> avec le roman de <hi><ref n="P’tit Bonhomme" target="https://fr.wikisource.org/wiki/P%C3%A2%C2%80%C2%99tit_Bonhomme">P’tit Bonhomme</ref></hi>.</note>.</p>
             <p>O’Connell était mort en 1847, avant d’avoir pu achever son œuvre, sans même avoir entrevu le succès dans un avenir plus ou moins éloigné. Cependant les efforts individuels continuèrent à se manifester, et, en 1867, le gouvernement du Royaume-Uni se trouva en présence d’une nouvelle révolte qui éclata, non plus dans une ville d’Irlande, mais dans une ville d’Angleterre. Manchester vit se lever pour la première fois le drapeau des fenians, dont le nom vient sans doute des Gaels de l’ancien temps, et il flotta pour la cause de l’indépendance.</p>
             <p>Cette révolte fut réduite comme l’avait été la première, et avec la même implacable rigueur. La police s’empara de ses principaux chefs, Allen, Kelly, Deary, Laskin, Gorld. Emprisonnés, traduits devant la Cour criminelle, les trois premiers, condamnés à la peine capitale, furent exécutés le 23 novembre à Manchester.</p>
             <p>À cette époque se place une autre tentative, due à l’énergique ténacité de Burke et de Casey, lesquels, arrêtés à Londres, furent enfermés dans la prison de Clerkenwell. Leurs amis, leurs complices, ne devaient pas les abandonner.</p>
@@ -3095,9 +3069,7 @@ Assassiné le 2 décembre 1885,
 <p>Le billet n’y était plus… Peut-être le vent l’avait-il emporté ?… — Peut-être même avait-il été pris déjà et remis au chef des constables…</p>
 <p>Lorsque Farnham rejoignit son escouade, O’Brien et Macarthy l’interrogèrent du regard… Ils devinèrent qu’il n’avait pas réussi… Et, après la rentrée au pénitencier, que ne devaient-ils pas craindre, lorsque Farnham leur eut appris que le billet de Walter avait disparu !</p>
 </quote>
-          <list rend="ol">
-<item xml:id="cite_note-1-n462"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n448"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Cette période de l’histoire irlandaise a déjà été traitée dans la série des <hi>Voyages extraordinaires</hi> avec le roman de <hi><ref n="P’tit Bonhomme" target="https://fr.wikisource.org/wiki/P%C3%A2%C2%80%C2%99tit_Bonhomme">P’tit Bonhomme</ref></hi>.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Le billet">
@@ -3307,9 +3279,7 @@ Assassiné le 2 décembre 1885,
 <p>Cependant les chiens aboyaient plus violemment, et sans doute l’instinct les poussait le long de la falaise. L’un d’eux se lança même à travers le tourbillon des lames, mais les autres ne l’imitèrent point.</p>
 <p>Presque aussitôt, d’ailleurs, le chef des constables donnait ordre de reprendre le sentier. Bientôt tout ce tumulte, tout ce bruit d’aboiements et de voix diminua. On n’entendit plus que le mugissement de la mer battant à grand fracas le pied de la falaise.</p>
 </quote>
-          <list rend="ol">
-<item xml:id="cite_note-1-n494"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n484"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Document extrait du <hi>Voyage du Griffin</hi>, adapté par P.-J. <hi rend="sc">Stahl</hi>.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="L’évasion">

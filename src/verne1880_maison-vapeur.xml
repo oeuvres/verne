@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model  href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet  type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -54,10 +52,10 @@
           <p>À quel sentiment avait donc obéi ce faquir, en lacérant une affiche, tirée déjà à plusieurs milliers d’exemplaires ?</p>
           <p>À un sentiment de colère, sans doute, — peut-être aussi à quelque pensée de dédain. Quoi qu’il en soit, après avoir haussé les épaules, il s’enfonça dans le quartier le plus populeux et le plus mal habité de la ville.</p>
           <p>On appelle Dekkan cette large portion de la péninsule indienne comprise entre les Ghâtes occidentales et les Ghâtes de la mer du Bengale. C’est le nom communément donné à la partie méridionale de l’Inde, en deçà du Gange. Ce Dekkan, dont le nom sanscrit signifie « Sud », compte, dans les présidences de Bombay et de Madras, un certain nombre de provinces. L’une des principales est la province d’Aurungabad, dont la capitale fut même autrefois celle du Dekkan tout entier.</p>
-          <p>Au <hi n="17" rend="sc">XVII</hi><hi rend="sup">e</hi> siècle, le célèbre empereur mongol Aureng-Zeb transporta sa cour dans cette ville, qui était connue aux premiers temps de l’histoire de l’Indoustan sous le nom de Kirkhi. Elle possédait alors cent mille habitants. Aujourd’hui, elle n’en a plus que cinquante mille, sous la domination des Anglais, qui l’administrent pour le compte du Nizam d’Haiderabad. Cependant, c’est une des cités les plus saines de la péninsule, épargnée jusqu’ici par le redoutable choléra asiatique, et que ne visitent même jamais les épidémies de fièvres, si redoutables dans l’Inde.</p>
+          <p>Au <num value="17">XVII</num><hi rend="sup">e</hi> siècle, le célèbre empereur mongol Aureng-Zeb transporta sa cour dans cette ville, qui était connue aux premiers temps de l’histoire de l’Indoustan sous le nom de Kirkhi. Elle possédait alors cent mille habitants. Aujourd’hui, elle n’en a plus que cinquante mille, sous la domination des Anglais, qui l’administrent pour le compte du Nizam d’Haiderabad. Cependant, c’est une des cités les plus saines de la péninsule, épargnée jusqu’ici par le redoutable choléra asiatique, et que ne visitent même jamais les épidémies de fièvres, si redoutables dans l’Inde.</p>
           <p>Aurungabad a conservé de magnifiques restes de son ancienne splendeur. Le palais du Grand Mogol, élevé sur la rive droite de la Doudhma, le mausolée de la sultane favorite de Shah Jahan, père d’Aureng-Zeb, la mosquée copiée sur l’élégant Tadje d’Agra, qui dresse ses quatre minarets autour d’une coupole gracieusement arrondie, d’autres monuments encore, artistement bâtis, richement ornés, attestent la puissance et la grandeur du plus illustre des conquérants de l’Indoustan, qui porta ce royaume, auquel il joignit le Caboul et l’Assam, à un incomparable degré de prospérité.</p>
           <p>Bien que, depuis cette époque, la population d’Aurungabad eût été considérablement réduite, comme il a été dit, un homme pouvait facilement se cacher encore au milieu des types si variés qui la composent. Le faquir, vrai ou faux, mêlé à tout ce populaire, ne s’en distinguait en aucune façon. Ses semblables foisonnent dans l’Inde. Ils forment avec les « sayeds » une corporation de mendiants religieux, qui demandent l’aumône, à pied ou à cheval, et savent l’exiger, lorsqu’on ne la fait pas de bonne grâce. Ils ne dédaignent pas non plus le rôle de martyrs volontaires, et jouissent d’un grand crédit dans les basses classes du peuple indou.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c11">C’était un homme de haute taille.</seg></p>
           <p>Le faquir dont il s’agit était un homme de haute taille, ayant plus de cinq pieds neuf pouces anglais. S’il avait dépassé la quarantaine, c’était d’un an ou deux, tout au plus. Sa figure rappelait le beau type maharatte, surtout par l’éclat de ses yeux noirs, toujours en éveil ; mais on eût difficilement retrouvé les traits si fins de sa race sous les mille trous de petite vérole qui lui criblaient les joues. Cet homme, encore dans toute la force de l’âge, paraissait souple et robuste. Signe particulier, un doigt lui manquait à la main gauche. Avec sa chevelure teinte en rouge, il allait à demi nu, sans chaussures aux pieds, un turban sur la tête, à peine couvert d’une mauvaise chemise de laine rayée, serrée à sa ceinture. Sur sa poitrine apparaissaient en couleurs vives les emblèmes des deux principes conservateur et destructeur de la mythologie indoue, la tête de lion de la quatrième incarnation de Vishnou, les trois yeux et le trident symbolique du farouche Siva.</p>
@@ -106,7 +104,7 @@
           <p>« Me reconnais-tu ? dit-il.</p>
           <p>— Lui ! » murmura l’Indou.</p>
           <p>Et le terrible nom du faquir allait être sa dernière parole, lorsqu’il expira dans un rapide étouffement.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c11">« Me reconnais-tu ? » dit-il.</seg></p>
           <p>Un instant après, le corps de l’Indou disparaissait dans le courant de la Doudhma, qui ne devait jamais le rendre.</p>
@@ -126,7 +124,7 @@
           <p>À deux cents pas de là, il s’arrêtait, il se retournait, sa main mutilée se dressait vers la ville, et de sa bouche s’échappaient ces mots :</p>
           <p>« Malheur à ceux qui tomberont encore au pouvoir de Dandou-Pant ! Anglais, vous n’en avez pas fini avec Nana Sahib ! » </p>
           <p>Nana Sahib ! Ce nom de guerre, le plus redouté de ceux auxquels la révolte de 1857 avait fait une renommée sanglante, le nabab venait encore une fois de le jeter comme un suprême défi aux conquérants de l’Inde.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c11">Le fugitif avait été vu.</seg></p>
         </div>
@@ -165,14 +163,14 @@
             <p>La maison du colonel était celle d’un homme qui jouit d’une grande aisance. Son domestique était nombreux, tel que le comporte le service des familles indo-anglaises dans la péninsule. Mobilier, matériel, dispositions intérieures et extérieures, tout était bien compris, sévèrement tenu. Mais on sentait que la main d’une femme avait manqué à ces divers arrangements.</p>
             <p>Pour la direction de son personnel de serviteurs, pour la conduite générale de sa maison, le colonel s’en remettait entièrement à l’un de ses anciens compagnons d’armes, un Écossais, « un conductor » de l’armée royale, le sergent Mac Neil, avec lequel il avait fait toutes les campagnes de l’Inde, un de ces braves cœurs qui semblent battre dans la poitrine de ceux auxquels ils se sont dévoués.</p>
             <p>Mac Neil était un homme âgé de quarante-cinq ans, vigoureux, grand, portant toute sa barbe, comme les Écossais des montagnes. Par son attitude, sa physionomie, aussi bien que par son costume traditionnel, il était resté un highlander d’âme et de corps, bien qu’il eût quitté le service militaire en même temps que le colonel Munro. Tous deux avaient pris leur retraite depuis 1860. Mais, au lieu de retourner dans les « glens » du pays, au milieu des vieux clans de leurs ancêtres, tous deux étaient restés dans l’Inde, et vivaient à Calcutta, dans une sorte de réserve et de solitude qui veulent être expliquées.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c4">Mac Neil.</seg></p>
             <p>Lorsque Banks me présenta au colonel Munro, il ne me fit qu’une recommandation :</p>
             <p>« Ne faites aucune allusion à la révolte des Cipayes, me dit-il, et, surtout, ne prononcez jamais le nom de Nana Sahib ! »</p>
             <p>Le colonel Edward Munro appartenait à une vieille famille d’Écosse, dont les ancêtres avaient marqué dans l’histoire du Royaume-Uni. Il comptait parmi ses ancêtres ce sir Hector Munro qui commandait l’armée du Bengale en 1760, et qui eut, précisément, à dompter un soulèvement que les Cipayes, un siècle plus tard, allaient reprendre pour leur compte. Le major Munro réprima la révolte avec une impitoyable énergie, — et n’hésita pas à faire attacher, le même jour, vingt-huit rebelles à la bouche des canons, — supplice épouvantable, souvent renouvelé pendant l’insurrection de 1857, et dont l’aïeul du colonel fut peut-être le terrible inventeur.</p>
             <p>À l’époque où les Cipayes se révoltèrent, le colonel Munro commandait le 93<hi rend="sup">e</hi> régiment d’infanterie écossais de l’armée royale. Il fit presque toute la campagne sous les ordres de sir James Outram, l’un des héros de cette guerre, celui qui mérita le nom du « Bayard de l’armée des Indes », ainsi que le proclama sir Charles Napier. Avec lui, le colonel Munro fut donc à Cawnpore ; il fut de la seconde campagne de Colin Campbell, dans l’Inde ; il fut du siège de Lucknow, et il ne quitta cet illustre soldat que lorsque Outram eut été nommé à Calcutta membre du conseil de l’Inde.</p>
-            <p>En 1858, le colonel sir Edward Munro était chevalier commandant de l’Étoile de l’Inde, « <foreign xml:lang="en">The Star of India</foreign> (K. C. S. I.) ». Il était fait baronnet, et sa femme eût porté le titre de lady Munro<ref target="#cite_note-1"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref>, si, le 27 juin 1857, l’infortunée n’eût péri dans l’effroyable massacre de Cawnpore, massacre accompli sous les yeux et par les ordres de Nana Sahib.</p>
+            <p>En 1858, le colonel sir Edward Munro était chevalier commandant de l’Étoile de l’Inde, « <foreign xml:lang="en">The Star of India</foreign> (K. C. S. I.) ». Il était fait baronnet, et sa femme eût porté le titre de lady Munro<note>Une femme non titrée, qui épouse un baronnet ou un chevalier, prend le titre de lady devant le nom de son mari. Mais cette qualification de lady ne peut précéder le nom de baptême, car, dans ce cas, elle est uniquement réservée aux filles de pairs.</note>, si, le 27 juin 1857, l’infortunée n’eût péri dans l’effroyable massacre de Cawnpore, massacre accompli sous les yeux et par les ordres de Nana Sahib.</p>
             <p>Lady Munro, — les amis du colonel ne l’appelaient jamais autrement, — était adorée de son mari. Elle avait à peine vingt-sept ans, lorsqu’elle disparut avec les deux cents victimes de cette abominable tuerie. Mistress Orr et miss Jackson, presque miraculeusement sauvées après la prise de Lucknow, avaient survécu à leur mari, à leur père. Lady Munro, elle, n’avait pu être  rendue au colonel Munro. Ses restes, confondus avec ceux de tant de victimes dans le puits de Cawnpore, il avait été impossible de les retrouver et de leur donner une sépulture chrétienne.</p>
             <p>Sir Edward Munro, désespéré, n’eut alors qu’une pensée, une seule, retrouver Nana Sahib, que le gouvernement anglais faisait rechercher de toutes parts, et assouvir, avec sa vengeance, une sorte de soif de justicier qui le dévorait. Pour être plus libre de ses actions, il prit sa retraite. Le sergent Mac Neil le suivit dans tous ses pas et démarches. Ces deux hommes, animés du même esprit, ne vivant que dans la même pensée, ne visant que le même  but, se lancèrent sur toutes les pistes, relevèrent toutes les traces, mais ils ne furent pas plus heureux que la police anglo-indienne. Le Nana échappa à toutes leurs recherches. Après trois ans d’infructueux efforts, le colonel et le sergent durent suspendre provisoirement leurs investigations. D’ailleurs, à cette époque, le bruit de la mort de Nana Sahib avait couru l’Inde, et avec un tel degré de véracité, cette fois, qu’il n’y avait pas lieu de la mettre en doute.</p>
             <p>Sir Edward Munro et Mac Neil revinrent alors à Calcutta, où ils s’installèrent dans ce bungalow isolé. Là, ne lisant ni livres ni journaux, qui auraient pu lui rappeler la sanglante époque de l’insurrection, ne quittant jamais sa demeure, le colonel vécut en homme dont la vie est sans but. Cependant, la pensée de sa femme ne le quittait pas. Il semblait que le temps n’eût aucune prise sur lui et ne pût adoucir ses regrets.</p>
@@ -189,7 +187,7 @@
             <p>Et il eût été homme, sans doute, à courir cette chance en personne !</p>
             <p>Tels étaient les deux commensaux assidus du bungalow de sir Edward Munro. Le colonel aimait à les entendre discuter sur toutes choses, et leurs éternelles discussions amenaient quelquefois une sorte de sourire sur ses lèvres.</p>
             <p>Un désir commun à ces deux braves compagnons, c’était d’entraîner le colonel dans quelque voyage qui pût le distraire. Plusieurs fois, ils lui avaient proposé de partir pour le nord de la péninsule, d’aller passer quelques mois aux environs de ces « sanitarium » où la riche société anglo-indienne se réfugie volontiers pendant la saison des grandes chaleurs. Le colonel s’y était toujours refusé.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c4">La question fut de nouveau remise sur le tapis.</seg></p>
             <p>En ce qui concernait le voyage que Banks et moi nous comptions entreprendre, nous l’avions déjà pressenti à ce sujet. Ce soir même, la question fut de nouveau remise sur le tapis. On a vu que le capitaine Hod ne parlait rien de moins que de faire à pied une grande excursion dans le nord de l’Inde. Si Banks n’aimait pas les chevaux, Hod n’aimait pas le chemin de fer. Ils étaient à deux de jeu. </p>
@@ -199,7 +197,7 @@
             <p>— Et qui traînent des espèces de tartanes à quatre roues où l’on est plus rudement secoué que ne le sont les pêcheurs dans leurs barques sur une mer démontée !</p>
             <p>— Passe pour les tartanes, Banks, répondit le capitaine Hod. Mais n’avons-nous pas des voitures à deux, à trois, à quatre chevaux, qui peuvent rivaliser de vitesse avec vos « convois », bien dignes de porter ce nom funèbre ! J’aimerais encore mieux le simple palanquin…</p>
             <p>— Vos palanquins, capitaine Hod, de véritables bières, longues de six pieds, larges de quatre, où l’on est allongé comme un cadavre !</p>
-            <p>— Soit, Banks, mais pas de cahots, pas de secousses ; on peut lire, on peut écrire, et l’on peut dormir à l’aise, sans être réveillé à chaque station ! Avec un palanquin à quatre ou six Gamals<ref target="#cite_note-2"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>2<seg rend="cite-bracket">]</seg></seg></ref> bengalis, on fait encore quatre milles et demi<ref target="#cite_note-3"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>3<seg rend="cite-bracket">]</seg></seg></ref> à l’heure, et, comme dans vos express impitoyables, on ne risque pas au moins d’arriver avant même d’être parti… quand on arrive !</p>
+            <p>— Soit, Banks, mais pas de cahots, pas de secousses ; on peut lire, on peut écrire, et l’on peut dormir à l’aise, sans être réveillé à chaque station ! Avec un palanquin à quatre ou six Gamals<note>Nom des porteurs de palanquins dans l’Inde.</note> bengalis, on fait encore quatre milles et demi<note>Environ 8 kilomètres.</note> à l’heure, et, comme dans vos express impitoyables, on ne risque pas au moins d’arriver avant même d’être parti… quand on arrive !</p>
             <p>— Le mieux, dis-je alors, serait sans doute de pouvoir emporter sa maison avec soi !</p>
             <p>— Colimaçon ! s’écria Banks.</p>
             <p>— Mon ami, répondis-je, un colimaçon qui pourrait quitter sa coquille et y rentrer à volonté, ne serait peut-être pas tant à plaindre ! Voyager dans sa maison, une maison roulante, ce sera probablement le dernier mot du progrès en matière de voyage !</p>
@@ -215,7 +213,7 @@
             <p>— Tous ! » répondis-je.</p>
             <p>Le colonel Munro abaissa la tête en signe d’acquiescement.</p>
             <p>« C’est entendu, répondit Banks. Bien. Je poursuis. Vous vous êtes adressé à un carrossier doublé d’un architecte, et il vous a construit votre maison roulante. La voilà, bien établie, bien comprise, répondant aux exigences d’un ami du confort. Elle n’est point trop haute, ce qui lui évitera des culbutes ; elle n’est pas trop large, de manière à passer par tous les chemins ; elle est ingénieusement suspendue, afin que la route lui soit facile et douce.</p>
-            <p><seg rend="coquille">« </seg>Parfait, parfait ! Elle a été fabriquée pour notre ami le colonel, je suppose. Il nous y a offert l’hospitalité. Nous allons, si vous le voulez, visiter les contrées septentrionales de l’Inde, en colimaçons, mais en colimaçons que leur queue ne rive pas inséparablement à leurs coquilles. Tout est prêt. On n’a rien oublié… pas même le cuisinier et la cuisine, si chers au cœur du capitaine. Le jour du départ est venu, on va partir ! All right !… Et qui la traînera, votre maison roulante, mon excellent ami ?</p>
+            <p>« Parfait, parfait ! Elle a été fabriquée pour notre ami le colonel, je suppose. Il nous y a offert l’hospitalité. Nous allons, si vous le voulez, visiter les contrées septentrionales de l’Inde, en colimaçons, mais en colimaçons que leur queue ne rive pas inséparablement à leurs coquilles. Tout est prêt. On n’a rien oublié… pas même le cuisinier et la cuisine, si chers au cœur du capitaine. Le jour du départ est venu, on va partir ! All right !… Et qui la traînera, votre maison roulante, mon excellent ami ?</p>
             <p>— Qui ? s’écria le capitaine Hod, mais des mules, des ânes, des chevaux, des bœufs !…</p>
             <p>— Par douzaines ? dit Banks.</p>
             <p>— Des éléphants ! riposta le capitaine Hod, des éléphants ! Voilà qui serait superbe et majestueux ! Une maison traînée par un attelage d’éléphants, bien dressés, de fière allure, détalant, galopant comme les plus beaux carrossiers du monde !</p>
@@ -247,16 +245,12 @@
             <p>« Mac Neil, lui dit le colonel Munro, nous partons dans un mois pour le nord de l’Inde. Tu seras du voyage ?</p>
             <p>— Nécessairement, mon colonel, puisque vous en êtes ! » répondit le sergent Mac Neil.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Une femme non titrée, qui épouse un baronnet ou un chevalier, prend le titre de lady devant le nom de son mari. Mais cette qualification de lady ne peut précéder le nom de baptême, car, dans ce cas, elle est uniquement réservée aux filles de pairs.</seg></item>
-<item xml:id="cite_note-2"><seg rend="mw-cite-backlink"><ref target="#cite_ref-2"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Nom des porteurs de palanquins dans l’Inde.</seg></item>
-<item xml:id="cite_note-3"><seg rend="mw-cite-backlink"><ref target="#cite_ref-3"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Environ 8 kilomètres.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="La révolte des Cipayes">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_III._la_revolte_des_cipayes." type="h3"> CHAPITRE <seg n="3" rend="c1">III</seg>.</head>
+          <head rend="tmp c2" xml:id="CHAPITRE_III._la_revolte_des_cipayes." type="h3"> CHAPITRE <num value="3">III</num>.</head>
           <p rend="c3 h3"><hi rend="sc">la révolte des cipayes</hi>.</p>
           <p>Quelques mots feront sommairement connaître ce qu’était l’Inde à l’époque à laquelle ce récit se rattache, et plus particulièrement ce que fut cette formidable insurrection des Cipayes, dont il importe de reprendre ici les principaux faits.</p>
           <p>Ce fut en 1600, sous le règne d’Élisabeth, en pleine race solaire, dans cette Terre Sainte de l’Aryavarta, au milieu d’une population de deux cents millions d’habitants, dont cent douze millions appartenaient à la religion indoue, que se fonda la très honorable Compagnie des Indes, connue sous le sobriquet bien anglais de « <foreign xml:lang="en">Old John Company</foreign> ».</p>
@@ -266,7 +260,7 @@
           <p>Finalement, les Français, écrasés par le nombre, durent abandonner le Carnatique, cette portion de la péninsule, qui comprend une partie de sa lisière orientale. </p>
           <p>Lord Clive, libre de concurrents, ne craignant plus rien ni du Portugal ni de la France, entreprit alors d’assurer la conquête du Bengale, dont lord Hastings fut nommé le gouverneur général. Des réformes furent poursuivies par une administration habile et persévérante. Mais, de ce jour, la Compagnie des Indes, si puissante, si absorbante même, fut touchée directement dans ses intérêts les plus vifs. Quelques années plus tard, en 1784, Pitt apporta encore des modifications à sa charte primitive. Son sceptre dut passer entre les mains des conseillers de la Couronne. Résultat de ce nouvel ordre de choses : en 1813, la Compagnie allait perdre le monopole du commerce des Indes, et, en 1833, le monopole du commerce de la Chine.</p>
           <p>Toutefois, si l’Angleterre n’avait plus à lutter contre les associations étrangères dans la péninsule, elle eut à soutenir des guerres difficiles, soit avec les anciens possesseurs du sol, soit avec les derniers conquérants asiatiques de ce riche domaine.</p>
-          <p>Sous lord Cornwallis, en 1784, ce fut la lutte avec Tippo Sahib, tué le 4 mai 1799, dans le dernier assaut donné par le général Harris à Séringapatam. Ce fut la guerre avec les Maharattes, ce peuple de haute race, très puissant pendant le <hi n="18" rend="sc">XVIII</hi><hi rend="sup">e</hi> siècle, et la guerre avec les Pindarris, qui résistèrent si courageusement. Ce fut encore la guerre contre les Gourgkhas du Népaul, ces hardis montagnards, qui, dans la périlleuse épreuve de 1857, devaient rester les fidèles alliés des Anglais. Enfin, ce fut la guerre contre les Birmans, de 1823 à 1824.</p>
+          <p>Sous lord Cornwallis, en 1784, ce fut la lutte avec Tippo Sahib, tué le 4 mai 1799, dans le dernier assaut donné par le général Harris à Séringapatam. Ce fut la guerre avec les Maharattes, ce peuple de haute race, très puissant pendant le <num value="18">XVIII</num><hi rend="sup">e</hi> siècle, et la guerre avec les Pindarris, qui résistèrent si courageusement. Ce fut encore la guerre contre les Gourgkhas du Népaul, ces hardis montagnards, qui, dans la périlleuse épreuve de 1857, devaient rester les fidèles alliés des Anglais. Enfin, ce fut la guerre contre les Birmans, de 1823 à 1824.</p>
           <p>En 1828, les Anglais étaient maîtres, — directement ou indirectement, — d’une grande partie du territoire. Avec lord William Bentinck commença une nouvelle phase administrative.</p>
           <p>Depuis la régularisation des forces militaires dans l’Inde, l’armée avait toujours compté deux contingents très distincts, le contingent européen et le contingent natif ou indigène. Le premier formait l’armée royale, composée de régiments de cavalerie, de bataillons d’infanterie, et de bataillons d’infanterie européenne au service de la Compagnie des Indes ; le second formait l’armée native, comprenant des bataillons d’infanterie et des bataillons de cavalerie réguliers, mais indigènes, commandés par des officiers anglais. À cela, il fallait ajouter une artillerie, dont le personnel, appartenant à la Compagnie, était européen, à l’exception de quelques batteries.</p>
           <p>Quel était l’effectif de ces régiments ou bataillons, qui sont indifféremment nommés de cette façon dans l’armée royale ? Pour l’infanterie, onze cents hommes par bataillon dans l’armée du Bengale, et huit à neuf cents dans les armées de Bombay et de Madras ; pour la cavalerie, six cents sabres dans chaque régiment des deux armées.</p>
@@ -281,7 +275,7 @@
           <p>En effet, peu de temps après le départ du Nana se déclarait le mouvement insurrectionnel.</p>
           <p>Le gouvernement anglais venait d’introduire dans l’armée native l’usage de la carabine Enfield, qui nécessite l’emploi de cartouches graissées. Un jour, le bruit se répandit que cette graisse était, soit de la graisse de vache, soit de la graisse de porc, suivant que les cartouches étaient destinées aux soldats indous ou musulmans de l’armée indigène.</p>
           <p>Or, dans un pays où les populations renoncent à se servir même de savon, parce que la graisse d’un animal sacré ou vil peut entrer dans sa composition, l’emploi de cartouches enduites de cette substance, — cartouches qu’il fallait déchirer avec les lèvres, — devait être difficilement accepté. Le gouvernement céda en partie devant les réclamations qui lui furent faites ; mais il eut beau modifier la manœuvre de la carabine, assurer que les graisses en question ne servaient pas à la confection des cartouches, il ne rassura et ne persuada personne dans l’armée des Cipayes.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">Les brahmanes excitaient les esprits.</seg></p>
           <p>Le 24 février, à Berampore, le 34<hi rend="sup">e</hi> régiment refuse les cartouches. Au milieu du mois de mars, un adjudant est massacré, et le régiment licencié, après le supplice des assassins, va porter dans les provinces voisines de plus actifs ferments de révolte.</p>
@@ -305,7 +299,7 @@
           <p>Au début de l’insurrection, à Lahore, le grand-juge Montgomery et le brigadier Corbett avaient pu désarmer, sans répandre de sang, sous la bouche de douze pièces de canon, mèche allumée, les 8<hi rend="sup">e</hi>, 16<hi rend="sup">e</hi>, 26<hi rend="sup">e</hi> et 49<hi rend="sup">e</hi> régiments de l’armée native. À Moultan, les 62<hi rend="sup">e</hi> et 29<hi rend="sup">e</hi> régiments indigènes avaient aussi dû rendre leurs armes, sans pouvoir tenter une résistance sérieuse. De même à Peschawar, les 24<hi rend="sup">e</hi>, 27<hi rend="sup">e</hi> et 51<hi rend="sup">e</hi> régiments furent désarmés par le brigadier S. Colton et le colonel Nicholson, au moment où la révolte allait éclater. Mais des officiers du 51<hi rend="sup">e</hi> régiment ayant fui dans la montagne, leurs têtes furent mises à prix, et toutes furent bientôt rapportées par les montagnards.</p>
           <p>C’était le commencement des représailles.</p>
           <p>Une colonne, commandée par le colonel Nicholson, fut lancée alors sur un régiment natif, qui marchait vers Delhi. Les révoltés ne tardèrent pas à être atteints, battus, dispersés, et cent vingt prisonniers rentrèrent à Peschawar. Tous furent indistinctement condamnés à mort ; mais un sur trois seulement dut être exécuté. Dix canons furent rangés sur le champ de manœuvres, un prisonnier attaché à chacune de leurs bouches, et, cinq fois, les dix canons firent feu, en couvrant la plaine de débris informes, au milieu d’une atmosphère empestée par la chair brûlée. </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">« Il n’est pas besoin de m’attacher. »</seg></p>
           <p>Ces suppliciés, suivant M. de Valbezen, moururent presque tous avec cette héroïque indifférence que les Indiens savent si bien conserver en face de la mort. « Seigneur capitaine, dit à un des officiers qui présidaient l’exécution un beau Cipaye de vingt ans, en caressant nonchalamment de la main l’instrument de mort, seigneur capitaine, il n’est pas besoin de m’attacher, je n’ai pas envie de m’enfuir. »</p>
@@ -315,7 +309,7 @@
           <p>Le 30 juillet, douze cent trente-sept prisonniers tombaient successivement devant le peloton d’exécution, et cinquante autres n’échappaient au dernier supplice que pour mourir de faim et d’étouffement dans la prison où on les avait renfermés.</p>
           <p>Le 28 août, sur huit cent soixante-dix Cipayes qui fuyaient Lahore, six cent cinquante-neuf étaient impitoyablement massacrés par les soldats de l’armée royale.</p>
           <p>Le 23 septembre, après la prise de Delhi, trois princes de la famille du roi, l’héritier présomptif et ses deux cousins, se rendaient sans conditions au général Hodson, qui les emmena avec une escorte de cinq hommes seulement au milieu d’une foule menaçante de cinq mille Indous, — un contre mille. Et cependant, à mi-route, Hodson fit arrêter le char qui portait les prisonniers, il monta près d’eux, il leur ordonna de se découvrir la poitrine, il les tua tous trois à coups de revolver. « Cette sanglante exécution, de la main d’un officier anglais, dit M. de Valbezen, devait exciter dans le Pendjab la plus haute admiration. »</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">Hodson fit arrêter le char.</seg></p>
           <p>Après la prise de Delhi, trois mille prisonniers périssaient par le canon ou la potence, et avec eux, vingt-neuf membres de la famille royale. Le siège de Delhi, il est vrai, avait coûté aux assiégeants deux mille cent cinquante et un Européens et seize cent quatre-vingt-six natifs.</p>
@@ -339,7 +333,7 @@
           <p>Au début de l’année 1858, Campbell et Outram recommençaient une seconde campagne dans l’Oude, avec quatre divisions d’infanterie, que commandaient les majors généraux sir James Outram, sir Edward Lugar, les brigadiers Walpole et Franks. La cavalerie était sous sir Hope Grant, les armes spéciales sous Wilson et Robert Napier, — soit environ vingt-cinq mille combattants, que le maharajah du Népaul allait rejoindre avec douze mille Gourgkhas. Mais l’armée révoltée de la Bégum ne comptait pas moins de cent vingt mille hommes, et, la ville de Lucknow, sept à huit cent mille habitants. La première attaque se fit le 6 mars. À la date du 16, après une série de combats dans lesquels tombèrent le capitaine de vaisseau sir William Peel et le major Hodson, les Anglais étaient en possession de la partie de la ville située sur la Goumti. Malgré ces avantages, la Bégum et son fils résistaient encore dans le palais de Mousa-Bagh, à l’extrémité nord-ouest de Lucknow, et le Moulvi, chef musulman de la révolte, réfugié au centre même de la ville, refusait de se rendre. Le 19, une attaque d’Outram, le 21, un combat heureux, confirmaient enfin aux Anglais la pleine possession, de ce redoutable rempart de l’insurrection des Cipayes.</p>
           <p>Au mois d’avril, la révolte entrait dans sa dernière phase. Une expédition était faite dans le Rohilkhande, où s’étaient portés en grand nombre les insurgés fugitifs. Bareilli, la capitale du royaume, fut tout d’abord l’objectif des chefs de l’armée royale. Les débuts ne furent pas heureux. Les Anglais subirent une sorte de défaite à Judgespore. Le brigadier Adrien Hope fut tué. Mais, vers la fin du mois, Campbell arrivait, reprenait Schah-Jahanpore, et, le 5 mai, attaquant Bareilli, il couvrait la ville de feux et s’en emparait, sans avoir pu empêcher les rebelles de l’évacuer.</p>
           <p>Pendant ce temps, dans l’Inde centrale s’ouvraient les campagnes de sir Hugh Rose. Ce général, aux premiers jours de janvier 1858, marchait sur Saungor, à travers le royaume de Bhopal, en délivrait la garnison le 3 février, prenait le fort de Gurakota dix jours après, forçait les défilés de la chaîne des Vindhyas au col de Mandanpore, passait la Betwa, arrivait devant Jansi, défendue par onze mille révoltés, sous les ordres de la farouche Rani, l’investissait le 22 mars, au milieu d’une chaleur torride, détachait deux mille hommes de l’armée assiégeante pour barrer la route à vingt mille hommes du contingent de Gwalior, amenés par le fameux Tantia-Topi, culbutait ce chef rebelle, donnait assaut à la ville le 2 avril, forçait la muraille, s’emparait de la citadelle, d’où la Rani parvenait à s’échapper, reprenait les opérations contre le fort de Calpi, où la Rani et Tantia-Topi avaient résolu de mourir, en devenait maître le 22 mai, après un héroïque assaut, continuait la campagne à la poursuite de la Rani et de son compagnon, qui s’étaient jetés dans Gwalior, y concentrait, le 16 juin, ses deux brigades que rejoignait un renfort du brigadier Napier, écrasait les révoltés à Morar, réduisait la place le 18, et revenait à Bombay, après une campagne triomphale.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">Ce général forçait les défilés.</seg></p>
           <p>Ce fut précisément dans une rencontre d’avant-poste, devant Gwalior, que succomba la Rani. Cette redoutable reine, toute dévouée au nabab, sa plus fidèle compagne pendant l’insurrection, fut tuée de la main même de sir Edward Munro. Nana Sahib sur le cadavre de lady Munro, à Cawnpore, le colonel sur le cadavre de la Rani, à Gwalior, c’étaient là deux hommes en qui se résumait la révolte et la répression, deux ennemis dont la haine aurait des effets terribles, s’ils se retrouvaient jamais face à face !</p>
@@ -358,12 +352,12 @@
       <div type="section" n="Au fond des caves d’Ellora">
         <div type="section">
           <div type="section" xml:lang="fr" rend="prp-pages-output">
-            <head rend="tmp c2" xml:id="CHAPITRE_IV._au_fond_des_caves_d_ellora" type="h3"> CHAPITRE <seg n="4" rend="c1">IV</seg>.</head>
+            <head rend="tmp c2" xml:id="CHAPITRE_IV._au_fond_des_caves_d_ellora" type="h3"> CHAPITRE <num value="4">IV</num>.</head>
             <p rend="c3 h3">
               <hi rend="sc">au fond des caves d’ellora</hi>
             </p>
             <p>Il n’était que trop vrai. Le prince maharatte Dandou-Pant, le fils adoptif de Baji-Rao, Peïschwah de Pounah, en un mot Nana Sahib, — peut-être à cette époque l’unique survivant des chefs de la révolte des Cipayes, — avait pu quitter ses inaccessibles retraites du Népaul. Brave, audacieux, habitué à l’épreuve des dangers immédiats, habile à déjouer les poursuites, savant dans l’art d’embrouiller ses pistes, profondément rusé, il s’était aventuré jusque dans les provinces du Dekkan, sous l’inspiration toujours vivace d’une haine que les terribles représailles de l’insurrection de 1857 n’avaient pu que décupler.</p>
-            <p>Oui ! c’était une haine à mort que le Nana avait vouée aux possesseurs de l’Inde. Il était l’héritier de Baji-Rao, et, lorsque le Peïschwah mourut en 1851, la Compagnie refusa de continuer à lui servir la pension de huit lakhs de roupies<ref target="#cite_note-1-n76"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref> à laquelle il avait droit. De là, une des causes de cette haine, qui devait aboutir aux plus grands excès. </p>
+            <p>Oui ! c’était une haine à mort que le Nana avait vouée aux possesseurs de l’Inde. Il était l’héritier de Baji-Rao, et, lorsque le Peïschwah mourut en 1851, la Compagnie refusa de continuer à lui servir la pension de huit lakhs de roupies<note>Deux millions de francs.</note> à laquelle il avait droit. De là, une des causes de cette haine, qui devait aboutir aux plus grands excès. </p>
             <p>Mais qu’espérait donc Nana Sahib ? Depuis huit ans, la révolte des Cipayes était complètement domptée. Le gouvernement anglais s’était peu à peu substitué à l’honorable Compagnie des Indes et tenait la péninsule entière sous une autorité bien autrement forte que celle de l’Association des marchands. De la rébellion, il ne restait plus traces, pas même dans les rangs de l’armée native, entièrement réorganisée sur de nouvelles bases. Le Nana prétendait-il donc réussir à fomenter un mouvement national parmi les basses classes de l’Indoustan ? Ses projets seront bientôt connus. En tout cas, ce qu’il n’ignorait plus, c’est que sa présence avait été signalée dans la province d’Aurungabad,  c’est que le gouverneur général en avait avisé le vice-roi, à Calcutta, c’est que sa tête était mise à prix. Ce qui était certain, c’est qu’il avait dû fuir précipitamment, et qu’il lui fallait encore se réfugier dans un asile si bien caché, qu’il pût y échapper aux recherches des agents de la police anglo-indienne.</p>
             <p>Le Nana, pendant cette nuit du 6 au 7 mars, ne perdit pas une heure. Il connaissait parfaitement le pays. Il résolut de gagner Ellora, située à vingt-cinq milles d’Aurungabad, afin d’y rejoindre un de ses complices.</p>
             <p>La nuit était sombre. Le faux faquir, après s’être assuré qu’il n’était pas poursuivi, se dirigea vers ce mausolée, élevé à quelque distance de la ville en l’honneur du mahométan Sha-Soufi, un saint dont les reliques ont la réputation d’opérer des cures médicales. Mais tout dormait alors dans le mausolée, prêtres et pèlerins, et le Nana put passer sans être inquiété par quelque demande indiscrète.</p>
@@ -377,7 +371,7 @@
             <p>Dès que le Nana eut pénétré dans le boyau, il fit entendre un certain sifflement, auquel répondit un sifflement identique. Ce n’était point un jeu d’écho. Une lumière brilla dans l’obscurité.</p>
             <p>Aussitôt, un Indou se montra, tenant une petite lanterne à la main.</p>
             <p>« Pas de lumière ! dit le Nana.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">« Pas de lumière ! » dit le Nana.</seg></p>
             <p>— C’est toi, Dandou-Pant ? répondit l’Indou, qui éteignit aussitôt sa lanterne.</p>
@@ -417,7 +411,7 @@
             <p>— En route ! répondit Balao Rao. Ah ! ils ont promis deux mille livres à qui s’emparerait de toi ! Mais il ne suffit pas de mettre une tête à prix, il faut la prendre !</p>
             <p>— Ils ne la prendront pas, répondit Nana Sahib. Viens sans perdre un instant, frère, viens ! »</p>
             <p>Balao Rao s’avança d’un pas assuré à travers l’étroit couloir qui conduisait à ce réduit obscur, creusé sous le pavé du temple. Lorsqu’il fut arrivé à l’orifice que cachait la croupe de l’éléphant de pierre, il avança prudemment la tête, regarda dans l’ombre, à droite et à gauche, constata que les abords étaient déserts, et se hasarda au dehors. Par surcroît de précaution, il fit une vingtaine de pas sur l’avenue qui se développait suivant l’axe du temple ; puis, n’ayant rien aperçu de suspect, il poussa un sifflement, indiquant au Nana que la route était libre.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">Il regarda dans l’ombre.</seg></p>
             <p>Quelques instants après, les deux frères quittaient cette vallée artificielle, longue d’une demi-lieue, qui est toute trouée de galeries, de voûtes, d’excavations, étagées en de certains endroits jusqu’à une grande hauteur. Ils évitèrent de passer près de ce mausolée mahométan qui sert de bungalow aux pèlerins ou aux curieux de toutes nationalités, attirés par les merveilles d’Ellora ; enfin, après avoir contourné le village de Rauzah, ils se trouvèrent sur la route qui relie Adjuntah et Boregami.</p>
@@ -427,7 +421,7 @@
             <p>Les superbes grottes qui portent ce nom, rivales des merveilleuses caves d’Ellora, et peut-être plus belles dans leur ensemble, occupent la partie inférieure d’une petite vallée, à un demi mille environ de la ville.</p>
             <p>Nana Sahib pouvait donc se dispenser de passer par Adjuntah, où la notice du gouverneur devait être déjà affichée. En conséquence, nulle crainte d’être reconnu.</p>
             <p>Aussi, quinze heures après avoir quitté Ellora, ses deux compagnons et lui s’enfonçaient-ils à travers un étroit défilé, qui conduisait à la vallée célèbre, dont les vingt-sept temples, taillés « à même » dans le massif rocheux, se penchent sur de vertigineux abîmes.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">La vallée d’Adjuntah.</seg></p>
             <p>La nuit était superbe, tout étincelante de constellations, mais sans lune. De hauts arbres, des banians, quelques-uns de ces « bars », qui comptent parmi les géants de la flore indienne, se découpaient en noir sur le fond étoile du ciel. Pas un souffle ne traversait l’atmosphère, pas une feuille ne remuait, pas un bruit ne se faisait entendre, si ce n’est le sourd murmure d’un torrent, qui coulait à quelques centaines de pieds, dans le fond du ravin. Mais ce murmure s’accentua et devint un véritable mugissement, lorsque les chevaux eurent atteint la chute d’eau du Satkhound, qui tombe d’une hauteur de cinquante toises, en se déchirant à la saillie des rocs de quartz et de basalte. Une liquide poussière tourbillonnait dans le défilé et se fût nuancée des sept couleurs de l’arc-en-ciel, si la lune eût éclairé l’horizon dans cette belle nuit de printemps.</p>
@@ -443,18 +437,16 @@
             <p>À ce moment, le train de Calcutta filait à toute vitesse, jetant sa vapeur blanche aux superbes banians de la route, et ses hennissements aux fauves effarés des jungles.</p>
             <p>Le nabab avait arrêté son cheval, et, d’une voix forte, la main tendue vers le train qui fuyait :</p>
             <p>« Va, s’écria-t-il, va dire au vice-roi de l’Inde que Nana Sahib est toujours vivant, et que ce railway, œuvre maudite de leurs mains, il le noiera dans le sang des envahisseurs ! »</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">Puis dix, puis vingt autres.</seg></p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n76"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n63"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Deux millions de francs.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Le Géant d’Acier">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_V._le_geant_d_acier" type="h3"> CHAPITRE <seg n="5" rend="c1">V</seg>.</head>
+          <head rend="tmp c2" xml:id="CHAPITRE_V._le_geant_d_acier" type="h3"> CHAPITRE <num value="5">V</num>.</head>
           <p rend="c3 h3">
             <hi rend="sc">le géant d’acier</hi>
           </p>
@@ -492,7 +484,7 @@
           <p>Que l’on se figure deux espèces de pagodes sans minarets, avec leurs toits à double faîtage, arrondis en dômes ventrus, l’encorbellement de leurs fenêtres que supportent des pilastres sculptés, leur ornementation en découpages multicolores de bois précieux, leurs contours que dessinent gracieusement des courbes élégantes, les vérandahs si richement disposées, qui les terminent à l’avant et à l’arrière. Oui ! deux pagodes que l’on croirait détachées de la colline sainte de Sonnaghur, et qui, reliées l’une à l’autre, à la remorque de cet éléphant d’acier, allaient courir les grandes routes !</p>
           <p>Et ce qu’il faut ajouter, car cela complète bien ce prodigieux appareil de locomotion, c’est qu’il peut flotter. En effet, la partie inférieure du corps de l’éléphant, qui contient chaudière et machine, forme bateaux de tôle légère, dont une heureuse disposition de boîtes à air assure la flottabilité. Un cours d’eau se présente-t-il, l’éléphant s’y lance, le train suit, et les pattes de l’animal, mues par les bielles, entraînent tout Steam-House. Avantage inappréciable dans cette vaste contrée de l’Inde, où abondent des fleuves dont les ponts sont encore à construire.</p>
           <p>Tel était donc ce train, unique en son genre, et tel l’avait voulu le capricieux rajah de Bouthan.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Tel était donc le train.</seg></p>
           <p>Mais si Banks avait respecté cette fantaisie qui donnait au moteur la forme d’un éléphant, et aux voitures l’apparence de pagodes, il avait cru devoir aménager l’intérieur au goût anglais, en l’appropriant pour un voyage de longue durée. C’était très réussi.</p>
@@ -515,10 +507,10 @@
       </div>
       <div type="section" n="Premières étapes">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_VI_premieres_etapes." type="h3"> CHAPITRE <seg n="6" rend="c1">VI</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_VI_premieres_etapes." type="h3"> CHAPITRE <num value="6">VI</num></head>
           <p rend="c3 h3"><hi rend="sc">premières étapes</hi>.</p>
           <p>Le 6 mai, dès l’aube, j’avais quitté l’hôtel Spencer, l’un des meilleurs de Calcutta, où je demeurais depuis mon arrivée dans la capitale de l’Inde. Cette grande cité n’avait plus maintenant de secrets pour moi. Promenades du matin, à pied, pendant les premières heures du jour ; promenades du soir, en voiture, dans le Strand, jusqu’à l’esplanade du fort William, au milieu des splendides équipages des Européens qui croisent assez dédaigneusement les non moins splendides voitures des gros et gras babous indigènes ; excursions à travers ces curieuses rues marchandes, qui portent très justement le nom de bazars ; visites aux champs d’incinération des morts, sur les bords du Gange, aux jardins botaniques du naturaliste Hooker, à « madame Kâli », l’horrible femme à quatre bras, cette farouche déesse de la mort, qui se cache dans un petit temple de l’un de ces faubourgs, dans lesquels se côtoient la civilisation moderne et la barbarie native, c’était fait. Contempler le palais du vice-roi, qui s’élève précisément en face de l’hôtel Spencer ; admirer le curieux palais de Chowringhi Road et le Town-Hall, consacré à la mémoire des grands hommes de notre époque ; étudier en détail l’intéressante mosquée d’Hougly ; courir le port, encombré des plus beaux bâtiments de commerce de la marine anglaise ; dire enfin adieu aux arghilas, adjudants ou philosophes, — ces oiseaux ont tant de noms ! — qui sont chargés de nettoyer les rues et de tenir la ville dans un parfait état de salubrité, cela était fait aussi, et je n’avais plus qu’à partir.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">L’Hougly à Calcutta.</seg></p>
           <p>Donc, ce matin-là, un palki-ghari, sorte de mauvaise voiture à deux chevaux et à quatre roues, — indigne de figurer parmi les confortables produits de la carrosserie anglaise, — vint me prendre sur la place du Gouvernement et m’eut bientôt déposé à la porte du bungalow du colonel Munro.</p>
@@ -564,7 +556,7 @@
           <p>— En effet, répondit Banks, le Gange, c’est un fils de Dieu, s’il n’est Dieu lui-même, et rien de ce qu’il fait n’est mal à leurs yeux !</p>
           <p>— Pas même les fièvres, le choléra, la peste qu’il entretient à l’état endémique ! s’écria le capitaine Hod. Il est vrai que les tigres et les crocodiles, qui fourmillent dans les Sunderbunds, ne s’en portent pas plus mal. Au contraire ! On dirait, vraiment, que l’air empesté convient à ces animaux-là comme l’air pur d’un sanitarium aux Anglo-Indiens pendant la saison chaude. Ah ! ces carnassiers ! — Fox ? dit Hod en se retournant vers son brosseur, qui desservait la table.</p>
           <p>— Mon capitaine ? répondit Fox.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« Mon capitaine ? ».</seg></p>
           <p>— N’est-ce pas là que tu as tué ton trente-septième ?</p>
@@ -578,7 +570,7 @@
           <p>« Les hommes, dit M. de Valbezen, soufflent alors comme des chevaux cornards, et, pendant la guerre de répression, officiers et soldats étaient obligés de recourir aux douches sur la tête afin de prévenir les congestions. »</p>
           <p>Toutefois, grâce à la marche de Steam-House, à l’agitation de la couche d’air provoquée par les battements de la punka, à l’atmosphère humide qui circulait à travers les écrans de vétiver fréquemment arrosés, nous ne souffrions pas trop de la chaleur. D’ailleurs, la saison des pluies, qui dure depuis le mois de juin jusqu’au mois d’octobre, n’était pas éloignée, et il était à craindre qu’elle fût plus désagréable que la saison chaude. Après tout, dans les conditions où s’opérait notre voyage, nous n’avions rien de grave à redouter.</p>
           <p>Vers une heure de l’après-midi, après une délicieuse promenade au petit pas, qui s’était faite sans sortir de notre maison, nous sommes arrivés à Chandernagor.</p>
-          <p>J’avais déjà visité ce coin de territoire, — le seul qui reste à la France dans toute la présidence du Bengale. Cette ville, abritée par le drapeau tricolore et qui n’a pas le droit d’entretenir plus de quinze soldats pour sa garde personnelle, cette ancienne rivale de Calcutta pendant les luttes du <hi n="18" rend="sc">XVIII</hi><hi rend="sup">e</hi> siècle, est aujourd’hui bien déchue, sans industrie, sans commerce, ses bazars abandonnés, son fort vide. Peut-être Chandernagor aurait-elle repris quelque vitalité, si le railway d’Allahabad eût traversé ou tout au moins longé ses murs ; mais, devant les exigences du gouvernement français, la compagnie anglaise a dû faire obliquer sa voie, de manière à contourner notre territoire, et Chandernagor a perdu là l’unique occasion de retrouver quelque importance commerciale.</p>
+          <p>J’avais déjà visité ce coin de territoire, — le seul qui reste à la France dans toute la présidence du Bengale. Cette ville, abritée par le drapeau tricolore et qui n’a pas le droit d’entretenir plus de quinze soldats pour sa garde personnelle, cette ancienne rivale de Calcutta pendant les luttes du <num value="18">XVIII</num><hi rend="sup">e</hi> siècle, est aujourd’hui bien déchue, sans industrie, sans commerce, ses bazars abandonnés, son fort vide. Peut-être Chandernagor aurait-elle repris quelque vitalité, si le railway d’Allahabad eût traversé ou tout au moins longé ses murs ; mais, devant les exigences du gouvernement français, la compagnie anglaise a dû faire obliquer sa voie, de manière à contourner notre territoire, et Chandernagor a perdu là l’unique occasion de retrouver quelque importance commerciale.</p>
           <p>Notre train n’entra donc pas dans la ville. Il s’arrêta à trois milles, sur la route, à l’entrée d’un bois de lataniers. Lorsque le campement eut été organisé, on aurait dit un commencement de village qui venait se fonder en cet endroit. Mais le village était mobile, et, dès le lendemain, 7 mai, il reprenait sa marche interrompue, après une nuit calme, passée dans nos confortables cabines.</p>
           <p>Pendant cette halte, Banks avait fait renouveler le combustible. Bien que la machine eût peu consommé, il tenait à ce que le tender portât toujours sa pleine charge, c’est-à-dire, en eau, en bois ou en charbon, de quoi marcher pendant soixante heures.</p>
           <p>Cette règle, le capitaine Hod et son fidèle Fox ne manquaient pas de l’appliquer à eux-mêmes, et leur foyer intérieur, — je veux dire leur estomac, qui offrait une grande surface de chauffe, — était toujours muni de ce combustible azoté, indispensable pour faire marcher bien et longtemps la machine humaine.</p>
@@ -588,7 +580,7 @@
           <p>Le pays qui fut traversé pendant ces deux jours était invariablement  plat et, par cela même, assez monotone. Çà et là se balançaient quelques flexibles cocotiers, dont les derniers échantillons allaient rester en arrière, au delà de Burdwan. Ces arbres, qui appartiennent à la grande famille des palmiers, sont amis des côtes et aiment à retrouver quelques molécules d’air marin dans l’atmosphère qu’ils respirent. Aussi, en dehors d’une zone assez étroite qui confine au littoral, ne les rencontre-t-on plus, et il est inutile de les chercher dans l’Inde centrale. Mais la flore de l’intérieur n’en est pas moins intéressante et variée.</p>
           <p>De chaque côté de la route, ce n’était, à proprement parler, qu’un immense échiquier de rizières, qui se dessinait à perte de vue. Le sol était divisé en quadrilatères, endigués comme les marais salants ou les parcs aux huîtres d’un littoral. Mais la couleur verte dominait, et la récolte promettait d’être belle sur cet humide et chaud territoire, dont les buées indiquaient la prodigieuse fertilité.</p>
           <p>Le lendemain soir, à l’heure dite, avec une exactitude qu’un express eût enviée, la machine donnait son dernier coup de vapeur et s’arrêtait aux portes de Burdwan.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">La ville est composée de maisons basses.</seg></p>
           <p>Administrativement, cette cité est le chef-lieu d’un district anglais, mais le district appartient en propre à un maharajah, qui ne paye pas moins de dix millions d’impôts au gouvernement. La ville est, en grande partie, composée de maisons basses, que séparent de belles allées d’arbres, cocotiers et aréquipiers. Ces allées étaient assez larges pour livrer passage à notre train. Nous allâmes donc camper en un endroit charmant, plein d’ombre et de fraîcheur. Ce soir-là, la capitale du maharajah compta un petit quartier de plus. C’était notre hameau portatif, notre village de deux maisons, et nous ne l’aurions pas changé pour tout le quartier où s’élève le splendide palais d’architecture anglo-indienne du souverain de Burdwan.</p>
@@ -610,7 +602,7 @@
           <p>Pendant ce temps, le capitaine Hod et moi, accompagnés de Fox, de Goûmi et des deux chiens d’arrêt, nous allions chasser aux environs du campement. Ce n’était encore que le petit gibier de poil et de plume ; mais si le capitaine en faisait fi comme chasseur, il n’en faisait pas fi comme gourmet, et le lendemain, à son extrême contentement comme à la grande satisfaction de monsieur Parazard, le menu du repas comptait quelques pièces savoureuses, qui économisaient nos conserves.</p>
           <p>Quelquefois, Goûmi et Fox restaient pour faire l’office de bûcherons et de porteurs d’eau. Ne fallait-il pas réapprovisionner le tender pour la journée du lendemain ? Aussi, autant que possible, Banks choisissait-il les lieux de halte sur les bords d’un ruisseau, à proximité de quelque bois. Tout ce ravitaillement indispensable s’opérait sous la direction de l’ingénieur, qui ne négligeait aucun détail.</p>
           <p>Puis, lorsque tout était terminé, nous allumions nos cigares, — d’excellents « cherouts » de Manille, — et nous fumions en causant de ce pays que Hod et Banks connaissaient à fond. Quant au capitaine, dédaignant le vulgaire cigare, il aspirait de ses vigoureux poumons, à travers un tuyau long de vingt pieds, la fumée aromatisée d’un « houkah », soigneusement bourré par la main de son brosseur.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Nous allumions nos cigares.</seg></p>
           <p>Notre plus grand désir eût été que le colonel Munro nous suivît pendant ces rapides excursions aux abords du campement. Invariablement, nous le lui proposions au moment de partir, mais, invariablement aussi, il déclinait notre offre et restait avec le sergent Mac Neil. Tous deux, alors, se promenaient sur la route, allant et venant pendant une centaine de pas. Ils parlaient peu, mais ils semblaient s’entendre à merveille, et n’avaient plus besoin d’échanger des paroles pour échanger des pensées. Ils étaient l’un et l’autre entièrement absorbés dans ces funestes souvenirs que rien ne pouvait effacer. Qui sait même si ces souvenirs ne se ravivaient pas, à mesure que sir Edward Munro et le sergent se rapprochaient du théâtre de la sanglante insurrection !</p>
@@ -619,7 +611,7 @@
       </div>
       <div type="section" n="Les pèlerins du Phalgou">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_VII._les_pelerins_du_phalgou." type="h3"> CHAPITRE <seg n="7" rend="c1">VII</seg>.</head>
+          <head rend="tmp c2" xml:id="CHAPITRE_VII._les_pelerins_du_phalgou." type="h3"> CHAPITRE <num value="7">VII</num>.</head>
           <p rend="c3 h3"><hi rend="sc">les pèlerins du phalgou</hi>.</p>
           <p>Le Behar formait autrefois l’empire de Magadha. C’était une sorte de territoire sacré, au temps des Bouddhistes, et il est encore couvert de temples et de monastères. Mais, depuis bien des siècles, les brahmanes ont succédé aux prêtres de Bouddha. Ils se sont emparés des « viharas », ils les exploitent, ils vivent des produits du culte ; les fidèles leur arrivent de toutes parts ; ils font concurrence aux eaux sacrées du Gange, aux pèlerinages de Bénarès, aux cérémonies de Jaggernaut ; enfin, on peut dire que la contrée leur appartient.</p>
           <p>Riche pays, avec ses immenses rizières d’un vert émeraude et ses vastes plantations de pavots, avec ses nombreuses bourgades, perdues dans la verdure, ombragées de palmiers, de manguiers, de dattiers, de taras, sur lesquels la nature a jeté, comme un filet, un inextricable réseau de lianes. Les routes que suit Steam-House forment autant de berceaux touffus, dont un sol humide entretient la fraîcheur. Nous avançons, la carte sous les yeux, sans jamais craindre de nous égarer. Les hennissements de notre éléphant se mêlent aux assourdissants concerts de la gent ailée et aux discordantes criailleries des tribus simiesques. Sa fumée enroule d’épaisses volutes aux phénix champêtres, aux bananiers, dont les fruits dorés se détachent comme des étoiles au milieu de légers nuages. Sur son passage se lèvent des volées de ces frêles oiseaux de riz, qui confondent leur plumage blanc avec les blanches spirales de la vapeur. Çà et là, des groupes de banians, des bouquets de pamplemousses, des carrés de « dalhs », espèces de pois arborescents que supporte une tige haute d’un mètre, se détachent en vigueur, et servent de repoussoirs aux paysages des arrière-plans.</p>
@@ -662,7 +654,7 @@
           <p>Le capitaine Hod était furieux. Il avait voulu faire un mauvais parti au brahmane qui nous refusait l’accès du Vishnou-Pad.</p>
           <p>« Y pensez-vous, Hod ? lui avait dit Banks, en le retenant. Ne savez-vous pas que les Indous regardent leurs prêtres, les brahmanes, non seulement comme des êtres d’un sang illustre, mais aussi comme des êtres d’une origine supérieure ? »</p>
           <p>Lorsque nous fûmes arrivés à la partie du Phalgou qui baigne le rocher de Gaya, la prodigieuse agglomération des pèlerins se développa largement sous nos regards. Là se coudoyaient, dans un pêle-mêle sans nom, hommes et femmes, vieillards et enfants, citadins et ruraux, riches babous et pauvres raïots de la plus infime catégorie, des Vaïchyas, marchands et agriculteurs, des Kchatryas, fiers guerriers du pays, des Sudras, misérables artisans de sectes différentes, des parias, qui sont hors la loi, et dont les yeux souillent les objets qu’ils regardent, — en un mot, toutes les classes ou toutes les castes de l’Inde, le Radjoupt vigoureux repoussant du coude le Bengali malingre, les gens du Pendjab opposés aux mahométans du Scinde. Les uns sont venus en palanquins, les autres dans des voitures traînées par les grands bœufs à bosse. Ceux-ci sont étendus près de leurs chameaux, dont la tête vipérine s’allonge sur le sol, ceux-là ont fait la route à pied, et il en arrive encore de toutes les parties de la péninsule. Çà et là se dressent des tentes, çà et là des charrettes dételées, çà et là des huttes de branches, qui servent de demeures provisoires à tout ce monde.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">… en un mot, toutes les castes de l’Inde.</seg></p>
           <p>« Quelle cohue ! dit le capitaine Hod.</p>
@@ -684,7 +676,7 @@
           <p>En ce moment, un brahmane parut au milieu de la foule. Il leva la main droite et la dirigea vers le soleil, que le massif du rocher de Gaya avait caché jusqu’alors.</p>
           <p>Le premier rayon, lancé par l’astre radieux, fut le signal. La foule, à peu près nue, entra dans les eaux sacrées. Il y eut alors de simples immersions, comme aux premiers temps du baptême ; mais, je dois le dire, elles ne tardèrent pas à se changer en véritables parties de pleine eau, dont le caractère religieux était difficile à saisir. J’ignore si les initiés, en récitant les « slocas » ou versets, que, pour un prix convenu, leur dictaient les prêtres, songeaient plus à laver leur corps que leur âme. La vérité est qu’après avoir pris de l’eau dans le creux de la main, après en avoir aspergé les quatre points cardinaux, ils s’en jetaient quelques gouttes au visage, comme des baigneurs qui s’amusent dans les premières lames d’une grève de bains de mer. Je dois ajouter, d’ailleurs, qu’ils n’oubliaient pas de s’arracher au moins un cheveu pour chaque péché qu’ils avaient commis. Combien y en avait-il là qui eussent mérité de sortir chauves des eaux du Phalgou !</p>
           <p>Et tels étaient les ébats balnéaires de ces fidèles, tantôt troublant l’eau par leurs subits plongeons, tantôt la battant du talon comme un nageur émérite, que les alligators effrayés s’enfuyaient à la rive opposée. Là, d’un œil glauque fixé sur toute cette foule bruyante qui envahissait leur domaine, ils regardaient et restaient en ligne, faisant retentir l’air du claquement de leurs formidables mâchoires. Les pèlerins, d’ailleurs, ne s’en souciaient pas plus que de lézards inoffensifs.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Ils restaient en ligne.</seg></p>
           <p>Il était temps de laisser ces singuliers dévots se mettre en état d’entrer dans le Kaïlas, qui est le paradis de Brahma. Nous remontâmes donc la rive du Phalgou, afin de rejoindre le campement.</p>
@@ -696,7 +688,7 @@
           <p>L’idée me vint d’abord que, sous l’influence d’une atmosphère très saturée d’électricité, quelque vent d’orage commençait à se lever dans l’ouest. Il serait brûlant, sans doute, mais enfin il déplacerait les couches de l’air, et le rendrait peut-être plus respirable.</p>
           <p>Je me trompais. La ramure des arbres qui abritaient le campement gardait une absolue immobilité.</p>
           <p>Je passai la tête à travers la baie de ma fenêtre, et j’écoutai. Le murmure lointain se fit encore entendre, mais je ne vis rien. La nappe du Phalgou était entièrement sombre, sans aucun de ces reflets tremblotants qu’eut produits une agitation quelconque de sa surface. Le bruit ne venait ni de l’eau ni de l’air.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Le bruit ne venait ni de l’eau, ni de l’air.</seg></p>
           <p>Cependant, je n’aperçus rien de suspect. Je me recouchai donc, et, la fatigue l’emportant, je commençai à m’assoupir. À de certains intervalles, quelques bouffées de cet inexplicable murmure m’arrivaient encore, mais je finis par m’endormir tout à fait.</p>
@@ -746,7 +738,7 @@
           <p>Il ouvrit aussitôt le robinet des purgeurs des cylindres, et d’intenses jets de vapeur fusèrent au ras du sol, pendant que l’air retentissait de sifflets stridents.</p>
           <p>« Hurrah ! hurrah ! hurrah ! s’écria le capitaine Hod. Cinglez-les, ami Banks, cinglez-les ! »</p>
           <p>Le moyen était bon. Les fanatiques, atteints par les jets de vapeur, se relevèrent en poussant des cris d’échaudés. Se faire écraser, bien ! Se faire brûler, non !</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Les fanatiques se relevèrent.</seg></p>
           <p>La foule recula et le chemin redevint libre. Le régulateur fut alors ouvert en grand, les roues mordirent profondément le sol.</p>
@@ -756,7 +748,7 @@
       </div>
       <div type="section" n="Quelques heures à Bénarès">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_VIII._quelques_heures_a_benares." type="h3"> CHAPITRE <seg n="8" rend="c1">VIII</seg>.</head>
+          <head rend="tmp c2" xml:id="CHAPITRE_VIII._quelques_heures_a_benares." type="h3"> CHAPITRE <num value="8">VIII</num>.</head>
           <p rend="c3 h3">
             <hi rend="sc">quelques heures à bénarès.</hi>
           </p>
@@ -804,12 +796,12 @@ De l’occident à l’orient !</p>
           <p>Ce combat s’était livré en dehors de la ville. Au dedans, il n’y eut qu’une simple tentative d’insurrection des musulmans, qui hissèrent le drapeau vert, — tentative aussitôt avortée. Depuis ce jour, pendant toute la durée de la révolte, Bénarès ne fut plus troublée, même aux heures où l’insurrection parut être triomphante dans les provinces de l’Ouest.</p>
           <p>Banks m’avait donné ces quelques détails, tandis que notre gondole glissait lentement sur les eaux du Gange.</p>
           <p>« Mon cher ami, me dit-il, nous allons visiter Bénarès, bien ! Mais, si ancienne que soit cette capitale, vous n’y trouverez aucun monument qui compte plus de trois cents ans d’existence. Ne vous en étonnez pas. C’est la conséquence des luttes religieuses, dans lesquelles le fer et le feu ont joué un trop regrettable rôle. Quoi qu’il en soit, Bénarès n’en est pas moins une ville curieuse, et vous ne regretterez pas votre promenade ! »</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c8">Bénarès : Vue générale.</seg></p>
           <p>Bientôt notre gondole s’arrêta à bonne distance pour nous permettre de contempler, au fond d’une baie bleue comme la baie de Naples, le pittoresque amphithéâtre des maisons qui s’étagent sur la colline, et l’entassement des palais, dont tout un massif menace de s’écrouler par suite d’un fléchissement de leur base, incessamment minée par les eaux du fleuve. Une pagode népalaise, d’architecture chinoise, qui est consacrée à Bouddha, une forêt de tours, d’aiguilles, de minarets, de pyramidions, que projettent les mosquées et les temples, dominés par la flèche d’or du lingam de Siva et les deux maigres flèches de la mosquée d’Aureng-Zeb, couronne ce merveilleux panorama.</p>
           <p>Au lieu de débarquer immédiatement à l’un des « ghâts » ou escaliers qui relient les rives à la plate-forme des berges, Banks fit passer la gondole devant les quais, dont les premières assises baignent dans le fleuve.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c8">Bénarès : Pagode népalaise.</seg></p>
           <p>Je retrouvai là une reproduction de la scène de Gaya, mais dans un autre paysage. Au lieu des forêts vertes du Phalgou, c’étaient les arrière-plans de la ville sainte qui faisaient le fond du tableau. Quant au sujet, il était à peu près le même.</p>
@@ -830,12 +822,12 @@ De l’occident à l’orient !</p>
           <p>J’aurais aimé à contempler Bénarès du haut de l’un des minarets de cette mosquée, dont la construction est regardée comme un tour de force architectural. Hauts de cent trente-deux pieds, ils ont à peine le diamètre d’une simple cheminée d’usine, et pourtant, un escalier tournant se développe dans leur fût cylindrique ; mais il n’est plus permis d’y monter, et non sans raison. Déjà ces deux minarets s’écartent sensiblement de la verticale, et, moins doués de vitalité que la tour de Pise, ils finiront par tomber quelque jour.</p>
           <p>En quittant la mosquée d’Aureng-Zeb, je retrouvai le Bengali qui nous attendait à la porte. Cette fois, je le regardai fixement, et il baissa les yeux. Avant d’attirer l’attention de Banks sur cet incident, je voulus voir si la conduite équivoque de cet individu persisterait, et je ne dis rien.</p>
           <p>C’est par centaines que les pagodes et les mosquées se comptent dans cette merveilleuse ville de Bénarès. Il en est de même de ces splendides palais, dont le plus beau, sans contredit, appartient au roi de Nagpore. Peu de rajahs, en effet, négligent d’avoir un pied à terre dans la cité sainte, et ils y viennent à l’époque des grandes fêtes religieuses de Méla.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c8">Le temple Mankarnika.</seg></p>
           <p>Je ne pouvais avoir la prétention de visiter tous ces édifices dans le peu de temps dont nous disposions. Je me bornai donc à rendre visite au temple de Bichêshwar, où se dresse le lingam de Siva. Cette pierre informe, regardée comme une partie du corps du plus farouche des Dieux de la mythologie indoue, recouvre un puits, dont l’eau croupissante possède, dit-on, des vertus miraculeuses. Je vis aussi le Mankarnika, ou la fontaine sacrée, dans laquelle se baignent les dévots pour le plus grand profit des brahmanes, puis le Mân-Mundir, observatoire bâti il y a deux cents ans par l’empereur Akbar, et dont tous les instruments, d’une immobilité marmoréenne, ne sont que figurés en pierre.</p>
           <p>J’avais aussi entendu parler d’un palais des singes, que les touristes ne manquent pas de visiter à Bénarès. Un Parisien devait naturellement croire  qu’il allait se retrouver devant la célèbre cage du Jardin des Plantes, il n’en était rien.</p>
-          <p>Ce palais n’est qu’un temple, le Dourga-Khound, situé un peu en dehors des faubourgs. Il date du <hi n="9" rend="sc">IX</hi><hi rend="sup">e</hi> siècle, et compte parmi les plus anciens monuments de la ville. Les singes n’y sont point enfermés dans une cage grillée. Ils errent librement à travers les cours, sautent d’un mur à l’autre, grimpent à la cime d’énormes manguiers, se disputent à grands cris les grains grillés, dont ils sont très friands, et que les visiteurs leur apportent. Là, comme partout, les brahmanes, gardiens du Dourga-Khound, prélèvent  une petite rétribution, qui fait évidemment de cette profession une des plus lucratives de l’Inde.</p>
+          <p>Ce palais n’est qu’un temple, le Dourga-Khound, situé un peu en dehors des faubourgs. Il date du <num value="9">IX</num><hi rend="sup">e</hi> siècle, et compte parmi les plus anciens monuments de la ville. Les singes n’y sont point enfermés dans une cage grillée. Ils errent librement à travers les cours, sautent d’un mur à l’autre, grimpent à la cime d’énormes manguiers, se disputent à grands cris les grains grillés, dont ils sont très friands, et que les visiteurs leur apportent. Là, comme partout, les brahmanes, gardiens du Dourga-Khound, prélèvent  une petite rétribution, qui fait évidemment de cette profession une des plus lucratives de l’Inde.</p>
           <p>Il va sans dire que nous étions passablement fatigués par la chaleur, lorsque, vers le soir, nous songeâmes à revenir à Steam-House. Nous avions déjeuné et dîné à Sécrole, dans un des meilleurs hôtels de la ville anglaise, et, cependant, je dois dire que cette cuisine nous fit regretter celle de monsieur Parazard.</p>
           <p>Lorsque la gondole revint au pied du Gâth pour nous ramener à la rive droite du Gange, je retrouvai une dernière fois le Bengali, à deux pas de l’embarcation. Un canot, monté par un Indou, l’attendait. Il s’embarqua. Voulait-il donc passer le fleuve et nous suivre encore jusqu’au campement ? Cela devenait très suspect.</p>
           <p>« Banks, dis-je alors, à voix basse, en montrant le Bengali, voici un espion qui ne nous a pas quittés d’une semelle…</p>
@@ -862,7 +854,7 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="Allahabad">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_IX._allahabad" type="h3">CHAPITRE <seg n="9" rend="c1">IX</seg>.</head>
+          <head rend="tmp c2" xml:id="CHAPITRE_IX._allahabad" type="h3">CHAPITRE <num value="9">IX</num>.</head>
           <p rend="c3 h3">
             <hi rend="sc">allahabad</hi>
           </p>
@@ -896,7 +888,7 @@ De l’occident à l’orient !</p>
           <p>Le Dieu des chrétiens, lui, ne rend qu’au centuple. C’est cent fois moins, sans doute, mais il m’inspire plus de confiance.</p>
           <p>Un mot du fort d’Allahabad, qui est curieux à visiter. Il est construit à l’ouest de cette grande plaine des Aumônes, et profile hardiment ses hautes murailles en grès rouge, dont les projectiles peuvent, qu’on nous passe l’expression, « casser les bras » aux deux fleuves. Au milieu du fort, un palais, devenu un arsenal, autrefois résidence préférée du sultan Akbar, — dans un des coins, le Lât de Féroze-Schachs, superbe monolithe de trente-six pieds, qui supporte un lion, — non loin, un petit temple, que les Indous, auxquels on refuse l’entrée du fort, ne peuvent visiter, bien qu’il soit un des endroits les plus sacrés du monde : tels sont les principaux points de la forteresse qui attirent l’attention des touristes.</p>
           <p>Banks m’apprit que le fort d’Allahabad avait aussi sa légende, qui rappelle la légende biblique, relative à la reconstruction du temple de Salomon, à Jérusalem.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Le fort d’Allahabad.</seg></p>
           <p>Lorsque le sultan voulut bâtir le fort d’Allahabad, il paraît que les pierres se montrèrent fort récalcitrantes. Un mur était-il construit, il s’écroulait aussitôt. On consulta l’oracle. L’oracle répondit, comme toujours, qu’il fallait une victime volontaire pour conjurer le mauvais sort. Un Indou s’offrit en holocauste. Il fut sacrifié, et le fort s’acheva. Cet Indou se nommait Brog, et voilà pourquoi la ville est encore désignée aujourd’hui sous le double nom de Brog-Allahabad.</p>
@@ -928,7 +920,7 @@ De l’occident à l’orient !</p>
           <p>Lorsque le dîner fut achevé, le colonel Munro, au lieu de rester à faire la sieste, suivant son habitude, descendit le marche-pied de la vérandah, fit quelques pas sur la route, y jeta une dernière fois un long regard ; puis, se retournant vers nous :</p>
           <p>« Banks, Hod, et vous aussi, Maucler, dit-il, voudriez-vous m’accompagner jusqu’aux premières maisons des cantonnements ? »</p>
           <p>Nous quittâmes immédiatement la table, à la suite du colonel, qui marchait lentement, sans prononcer une parole. </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« Lisez, » dit-il.</seg></p>
           <p>Après avoir fait une centaine de pas, sir Edward Munro s’arrêta devant un poteau qui se dressait sur la droite de la route, et sur lequel une notice était affichée.</p>
@@ -977,7 +969,7 @@ De l’occident à l’orient !</p>
       <div type="section" n="Via Dolorosa">
         <div type="section">
           <div type="section" xml:lang="fr" rend="prp-pages-output">
-            <head rend="tmp c2" xml:id="CHAPITRE_X_via_dolorosa" type="h3">CHAPITRE <seg n="10" rend="c1">X</seg></head>
+            <head rend="tmp c2" xml:id="CHAPITRE_X_via_dolorosa" type="h3">CHAPITRE <num value="10">X</num></head>
             <p rend="c3 h3">
               <hi rend="sc">via dolorosa</hi>
             </p>
@@ -1032,7 +1024,7 @@ De l’occident à l’orient !</p>
             <p>Banks avait espéré que le colonel se bornerait peut-être à visiter ce bungalow… Mais non ! Sir Edward Munro avait résolu d’épuiser jusqu’à la dernière les amertumes que lui réservait cette ville funeste ! Après l’habitation de lady Munro, il voulut revoir la caserne où tant de victimes, auxquelles l’énergique femme s’était si héroïquement dévouée, avaient subi toutes les horreurs d’un siège.</p>
             <p>Cette caserne était située dans la plaine, en dehors de la ville, et l’on bâtissait alors une église sur son emplacement, là où la population de Cawnpore avait dû chercher refuge. Pour nous y rendre, nous suivîmes une route macadamisée, ombragée par de beaux arbres.</p>
             <p>C’est là que s’était accompli le premier acte de l’horrible tragédie. Là avaient vécu, souffert, agonisé, lady Munro et sa mère, jusqu’au moment où la capitulation remit aux mains de Nana Sahib cette troupe de victimes, déjà vouées à un épouvantable massacre, et que le traître avait promis de faire conduire saines et sauves à Allahabad.</p>
-            <p>Autour des constructions inachevées, on distinguait encore des restes de murailles en briques, vestiges de ces travaux de défense qui avaient été élevés par le général Wheeler.<ref target="#cite_note-1-n175"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref></p>
+            <p>Autour des constructions inachevées, on distinguait encore des restes de murailles en briques, vestiges de ces travaux de défense qui avaient été élevés par le général Wheeler.<note>Depuis cette époque, l’église commémorative a été achevée. Sur les tablettes de marbre, des inscriptions rappellent la mémoire des ingénieurs du chemin de fer East-Indian, qui moururent de maladie ou de leurs blessures pendant la grande insurrection de 1857, la mémoire des officiers, sergents et soldats du 34<hi rend="sup">e</hi> régiment de l’armée royale, tués au combat du 17 novembre devant Cawnpore, du capitaine Stuart Beatson, des officiers, hommes et femmes, du 32<hi rend="sup">e</hi> régiment, morts pendant les sièges de Lucknow et de Cawnpore ou pendant, l’insurrection, la mémoire enfin des martyrs du Bibi-Ghar, massacrés en juillet 1857.</note></p>
             <p>Le colonel Munro resta longtemps immobile et silencieux devant ces ruines. À son souvenir se présentaient plus vivement les affreuses scènes dont elles avaient été le théâtre. Après le bungalow où lady Munro avait vécu heureuse, la caserne dans laquelle elle avait souffert au delà de tout ce qu’on peut imaginer !</p>
             <p>Il restait à visiter le Bibi-Ghar, cette demeure dont le Nana fit une prison, où se creusait ce puits au fond duquel les victimes avaient été confondues dans la mort.</p>
             <p>Lorsque Banks vit le colonel se diriger de ce côté, il lui saisit le bras comme pour l’arrêter.</p>
@@ -1041,13 +1033,13 @@ De l’occident à l’orient !</p>
             <p>— Munro ! je t’en prie !…</p>
             <p>— J’irai donc seul. »</p>
             <p>Il n’y avait pas à résister. Nous nous sommes alors dirigés vers le Bibi-Ghar, que précèdent des jardins bien dessinés et plantés de beaux arbres.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c7">Le mémorial de Cawnpore.</seg></p>
             <p>Là s’élève une colonnade en style gothique, de forme octogonale. Elle entoure l’endroit où se creusait le puits, dont l’orifice est maintenant fermé par un revêtement de pierres. C’est une sorte de socle, qui supporte une statue de marbre blanc, l’Ange de la Pitié, l’un des derniers ouvrages dus au ciseau du sculpteur Marochetti.</p>
             <p>Ce fut lord Canning, gouverneur général des Indes pendant la terrible insurrection de 1857, qui fit élever ce monument expiatoire, construit sur les dessins du colonel du génie Yule, et qu’il voulut même payer de ses propres deniers.</p>
             <p>Devant ce puits où les deux femmes, la mère et la fille, après avoir été frappées par les bouchers de Nana Sahib, avaient été précipitées, encore vivantes peut-être, sir Edward Munro ne put retenir ses larmes. Il tomba à genoux sur la pierre du monument.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c7">Il tomba à genoux.</seg></p>
             <p>Le sergent Mac Neil, près de lui, pleurait en silence.</p>
@@ -1061,25 +1053,23 @@ De l’occident à l’orient !</p>
             <p>« Remember Cawnpore !</p>
             <p>« Souviens-toi de Cawnpore. »</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n175"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n172"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Depuis cette époque, l’église commémorative a été achevée. Sur les tablettes de marbre, des inscriptions rappellent la mémoire des ingénieurs du chemin de fer East-Indian, qui moururent de maladie ou de leurs blessures pendant la grande insurrection de 1857, la mémoire des officiers, sergents et soldats du 34<hi rend="sup">e</hi> régiment de l’armée royale, tués au combat du 17 novembre devant Cawnpore, du capitaine Stuart Beatson, des officiers, hommes et femmes, du 32<hi rend="sup">e</hi> régiment, morts pendant les sièges de Lucknow et de Cawnpore ou pendant, l’insurrection, la mémoire enfin des martyrs du Bibi-Ghar, massacrés en juillet 1857.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Le changement de mousson">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_XI_le_changement_de_mousson" type="h3">CHAPITRE <seg n="11" rend="c1">XI</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_XI_le_changement_de_mousson" type="h3">CHAPITRE <num value="11">XI</num></head>
           <p rend="c3 h3">
             <hi rend="sc">le changement de mousson</hi>
           </p>
           <p>À onze heures, nous étions de retour au campement, ayant, on le comprend, la plus grande hâte de quitter Cawnpore ; mais quelques réparations à faire à la pompe d’alimentation de la machine ne permettaient pas de partir avant le lendemain matin.</p>
           <p>Il me restait donc une demi-journée. Je ne crus pas pouvoir mieux l’employer qu’à visiter Lucknow. L’intention de Banks était de ne point passer par cette ville, dans laquelle le colonel Munro se serait retrouvé sur l’un des principaux théâtres de la guerre. Il avait raison ! C’étaient encore là des souvenirs trop poignants pour lui. </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Lucknow, la mosquée de Imâmbara.</seg></p>
           <p>Donc, à midi, après avoir quitté Steam-House, je pris le petit tronçon de railway qui relie Cawnpore à Lucknow. Le parcours ne dépasse pas une vingtaine de lieues, et j’arrivai en deux heures dans cette importante capitale du royaume d’Oude, dont je ne voulais prendre qu’une vue sommaire, — ce qu’on appelle une impression.</p>
-          <p>Je reconnus, du reste, la vérité de ce que j’avais entendu dire à propos des monuments de Lucknow, bâtis sous le règne des empereurs musulmans au <hi n="17" rend="sc">XVII</hi><hi rend="sup">e</hi> siècle.</p>
-          <p>Ce fut un Français, un Lyonnais, nommé Martin, un simple soldat de l’armée de Lally-Tollendal en 1730, devenu le favori du roi, qui fut le créateur, l’ordonnateur, on pourrait dire l’architecte de ces prétendues merveilles de la capitale de l’Oude. La résidence officielle des souverains, le Kaiser-bâgh, hétéroclite assemblage de tous les styles qui pouvaient sortir de l’imagination d’un caporal, n’est qu’une œuvre de surface. Rien au dedans, tout en dehors, mais ce dehors est à la fois indou, chinois, mauresque et… européen. Il en est de même d’un autre palais plus petit, le Farid Bâkch, qui est également l’ouvrage de Martin. Quant à l’Imâmbara, bâti au milieu de la forteresse par Kaïfiâtoulla, le premier architecte des Indes au <hi n="17" rend="sc">XVII</hi><hi rend="sup">e</hi> siècle, il est réellement superbe et produit un effet grandiose avec les mille clochetons qui hérissent ses courtines.</p>
+          <p>Je reconnus, du reste, la vérité de ce que j’avais entendu dire à propos des monuments de Lucknow, bâtis sous le règne des empereurs musulmans au <num value="17">XVII</num><hi rend="sup">e</hi> siècle.</p>
+          <p>Ce fut un Français, un Lyonnais, nommé Martin, un simple soldat de l’armée de Lally-Tollendal en 1730, devenu le favori du roi, qui fut le créateur, l’ordonnateur, on pourrait dire l’architecte de ces prétendues merveilles de la capitale de l’Oude. La résidence officielle des souverains, le Kaiser-bâgh, hétéroclite assemblage de tous les styles qui pouvaient sortir de l’imagination d’un caporal, n’est qu’une œuvre de surface. Rien au dedans, tout en dehors, mais ce dehors est à la fois indou, chinois, mauresque et… européen. Il en est de même d’un autre palais plus petit, le Farid Bâkch, qui est également l’ouvrage de Martin. Quant à l’Imâmbara, bâti au milieu de la forteresse par Kaïfiâtoulla, le premier architecte des Indes au <num value="17">XVII</num><hi rend="sup">e</hi> siècle, il est réellement superbe et produit un effet grandiose avec les mille clochetons qui hérissent ses courtines.</p>
           <p>Je ne pouvais quitter Lucknow sans visiter le palais Constantin, qui est encore l’œuvre personnelle du caporal français, et porte le nom de palais de la Martinière. Je voulus voir aussi le jardin voisin, le Secunder Bâgh, où furent massacrés par centaines les Cipayes qui avaient violé la tombe de l’humble soldat avant d’abandonner la ville.</p>
           <p>Il faut ajouter que le nom de Martin n’est pas le seul nom français qui soit en honneur à Lucknow. Un ancien sous-officier de chasseurs d’Afrique, appelé Duprat, se distingua tellement par sa bravoure pendant la période insurrectionnelle, que les révoltés lui offrirent de se mettre à leur tête. Duprat refusa noblement, malgré les richesses qui lui furent promises, malgré les menaces dont on l’accabla. Il resta fidèle aux Anglais. Mais, particulièrement désigné aux coups des Cipayes qui n’avaient pu faire de lui un traître, il fut tué dans une rencontre : « Chien d’infidèle, avaient dit les révoltés, nous t’aurons malgré toi ! » Ils l’eurent, mort.</p>
           <p>Les noms de ces deux soldats français avaient donc été unis dans les mêmes représailles. Les Cipayes, qui avaient violé la tombe de l’un et creusé la tombe de l’autre, furent massacrés sans pitié.</p>
@@ -1139,12 +1129,12 @@ De l’occident à l’orient !</p>
           <p>— Mon cher Banks, dis-je, nous sommes clos et couverts, n’est-il pas vrai ? Eh bien, vienne la pluie ! Fût-elle diluvienne, elle me paraît préférable à ces chaleurs…</p>
           <p>— Vous serez satisfait, mon cher ami, répondit Banks. Je crois que la pluie n’est pas loin, et que nous verrons bientôt monter les premiers nuages du sud-ouest ! »</p>
           <p>Banks ne se trompait pas. Vers le soir, l’horizon occidental commença à se charger de vapeurs, ce qui indiquait que la mousson, ainsi que cela arrive le plus souvent, allait s’établir pendant la nuit. C’était l’océan Indien qui nous envoyait, à travers la péninsule, ses brumes saturées d’électricité, comme autant de grosses outres du dieu Éole, qui contenaient l’ouragan et l’orage.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Vers le soir, l’horizon s’assombrit.</seg></p>
           <p>Quelques autres phénomènes, auxquels un Anglo-Indien n’eût pu se méprendre, s’étaient manifestés aussi pendant cette journée. Des volutes d’une poussière très ténue avaient tourbillonné sur la route pendant la marche du train. Le mouvement des roues, peu rapide d’ailleurs, — aussi bien les roues de notre moteur que celles des deux chars roulants, — auraient certainement pu soulever cette poussière, mais non pas avec une telle intensité. On eût dit un nuage de ces duvets que fait danser une machine électrique mise en mouvement. Le sol pouvait donc être comparé à un immense récepteur, dans lequel l’électricité se serait emmagasinée depuis plusieurs jours. En  outre, cette poussière se teignait de reflets jaunâtres, du plus singulier effet, et dans chaque molécule brillait un petit centre lumineux. Il y avait eu des instants où tout notre appareil semblait marcher au milieu des flammes, — flammes sans chaleur, mais qui, ni par leur couleur ni par leur vivacité, ne rappelaient celles du feu Saint-Elme.</p>
           <p>Storr nous raconta qu’il avait quelquefois vu des trains courir ainsi sur leurs rails au milieu d’une double haie de poussière lumineuse, et Banks confirma le dire du mécanicien. Pendant un quart d’heure, j’avais pu observer très exactement ce singulier phénomène à travers les hublots de la tourelle, d’où je dominais  la route sur un parcours de cinq à six kilomètres. Le chemin, sans arbres, était poudreux, chauffé à blanc par les rayons verticaux du soleil. À ce moment, il me sembla que la chaleur de l’atmosphère dominait encore celle du foyer de la machine. C’était véritablement insoutenable, et, lorsque je vins respirer un air plus frais sous le battement d’ailes de la punka, j’étais à demi suffoqué.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Le lieu de la halte fut la lisière d’une forêt.</seg></p>
           <p>Le soir, vers sept heures, Steam-House s’arrêta. Le lieu de halte, choisi par Banks, fut la lisière d’une forêt de magnifiques banians, qui paraissait s’étendre à l’infini dans le nord. Une assez belle route la traversait, et nous promettait pour le lendemain un trajet plus facile sous de hauts et larges dômes de verdure.</p>
@@ -1161,7 +1151,7 @@ De l’occident à l’orient !</p>
           <p>Le capitaine Hod, Fox et Goûmi, armés d’excellentes carabines de chasse, quittèrent le campement et disparurent sous les hauts banians qui bordaient la droite de la route.</p>
           <p>J’avais été si fatigué par la chaleur, pendant cette journée, que je préférai rester à Steam-House.</p>
           <p>Cependant, par ordre de Banks, les feux, au lieu d’être complètement éteints, furent seulement repoussés au fond du foyer, de manière à conserver une ou deux atmosphères de pression dans la chaudière. L’ingénieur voulait être, le cas échéant, prêt à tout événement.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Storr et Kâlouth s’occupèrent de refaire le combustible.</seg></p>
           <p>Storr et Kâlouth s’occupèrent alors de refaire le combustible et l’eau. Un petit ruisseau, qui coulait sur la gauche de la route, leur fournit le liquide nécessaire, et les arbres voisins le bois dont ils avaient besoin pour charger le tender. Pendant ce temps, monsieur Parazard vaquait à ses occupations habituelles, et, tout en desservant les restes du dîner du jour, il méditait le menu du dîner du lendemain.</p>
@@ -1182,13 +1172,13 @@ De l’occident à l’orient !</p>
       <div type="section" n="Triples feux">
         <div type="section">
           <div type="section" xml:lang="fr" rend="prp-pages-output">
-            <head rend="tmp c2" xml:id="CHAPITRE_XII_triples_feux." type="h3">CHAPITRE <seg n="12" rend="c1">XII</seg></head>
+            <head rend="tmp c2" xml:id="CHAPITRE_XII_triples_feux." type="h3">CHAPITRE <num value="12">XII</num></head>
             <p rend="c3 h3">
               <hi rend="sc">triples feux.</hi>
             </p>
             <p>L’Inde partage avec certains territoires du Brésil, — celui de Rio-Janeiro entre autres, — le privilège d’être de tous les pays du globe le plus troublé par les orages. Si en France, en Angleterre, en Allemagne, dans cette partie moyenne de l’Europe, on n’estime pas à plus de vingt par an le nombre des jours où les éclats du tonnerre se font entendre, il convient de savoir que, dans la péninsule indienne, ce nombre s’élève annuellement au delà de cinquante.</p>
             <p>Voilà pour la météorologie générale. Dans ce cas particulier, en raison des circonstances dans lesquelles il se produisait, nous devions attendre un orage d’une violence extrême.</p>
-            <p>Dès que nous fûmes rentrés à Steam-House, je consultai le baromètre. Une baisse de deux pouces s’était subitement faite dans la colonne mercurielle, — de vingt-neuf à vingt-sept pouces<ref target="#cite_note-1-n210"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref>.</p>
+            <p>Dès que nous fûmes rentrés à Steam-House, je consultai le baromètre. Une baisse de deux pouces s’était subitement faite dans la colonne mercurielle, — de vingt-neuf à vingt-sept pouces<note>Environ sept cent trente millimètres.</note>.</p>
             <p>Je le fis observer au colonel Munro.</p>
             <p>« Je suis inquiet de l’absence du capitaine Hod et de ses compagnons, me répondit-il. L’orage est imminent, la nuit vient, les ténèbres s’accroissent. Des chasseurs s’éloignent toujours plus qu’ils ne le promettent et même plus qu’ils ne le veulent. Comment retrouveront-ils leur chemin dans cette profonde obscurité ?</p>
             <p>— Les enragés ! dit Banks. Il a été impossible de leur faire entendre raison ! Très certainement, ils auraient mieux fait de ne pas partir !</p>
@@ -1199,7 +1189,7 @@ De l’occident à l’orient !</p>
             <p>— Voulez-vous que j’aille à la recherche du capitaine Hod ? demanda le sergent.</p>
             <p>— Non, mon vieux Neil, répondit le colonel Munro, tu ne le retrouverais pas et tu t’égarerais à ton tour. »</p>
             <p>Banks se mit en mesure d’utiliser les feux dont il disposait. Les éléments de la pile furent mis en activité, le courant établi, et bientôt les deux yeux du Géant d’Acier, comme deux phares électriques, projetaient leur faisceau lumineux à travers le sombre dessous des banians. Il est certain que, dans cette nuit obscure, la portée de ces feux devait être très considérable et pouvait guider nos chasseurs.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">À travers le sombre dessous des banians.</seg></p>
             <p>En ce moment, une sorte d’ouragan, d’une violence extrême, se déchaîna. Il déchira la cime des arbres, obliqua vers le sol et siffla à travers les colonnettes des banians, comme s’il eût traversé les tuyaux sonores d’un buffet d’orgues.</p>
@@ -1281,7 +1271,7 @@ De l’occident à l’orient !</p>
             <p>— Ah ! s’écria le sergent.</p>
             <p>— Eux !… » dis-je.</p>
             <p>Le capitaine Hod et Fox apparaissaient sur la droite de la route. Ils portaient dans leurs bras Goûmi, comme un corps inerte, et ils arrivèrent au marche-pied de l’arrière.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">Ils portaient dans leurs bras Goûmi.</seg></p>
             <p>« Mort ! s’écria Banks.</p>
@@ -1304,7 +1294,7 @@ De l’occident à l’orient !</p>
             <p>Banks vit cela. Il ne l’eût pas vu qu’il l’aurait senti au souffle torréfiant qui passait dans l’atmosphère.</p>
             <p>La marche fut donc hâtée, bien qu’il y eût quelque danger à le faire sur ce chemin inconnu. Mais la route, alors envahie par les eaux du ciel, était si profondément ravinée, que la machine ne put être poussée autant que l’ingénieur l’aurait voulu.</p>
             <p>Vers onze heures et demie, nouvel éclat de tonnerre, qui fut terrible, nouveau coup de foudre ! Un cri nous échappa. Nous crûmes que Banks et Storr avaient été foudroyés tous deux dans la tourelle d’où ils dirigeaient la marche du train.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">Nouvel éclat de tonnerre.</seg></p>
             <p>Ce malheur nous avait été épargné. C’était notre éléphant qui venait d’être frappé par la décharge électrique à la pointe de l’une de ses longues oreilles pendantes.</p>
@@ -1313,7 +1303,7 @@ De l’occident à l’orient !</p>
             <p>Pendant une demi-heure encore, le train maintint sa distance. Dans la crainte de heurter trop violemment quelque obstacle, Banks ne le lançait qu’à la vitesse nécessaire pour ne pas être atteint par le feu.</p>
             <p>De la vérandah où le colonel Munro, Hod et moi avions pris place, nous voyions passer de grandes ombres, qui bondissaient dans les projections lumineuses de l’incendie et des éclairs. C’étaient enfin des fauves !</p>
             <p>Par précaution, le capitaine Hod saisit son fusil, car il était possible que ces bêtes effarées voulussent se jeter sur le train pour y chercher un abri ou un refuge.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">Ces bêtes effarées.</seg></p>
             <p>Et, en effet, un énorme tigre le tenta ; mais, en s’élançant d’un bond prodigieux, il fut pris par le cou entre deux rejetons de banians. L’arbre principal, se courbant alors sous la tempête, tendit ses rejetons comme deux immenses cordes, qui étranglèrent l’animal.</p>
@@ -1331,14 +1321,12 @@ De l’occident à l’orient !</p>
             <p>Nous avions passé ! Enfin, à deux heures du matin, l’extrême lisière du bois apparut dans la lueur des rares éclairs. Derrière nous se développait un vaste panorama de flammes. L’incendie ne devait s’éteindre qu’après avoir dévoré jusqu’au dernier banian de l’immense forêt. Au jour, le train s’arrêta enfin ; l’orage s’était entièrement dissipé, et l’on disposa un campement provisoire. Notre éléphant, qui fut visité avec soin, avait la pointe de l’oreille droite percée de plusieurs trous, dont les rebarbes s’infléchissaient en directions inverses. Certes, sous un tel coup de foudre, tout autre animal qu’un animal d’acier fût tombé pour ne plus se relever, et l’incendie eût rapidement dévoré le train en détresse !</p>
             <p>À six heures du matin, après un repos très sommaire, la route était reprise, et, à midi, nous venions camper aux environs de Rewah.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n210"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n195"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Environ sept cent trente millimètres.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Prouesses du capitaine Hod">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_XIII_prouesses_du_capitaine_hod." type="h3">CHAPITRE <seg n="13" rend="c1">XIII</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_XIII_prouesses_du_capitaine_hod." type="h3">CHAPITRE <num value="13">XIII</num></head>
           <p rend="c3 h3">
             <hi rend="sc">prouesses du capitaine hod.</hi>
           </p>
@@ -1394,7 +1382,7 @@ De l’occident à l’orient !</p>
           <p>— À table, mes amis, dit alors le colonel Munro. Le déjeuner nous attend et vous consolera…</p>
           <p>— D’autant mieux, dit Mac Neil, que tout cela c’est la faute à Fox !</p>
           <p>— Ma faute ? répondit le brosseur, très interloqué par cette observation inattendue. </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">Un autre bond emporta l’animal.</seg></p>
           <p>— Sans doute, Fox, reprit le sergent. La carabine que tu as remise à monsieur Maucler n’était chargée qu’avec du six ! »</p>
@@ -1435,7 +1423,7 @@ De l’occident à l’orient !</p>
           <p>Vivement, sans laisser au capitaine Hod le temps de se retourner, j’épaulai mon fusil, et mes deux coups partirent successivement.</p>
           <p>Le volatile inconnu que je venais de tirer s’abattit lourdement sur le bord d’une rizière.</p>
           <p>Phann s’élança d’un bond, s’empara du gibier que je venais d’abattre, et le rapporta au capitaine.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">« Enfin ! » s’écria Hod.</seg></p>
           <p>« Enfin ! s’écria Hod, si monsieur Parazard n’est pas content, qu’il se précipite dans sa marmite, la tête la première !</p>
@@ -1471,7 +1459,7 @@ De l’occident à l’orient !</p>
           <p>Tous trois nous restions donc sans bouger.</p>
           <p>Le tigre avançait lentement. Sa tête, qu’il balançait tout à l’heure, ne remuait plus. Ses yeux regardaient fixement, mais comme en dessous. De sa vaste mâchoire entr’ouverte, baissée au ras du sol, il semblait en aspirer les émanations.</p>
           <p>Bientôt, la formidable bête ne fut plus qu’à dix pas du capitaine.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">Hod tenait l’animal en joue.</seg></p>
           <p>Hod, bien campé sur ses jambes, immobile comme une statue, concentrait toute sa vie dans son regard. L’effroyable lutte qui se préparait, dont nul de nous n’allait peut-être sortir vivant, ne lui faisait même pas battre plus rapidement le cœur !</p>
@@ -1497,7 +1485,7 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="Un contre trois">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_XIV_un_contre_trois." type="h3">CHAPITRE <seg n="14" rend="c1">XIV</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_XIV_un_contre_trois." type="h3">CHAPITRE <num value="14">XIV</num></head>
           <p rend="c3 h3">
             <hi rend="sc">un contre trois.</hi>
           </p>
@@ -1527,7 +1515,7 @@ De l’occident à l’orient !</p>
           <p>— Il n’a qu’un mot à dire, s’écria Banks, et je lui fabriquerai un palais à vapeur, pourvu qu’il y mette le prix ! Mais, en attendant sa commande, voyons un peu ce campement, s’il en vaut la peine ! »</p>
           <p>La suite du prince ne comprenait pas moins de cinq cents personnes. Au dehors, sous les grands arbres de la plaine, deux cents chariots étaient disposés symétriquement comme les tentes d’un vaste camp. Pour les traîner, les uns avaient des zébus, les autres des buffles, sans compter trois magnifiques éléphants qui portaient sur leur dos des palanquins de la plus grande richesse, et une vingtaine de ces chameaux, venus des pays à l’ouest de l’Indus, qui s’attellent à la Daumont. Rien ne manquait à cette caravane, ni les musiciens qui charmaient les oreilles de Sa Hautesse, ni les bayadères qui enchantaient ses yeux, ni les faiseurs de tours qui amusaient ses loisirs. Trois cents porteurs et deux cents hallebardiers complétaient ce personnel, dont la solde eût épuisé toute autre bourse que la bourse d’un rajah indépendant de l’Inde.</p>
           <p>Les musiciens, c’étaient des joueurs de tambourin, de cymbales, de tamtam, appartenant à cette école qui remplace les sons par les bruits ; puis des râcleurs de guitares et de violons à quatre cordes, dont les instruments n’avaient jamais passé par la main de l’accordeur.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Les « sapwallahs » ou charmeurs de serpents.</seg></p>
           <p>Parmi les faiseurs de tours, il y avait quelques-uns de ces « sapwallahs », ou charmeurs de serpents, qui, par leurs incantations, chassent et attirent les reptiles ; des « nutuis », très habites aux exercices du sabre ; des acrobates qui dansent sur la corde lâche, coiffés d’une pyramide de pots de terre et chaussés de cornes de buffles ; et enfin de ces escamoteurs qui ont le talent de changer en venimeux « cobras » de vieilles peaux de serpents, ou réciproquement, au gré du spectateur.</p>
@@ -1550,7 +1538,7 @@ De l’occident à l’orient !</p>
           <p>Quarante minutes plus tard, la chaudière était suffisamment en pression, et Storr allait commencer sa manœuvre en arrière, lorsqu’un groupe d’Indous s’approcha.</p>
           <p>Ils étaient là cinq ou six, richement vêtus, robes blanches, tuniques de soie, turbans ornés de broderies d’or. Une douzaine de gardes, armés de mousquets et de sabres, les accompagnaient. L’un de ces soldats portait une couronne de feuillage vert, — ce qui indiquait la présence de quelque personnage important.</p>
           <p>En effet, le personnage important, c’était le prince Gourou Singh en personne, un homme de trente-cinq ans environ, l’air hautain, — type assez réussi des descendants de ces rajahs légendaires, dans les traits duquel se retrouvait le caractère maharatte.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">C’était le prince Gourou Singh.</seg></p>
           <p>Le prince ne daigna même pas s’apercevoir de notre présence. Il fit quelques pas en avant, et s’approcha du gigantesque éléphant que la main de Storr allait mettre en marche. Puis, après l’avoir considéré, non sans un certain sentiment de curiosité, quoiqu’il n’en voulût rien laisser voir :</p>
@@ -1616,7 +1604,7 @@ De l’occident à l’orient !</p>
           <p>Rien de plus piteux à voir que les trois éléphants de Sa Hautesse, la trompe affolée, les pattes en l’air, qui s’agitaient comme de gigantesques scarabées renversés sur le dos !</p>
           <p>Quant au prince, non moins irrité que honteux, il était parti, sans même attendre la fin de l’expérience.</p>
           <p>Les trois éléphants furent alors dételés. Ils se relevèrent, très visiblement humiliés de leur défaite. Lorsqu’ils repassèrent devant le Géant d’Acier, le plus grand, en dépit de son cornac, ne put s’empêcher de fléchir le genou et de saluer de la trompe, comme il l’avait fait devant le prince Gourou Singh.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Les trois énormes animaux furent traînés.</seg></p>
           <p>Un quart d’heure après, un Indou, le « kâmdar » ou secrétaire de Sa Hautesse, arrivait à notre campement et remettait au colonel un sac contenant dix mille roupies, l’enjeu du pari perdu.</p>
@@ -1639,14 +1627,14 @@ De l’occident à l’orient !</p>
           <p>Depuis quarante-huit heures, aussi, notre train s’aventurait sur un territoire à peu près désert. De bourgades ou de villages, il ne s’en rencontrait plus. À peine quelques habitations isolées, parfois une ferme, perdue dans ces grandes forêts de pins qui hérissent la croupe méridionale des contreforts. Trois ou quatre fois, de rares montagnards nous saluèrent de leurs interjections admiratives. À voir cet appareil merveilleux s’élever dans la montagne, ne devaient-ils pas croire que Brahma se passait la fantaisie de transporter toute une pagode sur quelque inaccessible hauteur de la frontière népalaise ?</p>
           <p>Enfin, dans cette journée du 25 juin, Banks nous jeta une dernière fois le mot : « Halte ! » qui terminait cette première partie de notre voyage dans l’Inde septentrionale. Le train s’arrêtait au milieu d’une vaste clairière, près d’un torrent, dont l’eau limpide devait suffire à tous les besoins d’un campement de quelques mois. De là, le regard pouvait embrasser la plaine sur un périmètre de cinquante à soixante milles.</p>
           <p>Steam-House se trouvait alors à trois cent vingt-cinq lieues de son point de départ, à deux mille mètres environ au-dessus du niveau de la mer, et au pied de ce Dwalaghiri, dont la cime se perdait à vingt-cinq mille pieds dans les airs.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">De là le regard pouvait embrasser la plaine.</seg></p>
         </div>
       </div>
       <div type="section" n="Le pâl de Tandit">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_XV_le_pal_de_tandit." type="h3"> CHAPITRE <seg n="15" rend="c1">XV</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_XV_le_pal_de_tandit." type="h3"> CHAPITRE <num value="15">XV</num></head>
           <p rend="c3 h3">
             <hi rend="sc">le pâl de tandît.</hi>
           </p>
@@ -1655,7 +1643,7 @@ De l’occident à l’orient !</p>
           <p>On en jugera.</p>
           <p>Voici ce qui s’était passé depuis cette nuit du 7 au 8 mars, pendant laquelle Nana Sahib, accompagné de Balao Rao, son frère, escorté de ses plus fidèles compagnons d’armes, et suivi de l’Indou Kâlagani, avait quitté les caves d’Adjuntah.</p>
           <p>Soixante heures plus tard, le nabab atteignait les étroits défilés des monts Sautpourra, après avoir traversé la Tapi, qui va se jeter à la côte ouest de la péninsule, près de Surate. Il se trouvait alors à cent milles d’Adjuntah, dans une partie peu fréquentée de la province, ce qui, pour le moment, lui assurait quelque sécurité.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Le pâl de Tandît.</seg></p>
           <p>L’endroit était bien choisi.</p>
@@ -1707,7 +1695,7 @@ De l’occident à l’orient !</p>
           <p>À cette créature inoffensive et privée de sa raison, les montagnards avaient fait bon accueil. Les fous, pour ces Gounds, comme pour toutes les populations sauvages, sont des êtres sacrés que protège un superstitieux respect. Aussi recevait on hospitalièrement la Flamme Errante partout où elle se présentait. Aucun pâl ne lui fermait sa porte. On la nourrissait quand elle avait faim, on la couchait lorsqu’elle tombait de fatigue, sans attendre une parole de remerciement que sa bouche ne pouvait plus formuler.</p>
           <p>Depuis combien de temps durait cette existence ? D’où venait cette femme ? Vers quelle époque avait-elle apparu dans le Gondwana ? Il eût été difficile de le préciser. Pourquoi se promenait-elle, une flamme à la main ? Était-ce pour guider ses pas ? Était-ce pour éloigner les fauves ? on n’eût pu le dire. Il lui arrivait de disparaître pendant des mois entiers. Que devenait-elle alors ? Quittait-elle les défilés des monts Sautpourra pour les gorges des Vindhyas ? S’égarait-elle au delà de la Nerbudda, jusque dans le Malwa ou le Bundelkund ? Nul ne le savait. Plus d’une fois, tant son absence se prolongea, on put croire que sa triste vie avait pris fin. Mais non ! On la revoyait revenir toujours la même, sans que ni la fatigue, ni la maladie, ni le dénuement, parussent avoir éprouvé sa nature, si frêle en apparence.</p>
           <p>Balao Rao avait écouté l’Indou avec une extrême attention. Il se demandait toujours s’il n’y avait pas quelque danger dans cette circonstance que la Flamme Errante connaissait le pâl de Tandît, qu’elle y avait déjà cherché refuge, que son instinct pouvait l’y ramener.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">La Flamme Errante.</seg></p>
           <p>Il revint donc sur ce point, et demanda au Gound si lui ou les siens savaient où se trouvait actuellement cette folle.</p>
@@ -1718,7 +1706,7 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="La Flamme Errante">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_XVI_la_flamme_errante." type="h3">CHAPITRE <seg n="16" rend="c1">XVI</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_XVI_la_flamme_errante." type="h3">CHAPITRE <num value="16">XVI</num></head>
           <p rend="c3 h3">
             <hi rend="sc">la flamme errante.</hi>
           </p>
@@ -1743,7 +1731,7 @@ De l’occident à l’orient !</p>
           <p>Nana Sahib et Balao Rao, accompagnés d’une douzaine de Gounds, arrivèrent à Bhopal, le 24 mai, dernier jour de ces fêtes du Moharum, instituées pour célébrer le renouvellement de l’année musulmane. Tous deux avaient revêtu le costume des « joguis », sinistres mendiants religieux, armés de longs poignards à lame arrondie, dont ils se frappent par fanatisme, mais sans grand mal ni danger.</p>
           <p>Les deux frères, méconnaissables sous ce déguisement, avaient suivi la procession dans les rues de la ville, au milieu des nombreux éléphants, qui portaient sur leurs dos des « tadzias », sorte de petits temples hauts de vingt pieds ; ils avaient pu se mêler aux musulmans, richement vêtus de tuniques brodées d’or et coiffés de toques de mousseline ; ils s’étaient confondus dans les rangs des musiciens, des soldats, des bayadères, des jeunes gens travestis en femmes, — bizarre agglomération qui donnait à cette cérémonie une tournure carnavalesque. Avec ces Indous de toutes sortes, dans lesquels ils comptaient de nombreux fidèles, ils avaient pu échanger une sorte de signe maçonnique, familier aux anciens révoltés de 1857.</p>
           <p>Le soir venu, tout ce monde s’était porté vers le lac qui baigne le faubourg oriental de la ville.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Ces fanatiques précipitèrent les tadzias dans les eaux du lac.</seg></p>
           <p>Là, au milieu de cris assourdissants, de détonations d’armes à feu, de crépitations de pétards, à la lueur de milliers de torches, tous ces fanatiques précipitèrent les tadzias dans les eaux du lac. Les fêtes du Moharum étaient finies. </p>
@@ -1780,7 +1768,7 @@ De l’occident à l’orient !</p>
           <p>Les chevaux repartirent au galop et se lancèrent à travers le massif d’arbres, qui se dressait à la lisière de la vallée de la Nerbudda.</p>
           <p>Il était alors cinq heures du matin. Le jour commençait à se faire. Nana Sahib, Balao Rao et leurs compagnons venaient d’arriver au lit torrentueux du Nazzur, qui montait vers le pâl.</p>
           <p>Les chevaux s’arrêtèrent en cet endroit et furent laissés à la garde de deux Gounds, chargés de les conduire au plus proche village. </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Soudain, un coup de feu éclata.</seg></p>
           <p>Les autres suivirent les deux frères, qui gravissaient les marches tremblantes sous l’eau du torrent.</p>
@@ -1804,12 +1792,12 @@ De l’occident à l’orient !</p>
           <p>Ce nom fit tressaillir l’officier. Il s’attacha aux pas de la folle. Celle-ci ne parut pas même le voir, ni les soldats qui la suivirent jusqu’au pâl. Était-ce donc là que s’était réfugié le nabab dont la tête était mise à prix ? L’officier prit les mesures nécessaires et fit garder le lit du Nazzur, en attendant le jour. Lorsque Nana Sahib et ses Gounds s’y furent engagés, il les accueillit par une décharge, qui en jeta plusieurs à terre, et, parmi eux, le chef de l’insurrection des Cipayes.</p>
           <p>Telle fut la rencontre que le télégraphe signala le jour même au gouverneur de la présidence de Bombay. Ce télégramme se répandit dans toute la péninsule, les journaux le reproduisirent immédiatement, et ce fut ainsi que le colonel Munro put en prendre connaissance à la date du 26 mai, dans la Gazette d’Allahabad.</p>
           <p>Il n’y avait pas à douter cette fois de la mort de Nana Sahib. Son identité avait été constatée, et le journal pouvait dire avec raison : « Le royaume de l’Inde n’a plus rien à craindre désormais du cruel rajah qui lui a coûté tant de sang ! » </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <hi rend="sc">les monts himalaya.</hi></p>
           <p>Cependant, la folle, après avoir quitté le pâl, descendait le lit du Nazzur. De ses yeux hagards sortait comme la lueur d’un feu interne, qui se serait soudainement rallumé en elle, et, machinalement, ses lèvres laissaient échapper le nom du nabab.</p>
           <p>Elle arriva ainsi à l’endroit où gisaient les cadavres, et s’arrêta devant celui qui avait été reconnu par les soldats de Lucknow. La figure contractée de ce mort semblait encore menacer. On eût dit qu’après n’avoir vécu que pour la vengeance, la haine survivait en lui.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">La Flamme Errante s’agenouilla.</seg></p>
           <p>La folle s’agenouilla, posa ses deux mains sur ce corps troué de balles, dont le sang tacha les plis de son pagne. Elle le regarda longuement, puis, se relevant et secouant la tête, elle descendit lentement le lit du Nazzur.</p>
@@ -1870,7 +1858,7 @@ De l’occident à l’orient !</p>
           <p>Après Simla, je citerai Dorjiling, aux maisons blanches, que domine le Kinchinjinga, à cinq cents kilomètres au nord de Calcutta, et à deux mille trois cent mètres d’altitude, près du quatre-vingt-sixième degré de longitude et du vingt-septième degré de latitude, — une situation ravissante dans le plus beau pays du monde.</p>
           <p>D’autres sanitariums se sont aussi fondés en divers points de la chaîne himalayenne.</p>
           <p>Et maintenant, à ces stations fraîches et saines, que rend indispensables ce brûlant climat de l’Inde, il convient d’ajouter notre Steam-House. Mais celle-là nous appartient. Elle offre tout le confort des plus luxueuses habitations de la péninsule. Nous y trouverons, dans une zone heureuse, avec les exigences de la vie moderne, un calme que l’on chercherait vainement à Simla ou à Dorjiling, où les Anglo-Indiens abondent.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">L’emplacement a été judicieusement choisi. (Page 210.)</seg></p>
           <p>L’emplacement a été judicieusement choisi. La route, qui dessert la portion inférieure de la montagne, se bifurque à cette hauteur pour relier quelques bourgades éparses dans l’est et dans l’ouest. Le plus rapproché de ces villages est à cinq milles de Steam-House. Il est occupé par une race hospitalière de montagnards, éleveurs de chèvres et de moutons, cultivateurs de riches champs de blé et d’orge.</p>
@@ -1894,7 +1882,7 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="Mathias Van Guitt">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_II_mathias_van_guitt." type="h3">CHAPITRE <seg n="2" rend="c1">II</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_II_mathias_van_guitt." type="h3">CHAPITRE <num value="2">II</num></head>
           <p rend="c3 h3">
             <hi rend="sc">mathias van guitt.</hi>
           </p>
@@ -1926,7 +1914,7 @@ De l’occident à l’orient !</p>
           <p>À onze heures, nous avions quitté le sanitarium, et, quelques minutes après, au premier tournant de la route, Steam-House disparaissait derrière son épais rideau d’arbres.</p>
           <p>Il ne pleuvait plus. Sous la poussée d’un vent frais du nord-est, les nuages, plus « débraillés », courant dans les hautes zones de l’atmosphère, chassaient avec vitesse. Le ciel était gris, — température convenable pour des piétons ; mais, aussi, absence de ces jeux de lumière et d’ombre qui sont le charme des grands bois.</p>
           <p>Deux mille mètres à descendre sur un chemin direct, c’eût été l’affaire de vingt-cinq à trente minutes, si la route ne se fût allongée de toutes les sinuosités par lesquelles elle rachetait la raideur des pentes. Il ne nous fallut pas moins d’une heure et demie pour atteindre la limite supérieure des forêts du Tarryani, à cinq ou six cents pieds au-dessus de la plaine. Le chemin s’était fait en belle humeur. </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« Fox, pas d’erreur, cette fois. »</seg></p>
           <p>« Attention ! dit le capitaine Hod. Nous entrons sur le domaine des tigres, des lions, des panthères, des guépards et autres animaux bienfaisants de la région himalayenne ! C’est bien de détruire les fauves, mais c’est mieux de ne pas être détruit par eux ! Donc, ne nous éloignons pas les uns des autres, et soyons prudents ! »</p>
@@ -1964,7 +1952,7 @@ De l’occident à l’orient !</p>
           <p>— Surtout quand cet ours pourrait bien être un tigre !… ajouta le colonel Munro.</p>
           <p>— Ensemble, mes amis, cria Banks, ensemble ! »</p>
           <p>Le madrier était pesant. Il glissait mal dans ses rainures. Cependant, nous parvînmes à l’ébranler. Il oscilla un instant et demeura suspendu à un pied au-dessus du sol. Le capitaine Hod, à demi courbé, sa carabine en joue, cherchait à voir si quelque énorme patte ou quelque gueule haletante ne se montrait pas à l’orifice du piège.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Rien n’apparaissait encore.</seg></p>
           <p>Rien n’apparaissait encore.</p>
@@ -1987,7 +1975,7 @@ De l’occident à l’orient !</p>
           <p>Le capitaine Hod, après quelque hésitation, remit sa carabine dans une position moins menaçante.</p>
           <p>« À qui avons-nous l’honneur de parler ? demanda Banks, en s’avançant vers ce personnage.</p>
           <p>— Au naturaliste Mathias Van Guitt, fournisseur ordinaire de pachydermes, tardigrades, plantigrades, proboscidiens, carnassiers et autres mammifères pour la maison Charles Rice de Londres et la maison Hagenbeck de Hambourg ! »</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« Au naturaliste Mathias Van Guitt. »</seg></p>
           <p>Puis, nous désignant d’un geste circulaire :</p>
@@ -2054,7 +2042,7 @@ De l’occident à l’orient !</p>
           <p>— Une cage roulante est amenée près de la trappe, répondit Mathias Van Guitt, les prisonniers s’y jettent d’eux-mêmes, et je n’ai plus qu’à les ramener au kraal, au pas tranquille et lent de mes buffles domestiques. »</p>
           <p>Cette phrase était à peine achevée, que des cris se faisaient entendre au dehors. Notre premier mouvement, au capitaine Hod et à moi, fut de nous précipiter hors du piège. Que s’était-il donc passé ?</p>
           <p>Un serpent-fouet, de la plus maligne espèce, venait d’être coupé en deux par la baguette qu’un Indou tenait à la main, et cela, au moment même où le venimeux reptile s’élançait sur le colonel.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Le venimeux reptile s’élançait sur le colonel.</seg></p>
           <p>Cet Indou était celui que j’avais déjà remarqué. Son intervention rapide avait certainement sauvé sir Edward Munro d’une mort immédiate, comme il nous fut donné de le voir.</p>
@@ -2073,16 +2061,16 @@ De l’occident à l’orient !</p>
       <div type="section" n="Le kraal">
         <div type="section">
           <div type="section" xml:lang="fr" rend="prp-pages-output">
-            <head rend="tmp c2" xml:id="CHAPITRE_III_le_kraal." type="h3">CHAPITRE <seg n="3" rend="c1">III</seg></head>
+            <head rend="tmp c2" xml:id="CHAPITRE_III_le_kraal." type="h3">CHAPITRE <num value="3">III</num></head>
             <p rend="c3 h3">
               <hi rend="sc">le kraal.</hi>
             </p>
-            <p>La mort de ce malheureux nous avait vivement impressionnés, surtout dans les conditions où elle venait de se produire. Mais la morsure du serpent-fouet, l’un des plus venimeux de la péninsule, ne pardonne pas. C’était une victime de plus à ajouter aux milliers que font annuellement dans l’Inde ces redoutables reptiles<ref target="#cite_note-1-n320"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref>.</p>
+            <p>La mort de ce malheureux nous avait vivement impressionnés, surtout dans les conditions où elle venait de se produire. Mais la morsure du serpent-fouet, l’un des plus venimeux de la péninsule, ne pardonne pas. C’était une victime de plus à ajouter aux milliers que font annuellement dans l’Inde ces redoutables reptiles<note>En 1877, 1677 êtres humains ont péri par la morsure des serpents. Les primes payées par le gouvernement pour la destruction de ces reptiles indiquent qu’en cette même année, on en a tué 127, 293.</note>.</p>
             <p>On a dit, — plaisamment, je suppose, — qu’il n’y avait pas de serpents, autrefois, à la Martinique, et que ce sont les Anglais qui les y ont importés, lorsqu’ils ont dû rendre l’île à la France. Les Français n’ont pas eu à user de ce genre de représailles, quand ils ont abandonné leurs conquêtes de l’Inde. C’était inutile, et il faut convenir que la nature s’est montrée prodigue à cet égard.</p>
             <p>Le corps de l’Indou, sous l’influence du venin, se décomposait rapidement. On dut procéder à son inhumation immédiate. Ses compagnons s’y employèrent, et il fut déposé dans une fosse assez profonde pour que les carnassiers ne pussent le déterrer.</p>
             <p>Dès que cette triste cérémonie eut été achevée, Mathias Van Guitt nous invita à l’accompagner au kraal, — invitation qui fut acceptée avec empressement.</p>
             <p>Une demi-heure nous suffit pour atteindre l’établissement du fournisseur. Cet établissement justifiait bien ce nom de « kraal », qui est plus spécialement employé par les colons du sud de l’Afrique.</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">Au plus profond de la forêt…</seg></p>
             <p>C’était un grand enclos oblong, disposé au plus profond de la forêt, au milieu d’une vaste clairière. Mathias Van Guitt l’avait aménagé avec une parfaite entente des besoins du métier. Un rang de hautes palissades, percé d’une porte assez large pour livrer passage aux chariots, l’entourait sur ses quatre côtés. Au fond, au milieu, une longue case, faite de troncs d’arbres et de planches, servait d’unique habitation à tous les habitants du kraal. Six cages, divisées en plusieurs compartiments, montées sur quatre roues chacune, étaient rangées en équerre à l’extrémité gauche de l’enceinte. Aux rugissements qui s’en échappaient alors, on pouvait juger que les hôtes ne leur manquaient pas. À droite, une douzaine de buffles, que nourrissaient les gras pâturages de la montagne, étaient parqués en plein air. C’était l’attelage ordinaire de la ménagerie roulante. Six charretiers, préposés à la conduite des chariots, dix Indous, spécialement exercés à la chasse des fauves, complétaient le personnel de l’établissement.</p>
@@ -2154,7 +2142,7 @@ De l’occident à l’orient !</p>
             <p>— Oui, répondit Mathias Van Guitt, ils ne vivent que de végétaux, et n’ont rien de commun avec les espèces féroces, dont la péninsule s’enorgueillit à juste titre.</p>
             <p>— Comptez-vous le léopard au nombre de ces fauves ? demanda le capitaine Hod.</p>
             <p>— Sans contredit, monsieur. Ce félin est agile, audacieux, plein de courage, il grimpe aux arbres, et, par cela même, il est quelquefois plus redoutable que le tigre…</p>
-            <p><seg></seg>
+            <p><seg/>
 <lb/>
 <seg rend="c5">Il grimpe aux arbres.</seg></p>
             <p>— Oh ! fit le capitaine Hod.</p>
@@ -2191,14 +2179,12 @@ De l’occident à l’orient !</p>
             <p>— Eh bien, monsieur ?… dit Banks.</p>
             <p>— Eh bien, monsieur, répondit en souriant Mathias Van Guitt, ils obéissent à leur nature !… Il faut bien qu’ils mangent ! »</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n320"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n305"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">En 1877, 1677 êtres humains ont péri par la morsure des serpents. Les primes payées par le gouvernement pour la destruction de ces reptiles indiquent qu’en cette même année, on en a tué 127, 293.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Une reine du Tarryani">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_IV_une_reine_du_tarryani." type="h3">CHAPITRE <seg n="4" rend="c1">IV</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_IV_une_reine_du_tarryani." type="h3">CHAPITRE <num value="4">IV</num></head>
           <p rend="c3 h3">
             <hi rend="sc">une reine du tarryani.</hi>
           </p>
@@ -2213,7 +2199,7 @@ De l’occident à l’orient !</p>
           <p>Les jours suivants, 27, 28 et 29 juin, la pluie tomba avec une telle violence que nos chasseurs, si enragés qu’ils fussent, ne purent quitter Steam-House. Par ce temps horrible, d’ailleurs, les traces sont impossibles à reconnaître, et les carnassiers, qui n’aiment pas plus l’eau que les chats, ne quittent pas volontiers leur gîte.</p>
           <p>Le 30 juillet, meilleur temps, meilleure apparence du ciel. Ce jour-là, le capitaine Hod, Fox, Goûmi et moi, nous fîmes nos préparatifs pour descendre au kraal.</p>
           <p>Pendant la matinée quelques montagnards vinrent nous rendre visite. Ils avaient entendu dire qu’une pagode miraculeuse s’était transportée dans la région de l’Himalaya, et un vif sentiment de curiosité venait de les conduire à Steam-House.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Quelques montagnards vinrent nous rendre visite.</seg></p>
           <p>Beaux types que ceux de cette race de la frontière thibétaine, indigènes aux vertus guerrières, d’une loyauté à toute épreuve, pratiquant largement l’hospitalité, bien supérieurs, moralement et physiquement, aux Indous des plaines.</p>
@@ -2238,7 +2224,7 @@ De l’occident à l’orient !</p>
           <p>— Maintenant, messieurs, ajouta Mathias Van Guitt, bonne chance ! Mais promettez-moi de ne pas tout massacrer !</p>
           <p>— Nous vous en laisserons ! » répondit le capitaine Hod.</p>
           <p>Et Mathias Van Guitt, nous saluant d’un geste superbe, disparut sous les arbres à la suite de la cage roulante.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Mathias Van Guitt nous saluant.</seg></p>
           <p>« En route, dit le capitaine Hod, en route, mes amis. À mon quarante-deuxième !</p>
@@ -2275,7 +2261,7 @@ De l’occident à l’orient !</p>
           <p>Il se montra, cependant, à travers les branches d’un buisson, et s’arrêta, par un sentiment de défiance.</p>
           <p>C’était bien une tigresse, de grande taille, puissante de tête, souple de corps. Elle commença à s’avancer en se rasant, avec le mouvement ondulatoire d’un reptile.</p>
           <p>D’un commun accord, nous la laissâmes s’approcher vers le poteau. Elle flairait la terre, elle se redressait, elle faisait le gros dos, comme un énorme chat qui ne cherche pas à bondir.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« Nous la laissâmes s’approcher. »</seg></p>
           <p>Soudain, deux coups de carabine éclatèrent.</p>
@@ -2297,7 +2283,7 @@ De l’occident à l’orient !</p>
           <p>Or, ce jour-là, notre troupe de chasseurs eut affaire à trois tigres, que la première décharge n’empêcha pas de s’élancer sur les murs du houddi. Les deux premiers, au grand chagrin du fournisseur, furent tués d’une seconde balle, lorsqu’ils franchissaient l’enceinte crénelée. Quant au troisième, il bondit jusque dans l’intérieur, l’épaule en sang, mais non mortellement touché.</p>
           <p>« Celui-là, nous l’aurons ! s’écria Mathias Van Guitt, qui s’aventurait quelque peu en parlant ainsi, nous l’aurons vivant !… »</p>
           <p>Il n’avait pas achevé son imprudente phrase, que l’animal se précipitait sur lui, le renversait, et c’en était fait du fournisseur, si une balle du capitaine Hod n’eût frappé à la tête le tigre, qui tomba foudroyé.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">C’en était fait du fournisseur.</seg></p>
           <p>Mathias Van Guitt s’était relevé lestement.</p>
@@ -2365,7 +2351,7 @@ De l’occident à l’orient !</p>
           <p>Les montagnards se dispersèrent de manière à se rabattre peu à peu vers le centre, en rétrécissant leur cercle. Le capitaine Hod, Kâlagani et moi, nous étions d’un côté, Banks et Fox de l’autre, mais en constante communication avec les gens du kraal et ceux du village. Évidemment, chaque point de cette circonférence était dangereux, puisque, sur chaque point, la tigresse pouvait essayer de la rompre.</p>
           <p>Nul doute, d’ailleurs, que l’animal ne fût dans le taillis. En effet, les empreintes, qui y aboutissaient par un côté, ne reparaissaient pas de l’autre. Que là fût sa retraite habituelle, ce n’était pas prouvé, car on l’y avait déjà cherché sans succès ; mais, en ce moment, toutes les présomptions étaient pour que ce taillis lui servît de refuge.</p>
           <p>Il était alors huit heures du matin. Toutes les dispositions prises, nous avancions peu à peu, sans bruit, en resserrant de plus en plus le cercle d’investissement. Une demi-heure après, nous étions à la limite des premiers arbres.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Nous avancions peu à peu.</seg></p>
           <p>Aucun incident ne s’était produit, rien ne dénonçait la présence de l’animal, et, pour mon compte, je me demandais si nous ne manœuvrions pas en pure perte.</p>
@@ -2402,7 +2388,7 @@ De l’occident à l’orient !</p>
           <p>C’était bien la tigresse.</p>
           <p>« Feu ! » cria Banks.</p>
           <p>Dix coups de fusil éclatèrent, mais nous pûmes constater plus tard qu’aucune balle n’avait touché l’animal. Son apparition avait été trop rapide. Comment l’eût-on pu viser avec quelque justesse au milieu des volutes de vapeur qui l’enveloppaient ? </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Le capitaine Hod attendait l’animal.</seg></p>
           <p>Mais, après son premier bond, si la tigresse avait touché terre, ce n’avait été que pour reprendre un point d’appui et s’élancer vers le fourré par un autre bond plus allongé encore.</p>
@@ -2412,7 +2398,7 @@ De l’occident à l’orient !</p>
           <p>Le cri qui nous échappa durait encore, que le courageux Indou, tombant sur le fauve, le saisissait à la gorge au moment où sa griffe droite allait s’abattre sur le crâne du capitaine.</p>
           <p>L’animal, détourné par cette brusque attaque, renversa l’Indou d’un mouvement de hanche, et s’acharna contre lui.</p>
           <p>Mais le capitaine Hod s’était relevé d’un bond, et, ramassant le couteau que Kâlagani avait laissé tomber, d’une main sûre il le plongea tout entier dans le cœur de la bête.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Tandis que nous admirions ce fauve…</seg></p>
           <p>La tigresse roula à terre.</p>
@@ -2439,7 +2425,7 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="Attaque nocturne">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_V_attaque_nocturne" type="h3">CHAPITRE <seg n="5" rend="c1">V</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_V_attaque_nocturne" type="h3">CHAPITRE <num value="5">V</num></head>
           <p rend="c3 h3">
             <hi rend="sc">attaque nocturne</hi>
           </p>
@@ -2464,7 +2450,7 @@ De l’occident à l’orient !</p>
           <p>— Alors, qu’on rende ce plantigrade à la liberté, » dit Mathias Van Guitt, en se retournant vers ses chikaris.</p>
           <p>On obéit au fournisseur. La cage fut ramenée hors du kraal. Un des Indous en ouvrit la porte.</p>
           <p>Frère Ballon, qui semblait tout honteux de sa situation, ne se le fit pas dire deux fois. Il sortit tranquillement de la cage, fit un petit hochement de tête que l’on pouvait prendre pour un remerciement, et il détala en poussant un grognement de satisfaction.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Il détala en poussant un grognement.</seg></p>
           <p>« C’est une bonne action que vous avez faite là, dit Banks. Cela vous portera bonheur, monsieur Van Guitt ! »</p>
@@ -2519,7 +2505,7 @@ De l’occident à l’orient !</p>
           <p>Donc, quand il eut bien « pendiculé » tout à son aise, il nous fit un dernier geste d’adieu, entra dans sa case, et, sans doute, il ne tarda pas à s’y endormir.</p>
           <p>« Et nous, qu’allons-nous faire ? demandai-je.</p>
           <p>— Promenons-nous, Maucler, me répondit le capitaine Hod, promenons-nous dans le kraal. La nuit est belle, et je serai plus dispos au départ, que si je me mettais trois ou quatre heures de sommeil sur les yeux. D’ailleurs, si le sommeil est notre meilleur ami, c’est un ami qui souvent se fait bien attendre ! »</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« Promenons-nous, Maucler. » (Page 275.)</seg></p>
           <p>Nous voilà donc arpentant le kraal, songeant et causant tour à tour. Storr, « que son meilleur ami n’avait pas l’habitude de faire attendre », était couché au pied d’un arbre et dormait déjà. Les chikaris et les charretiers s’étaient également blottis dans leur coin, et il n’y avait plus personne qui veillât dans l’enceinte.</p>
@@ -2572,7 +2558,7 @@ De l’occident à l’orient !</p>
           <p>Le fournisseur, Storr et six des Indous étaient déjà dans la maison, dont la porte fut refermée au moment où deux panthères allaient s’y précipiter.</p>
           <p>Kâlagani, Fox et les autres, s’accrochant aux arbres, s’étaient hissés dans les premières branches.</p>
           <p>Le capitaine Hod et moi, nous n’avions eu ni le temps ni la possibilité de rejoindre Mathias Van Guitt. </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« Dix tigres et une douzaine de panthères ! » s’écria-t-il.</seg></p>
           <p>« Maucler ! Maucler ! » cria le capitaine Hod, dont le bras droit venait d’être déchiré par un coup de griffe.</p>
@@ -2582,7 +2568,7 @@ De l’occident à l’orient !</p>
           <p>Mais les tigres l’abandonnèrent bientôt pour s’attaquer à quelque proie plus sûre.</p>
           <p>Quelle scène, dont nous ne perdions aucun détail, en regardant à travers les barreaux de notre compartiment !</p>
           <p>« C’est le monde renversé ! s’écria le capitaine Hod, qui enrageait. Eux dehors, et nous dedans !</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« C’est le monde renversé, » dit Hod.</seg></p>
           <p>— Et votre blessure ? demandai-je.</p>
@@ -2593,7 +2579,7 @@ De l’occident à l’orient !</p>
           <p>Fox, Kâlagani et les Indous, qui avaient dû jeter leurs armes pour grimper plus vite dans les arbres, ne pouvaient leur venir en aide.</p>
           <p>Cependant, le capitaine Hod, passant sa carabine à travers les barreaux de notre cage, fit feu. Bien que son bras droit, à demi paralysé par sa blessure, ne lui permît pas de tirer avec sa précision habituelle, il eut la chance d’abattre son quarante-neuvième tigre.</p>
           <p>À ce moment, les buffles, affolés, se précipitèrent en beuglant à travers l’enceinte. Vainement, ils essayèrent de faire tête aux tigres, qui, par des bonds formidables, échappaient aux coups de cornes. L’un d’eux, coiffé d’une panthère, dont les griffes lui déchiraient le garrot, arriva devant la porte du kraal et s’élança au dehors.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">L’un d’eux coiffé d’une panthère.</seg></p>
           <p>Cinq ou six autres, serrés de plus près par les fauves, s’échappèrent à sa suite et disparurent.</p>
@@ -2627,7 +2613,7 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="Le dernier adieu de Mathias Van Guitt">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_VI_le_dernier_adieu_de_mathias_van_guitt" type="h3">CHAPITRE <seg n="6" rend="c1">VI</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_VI_le_dernier_adieu_de_mathias_van_guitt" type="h3">CHAPITRE <num value="6">VI</num></head>
           <p rend="c3 h3">
             <hi rend="sc">le dernier adieu de mathias van guitt</hi>
           </p>
@@ -2702,7 +2688,7 @@ De l’occident à l’orient !</p>
           <p>Les serpents, sortis vivants des tubes, s’étaient rapidement et lestement dispersés dans les broussailles, sans que nous eussions eu le temps de les détruire.</p>
           <p>Mais le python ne put déguerpir si aisément du cylindre de tôle. Aussi le capitaine Hod se hâta-t-il d’aller prendre sa carabine, et, d’une balle, il lui brisa la tête.</p>
           <p>Goûmi, grimpant alors sur le Géant d’Acier, se hissa à l’orifice supérieur de sa trompe, et, avec l’aide de Kâlouth et de Storr, il parvint à en retirer l’énorme reptile.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Goûmi parvint à en retirer l’énorme reptile.</seg></p>
           <p>Rien de plus magnifique que ce boa, avec sa robe d’un vert mêlé de bleu, décorée d’anneaux réguliers et qui semblait avoir été taillée dans une peau de tigre. Il ne mesurait pas moins de cinq mètres de long sur une grosseur égale à celle du bras.</p>
@@ -2724,7 +2710,7 @@ De l’occident à l’orient !</p>
           <p>Le 10 septembre, le train contournait Philibit, sans s’y arrêter, mais il ne put éviter un rassemblement considérable d’Indous, qui vinrent lui rendre visite.</p>
           <p>Décidément, les fauves de Mathias Van Guitt, si remarquables qu’ils fussent, ne pouvaient supporter aucune comparaison avec le Géant d’Acier. On ne les regardait même pas à travers les barreaux de leurs cages, et toutes les admirations allaient à l’éléphant mécanique.</p>
           <p>Le train continua à descendre ces longues plaines de l’Inde septentrionale, en laissant, à quelques lieues dans l’ouest ; Bareilli, l’une des principales villes du Rohilkhande. Il s’avançait, tantôt au milieu de forêts peuplées d’un monde d’oiseaux dont Mathias Van Guitt nous faisait admirer « l’éclatant pennage », tantôt en plaine, à travers ces fourrés d’acacias épineux, hauts de deux à trois mètres, nommés par les Anglais « wait-a-bit-bush ». Là se rencontraient en grand nombre des sangliers, très friands de la baie jaunâtre que produisent ces arbustes. Quelques uns de ces suiliens furent tués, non sans péril, car ce sont des animaux véritablement sauvages et dangereux. En diverses occasions, le capitaine Hod et Kâlagani eurent lieu de déployer ce sang-froid et cette adresse qui en faisaient deux chasseurs hors ligne.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Quelques uns de ces suiliens furent tués. (Page 295.)</seg></p>
           <p>Entre Philibit et la station d’Etawah, le train dut franchir une portion du haut Gange, et, peu de temps après, l’un de ses importants tributaires, le Kali-Nadi.</p>
@@ -2737,7 +2723,7 @@ De l’occident à l’orient !</p>
           <p>On s’arrêta donc, et le campement fut organisé pour la nuit. Le lendemain, dès l’aube, pendant que le fournisseur prendrait la route du sud-est, nous devions, en coupant cette route à angle droit, suivre à peu près le soixante-dix-septième méridien. </p>
           <p>Mais, en même temps qu’il nous quittait, Mathias Van Guitt allait se séparer de la partie de son personnel qui ne lui était plus utile. À l’exception de deux Indous, nécessaires au service des cages pendant un voyage qui ne devait durer que deux ou trois jours, il n’avait besoin de personne. Arrivé au port de Bombay, où l’attendait un navire en partance pour l’Europe, le transbordement de sa marchandise se ferait par les chargeurs ordinaires du port.</p>
           <p>De ce fait, quelques-uns de ses chikaris redevenaient libres, et en particulier Kâlagani.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Il fut parfait dans la grande scène des adieux.</seg></p>
           <p>On sait comment et pourquoi nous nous étions véritablement attachés à cet Indou, depuis les services qu’il avait rendus au colonel Munro et au capitaine Hod.</p>
@@ -2753,7 +2739,7 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="Le passage de la Betwa">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_VII_le_passage_de_la_betwa." type="h3">CHAPITRE <seg n="7" rend="c1">VII</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_VII_le_passage_de_la_betwa." type="h3">CHAPITRE <num value="7">VII</num></head>
           <p rend="c3 h3">
             <hi rend="sc">le passage de la betwa.</hi>
           </p>
@@ -2813,12 +2799,12 @@ De l’occident à l’orient !</p>
           <p>Le voyage s’accomplissait dans les meilleures conditions. Les sites variaient, on pourrait dire, au gré de notre fantaisie. L’habitation se déplaçait, sans fatigue, pour le plaisir de nos yeux. N’était-ce donc pas là, ainsi que l’avait prétendu Banks, le dernier mot du progrès dans l’art de la locomotion ? Charrettes à bœufs, voitures à chevaux ou à mules, wagons de railways, qu’êtes-vous auprès de nos maisons roulantes !</p>
           <p>Le 19 septembre. Steam-House s’arrêtait sur la rive gauche de la Jumna. Cet important cours d’eau délimite dans la partie centrale de la péninsule le pays des Rajahs proprement dit ou Rajasthan, de l’Indoustan, qui est plus particulièrement le pays des Indous.</p>
           <p>Une première crue commençait à élever les eaux de la Jumna. Le courant se faisait plus rapidement sentir ; mais, tout en rendant notre passage un peu moins facile, il ne pouvait l’empêcher. Banks prit quelques précautions, Il fallut chercher un meilleur point d’atterrissement. On le trouva. Une demi-heure après, Steam-House remontait la berge opposée du fleuve. Aux trains des railways, il faut des ponts établis à grands frais, et l’un de ces ponts, de construction tubulaire, enjambe la Jumna près de la forteresse de Selimgarh, près de Delhi. À notre Géant d’Acier, aux deux chars qu’il remorquait, les cours d’eau offraient une voie aussi facile que les plus belles routes macadamisées de la péninsule.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">C’était Gwalior.</seg></p>
           <p>Au delà de la Jumna, les territoires du Rajasthan comptent un certain nombre de ces villes que la prévoyance de l’ingénieur voulait écarter de son itinéraire. Sur la gauche, c’était Gwalior, au bord de la rivière de Sawunrika, campée sur  son bloc de basalte, avec sa superbe mosquée de Musjid, son palais de Pâl, sa curieuse porte des Éléphants, sa forteresse célèbre, son Vihara de création bouddhique ; vieille cité, à laquelle la ville moderne de Lashkar, bâtie à deux kilomètres plus loin, fait maintenant une sérieuse concurrence. Là, au fond de ce Gibraltar de l’Inde, la Rani de Jansi, la compagne dévouée de Nana Sahib, avait lutté héroïquement jusqu’à la dernière heure. Là, dans cette rencontre avec deux escadrons du 8<hi rend="sup">e</hi> hussards de l’armée royale, elle fut tuée, on le sait, de la main même du colonel Munro, qui avait pris part à l’action avec un bataillon de son régiment. De ce jour, on le sait aussi, cette implacable haine de  Nana Sahib, dont le nabab avait poursuivi la satisfaction jusqu’à son dernier soupir ! Oui ! mieux valait que sir Edward Munro n’allât pas raviver ses souvenirs aux portes de Gwalior !</p>
           <p>Après Gwalior, dans l’ouest de notre nouvel itinéraire, c’était Antri, et sa vaste plaine, d’où émergent çà et là de nombreux pics, comme les îlots d’un archipel. C’était Duttiah, qui ne compte pas encore cinq siècles d’existence, dont on admire les maisons coquettes, la forteresse centrale, les temples à flèches variées, le palais abandonné de Birsing-Deo, l’arsenal de Tôpe-Kana, — le tout formant la capitale de ce royaume de Duttiah, découpé dans l’angle nord du Bundelkund, et qui s’est rangé sous la protection de l’Angleterre. Ainsi que Gwalior, Antri et Duttiah avaient été gravement touchées par le mouvement insurrectionnel de 1857.</p>
-          <p>C’était enfin Jansi, dont nous passions à moins de quarante kilomètres, à la date du 22 septembre. Cette cité forme la plus importante station militaire du Bundelkund, et l’esprit de révolte y est toujours vivace dans le bas peuple. Jansi, ville relativement moderne, fait un important commerce de mousselines indigènes et de cotonnades bleues. Il ne s’y trouve aucun monument antérieur à sa fondation, qui ne date que du <hi n="17" rend="sc">XVII</hi><hi rend="sup">e</hi> siècle. Cependant, il est intéressant de visiter sa citadelle, dont les projectiles anglais n’ont pu détruire les murailles extérieures, et sa nécropole des rajahs, d’un aspect extrêmement pittoresque. Mais là fut la principale forteresse des Cipayes révoltés de l’Inde centrale. Là, l’intrépide Rani provoqua le premier soulèvement qui devait bientôt envahir tout le Bundelkund. Là, sir Hugh Rose dut livrer un combat qui ne dura pas moins de six jours, pendant lequel il perdit quinze pour cent de son effectif. Là, malgré leur acharnement, Tantia Topi, Balao Rao, frère de Nana Sahib, la Rani enfin, bien qu’ils fussent aidés d’une garnison de douze mille Cipayes et secourus par une armée de vingt mille, durent céder à la supériorité des armes anglaises ! Là, ainsi que nous l’avait raconté Mac Neil, le colonel Munro avait sauvé la vie de son sergent, en lui faisant aumône de la dernière goutte d’eau qui lui restait. Oui ! Jansi, plus que n’importe quelle autre de ces cités aux funestes souvenirs, devait être écartée d’un itinéraire dont les meilleurs amis du colonel avaient choisi les étapes !</p>
+          <p>C’était enfin Jansi, dont nous passions à moins de quarante kilomètres, à la date du 22 septembre. Cette cité forme la plus importante station militaire du Bundelkund, et l’esprit de révolte y est toujours vivace dans le bas peuple. Jansi, ville relativement moderne, fait un important commerce de mousselines indigènes et de cotonnades bleues. Il ne s’y trouve aucun monument antérieur à sa fondation, qui ne date que du <num value="17">XVII</num><hi rend="sup">e</hi> siècle. Cependant, il est intéressant de visiter sa citadelle, dont les projectiles anglais n’ont pu détruire les murailles extérieures, et sa nécropole des rajahs, d’un aspect extrêmement pittoresque. Mais là fut la principale forteresse des Cipayes révoltés de l’Inde centrale. Là, l’intrépide Rani provoqua le premier soulèvement qui devait bientôt envahir tout le Bundelkund. Là, sir Hugh Rose dut livrer un combat qui ne dura pas moins de six jours, pendant lequel il perdit quinze pour cent de son effectif. Là, malgré leur acharnement, Tantia Topi, Balao Rao, frère de Nana Sahib, la Rani enfin, bien qu’ils fussent aidés d’une garnison de douze mille Cipayes et secourus par une armée de vingt mille, durent céder à la supériorité des armes anglaises ! Là, ainsi que nous l’avait raconté Mac Neil, le colonel Munro avait sauvé la vie de son sergent, en lui faisant aumône de la dernière goutte d’eau qui lui restait. Oui ! Jansi, plus que n’importe quelle autre de ces cités aux funestes souvenirs, devait être écartée d’un itinéraire dont les meilleurs amis du colonel avaient choisi les étapes !</p>
           <p>Le lendemain, 23 septembre, une rencontre, qui nous retarda pendant quelques heures, vint justifier une des observations précédemment faites par Kâlagani.</p>
           <p>Il était onze heures du matin. Le déjeuner achevé, nous étions tous assis pour la sieste, les uns sous la vérandah, les autres dans le salon de Steam-House. Le Géant d’Acier marchait à raison de neuf à dix kilomètres à l’heure. Une magnifique route, ombragée de beaux arbres, se dessinait devant lui entre des champs de cotonniers et de céréales. Le temps était beau, le soleil vif. Un arrosage « municipal » de ce grand chemin n’eût pas été à dédaigner, il faut en convenir, et le vent soulevait une fine poussière blanche en avant de notre train.</p>
           <p>Mais ce fut bien autre chose, lorsque, dans une portée de deux ou trois milles, l’atmosphère nous parut emplie de tels tourbillons de poussière, qu’un violent simoun n’eût pas soulevé de plus épais nuage dans le désert lybique.</p>
@@ -2847,7 +2833,7 @@ De l’occident à l’orient !</p>
           <p>« Eh bien, dit alors Banks, si je ne me trompe, ce taureau, dans les caravanes de Banjaris, est le représentant de leur divinité. Par où il va, on va. Quand il s’arrête, on campe, mais j’imagine bien qu’il obéit secrètement aux injonctions du naik. Bref, c’est en lui que se résume toute la religion de ces nomades. »</p>
           <p>Ce ne fut que deux heures après le commencement du défilé, que nous commençâmes à apercevoir la fin de cet interminable cortège. Je cherchais Kâlagani dans l’arrière-garde, lorsqu’il parut, accompagné d’un Indou qui n’appartenait pas au type banjari. Sans doute, c’était un de ces indigènes qui louent temporairement leurs services aux caravanes, ainsi que l’avait fait plusieurs fois Kâlagani. Tous deux causaient froidement, à mi-lèvres, pourrait-on dire. De qui ou de quoi parlaient-ils ? Probablement du pays que venait de traverser la tribu en marche, — pays dans lequel nous allions nous engager sous la direction de notre nouveau guide.</p>
           <p>Cet indigène, qui était resté à la queue de la caravane, s’arrêta un instant en passant devant Steam-House. Il observa avec intérêt le train précédé de son éléphant artificiel, et il me sembla qu’il regardait plus particulièrement le colonel Munro, mais il ne nous adressa pas la parole. Puis, faisant un signe d’adieu à Kâlagani, il rejoignit le cortège et eut bientôt disparu dans un nuage de poussière.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">Cet indigène s’arrêta un instant.</seg></p>
           <p>Lorsque Kâlagani fut revenu près de nous, il s’adressa au colonel Munro sans attendre d’être interrogé :</p>
@@ -2883,7 +2869,7 @@ De l’occident à l’orient !</p>
           <p>« Ou ces gens-là ne veulent pas répondre, dit Banks, ou ils ne comprennent pas l’anglais.</p>
           <p>— Eh bien, ils comprennent l’indou, répondis-je.</p>
           <p>— Kâlagani, dit Banks, criez en indou que si l’on ne répond pas, nous faisons feu. » </p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">On entrevoyait quelques ombres silencieuses.</seg></p>
           <p>Kâlagani, employant l’idiome particulier aux indigènes de l’Inde centrale, donna l’ordre aux rôdeurs d’avancer.</p>
@@ -2916,7 +2902,7 @@ De l’occident à l’orient !</p>
           <p>— Non ! Il n’y a rien à craindre, dit Kâlagani, qui avait eu le temps d’observer la bande de singes.</p>
           <p>— Mais enfin que veulent-ils ? demanda une seconde fois le sergent Mac Neil.</p>
           <p>— Passer la rivière en notre compagnie, et rien de plus ! » répondit l’Indou.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">Une centaine d’individus, gesticulant et grimaçant.</seg></p>
           <p>Kâlagani ne se trompait pas. Nous n’avions point affaire à des gibbons aux longs bras velus, importuns et insolents, ni à des « membres de l’aristocratique famille » qui habite le palais de Bénarès. C’étaient des singes de l’espèce des Langours, les plus grands de la péninsule, souples quadrumanes, à la peau noire, à la face glabre, entourée d’un collier de favoris blancs, qui leur donne l’aspect de vieux avocats. En fait de poses bizarres et de gestes démesurés, ils en auraient remontré à Mathias Van Guitt lui-même. Leur fourrure chinchilla était grise au dos, blanche au ventre, et ils portaient la queue en trompette. Ce que j’appris alors, c’est que ces Langours sont des animaux sacrés dans toute l’Inde. Une légende dit qu’ils descendent de ces guerriers du Rama qui conquirent l’île de Ceylan. À Amber, ils occupent un palais, le Zenanah, dont ils font amicalement les honneurs aux touristes. Il est expressément défendu de les tuer, et la désobéissance à cette loi a déjà coûté la vie à plusieurs officiers anglais. Ces singes, assez doux de caractère, facilement domesticables, sont très dangereux lorsqu’on les attaque, et, s’ils ne sont que blessés, M. Louis Rousselet a pu justement dire qu’ils devenaient aussi redoutables que des hyènes ou des panthères.</p>
@@ -2934,14 +2920,14 @@ De l’occident à l’orient !</p>
           <p>Une demi-heure après, il l’avait atteint ; mais, à peine eut-il accosté la rive, que toute la troupe de ces clowns quadrumanes sauta sur la berge et disparut avec force gambades.</p>
           <p>« Ils auraient bien pu dire merci ! » s’écria Fox, mécontent du sans-façon de ces compagnons de passage.</p>
           <p>Un éclat de rire lui répondit. C’était tout ce que méritait l’observation du brosseur.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c6">Les uns accroupis, les autres debout.</seg></p>
         </div>
       </div>
       <div type="section" n="Hod contre Banks">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_VIII_hod_contre_banks." type="h3">CHAPITRE <seg n="8" rend="c1">VIII</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_VIII_hod_contre_banks." type="h3">CHAPITRE <num value="8">VIII</num></head>
           <p rend="c3 h3">
             <hi rend="sc">hod contre banks.</hi>
           </p>
@@ -2971,7 +2957,7 @@ De l’occident à l’orient !</p>
           <p>Aussi les poursuit-on, les traque-t-on, les prend-on par les moyens susdits. Et cependant, malgré la consommation qui s’en fait, leur nombre ne paraît pas diminuer ; il en reste en quantités considérables sur les divers territoires de l’Inde.</p>
           <p>Et, j’ajoute, il en reste « trop », ainsi qu’on va bien le voir.</p>
           <p>Les deux éléphants s’étaient rangés, comme je l’ai dit, de manière à laisser passer notre train ; mais, après lui, ils avaient repris leur marche, un moment interrompue. Presque aussitôt, d’autres éléphants apparaissaient en arrière, et, pressant le pas, rejoignaient le couple que nous venions de dépasser. Un quart d’heure plus tard, on en pouvait compter une douzaine. Ils observaient Steam-House, ils nous suivaient, se tenant à une distance de cinquante mètres au plus. Ils ne paraissaient point désireux de nous rattraper ; de nous abandonner, pas davantage. Or, cela leur était d’autant plus facile, que, sur ces rampes qui contournaient les principales croupes des Vindhyas, le Géant d’Acier ne pouvait accélérer son pas.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Les deux éléphants s’étaient rangés.</seg></p>
           <p>Un éléphant, d’ailleurs, sait se mouvoir avec une vitesse plus considérable qu’on n’est tenté de le croire, — vitesse qui, suivant M. Sanderson, très compétent en cette matière, dépasse quelquefois vingt-cinq kilomètres à l’heure. À ceux qui étaient là, rien de plus aisé, conséquemment, soit de nous atteindre, soit de nous devancer.</p>
@@ -3016,10 +3002,10 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="Cent contre un">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_IX_cent_contre_un." type="h3">CHAPITRE <seg n="9" rend="c1">IX</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_IX_cent_contre_un." type="h3">CHAPITRE <num value="9">IX</num></head>
           <p rend="c3 h3"><hi rend="sc">cent contre un</hi>.</p>
           <p>Sir Edward Munro ne se trompait pas. Une masse de cinquante à soixante éléphants marchait maintenant derrière notre train. Ils allaient en rangs pressés, et déjà les premiers s’étaient assez rapprochés de Steam-House, — à moins de dix mètres, — pour qu’il fût possible de les observer minutieusement.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Ils allaient en rangs pressés.</seg></p>
           <p>En tête marchait alors l’un des plus grands du groupe, quoique sa taille, mesurée verticalement à l’épaule, ne dépassât certainement pas trois mètres. Ainsi que je l’ai dit, c’est une taille inférieure à celle des éléphants d’Afrique, dont quelques-uns atteignent quatre mètres. Ses défenses, également moins longues que celles de son congénère africain, n’avaient pas plus d’un mètre cinquante à la courbure extérieure, sur quarante à leur sortie du  pivot osseux qui sert de base. Si l’on rencontre à l’île de Ceylan un certain nombre de ces animaux, qui sont privés de ces appendices, arme formidable dont ils se servent avec adresse, ces « mucknas », — c’est le nom qu’on leur donne, — sont assez rares sur les territoires proprement dits de l’Indoustan.</p>
@@ -3039,7 +3025,7 @@ De l’occident à l’orient !</p>
           <p>Quelle fut notre très sérieuse inquiétude, en voyant que le nombre des éléphants s’était encore accru depuis une heure ! On ne pouvait en compter moins d’une centaine.</p>
           <p>Ces animaux marchaient alors en file double ou triple, suivant la largeur du chemin, silencieusement, du même pas, pour ainsi dire, les uns la trompe relevée, les autres les défenses en l’air. C’était comme le moutonnement d’une mer, que soulèvent de grandes lames de fond. Rien ne déferlait encore, pour continuer la métaphore ; mais si une tempête déchaînait cette masse mouvante, à quels dangers ne serions-nous pas exposés ?</p>
           <p>Cependant, la nuit venait peu à peu, — une nuit à laquelle allaient manquer la lumière de la lune et la lueur des étoiles. Une sorte de brume courait dans les hautes zones du ciel.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">La nuit venait peu à peu.</seg></p>
           <p>Ainsi que l’avait dit Banks, lorsque cette nuit serait profonde, on ne pourrait s’obstiner à suivre ces routes difficiles, il faudrait bien s’arrêter. L’ingénieur résolut donc de faire halte, dès qu’un large évasement de la vallée, ou quelque fond dans une gorge moins étroite, pourrait permettre au menaçant troupeau de passer sur les flancs du train et de continuer sa migration vers le sud.</p>
@@ -3072,7 +3058,7 @@ De l’occident à l’orient !</p>
           <p>« Ils sont là, campés en cercle, dit l’ingénieur et ils seront encore là au lever du jour !</p>
           <p>— Hum ! » fit le capitaine Hod, dont la confiance me parut quelque peu ébranlée.</p>
           <p>Quel parti prendre ? Kâlagani fut consulté. Il ne cacha point l’inquiétude qu’il éprouvait.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Les éléphants étaient là.</seg></p>
           <p>Pouvait-on songer à quitter le campement, au milieu de cette nuit obscure ? C’était impossible. À quoi cela eût-il servi, d’ailleurs ? La troupe d’éléphants nous aurait certainement suivis, et les difficultés eussent été plus grandes que pendant le jour.</p>
@@ -3164,7 +3150,7 @@ De l’occident à l’orient !</p>
           <p>— Abandonner la moitié du train !… s’écria le capitaine Hod.</p>
           <p>— Il le faut ! » répondit Banks.</p>
           <p>Et la barre coupée, la passerelle brisée à coups de hache, notre seconde voiture resta en arrière.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">La passerelle brisée à coups de hache.</seg></p>
           <p>Il était temps. Cette voiture venait d’être ébranlée, soulevée, puis chavirée, et les éléphants, se jetant sur elle, achevèrent de l’écraser de tout leur poids. Ce n’était plus qu’une ruine informe, qui maintenant obstruait la route en arrière.</p>
@@ -3186,14 +3172,14 @@ De l’occident à l’orient !</p>
           <p>Mais les pattes du Géant firent leur office. Le train s’éloigna peu à peu de la rive, et quelques dernières balles, convenablement ajustées, nous délivrèrent de ces « monstres marins », au moment où leurs trompes allaient s’abattre sur la vérandah de l’arrière.</p>
           <p>« Eh bien, mon capitaine, s’écria Banks, que pensez-vous de la douceur des éléphants de l’Inde ?</p>
           <p>— Peuh ! fit le capitaine Hod, ça ne vaut pas les fauves ! Mettez-moi une trentaine de tigres seulement à la place de cette centaine de pachydermes, et que je perde ma commission, si, à l’heure qu’il est, un seul de nous serait encore vivant pour raconter l’aventure ! »</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">La berge du lac fut enfin atteinte.</seg></p>
         </div>
       </div>
       <div type="section" n="Le lac Puturia">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_X_le_lac_puturia" type="h3">CHAPITRE <seg n="10" rend="c1">X</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_X_le_lac_puturia" type="h3">CHAPITRE <num value="10">X</num></head>
           <p rend="c3 h3">
             <hi rend="sc">le lac puturia</hi>
           </p>
@@ -3268,7 +3254,7 @@ De l’occident à l’orient !</p>
           <p>— Je n’ai besoin de personne, répondit Kâlagani, mais si le colonel Munro y tient, j’accepte volontiers Goûmi pour compagnon.</p>
           <p>— Allez donc, mes amis, dit Banks, et soyez aussi prudents que vous êtes courageux ! »</p>
           <p>Cela convenu, le colonel Munro, prenant Goûmi à l’écart, lui fit quelques recommandations, brièvement formulées. Cinq minutes après, les deux Indous, un paquet de vêtements sur leur tête, se laissaient glisser dans les eaux du lac. Le brouillard était très intense alors, et quelques brasses suffirent à les mettre hors de vue.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Quelques brasses suffirent à les mettre hors de vue.</seg></p>
           <p>Je demandai alors au colonel Munro pourquoi il avait paru si désireux d’adjoindre un compagnon à Kâlagani.</p>
@@ -3300,7 +3286,7 @@ De l’occident à l’orient !</p>
           <p>— Une autre fois, mon capitaine ! répondit Banks. Le jour venu, j’aime à penser qu’au moment où nous accosterons la rive, cette bande de fauves nous aura cédé la place !</p>
           <p>— Y aurait-il quelque inconvénient, demandai-je, à mettre les fanaux électriques en activité ?</p>
           <p>— Je ne le pense pas, répondit Banks. Cette partie de la berge n’est très probablement occupée que par des animaux en train de boire. Il n’y a donc aucun inconvénient à tenter de la reconnaître. »</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Deux faisceaux lumineux furent projetés.</seg></p>
           <p>Et, sur l’ordre de Banks, deux faisceaux lumineux furent projetés dans la direction du sud-est. Mais la lumière électrique, impuissante à percer cette opaque brume, ne put l’éclairer que dans un court secteur en avant de Steam-House, et la rive demeura absolument invisible à nos regards.</p>
@@ -3317,7 +3303,7 @@ De l’occident à l’orient !</p>
           <p>Le colonel Munro, Mac Neil et moi, à l’avant du salon, Fox, Kâlouth et monsieur Parazard, à l’arrière de la salle à manger, Banks et Storr dans la tourelle, le capitaine Hod juché sur le dos du gigantesque animal, près de la trompe, comme un matelot de garde à l’avant d’un navire, nous attendions que l’un de nous criât : Terre !</p>
           <p>Vers six heures, une petite brise se leva, à peine sensible, mais elle fraîchit bientôt. Les premiers rayons du soleil percèrent la brume, et l’horizon se découvrit à nos regards.</p>
           <p>La rive apparut dans le sud-est. Elle formait à l’extrémité du lac une sorte d’anse aiguë, très boisée sur son arrière-plan. Les vapeurs montèrent peu à peu et laissèrent voir un fond de montagnes, dont les cimes se dégagèrent rapidement.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">La rive apparut.</seg></p>
           <p>« Terre ! » avait crié le capitaine Hod. </p>
@@ -3357,13 +3343,13 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="Face à face">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_XI_face_a_face" type="h3"> CHAPITRE <seg n="11" rend="c1">XI</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_XI_face_a_face" type="h3"> CHAPITRE <num value="11">XI</num></head>
           <p rend="c3 h3">
             <hi rend="sc">face à face</hi>
           </p>
           <p>Les Thugs, de sanglante mémoire, dont l’Indoustan semble être délivré, ont laissé cependant des successeurs dignes d’eux. Ce sont les Dacoits, sortes de Thugs transformés. Les procédés d’exécution de ces malfaiteurs ont changé, le but des assassins n’est plus le même, mais le résultat est identique : c’est le meurtre prémédité, l’assassinat.</p>
           <p>Il ne s’agit plus, sans doute, d’offrir une victime à la farouche Kâli, déesse de la mort. Si ces nouveaux fanatiques n’opèrent pas par strangulation, ils empoisonnent pour voler. Aux étrangleurs ont succédé des criminels plus pratiques, mais tout aussi redoutables.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Sir Edward Munro fut saisi, entraîné.</seg></p>
           <p>Les Dacoits, qui forment des bandes à part sur certains territoires de la péninsule, accueillent tout ce que la justice anglo-indoue laisse passer de meurtriers à travers les mailles de son filet. Ils courent jour et nuit les grandes routes, surtout dans les régions les plus sauvages, et l’on sait que le Bundelkund offre des théâtres tout préparés pour ces scènes de violence et de pillage. Souvent même, ces bandits se réunissent en plus grand nombre pour attaquer un village isolé. La population n’a qu’une ressource  alors, c’est de prendre la fuite ; mais la torture, avec tous ses raffinements, attend ceux qui restent aux mains des Dacoits. Là reparaissent les traditions des chauffeurs de l’extrême Occident. À en croire M. Louis Rousselet, les « ruses de ces misérables, leurs moyens d’action, dépassent tout ce que les plus fantastiques romanciers ont jamais imaginé ! »</p>
@@ -3395,7 +3381,7 @@ De l’occident à l’orient !</p>
           <p>Ce cri, c’était le « kisri » de ces farouches tribus du Gondwana, que Goûmi connaissait bien !</p>
           <p>Goûmi, surpris, n’avait pu rien tenter. D’ailleurs, Kâlagani mort, qu’aurait-il pu faire contre toute une bande d’Indous à laquelle ce cri devait servir de ralliement. Un pressentiment lui dit de fuir, pour essayer le prévenir ses compagnons. Oui ! rester libre, d’abord, puis revenir au lac, et chercher à rejoindre à la nage le Géant d’Acier pour l’empêcher d’accoster la rive, il n’y avait pas autre chose à faire.</p>
           <p>Goûmi n’hésita pas. Au moment où Kâlagani rejoignait ce Nassim qui lui avait répondu, il se jeta de côté et disparut dans les jungles qui bordaient la route.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Goûmi se jeta de côté et disparut dans les jungles.</seg></p>
           <p>Et, lorsque Kâlagani revint avec son complice, dans l’intention de se débarrasser du compagnon que lui avait imposé le colonel Munro, Goûmi n’était plus là.</p>
@@ -3425,7 +3411,7 @@ De l’occident à l’orient !</p>
           <p>Cette forteresse dominait un des derniers saillants de la chaîne, une sorte de redan naturel, haut de cinq cents pieds, qui surplombait un large évasement de la gorge, au milieu des croupes avoisinantes. On ne pouvait y accéder que par un étroit sentier, tortueusement évidé dans le massif rocheux, sentier à peine praticable pour des piétons.</p>
           <p>Là, sur ce plateau, se profilaient encore des courtines démantelées, quelques bastions en ruines. Au milieu de l’esplanade, fermée sur l’abîme par un parapet de pierre, se dressait un bâtiment, à demi détruit, qui servait autrefois de caserne à la petite garnison de Ripore, et dont on n’aurait pas voulu maintenant pour étable.</p>
           <p>Sur le milieu du plateau central, un seul engin restait de tous ceux qui s’allongeaient autrefois à travers les embrasures du parapet. C’était un énorme canon, braqué vers la face antérieure de l’esplanade. Trop lourd pour être descendu, trop détérioré, d’ailleurs, pour conserver une valeur quelconque, il avait été laissé là, sur son affût, livré aux morsures de la rouille qui rongeait son enveloppe de fer.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Là s’élevait la vieille forteresse.</seg></p>
           <p>C’était bien, par sa longueur et par sa grosseur, le digne pendant du célèbre canon de bronze de Bhilsa, qui fut fondu au temps de Jehanghir, énorme pièce, longue de six mètres, avec un calibre de quarante-quatre. On eût pu le comparer également au non moins fameux canon de Bidjapour, dont la détonation, au dire des indigènes, n’eût pas laissé debout un seul des monuments de la cité.</p>
@@ -3433,7 +3419,7 @@ De l’occident à l’orient !</p>
           <p>En face duquel de ses ennemis le colonel Munro allait-il enfin se trouver ? Il ne devait pas tarder à l’apprendre.</p>
           <p>Un groupe d’Indous occupait alors le bâtiment en ruines, qui s’élevait au fond de l’esplanade. Ce groupe s’en détacha, tandis que la bande des Dacoits se rangeait en cercle le long du parapet.</p>
           <p>Le colonel Munro occupait le centre de ce cercle. Les bras croisés, il attendait.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« Regarde mieux ! »répondit l’Indou.</seg></p>
           <p>Kâlagani quitta la place qu’il occupait dans le rang, et fit quelques pas au devant du groupe.</p>
@@ -3484,7 +3470,7 @@ De l’occident à l’orient !</p>
           <p>« C’est bien, dit-il, tu fais ce que j’aurais fait, si tu étais tombé entre mes mains ! »</p>
           <p>Et, de lui-même, le colonel Munro alla se placer devant la bouche du canon, à laquelle, les mains liées derrière le dos, il fut attaché par de fortes cordes.</p>
           <p>Et alors, pendant une longue heure, toute cette bande de Dacoits et d’Indous vint l’insulter lâchement. On eût dit des Sioux de l’Amérique du Nord autour d’un prisonnier enchaîné au poteau du supplice.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Toute cette bande de misérables…</seg></p>
           <p>Le colonel Munro demeura impassible devant l’outrage, comme il voulait l’être devant la mort. Puis, la nuit venue, Nana Sahib, Kâlagani et Nassim se retirèrent dans la vieille caserne. Toute la bande, lasse enfin, quitta la place et rejoignit ses chefs. Sir Edward Munro resta en présence de la mort et de Dieu.</p>
@@ -3492,7 +3478,7 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="À la bouche d’un canon">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_XII_a_la_bouche_d_un_canon" type="h3"> CHAPITRE <seg n="12" rend="c1">XII</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_XII_a_la_bouche_d_un_canon" type="h3"> CHAPITRE <num value="12">XII</num></head>
           <p rend="c3 h3">
             <hi rend="sc">à la bouche d’un canon</hi>
           </p>
@@ -3558,7 +3544,7 @@ De l’occident à l’orient !</p>
           <p>Il se crut fou à son tour !… Ses yeux se fermèrent un instant.</p>
           <p>C’était lady Munro ! Oui ! lady Munro elle-même, — qui se dressait devant lui !</p>
           <p>« Laurence… toi… toi ! » répéta-t-il.</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">Laurence ! Laurence !</seg></p>
           <p>Lady Munro ne répondit rien. Elle ne le reconnaissait pas. Elle ne semblait même pas l’entendre.</p>
@@ -3590,14 +3576,14 @@ De l’occident à l’orient !</p>
           <p>— Et lady Munro ? » Le colonel montrait la folle, debout, immobile. Sa main était, en ce moment, posée sur la culasse du canon.</p>
           <p>« Dans nos bras… maître… » répondit Goûmi, sans demander d’autre explication.</p>
           <p>Il était trop tard !</p>
-          <p>Au moment où le colonel et Goûmi s’approchaient d’elle pour la saisir, lady Munro, voulant leur échapper, se raccrocha de la main à la pièce, sa résine <seg rend="c8"><seg></seg>
+          <p>Au moment où le colonel et Goûmi s’approchaient d’elle pour la saisir, lady Munro, voulant leur échapper, se raccrocha de la main à la pièce, sa résine <seg rend="c8"><seg/>
 <lb/>
 <seg rend="c5">Une effroyable détonation…</seg></seg> s’abattit sur l’amorce, et une effroyable détonation, répercutée par les échos des Vindhyas, remplit d’un roulement de tonnerre toute la vallée de la Nerbudda.</p>
         </div>
       </div>
       <div type="section" n="Géant d’Acier !">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_XIII_geant_d_acier__" type="h3"> CHAPITRE <seg n="13" rend="c1">XIII</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_XIII_geant_d_acier__" type="h3"> CHAPITRE <num value="13">XIII</num></head>
           <p rend="c3 h3">
             <hi rend="sc">géant d’acier !</hi>
           </p>
@@ -3700,7 +3686,7 @@ De l’occident à l’orient !</p>
       </div>
       <div type="section" n="Le cinquantième tigre du capitaine Hod">
         <div type="section">
-          <head rend="tmp c2" xml:id="CHAPITRE_XIV_le_cinquantieme_tigre_du_capitaine_hod." type="h3"> CHAPITRE <seg n="14" rend="c1">XIV</seg></head>
+          <head rend="tmp c2" xml:id="CHAPITRE_XIV_le_cinquantieme_tigre_du_capitaine_hod." type="h3"> CHAPITRE <num value="14">XIV</num></head>
           <p rend="c3 h3">
             <hi rend="sc">le cinquantième tigre du capitaine hod.</hi>
           </p>
@@ -3716,7 +3702,7 @@ De l’occident à l’orient !</p>
           <p>Mais c’était tout. Du reste de la bande, il n’y avait plus trace. Au lieu de retourner à leur repaire de Ripore, maintenant connu, les derniers fidèles de Nana Sahib avaient dû se disperser dans la vallée de la Nerbudda.</p>
           <p>Quant au Géant d’Acier, il était entièrement détruit par l’explosion de la chaudière. L’une de ses larges pattes avait été rejetée à une grande distance. Une partie de sa trompe, lancée contre le talus, s’y était enfoncée et ressortait comme un bras gigantesque. Partout des tôles gondolées, des écrous, des boulons, des grilles, des débris de cylindre, des articulations de bielles. Au moment de l’explosion, lorsque les soupapes chargées ne pouvaient plus lui offrir d’issue, la tension de la vapeur avait dû être effroyable et dépasser peut-être vingt atmosphères. </p>
           <p>Et maintenant, de l’éléphant artificiel dont les hôtes de Steam-House se montraient si fiers, de ce colosse qui provoquait la superstitieuse admiration des Indous, du chef-d’œuvre mécanique de l’ingénieur Banks, de ce rêve réalisé du fantaisiste rajah de Bouthan, il ne restait plus rien qu’une carcasse méconnaissable et sans valeur !</p>
-          <p><seg></seg>
+          <p><seg/>
 <lb/>
 <seg rend="c5">« Pauvre bête ! » dit le capitaine Hod.</seg></p>
           <p>« Pauvre bête ! ne put s’empêcher de s’écrier le capitaine Hod, devant le cadavre de son cher Géant d’Acier.</p>

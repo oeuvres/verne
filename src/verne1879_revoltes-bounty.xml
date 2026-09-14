@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model  href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet  type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -35,7 +33,7 @@
             
             <head rend="tmp c2" xml:id="LESREVOLTES_DE_LA____BOUNTY____1_" type="h2"> LES
 <lb/>
-<seg rend="c1">RÉVOLTÉS DE LA « BOUNTY »</seg><ref target="#cite_note-1"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref></head>
+<seg rend="c1">RÉVOLTÉS DE LA « BOUNTY »</seg><note>Nous croyons bon de prévenir nos lecteurs que ce récit n’est point une fiction. Tous les détails en ont été pris aux annales maritimes de la Grande-Bretagne. La réalité fournit quelquefois des faits si romanesques que l’imagination elle-même ne pourrait rien y ajouter.</note></head>
             <head rend="tmp" xml:id="CHAPITRE_PREMIER_l_abandon" type="h3"> CHAPITRE PREMIER</head>
             <p rend="c6 h3">
               <hi rend="sc">l’abandon</hi>
@@ -66,7 +64,7 @@
             <p>— Oui, oui, à mort ! s’écrièrent la plupart des matelots, en menaçant leur capitaine.</p>
             <p>— Capitaine Bligh, reprit Christian, quelques-uns avaient parlé de vous hisser au bout d’une corde entre le ciel et l’eau. D’autres proposaient de vous déchirer les épaules avec le chat à neuf queues, jusqu’à ce que mort s’ensuivît. Ils manquaient d’imagination. J’ai trouvé mieux que cela. D’ailleurs, vous n’êtes pas seul coupable ici. Ceux qui ont toujours fidèlement exécuté vos ordres, si cruels qu’ils fussent, seraient au désespoir de passer sous mon commandement. Ils ont mérité de vous accompagner là où le vent vous poussera. — Qu’on amène la chaloupe ! »</p>
             <p>Un murmure désapprobateur accueillit ces dernières paroles de Christian,  qui ne parut pas s’en inquiéter. Le capitaine Bligh, que ces menaces ne parvenaient pas à troubler, profita d’un instant de silence pour prendre la parole.</p>
-            <seg rend="c9"><seg></seg>
+            <seg rend="c9"><seg/>
 <lb/></seg>
             <p rend="c11">« Officiers et soldats, » dit-il d’une voix ferme.</p>
             <p>« Officiers et matelots, dit-il d’une voix ferme, en ma qualité d’officier de la marine royale, commandant la <hi>Bounty</hi>, je proteste contre le traitement que vous voulez me faire subir. Si vous avez à vous plaindre de la façon dont j’ai exercé mon commandement, vous pouvez me faire juger par une cour martiale. Mais vous n’avez pas réfléchi, sans doute, à la gravité de l’acte que vous allez commettre. Porter la main sur votre capitaine, c’est vous mettre en révolte contre les lois existantes, c’est rendre pour vous tout retour impossible dans votre patrie, c’est vouloir être traités comme des forbans ! Tôt  ou tard, c’est la mort ignominieuse, la mort des traîtres et des rebelles ! Au nom de l’honneur et de l’obéissance que vous m’avez jurés, je vous somme de rentrer dans le devoir !</p>
@@ -94,14 +92,12 @@
             <p>« Il y a trop longtemps que je souffre, répondit ce dernier avec amertume. Vous ne savez pas quelles ont été mes tortures ! Non ! cela ne pouvait durer un jour de plus, et, d’ailleurs, vous n’ignorez pas que, durant tout le voyage, moi, le second de ce navire, j’ai été traité comme un chien ! Cependant, en me séparant du capitaine Bligh, que je ne reverrai probablement jamais, je veux bien, par pitié, ne pas lui enlever tout espoir de salut. — Smith ! descendez dans la cabine du capitaine, et reportez-lui ses vêtements, sa commission, son journal et son portefeuille. De plus, qu’on lui remette mes Tables nautiques et mon propre sextant. Il aura ainsi quelque chance de pouvoir sauver ses compagnons et se tirer d’affaire lui-même ! »</p>
             <p>Les ordres de Christian furent exécutés, non sans quelque protestation.</p>
             <p>« Et maintenant, Morrison, largue l’amarre, cria le second devenu le premier, et à la grâce de Dieu ! »</p>
-            <seg rend="c9"><seg></seg>
+            <seg rend="c9"><seg/>
 <lb/></seg>
             <p rend="c11">Tandis que les révoltés saluaient d’acclamations ironiques.</p>
             <p>Tandis que les révoltés saluaient d’acclamations ironiques le capitaine Bligh et ses malheureux compagnons, Christian, appuyé contre le bastingage, ne pouvait détacher les yeux de la chaloupe qui s’éloignait. Ce brave officier, dont la conduite, jusqu’alors loyale et franche, avait mérité les éloges de tous les commandants sous lesquels il avait servi, n’était plus aujourd’hui que le chef d’une bande de forbans. Il ne lui serait plus permis de revoir ni sa vieille mère, ni sa fiancée, ni les rivages de l’île de Man, sa patrie. Il se sentait déchu dans sa propre estime, déshonoré aux yeux de tous ! Le châtiment suivait déjà la faute !</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Nous croyons bon de prévenir nos lecteurs que ce récit n’est point une fiction. Tous les détails en ont été pris aux annales maritimes de la Grande-Bretagne. La réalité fournit quelquefois des faits si romanesques que l’imagination elle-même ne pourrait rien y ajouter.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Les abandonnés">
@@ -133,7 +129,7 @@
             <p>— Mes amis, reprit le capitaine, il faut aussi oublier nos torts réciproques, nos antipathies et nos haines, sacrifier en un mot nos rancunes personnelles à l’intérêt de tous, qui doit seul nous guider ! </p>
             <p>— Nous le promettons.</p>
             <p>— Si vous tenez votre parole, ajouta Bligh, et, au besoin, je saurai vous y forcer, je réponds du salut. »</p>
-            <seg rend="c4"><seg></seg>
+            <seg rend="c4"><seg/>
 <lb/></seg>
             <p rend="c6">Les lames devinrent si grosses.</p>
             <p>La route fut faite vers l’O.-N.-O. Le vent, qui était assez fort, souffla en tempête dans la soirée du 4 mai. Les lames devinrent si grosses, que l’embarcation disparaissait entre elles, et semblait ne pouvoir se relever. Le danger augmentait à chaque instant. Trempés et glacés, les malheureux n’eurent pour se réconforter, ce jour-là, qu’une tasse à thé de rhum et le quart d’un fruit à pain à moitié pourri.</p>
@@ -154,8 +150,8 @@
             <p>Bligh, comprenant que cet esprit de mutinerie devait être enrayé sur-le-champ, saisit un coutelas, et, en jetant un autre aux pieds du rebelle, il lui cria :</p>
             <p>« Défends-toi, ou je te tue comme un chien ! »</p>
             <p>Cette attitude énergique fit aussitôt rentrer le mutin en lui-même, et le mécontentement général se calma.</p>
-            <p>Pendant cette relâche, l’équipage de la chaloupe récolta abondamment des huîtres, des peignes<ref target="#cite_note-1-n35"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref> et de l’eau douce.</p>
-            <p>Un peu plus loin, dans le détroit de l’Endeavour, de deux détachements envoyés à la chasse des tortues et des noddis<ref target="#cite_note-2"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>2<seg rend="cite-bracket">]</seg></seg></ref>, le premier revint les mains vides ; le second rapporta six noddis, mais il en aurait pris davantage sans l’obstination de l’un des chasseurs, qui, s’étant écarté de ses camarades, effraya ces oiseaux. Cet homme avoua, plus tard, qu’il s’était emparé de neuf de ces volatiles et qu’il les avait mangés crus sur place.</p>
+            <p>Pendant cette relâche, l’équipage de la chaloupe récolta abondamment des huîtres, des peignes<note>Espèce de coquillage.</note> et de l’eau douce.</p>
+            <p>Un peu plus loin, dans le détroit de l’Endeavour, de deux détachements envoyés à la chasse des tortues et des noddis<note>Sortes d’oiseaux.</note>, le premier revint les mains vides ; le second rapporta six noddis, mais il en aurait pris davantage sans l’obstination de l’un des chasseurs, qui, s’étant écarté de ses camarades, effraya ces oiseaux. Cet homme avoua, plus tard, qu’il s’était emparé de neuf de ces volatiles et qu’il les avait mangés crus sur place.</p>
             <p>Sans les vivres et l’eau douce qu’il venait de trouver sur la côte de la Nouvelle-Hollande, il est bien certain que Bligh et ses compagnons auraient péri. D’ailleurs, tous étaient dans un état lamentable, hâves, défaits, épuisés, — de véritables cadavres.</p>
             <p>Le voyage en pleine mer, pour gagner Timor, ne fut que la douloureuse répétition des souffrances déjà endurées par ces malheureux avant d’atteindre les côtes de la Nouvelle-Hollande. Seulement, la force de résistance avait diminué chez tous, sans exception. Au bout de quelques jours, leurs jambes étaient enflées. Dans cet état de faiblesse extrême, ils étaient accablés par une envie de dormir presque continuelle. C’étaient les signes avant-coureurs d’une fin qui ne pouvait tarder beaucoup. Aussi Bligh, qui s’en aperçut, distribua une double ration aux plus affaiblis et s’efforça de leur rendre un peu d’espoir.</p>
             <p>Enfin, le 12 juin au matin, la côte de Timor apparut, après trois mille six cent dix-huit lieues d’une traversée accomplie dans des conditions épouvantables.</p>
@@ -163,10 +159,7 @@
             <p>Ce fut le 14 mars 1790 que les abandonnés débarquèrent à Portsmouth. Le récit des tortures qu’ils avaient endurées excita la sympathie universelle et l’indignation de tous les gens de cœur. Presque aussitôt, l’Amirauté procédait à l’armement de la frégate <hi>Pandore</hi>, de vingt-quatre canons et de cent soixante hommes d’équipage, et l’envoyait à la poursuite des révoltés de la <hi>Bounty</hi>.</p>
             <p>On va voir ce qu’ils étaient devenus.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n35"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n32"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Espèce de coquillage.</seg></item>
-<item xml:id="cite_note-2"><seg rend="mw-cite-backlink"><ref target="#cite_ref-2"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Sortes d’oiseaux.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Les révoltés">
@@ -177,7 +170,7 @@
             <hi rend="sc">les révoltés</hi>
           </p>
           <p>Après que le capitaine Bligh eut été abandonné en pleine mer, la <hi>Bounty</hi> avait fait voile pour Taïti. Le jour même, elle atteignait Toubouaï. Le riant aspect de cette petite île, entourée d’une ceinture de roches madréporiques, invitait Christian à y descendre ; mais les démonstrations des habitants parurent trop menaçantes, et le débarquement ne fut pas effectué.</p>
-          <seg rend="c4"><seg></seg>
+          <seg rend="c4"><seg/>
 <lb/></seg>
           <p rend="c6">L’ancre tomba dans la rade de Matavaï.</p>
           <p>Ce fut le 6 juin 1789 que l’ancre tomba dans la rade de Matavaï. La surprise des Taïtiens fut extrême en reconnaissant la <hi>Bounty</hi>. Les révoltés retrouvèrent là les indigènes avec lesquels ils avaient été en rapport dans une précédente relâche, et ils leurs racontèrent une fable, à laquelle ils eurent soin de mêler le nom du capitaine Cook, dont les Taïtiens avaient conservé le meilleur souvenir.</p>
@@ -195,7 +188,7 @@
           <p>Les naufragés restèrent sur cet îlot pendant quelques jours ; puis, tous gagnèrent Timor dans les chaloupes de la <hi>Pandore</hi>, et la surveillance si rigoureuse dont les mutins étaient l’objet ne fut pas un moment négligée, malgré la gravité des circonstances.</p>
           <p>Arrivés en Angleterre au mois de juin 1792, les révoltés passèrent devant un conseil de guerre présidé par l’amiral Hood. Les débats durèrent six jours et se terminèrent par l’acquittement de quatre des accusés et la condamnation à mort des six autres, pour crime de désertion et enlèvement du bâtiment confié à leur garde. Quatre des condamnés furent pendus à bord d’un vaisseau de guerre ; les deux autres, Stewart et Peter Heywood, dont l’innocence avait enfin été reconnue, furent graciés.</p>
           <p>Mais qu’était devenue la <hi>Bounty</hi> ? Avait-elle fait naufrage avec les derniers des révoltés ? Voilà ce qu’il était impossible de savoir.</p>
-          <p>En 1814, vingt-cinq ans après la scène par laquelle ce récit commence, deux navires de guerre anglais croisaient en Océanie sous le commandement du capitaine Staines. Ils se trouvaient, au sud de l’archipel Dangereux, en vue d’une île montagneuse et volcanique que Carteret avait découverte dans son voyage autour du monde, et à laquelle il avait donné le nom de Pitcairn. Ce n’était qu’un cône, presque sans rivage, qui s’élevait à pic au-dessus de la mer, et que tapissaient jusqu’à sa cime des forêts de palmiers et d’arbres à pain. Jamais cette île n’avait été visitée ; elle se trouvait à douze cents milles de Taïti, par <seg rend="c7">25° 4′</seg> de latitude sud et <seg rend="c7">180° 8′</seg> de longitude ouest ; elle ne mesurait que quatre milles et demi à sa circonférence, et un mille et demi seulement à son grand axe, et l’on n’en savait que ce qu’en avait rapporté Carteret.</p>
+          <p>En 1814, vingt-cinq ans après la scène par laquelle ce récit commence, deux navires de guerre anglais croisaient en Océanie sous le commandement du capitaine Staines. Ils se trouvaient, au sud de l’archipel Dangereux, en vue d’une île montagneuse et volcanique que Carteret avait découverte dans son voyage autour du monde, et à laquelle il avait donné le nom de Pitcairn. Ce n’était qu’un cône, presque sans rivage, qui s’élevait à pic au-dessus de la mer, et que tapissaient jusqu’à sa cime des forêts de palmiers et d’arbres à pain. Jamais cette île n’avait été visitée ; elle se trouvait à douze cents milles de Taïti, par <num>25° 4′</num> de latitude sud et <num>180° 8′</num> de longitude ouest ; elle ne mesurait que quatre milles et demi à sa circonférence, et un mille et demi seulement à son grand axe, et l’on n’en savait que ce qu’en avait rapporté Carteret.</p>
           <p>Le capitaine Staines résolut de la reconnaître et d’y chercher un endroit convenable pour débarquer.</p>
           <p>En s’approchant de la côte, il fut surpris d’apercevoir des cases, des plantations, et, sur la plage, deux naturels qui, après avoir lancé une embarcation à la mer et traversé habilement le ressac, se dirigèrent vers son bâtiment. Mais son étonnement n’eut plus de bornes, lorsqu’il s’entendit interpeller, en excellent anglais, par cette phrase :</p>
           <p>« Hé ! vous autres, allez-vous nous jeter une corde, que nous montions à bord ! »</p>
@@ -214,7 +207,7 @@
           <p>L’établissement de la petite colonie ne devait pas se faire sans difficultés, avec des gens qu’unissait seule la solidarité d’un crime. De sanglantes querelles avaient éclaté bientôt entre les Taïtiens et les Anglais. Aussi, en 1794, quatre des mutins survivaient-ils seulement. Christian était tombé sous le couteau de l’un des indigènes qu’ils avaient amenés. Tous les Taïtiens avaient été massacrés.</p>
           <p>Un des Anglais, qui avait trouvé le moyen de fabriquer des spiritueux avec la racine d’une plante indigène, avait fini par s’abrutir dans l’ivresse, et, pris d’un accès de <hi>delirium tremens</hi>, s’était précipité du haut d’une falaise dans la mer.</p>
           <p>Un autre, en proie à un accès de folie furieuse, s’était jeté sur Young et sur un des matelots, nommé John Adams, qui s’était vus forcé de le tuer. En 1800, Young était mort pendant une violente crise d’asthme.</p>
-          <seg rend="c4"><seg></seg>
+          <seg rend="c4"><seg/>
 <lb/></seg>
           <p rend="c6">John Adams était le seul survivant.</p>
           <p>John Adams fut alors le dernier survivant de l’équipage des révoltés.</p>
