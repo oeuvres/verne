@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model  href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet  type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -803,7 +801,7 @@ quoiqu’il fût douteux qu’un officier consentît à se commettre avec un bou
 <meta/>
 <meta/></p>
             <head rend="tmp c1" xml:id="X" type="h3">X</head>
-            <p>C’était le premier coup, rudement asséné. Et pourtant, il devait être suivi de coups plus rudes encore. Mais, n’anticipons pas, et soumettons-nous aux décrets de la Providence, comme dit le curé de chez nous, du haut de son égrugeoir<ref target="#cite_note-1"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref>.</p>
+            <p>C’était le premier coup, rudement asséné. Et pourtant, il devait être suivi de coups plus rudes encore. Mais, n’anticipons pas, et soumettons-nous aux décrets de la Providence, comme dit le curé de chez nous, du haut de son égrugeoir<note>Nom peu respectueux que l’on donne à la chaire en Picard.</note>.</p>
             <p>La guerre était donc déclarée à la France, et moi, Français, je me trouvais en pays ennemi. Si les Prussiens ignoraient que je fusse soldat, cela me créait, vis-à-vis de moi-même, un état extrêmement pénible. Mon devoir me commandait de quitter secrètement ou publiquement Belzingen, n’importe par quel moyen, de rejoindre au plus tôt, de reprendre ma place dans le rang. Il ne s’agissait plus de mon congé ni des six semaines qu’il comportait encore. Le Royal-Picardie occupait Charleville, à quelques lieues seulement de la frontière française. Il prendrait part aux premiers engagements. Il fallait être là.</p>
             <p>Mais que deviendraient ma sœur, <abbr rend="abbr" n="Monsieur">M.</abbr> de Lauranay et <abbr rend="abbr" n="Mademoiselle">M<hi rend="sup">lle</hi></abbr> Marthe ? Leur nationalité ne causerait-elle pas les embarras les plus sérieux ? Les Allemands sont d’une race dure, qui ne connaît guère de ménagements, quand ses passions sont déchaînées. C’est avec terreur que j’aurais vu Irma, <abbr rend="abbr" n="Mademoiselle">M<hi rend="sup">lle</hi></abbr> Marthe et son grand-père se lancer sur les routes de la Haute et la Basse-Saxe, au moment où les parcourait l’armée prussienne.</p>
             <p>Il n’y avait qu’une chose à faire : c’était de partir en même temps que moi, de profiter de mon retour pour revenir en France, tout de suite et par le plus court. On pouvait compter sur mon dévouement. Si <abbr rend="abbr" n="Monsieur">M.</abbr> Jean, entraînant sa mère, se joignait à nous, il me semblait que nous saurions bien passer quand même.</p>
@@ -850,9 +848,7 @@ quoiqu’il fût douteux qu’un officier consentît à se commettre avec un bou
             <p>Voici ce qui fut encore décidé. <abbr rend="abbr" n="Monsieur">M.</abbr> et <abbr rend="abbr" n="Mademoiselle">M<hi rend="sup">lle</hi></abbr> de Lauranay, ma sœur et moi, nous reviendrions en France. À cet égard, pas d’hésitation, puisque nous étions Français. Pour <abbr rend="abbr" n="Madame">M<hi rend="sup">me</hi></abbr> Keller et son fils, les convenances voulaient qu’ils restassent à l’étranger, tant que durerait cette abominable guerre. En France, ils eussent pu rencontrer des Prussiens dans le cas où notre pays aurait été envahi par les alliés. Ils résolurent donc de se réfugier dans les Pays-Bas, où ils attendraient la fin des événements. Quant à partir tous ensemble, cela allait de soi, et, lorsque nous nous séparerions, ce ne serait que sur la frontière française.</p>
             <p>Ceci convenu, nos préparatifs nécessitant quelques jours encore, le départ fut fixé au 2 juillet.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Nom peu respectueux que l’on donne à la chaire en Picard.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Chapitre xi">
@@ -1638,7 +1634,7 @@ surtout. Je puis être forcé de fuir… Eh bien, il ne faut pas que ma mère vo
             <p>Ah ! comme je regrettai de ne pas avoir été assez maître de moi. J’aurais voulu éloigner <abbr rend="abbr" n="Monsieur">M.</abbr> Jean. Il était trop tard. En un instant, il avait deviné pourquoi j’avais jeté ce cri.</p>
             <p>Un corps qui gisait à mes pieds ! <abbr rend="abbr" n="Monsieur">M.</abbr> Jean n’eut pas besoin de regarder longtemps pour le reconnaître. Et alors, les bras croisés, secouant la tête :</p>
             <p>« Que ma mère, que Marthe ignorent… » dit-il.</p>
-            <p>Mais <abbr rend="abbr" n="Madame">M<hi rend="sup">me</hi></abbr> Keller venait de se traîner jusqu’à nous, et elle vit ce que nous aurions voulu lui cacher, le corps d’un soldat prussien, d’un « feldwebel<ref target="#cite_note-1-n195"><seg rend="mw-reflink-text"><seg rend="cite-bracket">[</seg>1<seg rend="cite-bracket">]</seg></seg></ref> » du régiment de Leib, étendu sur le sol, au milieu d’une trentaine de ses camarades. </p>
+            <p>Mais <abbr rend="abbr" n="Madame">M<hi rend="sup">me</hi></abbr> Keller venait de se traîner jusqu’à nous, et elle vit ce que nous aurions voulu lui cacher, le corps d’un soldat prussien, d’un « feldwebel<note>Sergent.</note> » du régiment de Leib, étendu sur le sol, au milieu d’une trentaine de ses camarades. </p>
             <p rend="c4">
               <ref rend="mw-file-description" target="https://fr.wikisource.org/wiki/Fichier:'The_Flight_to_France'_by_George_Roux_30.jpg">
                 <graphic resource="./Fichier:'The_Flight_to_France'_by_George_Roux_30.jpg" src="images/c53_y_George_Roux_30.jpg_utm_source_fr.wikisource.org_utm_campaign_parser_utm_content_thumbnail_unscaled" decoding="async" loading="lazy" data-file-type="bitmap" class="mw-file-element c5" data-title="'The_Flight_to_France'_by_George_Roux_30.jpg?utm_source=fr.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled"/>
@@ -1654,9 +1650,7 @@ surtout. Je puis être forcé de fuir… Eh bien, il ne faut pas que ma mère vo
             <p>On marcha le reste de la journée, on marcha toute la nuit, on marcha, non ! on se traîna le jour suivant, et le 13, vers le soir, nous arrivions sur la limite de cette forêt célèbre de l’Argonne, dont Dumouriez avait dit : « Ce sont les Thermopyles de la France, mais j’y serai plus heureux que Léonidas ! »</p>
             <p>Dumouriez devait l’être, en effet. Et c’est ainsi que des milliers d’ignorants comme moi apprirent ce que c’était que Léonidas et les Thermopyles.</p>
           </div>
-          <list rend="ol">
-<item xml:id="cite_note-1-n195"><seg rend="mw-cite-backlink"><ref target="#cite_ref-1-n192"><seg rend="mw-linkback-text">↑</seg></ref></seg> <seg rend="mw-reference-text reference-text">Sergent.</seg></item>
-</list>
+          
         </div>
       </div>
       <div type="section" n="Chapitre xx">
