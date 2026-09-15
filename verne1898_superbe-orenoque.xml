@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +11,9 @@
         <p>file generated with Teinte 2026-09-13T12:42:43+02:00</p>
       </publicationStmt>
       <sourceDesc>
-        <bibl><date>1898</date>, <publisher>Hetzel</publisher><availability><p>Creative Commons BY-SA 3.0</p></availability></bibl>
+        <bibl><date>1898</date>, <publisher>Hetzel</publisher><availability>
+            <p>Creative Commons BY-SA 3.0</p>
+          </availability></bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -24,22 +27,10 @@
   </teiHeader>
   <text>
     <body>
-      
-      
-      
-      <div type="section" n="M. Miguel et ses deux collègues">
-        <div type="section">
-          
-          
-
-
-
-
-          <head rend="tmp c2" xml:id="Premiere_partie" type="h2"> <hi rend="sc">Première partie</hi></head>
-          <head rend="tmp" xml:id="I_M._Miguel_et_ses_deux_collegues" type="h3"> I</head>
-          <p rend="c3 h3">
-            <hi rend="sc">M. Miguel et ses deux collègues</hi>
-          </p>
+      <div>
+        <head>Première partie</head>
+        <div type="chapter">
+          <head>I. M. Miguel et ses deux collègues</head>
           <p>« Il n’y a vraiment pas apparence de raison que cette discussion puisse prendre fin… dit M. Miguel, qui cherchait à s’interposer entre les deux bouillants contradicteurs.</p>
           <p>— Eh bien… elle ne finira pas… répondit M. Felipe, du moins par le sacrifice de mon opinion à celle de M. Varinas…</p>
           <p>— Ni par l’abandon de mes idées au profit de M. Felipe ! » répliqua M. Varinas.</p>
@@ -99,11 +90,6 @@
           <p>— Nous discuterons, ajouta M. Varinas, qui venait de se croiser les bras.</p>
           <p>— J’ai fini, répondit M. Miguel, et si vous voulez connaître mon opinion personnelle…</p>
           <p>— En vaut-elle la peine ?… répliqua d’un ton d’ironie supérieure M. Varinas. </p>
-          
-
-
-
-
           <p>— C’est peu probable ! déclara M. Felipe.</p>
           <p>— La voici, cependant, mes chers collègues. Aucun de ces affluents ne saurait être considéré comme étant la rivière maîtresse, celle à laquelle appartient légitimement le nom d’Orénoque. Donc, à mon avis, cette dénomination ne peut être appliquée ni à l’Atabapo, recommandé par mon ami Felipe…</p>
           <p>— Erreur ! affirma celui-ci. </p>
@@ -127,11 +113,6 @@
           <p>Par la Soledad, où doit aboutir le chemin de fer, Ciudad-Bolivar ne tardera pas à se relier avec Caracas, la capitale vénézuélienne. Ses exportations en peaux de bœufs et de cerfs, en café, en coton, en indigo, en cacao, en tabac y gagneront une extension nouvelle, si accrues qu’elles soient déjà par l’exploitation des gisements de quartz aurifère, découverts en 1840 dans la vallée du Yuruauri.</p>
           <p>Donc, la nouvelle que les trois savants, membres de la Société de Géographie du Venezuela, allaient partir pour trancher la question de l’Orénoque et de ses deux affluents du sud-ouest, eut un vif retentissement dans le pays. Les Bolivariens sont démonstratifs, passionnés, ardents. Les journaux s’en mêlèrent, prenant parti pour les Atabaposistes, les Guaviariens et les Orénoquois. Le public s’enflamma. On eût dit vraiment que ces cours d’eau menaçaient de changer de lit, de quitter les territoires de la république, d’émigrer en quelque autre État du Nouveau-Monde, si on ne leur rendait pas justice.</p>
           <p>Ce voyage, à la remontée du fleuve, offrait-il des dangers sérieux ? Oui, dans une certaine mesure, pour des voyageurs qui eussent été réduits à leurs seules ressources. Mais cette question vitale ne valait-elle pas que le gouvernement fit quelques sacrifices afin de la résoudre ? N’était-ce pas une occasion tout indiquée d’utiliser cette milice qui pourrait avoir deux cent cinquante mille hommes dans le rang, et qui n’en a jamais réuni plus du dixième ? Pourquoi ne pas mettre à la disposition des explorateurs une compagnie de l’armée </p>
-          
-
-
-
-
           <p>permanente qui compte six mille soldats et dont l’état-major a possédé jusqu’à sept mille généraux, sans parler des officiers supérieurs, ainsi que l’établit Élisée Reclus, toujours si parfaitement documenté sur ces curiosités ethnographiques.</p>
           <p>Ils n’en demandaient pas tant, MM. Miguel, Felipe et Varinas. C’est à leur frais qu’ils voyageraient, sans autre escorte que les péons, les llaneros, les mariniers, les guides qui séjournent le long des rives du fleuve. Ils feraient ce que bien d’autres pionniers de la science avaient fait avant eux. D’ailleurs, ils ne devaient pas dépasser la bourgade de San-Fernando, bâtie au confluent de l’Atabapo et du Guaviare. Or, c’est principalement sur les territoires traversés par le haut cours du fleuve qu’il y a plutôt lieu de redouter l’attaque des Indiens, ces tribus indépendantes, si difficiles à contenir et auxquelles on attribue, non sans raison, des massacres et des pillages dont on ne saurait être surpris en un pays qui fut autrefois peuplé de Caraïbes.</p>
           <p>Sans doute, en aval de San-Fernando, vers l’embouchure du Meta, sur les territoires de l’autre rive, il ne fait pas bon rencontrer certains Guahibos, toujours réfractaires aux lois sociales, et ces Quivas dont la réputation de férocité n’était que trop justifiée par leurs attentats en Colombie, avant qu’ils se fussent transportés aux rives de l’Orénoque.</p>
@@ -141,14 +122,9 @@
           <p>Et même l’un d’eux, un Français, appartenant aux Missions étrangères, se trouvait depuis quelques années dans ces hautes régions du fleuve. Son courage et sa foi avaient-ils été récompensés ?… Était-il parvenu à civiliser ces peuplades sauvages, à les convertir aux pratiques du catholicisme ?… Avait-on lieu de croire que le courageux apôtre de la Mission de Santa-Juana eût pu grouper autour de lui ces Indiens, réfractaires jusqu’alors à toute tentative de civilisation ?…</p>
           <p>En somme, pour en revenir à M. Miguel et à ses deux collègues, il ne s’agissait pas de se hasarder en ces lointaines contrées dominées par le massif de Roraima. Et cependant, s’il l’avait fallu dans l’intérêt de la science géographique, ils n’auraient pas hésité à relever jusqu’aux sources l’Orénoque aussi bien que le Guaviare et l’Atabapo. Leurs amis espéraient, toutefois, — non sans raison, — que cette question d’origine serait résolue au confluent des trois fleuves. D’ailleurs, on admettait généralement que ce serait en faveur de cet Orénoque, lequel, après avoir reçu trois cents rivières et parcouru deux mille cinq cents kilomètres, va, par les ramures de cinquante bras, se jeter dans l’Atlantique.</p>
         </div>
-      </div>
-      <div type="section" n="Le sergent Martial et son neveu">
-        <div type="section">
-          <head rend="tmp" xml:id="II_Le_sergent_Martial_et_son_neveu" type="h3">II</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Le sergent Martial et son neveu</hi>
-          </p>
-          <p>Le départ de ce trio de géographes, — un trio dont les exécutants ne parvenaient point à accorder leurs flûtes, — avait été fixé au 12 août, en pleine saison des pluies.  La veille de ce jour, deux voyageurs, descendus à un hôtel de Ciudad-Bolivar, causaient dans la chambre de l’un d’eux, vers huit heures du soir. Une légère brise rafraîchissante entrait par la fenêtre, qui s’ouvrait sur la promenade de l’Alameda.</p>
+        <div type="chapter">
+          <head>II. Le sergent Martial et son neveu</head>
+          <p>Le départ de ce trio de géographes, — un trio dont les exécutants ne parvenaient point à accorder leurs flûtes, — avait été fixé au 12 août, en pleine saison des pluies. La veille de ce jour, deux voyageurs, descendus à un hôtel de Ciudad-Bolivar, causaient dans la chambre de l’un d’eux, vers huit heures du soir. Une légère brise rafraîchissante entrait par la fenêtre, qui s’ouvrait sur la promenade de l’Alameda.</p>
           <p>En ce moment, le plus jeune de ces voyageurs venait de se lever, et dit à l’autre en français :</p>
           <p>« Écoute-moi bien, mon bon Martial, et, avant de prendre le lit, je te rappelle une dernière fois tout ce qui a été convenu entre nous avant notre départ.</p>
           <p>— Comme vous voudrez, Jean…</p>
@@ -257,100 +233,84 @@
           <p>Voilà pourquoi ces deux Français, après être arrivés la veille à Ciudad-Bolivar, devaient en repartir le lendemain à bord du bateau à vapeur qui fait le service du bas Orénoque.</p>
           <p>« Dieu nous protège, avait dit Jean… Oui !… qu’il nous protège… à l’aller comme au retour ! »</p>
         </div>
-      </div>
-      <div type="section" n="À bord du Simon-Bolivar">
-        <div type="section">
-          <div type="section" xml:lang="fr" rend="prp-pages-output">
-            <head rend="tmp" xml:id="III_A_bord_du_Simon-Bolivar" type="h3"> III</head>
-            <p rend="c3 h3">
-              <hi rend="sc">À bord du <hi>Simon-Bolivar</hi></hi>
-            </p>
-            <p>« L’Orénoque sort du Paradis terrestre, » cela est dit dans les récits de Christophe Colomb. </p>
-            <p>La première fois que Jean énonça cette opinion du grand navigateur génois devant le sergent Martial, celui-ci se borna à répondre :</p>
-            <p>« Nous verrons bien ! »</p>
-            <p>Et peut-être avait-il raison de mettre en doute cette assertion de l’illustre découvreur de l’Amérique.</p>
-            <p>Également, paraît-il, il convenait de mettre au rang des pures légendes que le grand fleuve descendît du pays de l’El Dorado, ainsi que semblaient le croire les premiers explorateurs, les Hojeda, les Pinzon, les Cabral, les Magalhãez, les Valdivia, les Sarmiento, et tant d’autres qui s’aventurèrent à travers les régions du Sud-Amérique.</p>
-            <p>Dans tous les cas, l’Orénoque trace un immense demi-cercle à la surface du territoire entre les 3<hi rend="sup">e</hi> et 8<hi rend="sup">e</hi> parallèles au nord de l’Équateur, et dont la courbe s’étend au-delà du 70° degré de longitude à l’ouest du méridien de Paris. Les Vénézuéliens sont fiers de leur fleuve, et il est visible que, sous ce rapport, MM. Miguel, Felipe et Varinas ne le cédaient à aucun de leurs compatriotes.</p>
-            <p>Et peut-être, même, eurent-ils la pensée de protester publiquement, contre le dire d’Élisée Reclus, dans le dix-huitième volume de sa <hi>Nouvelle Géographie universelle</hi>, qui attribue à l’Orénoque le neuvième rang parmi les fleuves de la terre, après l’Amazone, le Congo, le Parana-Uruguay, le Niger, le Yang-tse-Kiang, le Brahmapoutre, le Mississipi et le Saint-Laurent. Ne pouvaient-ils faire valoir que, d’après Diego Ordaz, un explorateur du seizième siècle, les Indiens le nommaient Paragua, c’est-à-dire : Grande-Eau ?… Cependant, malgré un argument de cette force, ils ne donnèrent pas libre cours à leurs protestations, et peut-être firent-ils bien, tant l’œuvre du géographe français s’appuie sur des bases sérieuses.</p>
-            <p>Dès six heures du matin, le 12 août, le <hi>Simon-Bolivar</hi>, — on ne saurait s’étonner de ce nom, — était prêt à partir. Ces communications par bateaux à vapeur entre cette ville et les bourgades du cours de l’Orénoque ne dataient que de quelques années, et encore ne dépassent-elles pas l’embouchure de l’Apure. Mais en remontant cet affluent, les passagers et les marchandises peuvent se transporter jusqu’à San-Fernando<note>Il s’agit de San-Fernando de Apure qu’il ne faut pas confondre avec San-Fernando de Atabapo sur l’Orénoque.</note> et même au-delà, au port de Nutrias, grâce à la Compagnie vénézuélienne, qui a fondé des services bimensuels.</p>
-            <p>Ce serait aux bouches de l’Apure, ou plutôt quelques milles en aval, à la bourgade de Caïcara, que ceux des voyageurs qui devaient continuer leur voyage sur l’Orénoque abandonneraient le <hi>Simon-Bolivar</hi>, afin de se confier aux rudimentaires embarcations indiennes.</p>
-            <p>Ce steamboat était construit pour naviguer sur ces fleuves dont l’étiage varie dans des proportions considérables depuis la saison sèche jusqu’à la saison pluvieuse. D’un gabarit semblable à celui des paquebots de la Magdalena de Colombie, il tirait aussi peu d’eau que possible, étant plat dans ses fonds. Comme unique propulseur, il possédait une énorme roue sans tambour disposée à l’arrière, et qui tourne sous l’action d’une assez puissante machine à double effet. Que l’on se figure une sorte de radeau surmonté d’une superstructure, le long de laquelle s’élevaient en abord les deux cheminées des chaudières. Cette superstructure, terminée par un spardeck, contenait les salons et cabines réservés aux passagers, le pont inférieur servant à l’empilement des marchandises, — ensemble qui rappelle les steamboats américains avec leurs balanciers et leurs bielles démesurés. Le tout est peinturluré de couleurs voyantes jusqu’au poste du pilote et du capitaine, établi au dernier étage sous les plis du pavillon de la république. Quant aux appareils évaporatoires, ils dévorent les forêts de la rive, et l’on aperçoit déjà d’interminables coupées, dues à la hache du bûcheron, qui s’enfoncent de chaque côté de l’Orénoque.</p>
-            <p>Ciudad-Bolivar étant située à quatre cent vingt kilomètres des bouches de l’Orénoque, si le flot s’y fait encore sentir, du moins ne renverse-t-il pas le courant normal. Ce flot ne peut donc profiter aux embarcations qui naviguent vers l’amont. Toutefois, il s’y produit des crues qui, à la capitale même, peuvent dépasser douze à quinze mètres. Mais, d’une façon générale, l’Orénoque croit régulièrement jusqu’à la mi-août et conserve son niveau jusqu’à la fin de septembre. Puis la baisse se continue jusqu’en novembre, avec légère recrudescence à cette époque, et ne prend fin qu’en avril.</p>
-            <p>Le voyage entrepris par M. Miguel et ses collègues allait donc s’accomplir pendant la période favorable à l’enquête des Atabaposistes, des Guaviariens et des Orénoquois.</p>
-            <p>Il y eut grand concours de leurs partisans à saluer les trois géographes sur le quai d’embarquement de Ciudad-Bolivar. On n’était qu’au départ, cependant, et que serait-ce à l’arrivée ! De vifs et bruyants encouragements leur furent adressés soit par les tenants du fameux fleuve, soit par ceux de ses prétendus tributaires. Et au milieu des carambas et des caraïs que ne ménageaient ni les porteurs de colis, ni les mariniers en achevant les préparatifs du démarrage, malgré le sifflet assourdissant des chaudières qui écorchait les oreilles, et des hennissements de la vapeur fusant à travers les soupapes, on entendait ces cris :</p>
-            <p>« <hi>Viva el Guaviare !</hi></p>
-            <p>— <hi>Viva el Atabapo !</hi></p>
-            <p>— <hi>Viva el Orinoco !</hi> »</p>
-            <p>Puis, entre les partisans de ces opinions diverses, des discussions éclataient, qui menaçaient de mal finir, bien que M. Miguel essayât de s’entremettre entre les plus exaltés.</p>
-            <p>Placés sur le spardeck, le sergent Martial et son neveu assistaient à ces scènes tumultueuses, sans parvenir à y rien comprendre.</p>
-            <p>« Que veulent tous ces gens-là ?… s’écria le vieux soldat. C’est bien sûr quelque révolution… »</p>
-            <p>Ce ne pouvait en être une, puisque dans les États hispano-américains, les révolutions ne s’accomplissent jamais sans l’intervention de l’élément militaire. Or, on ne voyait pas là un seul des sept mille généraux de l’état-major du Venezuela.</p>
-            <p>Jean et le sergent Martial ne devaient pas tarder à être fixés à ce sujet, car, à n’en pas douter, au cours de la navigation, la discussion continuerait à mettre aux prises M. Miguel et ses deux collègues.</p>
-            <p>Bref, les derniers ordres du capitaine furent envoyés, — d’abord au mécanicien ordre de balancer sa machine, ensuite aux mariniers d’avant et d’arrière ordre de larguer les amarres de poste. Tous ceux qui n’étaient pas du voyage, disséminés sur les étages de la superstructure, durent redescendre sur le quai. Enfin, après quelques bousculades, il ne resta plus à bord que les passagers et l’équipage.</p>
-            <p>Dès que le <hi>Simon-Bolivar</hi> se fut mis en mouvement, redoublement de clameurs, tumulte d’adieux, entre lesquels éclatèrent les vivats en l’honneur de l’Orénoque et de ses affluents. Le bateau à vapeur écarté, sa puissante roue battit les eaux avec violence, et le timonier prit direction vers le milieu du fleuve. Un quart d’heure après, la ville avait disparu derrière un tournant de la rive gauche, et bientôt on ne vit plus rien des dernières maisons de la Soledad sur la rive opposée.</p>
-            <p>On n’estime pas à moins de cinq cent mille kilomètres carrés l’étendue des llanos vénézuéliens. Ce sont des plaines presque plates. À peine, en de certains endroits, le sol s’accidente-t-il de ces renflements, qui sont appelés bancos dans le pays, ou de ces buttes à pans brusques, à terrasses régulières, appelées mesas. Les llanos ne se relèvent que vers la base des montagnes, dont le voisinage se fait déjà sentir. D’autres, les bajos, sont limitrophes des cours d’eau. C’est à travers ces immenses aires, tantôt verdoyantes à la saison des pluies, tantôt jaunes et presque décolorées pendant les mois de sécheresse, que se déroule en demi-cercle le cours de l’Orénoque.</p>
-            <p>Au reste, les passagers du <hi>Simon-Bolivar</hi>, désireux de connaître le fleuve au double point de vue hydrographique et géographique, n’auraient eu qu’à poser des questions à MM. Miguel, Felipe et Varinas pour obtenir des réponses positives. Ces savants n’étaient-ils pas toujours prêts à fournir de minutieux renseignements sur les bourgades, sur les villages, sur les affluents, sur les diverses peuplades sédentaires ou errantes ? À quels plus consciencieux cicerones eût-il été possible de s’adresser, et avec quelle obligeance, quel empressement, ils se fussent mis à la disposition des voyageurs !</p>
-            <p>Il est vrai, parmi les passagers du <hi>Simon-Bolivar</hi>, le plus grand nombre n’avaient rien à apprendre au sujet de l’Orénoque, l’ayant vingt fois remonté ou descendu, les uns jusqu’aux bouches de l’Apure, les autres jusqu’à la bourgade de San-Fernando de Atabapo. La plupart étaient des commerçants, des trafiquants, qui transportaient des marchandises vers l’intérieur, ou les ramenaient vers les ports de l’est. À citer les plus ordinaires entre ces divers objets de trafic, des cacaos, des peaux, cuirs de bœufs et de cerfs, des minerais de cuivre, des phosphates, des bois pour charpente, ébénisterie, marqueterie, teinture, fèves de tonka, caoutchouc, salsepareille, et enfin le bétail, car l’élevage forme la principale industrie des llaneros répandus sur les plaines.</p>
-            <p>Le Venezuela appartient à la zone équatoriale. La moyenne de la température y est donc comprise entre vingt-cinq et trente degrés centigrades. Mais elle est variable, ainsi que cela se produit dans les pays de montagnes. C’est entre les Andes du littoral et celles de l’ouest que la chaleur acquiert le plus d’intensité, c’est-à-dire à la surface de ces territoires où s’arrondit le lit de l’Orénoque, et auxquels ne parviennent jamais les brises marines. Même les vents généraux, les alizés du nord et de l’est, arrêtés par l’écran orographique des côtes, ne peuvent apporter un adoucissement aux rigueurs de ce climat.</p>
-            <p>Ce jour-là, par un ciel couvert, avec quelques menaces de pluie, les passagers ne souffraient pas trop de la chaleur. La brise, venant de l’ouest, à contre de la marche du steamboat, donnait aux passagers une sensation de bien-être très appréciable.</p>
-            <p>Le sergent Martial et Jean, sur le spardeck, observaient les rives du fleuve. Leurs compagnons de voyage se montraient assez indifférents à ce spectacle. Seul le trio des géographes en étudiait les détails, non sans discuter avec une certaine animation.</p>
-            <p>Certes, s’il s’était adressé à eux, Jean aurait pu être exactement renseigné. Mais, d’une part, le sergent Martial, très jaloux, très sévère, n’eût permis à aucun étranger d’entrer en conversation avec son neveu, et, d’autre part, celui-ci n’avait besoin de personne pour reconnaître pas à pas les villages, les îles, les détours du fleuve. </p>
-            
-
-
-            <p>Il possédait un guide sûr dans le récit des deux voyages exécutés par M. Chaffanjon par ordre du ministre de l’Instruction publique de France. Le premier, en 1884, comprend la partie du cours inférieur de l’Orénoque entre Ciudad-Bolivar et l’embouchure du Caura, ainsi que l’exploration de cet important tributaire. Le second, en 1886-1887, comprend le cours entier du fleuve depuis Ciudad-Bolivar jusqu’à ses sources. Ce récit de l’explorateur français est fait avec une extrême précision, et Jean comptait en tirer grand profit.</p>
-            <p>Il va sans dire que le sergent Martial, muni d’une somme suffisante, convertie en piastres, serait à même de pourvoir à toutes les dépenses de route. Il n’avait pas négligé de se précautionner d’une certaine quantité d’articles d’échange, étoffes, couteaux, miroirs, verroteries, ustensiles de quincaillerie et bibelots de mince valeur, qui devaient faciliter les relations avec les Indiens des llanos. Cette pacotille remplissait deux caisses, placées avec les autres bagages au fond de la cabine de l’oncle, contiguë à celle de son neveu.</p>
-            <p>Donc, son livre sous les yeux, Jean suivait d’un regard consciencieux les deux rives qui se déplaçaient en sens contraire de la marche du <hi>Simon-Bolivar</hi>. Il est vrai, à l’époque de cette expédition, son compatriote, moins bien servi par les circonstances, avait dû faire sur une embarcation à voile et à rames le trajet que faisaient alors les bateaux à vapeur jusqu’à l’embouchure de l’Apure. Mais, à partir de cet endroit, le sergent Martial et le jeune garçon devraient, eux aussi, revenir à ce primitif mode de transport, nécessité par les multiples obstacles du fleuve, ce qui ne ménage point les ennuis aux voyageurs.</p>
-            <p>Dans la matinée, le <hi>Simon-Bolivar</hi> passa en vue de l’île d’Orocopiche, dont les cultures approvisionnent largement le chef-lieu de la province. En cet endroit, le lit de l’Orénoque se réduit à neuf cents mètres, pour retrouver en amont une largeur au moins triple. De la plate-forme, Jean aperçut distinctement la plaine environnante, bossuée de quelques cerros isolés.</p>
-            <p>Avant midi, le déjeuner appela les passagers, — une vingtaine au total, — dans la salle, où M. Miguel et ses deux collègues furent des premiers à occuper leurs places. Quant au sergent Martial, il ne se laissa pas distancer, et entraîna son neveu, auquel il parlait avec une certaine rudesse qui n’échappa point à M. Miguel.</p>
-            <p>« Un homme dur, ce Français, fit-il observer à M. Varinas, assis près de lui.</p>
-            <p>— Un soldat, et c’est tout dire ! » répliqua le partisan du Guaviare. </p>
-            <p>On le voit, le costume de l’ancien sous-officier était de coupe assez militaire pour que l’on ne pût se méprendre.</p>
-            <p>Préalablement à ce déjeuner, le sergent Martial avait « tué le ver » en absorbant son anisado, eau-de-vie de canne mélangée d’anis. Mais Jean, qui ne paraissait pas avoir le goût des liqueurs fortes, n’eut pas besoin de recourir à cet apéritif pour faire honneur au repas. Il avait, près de son oncle, pris place à l’extrémité de la salle, et la mine du grognard était si rébarbative que personne ne fut tenté de s’asseoir à son côté.</p>
-            <p>Quant aux géographes, ils tenaient le centre de la table, et aussi le dé de la conversation. Comme on savait dans quel but ils avaient entrepris ce voyage, les autres passagers ne pouvaient que s’intéresser à ce qu’ils disaient, et pourquoi le sergent Martial eût-il trouvé mal que son neveu les écoutât avec curiosité ?…</p>
-            <p>Le menu était varié, mais de qualité inférieure, et il convient de ne pas se montrer difficile sur les bateaux de l’Orénoque. À vrai dire, pendant la navigation sur le haut cours du fleuve, n’aurait-on pas été trop heureux d’avoir même de tels bistecas, bien qu’ils parussent avoir été cueillis sur un caoutchouc, de tels ragoûts noyés dans leur sauce jaune-safran, de tels œufs déjà en état d’être mis à la broche, de tels rogatons de volailles qu’une longue cuisson aurait pu seule attendrir. En fait de fruits, des bananes à profusion, soit qu’elles fussent à l’état naturel, soit qu’une adjonction de sirop de mélasse les eût transformées en une sorte de confiture. Du pain ?… oui, assez bon — du pain de maïs, bien entendu. Du vin ?… oui, assez mauvais et coûteux. Tel était cet almuerzo, ce déjeuner, qui, au surplus, fut expédié rapidement.</p>
-            <p>Dans l’après-midi, le <hi>Simon-Bolivar</hi> dépassa l’île de la Bernavelle. Le cours de l’Orénoque, encombré d’îles et d’îlots, se resserrait alors, et il fallut que la roue battît ses eaux à coups redoublés pour vaincre la force du courant. D’ailleurs, le capitaine était assez habile manœuvrier pour qu’il n’y eût pas à craindre de s’engraver.</p>
-            <p>Vers la rive gauche, le fleuve se découpait de multiples anses aux berges très boisées, surtout au-delà d’Almacen, petit village d’une trentaine d’habitants, et tel encore que l’avait vu M. Chaffanjon, huit ans auparavant. De çà et de là descendaient de petits affluents, le Bari, le Lima. À leurs embouchures, s’arrondissaient des massifs de copayferas, dont l’huile, extraite par incision, est de vente fructueuse, et nombre de palmiers moriches. Puis, de tous côtés, des bandes de singes, dont la chair comestible vaut bien ces semelles de bistecas du déjeuner, que le dîner devait faire reparaître sur la table.</p>
-            <p>Ce ne sont pas seulement des îles qui rendent parfois difficile la navigation de l’Orénoque. On y rencontre aussi des récifs dangereux, brusquement dressés au milieu des passes. Cependant le <hi>Simon-Bolivar</hi> parvint à éviter les collisions, et le soir, après un parcours de vingt-cinq à trente lieues, il alla porter ses amarres au village de Moitaco.</p>
-            <p>Là devait se prolonger l’escale jusqu’au lendemain, car il n’eût pas été prudent de s’aventurer au milieu d’une nuit que d’épais nuages et l’absence de lune allaient rendre assez obscure.</p>
-            <p>À neuf heures, le sergent Martial pensa que l’instant était venu de prendre du repos, et Jean ne s’avisa pas de vouloir résister aux injonctions de son oncle.</p>
-            <p>Tous deux regagnèrent donc leur cabine, placée au second étage de la superstructure, vers l’arrière. Chacune comprenait un simple cadre de bois, avec une légère couverture et une de ces nattes, qu’on appelle esteras dans le pays, — literie très suffisante en ces régions de la zone tropicale.</p>
-            <p>Dans sa cabine le jeune garçon se dévêtit, se coucha, et le sergent Martial vint alors envelopper le cadre du toldo, sorte de mousseline qui sert de moustiquaire, précaution indispensable contre les acharnés insectes de l’Orénoque. Il ne voulait pas permettre à un seul de ces maudits moustiques de s’attaquer à la peau de son neveu. La sienne, passe encore, car elle était assez épaisse et coriace pour braver leurs piqûres, et, soyez sûr qu’il se défendrait de son mieux.</p>
-            <p>Ces mesures prises, Jean ne fit qu’un somme jusqu’au matin, en dépit des myriades de bestioles qui bruissaient autour de son toldo protecteur.</p>
-            <p>Le lendemain, aux premières heures, le <hi>Simon-Bolivar</hi> dont les feux avaient été maintenus, se remit en route, après que l’équipage eut embarqué et empilé sur le premier pont le bois coupé d’avance dans les forêts riveraines.</p>
-            <p>C’était dans l’une des deux baies, à gauche et à droite du village de Moitaco, que le steamboat avait relâché pendant la nuit. Dès qu’il fut sorti de cette baie, le coquet assemblage de maisonnettes, autrefois centre important des missions espagnoles, disparut derrière un coude de la rive. C’est dans ce village que M. Chaffanjon chercha vainement la tombe de l’un des compagnons du docteur Crevaux, François Burban, — tombe restée introuvable en ce modeste cimetière de Moitaco.</p>
-            <p>Pendant cette journée, on dépassa le hameau de Santa-Cruz, assemblage d’une vingtaine de cases sur la rive gauche, puis l’île Guanarès, jadis résidence des missionnaires, placée à peu près à l’endroit où la courbe du fleuve se dessine vers le sud pour reprendre vers l’ouest, puis l’île del Muerto.</p>
-            <p>Il y eut à franchir plusieurs raudals — ainsi désigne-t-on les rapides produits par le resserrement du lit. Mais ce qui occasionne une grosse fatigue aux bateliers des embarcations à l’aviron ou à la voile ne coûta qu’un surcroît de combustible aux générateurs du <hi>Simon-Bolivar</hi>. Les soupapes sifflèrent sans qu’il fût nécessaire de les charger. La grande roue repoussa plus violemment les eaux de ses larges pales. Dans ces conditions, trois ou quatre de ces raudals purent être remontés sans trop de retards, même celui de la Bouche de l’Enfer, que Jean signala en amont de l’île de Matapalo.</p>
-            <p>« Alors, lui demanda le sergent Martial, le bouquin de ce Français est bien conforme à tout ce que nous voyons défiler le long du <hi>Simon-Bolivar</hi> ?</p>
-            <p>— Tout à fait conforme, mon oncle. Seulement, nous faisons en vingt-quatre heures ce qui a nécessité trois ou quatre jours à notre compatriote. Il est vrai, lorsque nous aurons échangé le steamboat pour les embarcations du moyen Orénoque, nous serons retardés autant qu’il a pu l’être. Qu’importe ! L’essentiel n’est-il pas d’arriver à San-Fernando… où j’espère recueillir des renseignements plus précis…</p>
-            <p>— Assurément, et il n’est pas possible que mon colonel ait passé par là sans avoir laissé quelques traces !… Nous finirons bien par savoir en quel endroit il a planté sa tente… Ah !… quand nous serons en face de lui… lorsque tu te précipiteras dans ses bras… lorsqu’il saura…</p>
-            <p>— Que je suis ton neveu… ton neveu ! » répliqua le jeune garçon, qui craignait toujours qu’une indiscrète répartie n’échappât à son soi-disant oncle.</p>
-            <p>Le soir venu, le <hi>Simon-Bolivar</hi> lança ses amarres au pied de la barranca sur laquelle est gracieusement perchée la petite bourgade de Mapire.</p>
-            <p>MM. Miguel, Felipe et Varinas, profitant d’une heure de crépuscule, voulurent visiter cette bourgade assez importante de la rive gauche. Jean eût été désireux de les accompagner ; mais le sergent Martial ayant déclaré qu’il n’était pas convenable de quitter le bord, il ne le quitta pas par obéissance.</p>
-            <p>Quant aux trois collègues de la Société de Géographie, ils ne regrettèrent point leur excursion. Des hauteurs de Mapire, la vue s’étend largement sur le fleuve en amont et en aval, tandis que vers le nord, elle domine ces llanos où les Indiens élèvent des mulets, des chevaux, des ânes, vastes plaines encadrées d’une verdoyante ceinture de forêts.</p>
-            <p>À neuf heures, tous les passagers dormaient dans leurs cabines, après avoir pris les précautions habituelles contre l’envahissement des myriades de moustiques.</p>
-            <p>La journée du lendemain fut noyée — c’est le mot — sous les averses. Personne ne put se tenir sur le spardeck. Le sergent Martial et le jeune garçon passèrent ces longues heures dans le salon de l’arrière, où MM. Miguel, Varinas et Felipe avaient élu domicile. Il eût été difficile de n’être pas au courant de la question Atabapo-Guaviare-Orénoque, car leurs champions ne parlaient pas d’autre chose et discutaient à haute voix. Plusieurs des passagers se mêlèrent à la conversation, prenant parti pour ou contre. On peut être certain, d’ailleurs, qu’ils n’iraient pas jusqu’à se transporter de leur personne à San-Fernando dans le but d’élucider ce problème géographique.</p>
-            <p>« Et quel intérêt cela peut-il avoir ?… demanda le sergent Martial à son neveu, lorsque celui-ci l’eut mis au courant de l’affaire. Qu’un fleuve s’appelle d’une façon ou d’une autre, c’est toujours de l’eau qui coule en suivant sa pente naturelle…</p>
-            <p>— Y songes-tu ! mon oncle, répondit Jean. S’il n’y avait pas de ces questions-là, à quoi serviraient les géographes, et s’il n’y avait pas de géographes…</p>
-            <p>— Nous ne pourrions pas apprendre la géographie, répliqua le sergent Martial. En tout cas, ce qui est clair, c’est que nous aurons la compagnie de ces disputeurs jusqu’à San-Fernando. »</p>
-            <p>En effet, à partir de Caïcara, le voyage devrait s’effectuer en commun dans une de ces embarcations auxquelles leur construction permet de franchir les nombreux raudals du moyen Orénoque.</p>
-            <p>Grâce aux intempéries de cette journée, on ne vit rien de l’île Tigritta. Par compensation, au déjeuner comme au dîner, les convives purent se régaler d’excellents poissons, ces morocotes qui fourmillent en ces parages, et dont il s’expédie des quantités énormes, conservées dans la salure, à Ciudad-Bolivar comme à Caracas.</p>
-            <p>Ce fut pendant les dernières heures de la matinée que le steamboat passa à l’ouest de l’embouchure du Caura. Ce cours d’eau est l’un des plus considérables affluents de la rive droite, qui vient du sud-est à travers les territoires des Panares, des Inaos, des Arebatos, des Taparitos, et il arrose une des plus pittoresques vallées du Venezuela. Les villages rapprochés des bords de l’Orénoque sont habités par des métis policés, d’origine espagnole. Les plus lointains ne donnent asile qu’à des Indiens, encore sauvages, ces gardiens de bétail, qu’on nomme gomeros, parce qu’ils s’occupent aussi de récolter les gommes pharmaceutiques.</p>
-            <p>Jean avait employé une partie de son temps à lire le récit de son compatriote, lequel, en 1885, lors de sa première expédition, abandonna l’Orénoque pour s’aventurer à travers les llanos du Caura, au milieu des tribus Ariguas et Quiriquiripas. Ces dangers qu’il avait courus, Jean les retrouverait, sans doute, et même aggravés, s’il lui fallait remonter le cours supérieur du fleuve. Mais, tout en admirant l’énergie et le courage de cet audacieux Français, il espérait ne pas être moins courageux et moins énergique.</p>
-            <p>Il est vrai, l’un était un homme fait, et lui n’était qu’un jeune garçon !… Eh bien, que Dieu lui donne assez de force pour endurer les fatigues d’un tel voyage, et il ira jusqu’au bout !</p>
-            <p>En amont de l’embouchure du Caura, l’Orénoque présente encore une très grande largeur, — environ trois mille mètres. Depuis trois mois, la saison des pluies et les nombreux tributaires des deux rives contribuaient, par un apport considérable, à la surélévation de ses eaux.</p>
-            <p>Néanmoins, il fallut que le capitaine du <hi>Simon-Bolivar</hi> manœuvrât avec prudence pour ne pas s’engraver sur les hauts-fonds, en amont de l’île de Tucuragua, à la hauteur du rio de ce nom. Peut-être même le steamboat subit-il certains raclements qui ne laissèrent pas de causer quelque inquiétude à bord. En effet, si sa coque n’en devait pas souffrir, ayant les fonds plats comme ceux d’un chaland, il y avait toujours lieu de craindre pour l’appareil propulseur, soit un bris des pales de la roue, soit des avaries à la machine.</p>
-            <p>Enfin, cette fois, on s’en tira sans dommage, et, dans la soirée, le <hi>Simon-Bolivar</hi> vint mouiller au fond d’une anse de la rive droite, au lieu dit Las Bonitas.</p>
-          </div>
-          
+        <div type="chapter">
+          <head>III. À bord du <hi>Simon-Bolivar</hi></head>
+          <p>« L’Orénoque sort du Paradis terrestre, » cela est dit dans les récits de Christophe Colomb. </p>
+          <p>La première fois que Jean énonça cette opinion du grand navigateur génois devant le sergent Martial, celui-ci se borna à répondre :</p>
+          <p>« Nous verrons bien ! »</p>
+          <p>Et peut-être avait-il raison de mettre en doute cette assertion de l’illustre découvreur de l’Amérique.</p>
+          <p>Également, paraît-il, il convenait de mettre au rang des pures légendes que le grand fleuve descendît du pays de l’El Dorado, ainsi que semblaient le croire les premiers explorateurs, les Hojeda, les Pinzon, les Cabral, les Magalhãez, les Valdivia, les Sarmiento, et tant d’autres qui s’aventurèrent à travers les régions du Sud-Amérique.</p>
+          <p>Dans tous les cas, l’Orénoque trace un immense demi-cercle à la surface du territoire entre les 3<hi rend="sup">e</hi> et 8<hi rend="sup">e</hi> parallèles au nord de l’Équateur, et dont la courbe s’étend au-delà du 70° degré de longitude à l’ouest du méridien de Paris. Les Vénézuéliens sont fiers de leur fleuve, et il est visible que, sous ce rapport, MM. Miguel, Felipe et Varinas ne le cédaient à aucun de leurs compatriotes.</p>
+          <p>Et peut-être, même, eurent-ils la pensée de protester publiquement, contre le dire d’Élisée Reclus, dans le dix-huitième volume de sa <hi>Nouvelle Géographie universelle</hi>, qui attribue à l’Orénoque le neuvième rang parmi les fleuves de la terre, après l’Amazone, le Congo, le Parana-Uruguay, le Niger, le Yang-tse-Kiang, le Brahmapoutre, le Mississipi et le Saint-Laurent. Ne pouvaient-ils faire valoir que, d’après Diego Ordaz, un explorateur du seizième siècle, les Indiens le nommaient Paragua, c’est-à-dire : Grande-Eau ?… Cependant, malgré un argument de cette force, ils ne donnèrent pas libre cours à leurs protestations, et peut-être firent-ils bien, tant l’œuvre du géographe français s’appuie sur des bases sérieuses.</p>
+          <p>Dès six heures du matin, le 12 août, le <hi>Simon-Bolivar</hi>, — on ne saurait s’étonner de ce nom, — était prêt à partir. Ces communications par bateaux à vapeur entre cette ville et les bourgades du cours de l’Orénoque ne dataient que de quelques années, et encore ne dépassent-elles pas l’embouchure de l’Apure. Mais en remontant cet affluent, les passagers et les marchandises peuvent se transporter jusqu’à San-Fernando<note>Il s’agit de San-Fernando de Apure qu’il ne faut pas confondre avec San-Fernando de Atabapo sur l’Orénoque.</note> et même au-delà, au port de Nutrias, grâce à la Compagnie vénézuélienne, qui a fondé des services bimensuels.</p>
+          <p>Ce serait aux bouches de l’Apure, ou plutôt quelques milles en aval, à la bourgade de Caïcara, que ceux des voyageurs qui devaient continuer leur voyage sur l’Orénoque abandonneraient le <hi>Simon-Bolivar</hi>, afin de se confier aux rudimentaires embarcations indiennes.</p>
+          <p>Ce steamboat était construit pour naviguer sur ces fleuves dont l’étiage varie dans des proportions considérables depuis la saison sèche jusqu’à la saison pluvieuse. D’un gabarit semblable à celui des paquebots de la Magdalena de Colombie, il tirait aussi peu d’eau que possible, étant plat dans ses fonds. Comme unique propulseur, il possédait une énorme roue sans tambour disposée à l’arrière, et qui tourne sous l’action d’une assez puissante machine à double effet. Que l’on se figure une sorte de radeau surmonté d’une superstructure, le long de laquelle s’élevaient en abord les deux cheminées des chaudières. Cette superstructure, terminée par un spardeck, contenait les salons et cabines réservés aux passagers, le pont inférieur servant à l’empilement des marchandises, — ensemble qui rappelle les steamboats américains avec leurs balanciers et leurs bielles démesurés. Le tout est peinturluré de couleurs voyantes jusqu’au poste du pilote et du capitaine, établi au dernier étage sous les plis du pavillon de la république. Quant aux appareils évaporatoires, ils dévorent les forêts de la rive, et l’on aperçoit déjà d’interminables coupées, dues à la hache du bûcheron, qui s’enfoncent de chaque côté de l’Orénoque.</p>
+          <p>Ciudad-Bolivar étant située à quatre cent vingt kilomètres des bouches de l’Orénoque, si le flot s’y fait encore sentir, du moins ne renverse-t-il pas le courant normal. Ce flot ne peut donc profiter aux embarcations qui naviguent vers l’amont. Toutefois, il s’y produit des crues qui, à la capitale même, peuvent dépasser douze à quinze mètres. Mais, d’une façon générale, l’Orénoque croit régulièrement jusqu’à la mi-août et conserve son niveau jusqu’à la fin de septembre. Puis la baisse se continue jusqu’en novembre, avec légère recrudescence à cette époque, et ne prend fin qu’en avril.</p>
+          <p>Le voyage entrepris par M. Miguel et ses collègues allait donc s’accomplir pendant la période favorable à l’enquête des Atabaposistes, des Guaviariens et des Orénoquois.</p>
+          <p>Il y eut grand concours de leurs partisans à saluer les trois géographes sur le quai d’embarquement de Ciudad-Bolivar. On n’était qu’au départ, cependant, et que serait-ce à l’arrivée ! De vifs et bruyants encouragements leur furent adressés soit par les tenants du fameux fleuve, soit par ceux de ses prétendus tributaires. Et au milieu des carambas et des caraïs que ne ménageaient ni les porteurs de colis, ni les mariniers en achevant les préparatifs du démarrage, malgré le sifflet assourdissant des chaudières qui écorchait les oreilles, et des hennissements de la vapeur fusant à travers les soupapes, on entendait ces cris :</p>
+          <p>« <hi>Viva el Guaviare !</hi></p>
+          <p>— <hi>Viva el Atabapo !</hi></p>
+          <p>— <hi>Viva el Orinoco !</hi> »</p>
+          <p>Puis, entre les partisans de ces opinions diverses, des discussions éclataient, qui menaçaient de mal finir, bien que M. Miguel essayât de s’entremettre entre les plus exaltés.</p>
+          <p>Placés sur le spardeck, le sergent Martial et son neveu assistaient à ces scènes tumultueuses, sans parvenir à y rien comprendre.</p>
+          <p>« Que veulent tous ces gens-là ?… s’écria le vieux soldat. C’est bien sûr quelque révolution… »</p>
+          <p>Ce ne pouvait en être une, puisque dans les États hispano-américains, les révolutions ne s’accomplissent jamais sans l’intervention de l’élément militaire. Or, on ne voyait pas là un seul des sept mille généraux de l’état-major du Venezuela.</p>
+          <p>Jean et le sergent Martial ne devaient pas tarder à être fixés à ce sujet, car, à n’en pas douter, au cours de la navigation, la discussion continuerait à mettre aux prises M. Miguel et ses deux collègues.</p>
+          <p>Bref, les derniers ordres du capitaine furent envoyés, — d’abord au mécanicien ordre de balancer sa machine, ensuite aux mariniers d’avant et d’arrière ordre de larguer les amarres de poste. Tous ceux qui n’étaient pas du voyage, disséminés sur les étages de la superstructure, durent redescendre sur le quai. Enfin, après quelques bousculades, il ne resta plus à bord que les passagers et l’équipage.</p>
+          <p>Dès que le <hi>Simon-Bolivar</hi> se fut mis en mouvement, redoublement de clameurs, tumulte d’adieux, entre lesquels éclatèrent les vivats en l’honneur de l’Orénoque et de ses affluents. Le bateau à vapeur écarté, sa puissante roue battit les eaux avec violence, et le timonier prit direction vers le milieu du fleuve. Un quart d’heure après, la ville avait disparu derrière un tournant de la rive gauche, et bientôt on ne vit plus rien des dernières maisons de la Soledad sur la rive opposée.</p>
+          <p>On n’estime pas à moins de cinq cent mille kilomètres carrés l’étendue des llanos vénézuéliens. Ce sont des plaines presque plates. À peine, en de certains endroits, le sol s’accidente-t-il de ces renflements, qui sont appelés bancos dans le pays, ou de ces buttes à pans brusques, à terrasses régulières, appelées mesas. Les llanos ne se relèvent que vers la base des montagnes, dont le voisinage se fait déjà sentir. D’autres, les bajos, sont limitrophes des cours d’eau. C’est à travers ces immenses aires, tantôt verdoyantes à la saison des pluies, tantôt jaunes et presque décolorées pendant les mois de sécheresse, que se déroule en demi-cercle le cours de l’Orénoque.</p>
+          <p>Au reste, les passagers du <hi>Simon-Bolivar</hi>, désireux de connaître le fleuve au double point de vue hydrographique et géographique, n’auraient eu qu’à poser des questions à MM. Miguel, Felipe et Varinas pour obtenir des réponses positives. Ces savants n’étaient-ils pas toujours prêts à fournir de minutieux renseignements sur les bourgades, sur les villages, sur les affluents, sur les diverses peuplades sédentaires ou errantes ? À quels plus consciencieux cicerones eût-il été possible de s’adresser, et avec quelle obligeance, quel empressement, ils se fussent mis à la disposition des voyageurs !</p>
+          <p>Il est vrai, parmi les passagers du <hi>Simon-Bolivar</hi>, le plus grand nombre n’avaient rien à apprendre au sujet de l’Orénoque, l’ayant vingt fois remonté ou descendu, les uns jusqu’aux bouches de l’Apure, les autres jusqu’à la bourgade de San-Fernando de Atabapo. La plupart étaient des commerçants, des trafiquants, qui transportaient des marchandises vers l’intérieur, ou les ramenaient vers les ports de l’est. À citer les plus ordinaires entre ces divers objets de trafic, des cacaos, des peaux, cuirs de bœufs et de cerfs, des minerais de cuivre, des phosphates, des bois pour charpente, ébénisterie, marqueterie, teinture, fèves de tonka, caoutchouc, salsepareille, et enfin le bétail, car l’élevage forme la principale industrie des llaneros répandus sur les plaines.</p>
+          <p>Le Venezuela appartient à la zone équatoriale. La moyenne de la température y est donc comprise entre vingt-cinq et trente degrés centigrades. Mais elle est variable, ainsi que cela se produit dans les pays de montagnes. C’est entre les Andes du littoral et celles de l’ouest que la chaleur acquiert le plus d’intensité, c’est-à-dire à la surface de ces territoires où s’arrondit le lit de l’Orénoque, et auxquels ne parviennent jamais les brises marines. Même les vents généraux, les alizés du nord et de l’est, arrêtés par l’écran orographique des côtes, ne peuvent apporter un adoucissement aux rigueurs de ce climat.</p>
+          <p>Ce jour-là, par un ciel couvert, avec quelques menaces de pluie, les passagers ne souffraient pas trop de la chaleur. La brise, venant de l’ouest, à contre de la marche du steamboat, donnait aux passagers une sensation de bien-être très appréciable.</p>
+          <p>Le sergent Martial et Jean, sur le spardeck, observaient les rives du fleuve. Leurs compagnons de voyage se montraient assez indifférents à ce spectacle. Seul le trio des géographes en étudiait les détails, non sans discuter avec une certaine animation.</p>
+          <p>Certes, s’il s’était adressé à eux, Jean aurait pu être exactement renseigné. Mais, d’une part, le sergent Martial, très jaloux, très sévère, n’eût permis à aucun étranger d’entrer en conversation avec son neveu, et, d’autre part, celui-ci n’avait besoin de personne pour reconnaître pas à pas les villages, les îles, les détours du fleuve. </p>
+          <p>Il possédait un guide sûr dans le récit des deux voyages exécutés par M. Chaffanjon par ordre du ministre de l’Instruction publique de France. Le premier, en 1884, comprend la partie du cours inférieur de l’Orénoque entre Ciudad-Bolivar et l’embouchure du Caura, ainsi que l’exploration de cet important tributaire. Le second, en 1886-1887, comprend le cours entier du fleuve depuis Ciudad-Bolivar jusqu’à ses sources. Ce récit de l’explorateur français est fait avec une extrême précision, et Jean comptait en tirer grand profit.</p>
+          <p>Il va sans dire que le sergent Martial, muni d’une somme suffisante, convertie en piastres, serait à même de pourvoir à toutes les dépenses de route. Il n’avait pas négligé de se précautionner d’une certaine quantité d’articles d’échange, étoffes, couteaux, miroirs, verroteries, ustensiles de quincaillerie et bibelots de mince valeur, qui devaient faciliter les relations avec les Indiens des llanos. Cette pacotille remplissait deux caisses, placées avec les autres bagages au fond de la cabine de l’oncle, contiguë à celle de son neveu.</p>
+          <p>Donc, son livre sous les yeux, Jean suivait d’un regard consciencieux les deux rives qui se déplaçaient en sens contraire de la marche du <hi>Simon-Bolivar</hi>. Il est vrai, à l’époque de cette expédition, son compatriote, moins bien servi par les circonstances, avait dû faire sur une embarcation à voile et à rames le trajet que faisaient alors les bateaux à vapeur jusqu’à l’embouchure de l’Apure. Mais, à partir de cet endroit, le sergent Martial et le jeune garçon devraient, eux aussi, revenir à ce primitif mode de transport, nécessité par les multiples obstacles du fleuve, ce qui ne ménage point les ennuis aux voyageurs.</p>
+          <p>Dans la matinée, le <hi>Simon-Bolivar</hi> passa en vue de l’île d’Orocopiche, dont les cultures approvisionnent largement le chef-lieu de la province. En cet endroit, le lit de l’Orénoque se réduit à neuf cents mètres, pour retrouver en amont une largeur au moins triple. De la plate-forme, Jean aperçut distinctement la plaine environnante, bossuée de quelques cerros isolés.</p>
+          <p>Avant midi, le déjeuner appela les passagers, — une vingtaine au total, — dans la salle, où M. Miguel et ses deux collègues furent des premiers à occuper leurs places. Quant au sergent Martial, il ne se laissa pas distancer, et entraîna son neveu, auquel il parlait avec une certaine rudesse qui n’échappa point à M. Miguel.</p>
+          <p>« Un homme dur, ce Français, fit-il observer à M. Varinas, assis près de lui.</p>
+          <p>— Un soldat, et c’est tout dire ! » répliqua le partisan du Guaviare. </p>
+          <p>On le voit, le costume de l’ancien sous-officier était de coupe assez militaire pour que l’on ne pût se méprendre.</p>
+          <p>Préalablement à ce déjeuner, le sergent Martial avait « tué le ver » en absorbant son anisado, eau-de-vie de canne mélangée d’anis. Mais Jean, qui ne paraissait pas avoir le goût des liqueurs fortes, n’eut pas besoin de recourir à cet apéritif pour faire honneur au repas. Il avait, près de son oncle, pris place à l’extrémité de la salle, et la mine du grognard était si rébarbative que personne ne fut tenté de s’asseoir à son côté.</p>
+          <p>Quant aux géographes, ils tenaient le centre de la table, et aussi le dé de la conversation. Comme on savait dans quel but ils avaient entrepris ce voyage, les autres passagers ne pouvaient que s’intéresser à ce qu’ils disaient, et pourquoi le sergent Martial eût-il trouvé mal que son neveu les écoutât avec curiosité ?…</p>
+          <p>Le menu était varié, mais de qualité inférieure, et il convient de ne pas se montrer difficile sur les bateaux de l’Orénoque. À vrai dire, pendant la navigation sur le haut cours du fleuve, n’aurait-on pas été trop heureux d’avoir même de tels bistecas, bien qu’ils parussent avoir été cueillis sur un caoutchouc, de tels ragoûts noyés dans leur sauce jaune-safran, de tels œufs déjà en état d’être mis à la broche, de tels rogatons de volailles qu’une longue cuisson aurait pu seule attendrir. En fait de fruits, des bananes à profusion, soit qu’elles fussent à l’état naturel, soit qu’une adjonction de sirop de mélasse les eût transformées en une sorte de confiture. Du pain ?… oui, assez bon — du pain de maïs, bien entendu. Du vin ?… oui, assez mauvais et coûteux. Tel était cet almuerzo, ce déjeuner, qui, au surplus, fut expédié rapidement.</p>
+          <p>Dans l’après-midi, le <hi>Simon-Bolivar</hi> dépassa l’île de la Bernavelle. Le cours de l’Orénoque, encombré d’îles et d’îlots, se resserrait alors, et il fallut que la roue battît ses eaux à coups redoublés pour vaincre la force du courant. D’ailleurs, le capitaine était assez habile manœuvrier pour qu’il n’y eût pas à craindre de s’engraver.</p>
+          <p>Vers la rive gauche, le fleuve se découpait de multiples anses aux berges très boisées, surtout au-delà d’Almacen, petit village d’une trentaine d’habitants, et tel encore que l’avait vu M. Chaffanjon, huit ans auparavant. De çà et de là descendaient de petits affluents, le Bari, le Lima. À leurs embouchures, s’arrondissaient des massifs de copayferas, dont l’huile, extraite par incision, est de vente fructueuse, et nombre de palmiers moriches. Puis, de tous côtés, des bandes de singes, dont la chair comestible vaut bien ces semelles de bistecas du déjeuner, que le dîner devait faire reparaître sur la table.</p>
+          <p>Ce ne sont pas seulement des îles qui rendent parfois difficile la navigation de l’Orénoque. On y rencontre aussi des récifs dangereux, brusquement dressés au milieu des passes. Cependant le <hi>Simon-Bolivar</hi> parvint à éviter les collisions, et le soir, après un parcours de vingt-cinq à trente lieues, il alla porter ses amarres au village de Moitaco.</p>
+          <p>Là devait se prolonger l’escale jusqu’au lendemain, car il n’eût pas été prudent de s’aventurer au milieu d’une nuit que d’épais nuages et l’absence de lune allaient rendre assez obscure.</p>
+          <p>À neuf heures, le sergent Martial pensa que l’instant était venu de prendre du repos, et Jean ne s’avisa pas de vouloir résister aux injonctions de son oncle.</p>
+          <p>Tous deux regagnèrent donc leur cabine, placée au second étage de la superstructure, vers l’arrière. Chacune comprenait un simple cadre de bois, avec une légère couverture et une de ces nattes, qu’on appelle esteras dans le pays, — literie très suffisante en ces régions de la zone tropicale.</p>
+          <p>Dans sa cabine le jeune garçon se dévêtit, se coucha, et le sergent Martial vint alors envelopper le cadre du toldo, sorte de mousseline qui sert de moustiquaire, précaution indispensable contre les acharnés insectes de l’Orénoque. Il ne voulait pas permettre à un seul de ces maudits moustiques de s’attaquer à la peau de son neveu. La sienne, passe encore, car elle était assez épaisse et coriace pour braver leurs piqûres, et, soyez sûr qu’il se défendrait de son mieux.</p>
+          <p>Ces mesures prises, Jean ne fit qu’un somme jusqu’au matin, en dépit des myriades de bestioles qui bruissaient autour de son toldo protecteur.</p>
+          <p>Le lendemain, aux premières heures, le <hi>Simon-Bolivar</hi> dont les feux avaient été maintenus, se remit en route, après que l’équipage eut embarqué et empilé sur le premier pont le bois coupé d’avance dans les forêts riveraines.</p>
+          <p>C’était dans l’une des deux baies, à gauche et à droite du village de Moitaco, que le steamboat avait relâché pendant la nuit. Dès qu’il fut sorti de cette baie, le coquet assemblage de maisonnettes, autrefois centre important des missions espagnoles, disparut derrière un coude de la rive. C’est dans ce village que M. Chaffanjon chercha vainement la tombe de l’un des compagnons du docteur Crevaux, François Burban, — tombe restée introuvable en ce modeste cimetière de Moitaco.</p>
+          <p>Pendant cette journée, on dépassa le hameau de Santa-Cruz, assemblage d’une vingtaine de cases sur la rive gauche, puis l’île Guanarès, jadis résidence des missionnaires, placée à peu près à l’endroit où la courbe du fleuve se dessine vers le sud pour reprendre vers l’ouest, puis l’île del Muerto.</p>
+          <p>Il y eut à franchir plusieurs raudals — ainsi désigne-t-on les rapides produits par le resserrement du lit. Mais ce qui occasionne une grosse fatigue aux bateliers des embarcations à l’aviron ou à la voile ne coûta qu’un surcroît de combustible aux générateurs du <hi>Simon-Bolivar</hi>. Les soupapes sifflèrent sans qu’il fût nécessaire de les charger. La grande roue repoussa plus violemment les eaux de ses larges pales. Dans ces conditions, trois ou quatre de ces raudals purent être remontés sans trop de retards, même celui de la Bouche de l’Enfer, que Jean signala en amont de l’île de Matapalo.</p>
+          <p>« Alors, lui demanda le sergent Martial, le bouquin de ce Français est bien conforme à tout ce que nous voyons défiler le long du <hi>Simon-Bolivar</hi> ?</p>
+          <p>— Tout à fait conforme, mon oncle. Seulement, nous faisons en vingt-quatre heures ce qui a nécessité trois ou quatre jours à notre compatriote. Il est vrai, lorsque nous aurons échangé le steamboat pour les embarcations du moyen Orénoque, nous serons retardés autant qu’il a pu l’être. Qu’importe ! L’essentiel n’est-il pas d’arriver à San-Fernando… où j’espère recueillir des renseignements plus précis…</p>
+          <p>— Assurément, et il n’est pas possible que mon colonel ait passé par là sans avoir laissé quelques traces !… Nous finirons bien par savoir en quel endroit il a planté sa tente… Ah !… quand nous serons en face de lui… lorsque tu te précipiteras dans ses bras… lorsqu’il saura…</p>
+          <p>— Que je suis ton neveu… ton neveu ! » répliqua le jeune garçon, qui craignait toujours qu’une indiscrète répartie n’échappât à son soi-disant oncle.</p>
+          <p>Le soir venu, le <hi>Simon-Bolivar</hi> lança ses amarres au pied de la barranca sur laquelle est gracieusement perchée la petite bourgade de Mapire.</p>
+          <p>MM. Miguel, Felipe et Varinas, profitant d’une heure de crépuscule, voulurent visiter cette bourgade assez importante de la rive gauche. Jean eût été désireux de les accompagner ; mais le sergent Martial ayant déclaré qu’il n’était pas convenable de quitter le bord, il ne le quitta pas par obéissance.</p>
+          <p>Quant aux trois collègues de la Société de Géographie, ils ne regrettèrent point leur excursion. Des hauteurs de Mapire, la vue s’étend largement sur le fleuve en amont et en aval, tandis que vers le nord, elle domine ces llanos où les Indiens élèvent des mulets, des chevaux, des ânes, vastes plaines encadrées d’une verdoyante ceinture de forêts.</p>
+          <p>À neuf heures, tous les passagers dormaient dans leurs cabines, après avoir pris les précautions habituelles contre l’envahissement des myriades de moustiques.</p>
+          <p>La journée du lendemain fut noyée — c’est le mot — sous les averses. Personne ne put se tenir sur le spardeck. Le sergent Martial et le jeune garçon passèrent ces longues heures dans le salon de l’arrière, où MM. Miguel, Varinas et Felipe avaient élu domicile. Il eût été difficile de n’être pas au courant de la question Atabapo-Guaviare-Orénoque, car leurs champions ne parlaient pas d’autre chose et discutaient à haute voix. Plusieurs des passagers se mêlèrent à la conversation, prenant parti pour ou contre. On peut être certain, d’ailleurs, qu’ils n’iraient pas jusqu’à se transporter de leur personne à San-Fernando dans le but d’élucider ce problème géographique.</p>
+          <p>« Et quel intérêt cela peut-il avoir ?… demanda le sergent Martial à son neveu, lorsque celui-ci l’eut mis au courant de l’affaire. Qu’un fleuve s’appelle d’une façon ou d’une autre, c’est toujours de l’eau qui coule en suivant sa pente naturelle…</p>
+          <p>— Y songes-tu ! mon oncle, répondit Jean. S’il n’y avait pas de ces questions-là, à quoi serviraient les géographes, et s’il n’y avait pas de géographes…</p>
+          <p>— Nous ne pourrions pas apprendre la géographie, répliqua le sergent Martial. En tout cas, ce qui est clair, c’est que nous aurons la compagnie de ces disputeurs jusqu’à San-Fernando. »</p>
+          <p>En effet, à partir de Caïcara, le voyage devrait s’effectuer en commun dans une de ces embarcations auxquelles leur construction permet de franchir les nombreux raudals du moyen Orénoque.</p>
+          <p>Grâce aux intempéries de cette journée, on ne vit rien de l’île Tigritta. Par compensation, au déjeuner comme au dîner, les convives purent se régaler d’excellents poissons, ces morocotes qui fourmillent en ces parages, et dont il s’expédie des quantités énormes, conservées dans la salure, à Ciudad-Bolivar comme à Caracas.</p>
+          <p>Ce fut pendant les dernières heures de la matinée que le steamboat passa à l’ouest de l’embouchure du Caura. Ce cours d’eau est l’un des plus considérables affluents de la rive droite, qui vient du sud-est à travers les territoires des Panares, des Inaos, des Arebatos, des Taparitos, et il arrose une des plus pittoresques vallées du Venezuela. Les villages rapprochés des bords de l’Orénoque sont habités par des métis policés, d’origine espagnole. Les plus lointains ne donnent asile qu’à des Indiens, encore sauvages, ces gardiens de bétail, qu’on nomme gomeros, parce qu’ils s’occupent aussi de récolter les gommes pharmaceutiques.</p>
+          <p>Jean avait employé une partie de son temps à lire le récit de son compatriote, lequel, en 1885, lors de sa première expédition, abandonna l’Orénoque pour s’aventurer à travers les llanos du Caura, au milieu des tribus Ariguas et Quiriquiripas. Ces dangers qu’il avait courus, Jean les retrouverait, sans doute, et même aggravés, s’il lui fallait remonter le cours supérieur du fleuve. Mais, tout en admirant l’énergie et le courage de cet audacieux Français, il espérait ne pas être moins courageux et moins énergique.</p>
+          <p>Il est vrai, l’un était un homme fait, et lui n’était qu’un jeune garçon !… Eh bien, que Dieu lui donne assez de force pour endurer les fatigues d’un tel voyage, et il ira jusqu’au bout !</p>
+          <p>En amont de l’embouchure du Caura, l’Orénoque présente encore une très grande largeur, — environ trois mille mètres. Depuis trois mois, la saison des pluies et les nombreux tributaires des deux rives contribuaient, par un apport considérable, à la surélévation de ses eaux.</p>
+          <p>Néanmoins, il fallut que le capitaine du <hi>Simon-Bolivar</hi> manœuvrât avec prudence pour ne pas s’engraver sur les hauts-fonds, en amont de l’île de Tucuragua, à la hauteur du rio de ce nom. Peut-être même le steamboat subit-il certains raclements qui ne laissèrent pas de causer quelque inquiétude à bord. En effet, si sa coque n’en devait pas souffrir, ayant les fonds plats comme ceux d’un chaland, il y avait toujours lieu de craindre pour l’appareil propulseur, soit un bris des pales de la roue, soit des avaries à la machine.</p>
+          <p>Enfin, cette fois, on s’en tira sans dommage, et, dans la soirée, le <hi>Simon-Bolivar</hi> vint mouiller au fond d’une anse de la rive droite, au lieu dit Las Bonitas.</p>
         </div>
-      </div>
-      <div type="section" n="Premier contact">
-        <div type="section">
-          <head rend="tmp" xml:id="IV_Premier_contact." type="h3">IV</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Premier contact.</hi>
-          </p>
+        <div type="chapter">
+          <head>IV. Premier contact</head>
           <p>C’est à Las Bonitas, sa résidence officielle, que demeure le gouverneur militaire duquel relève le Caura, c’est-à-dire le territoire arrosé par cet important tributaire. La bourgade occupe, sur la rive droite du fleuve, à peu près l’emplacement que possédait autrefois la mission espagnole de l’Altagracia. Les missionnaires ont été les véritables conquérants de ces provinces hispano-américaines, et ils ne voient pas sans jalousie les Anglais, les Allemands, les Français chercher à convertir les Indiens sauvages de l’intérieur. Aussi des conflits sont toujours à craindre.</p>
           <p>Le gouverneur militaire se trouvait alors à Las Bonitas. Il connaissait personnellement M. Miguel. Ayant appris son départ pour le cours supérieur de l’Orénoque, il se hâta, lorsque le bateau eut pris son poste, de venir à bord.</p>
           <p>M. Miguel présenta ses deux amis au gouverneur. Il y eut sympathique échange de civilités entre ces divers personnages. Une invitation pour déjeuner le lendemain à la résidence fut acceptée, — ce que permettait la relâche du <hi>Simon-Bolivar</hi>, qui devait se prolonger jusqu’à une heure de l’après-midi.</p>
@@ -409,8 +369,7 @@
           <p>« Mais, continua-t-il, depuis deux ans, on a eu de ses nouvelles à San-Fernando, et il se confirme qu’il a fait là, parmi ces Guaharibos, œuvre miraculeuse de civilisation. »</p>
           <p>Jusqu’à la fin du déjeuner, la conversation porta sur les faits relatifs aux territoires traversés par le cours moyen de l’Orénoque, — cours qui, lui, n’était pas en discussion, — sur l’état actuel des Indiens, de ceux qui sont apprivoisés comme de ceux qui se soustraient à toute domination, c’est-à-dire à toute civilisation. Le gouverneur du Caura donna des détails circonstanciés à propos de ces indigènes, — détails dont M. Miguel, si savant qu’il fût en matières géographiques, devait faire et fit son profit. Bref, cette conversation ne dégénéra point en dispute, car elle ne mit pas aux prises MM. Felipe et Varinas. </p>
           <p>
-<lb/>
-Vers midi, les hôtes de la résidence quittèrent la table, et se dirigèrent vers le <hi>Simon-Bolivar</hi>, dont le départ devait s’effectuer à une heure de l’après-midi.</p>
+            <lb/> Vers midi, les hôtes de la résidence quittèrent la table, et se dirigèrent vers le <hi>Simon-Bolivar</hi>, dont le départ devait s’effectuer à une heure de l’après-midi.</p>
           <p>L’oncle et son neveu, depuis qu’ils étaient rentrés pour prendre leur part de l’almuerzo, n’avaient plus remis le pied à terre. De l’arrière du pont supérieur, où le sergent Martial fumait sa pipe, ils aperçurent de loin M. Miguel et ses collègues qui regagnaient le bord.</p>
           <p>Le gouverneur avait voulu les accompagner. Désireux de leur donner une dernière poignée de main et un dernier adieu à l’instant où le bateau larguerait ses amarres, il embarqua et monta sur le spardeck.</p>
           <p>Le sergent Martial dit alors à Jean :</p>
@@ -475,16 +434,10 @@ Vers midi, les hôtes de la résidence quittèrent la table, et se dirigèrent v
           <p>— Quel lien vous rattache donc au colonel de Kermor ?… demanda le gouverneur.</p>
           <p>— C’est mon père, répondit Jean, et je suis venu au Venezuela pour retrouver mon père ! »</p>
         </div>
-      </div>
-      <div type="section" n="La Maripare et la Gallinetta">
-        <div type="section">
-          <head rend="tmp" xml:id="V_La_Maripare_et_la_Gallinetta" type="h3">V</head>
-          <p rend="c3 h3">
-            <hi rend="sc">La <hi>Maripare</hi> et la <hi>Gallinetta</hi></hi>
-          </p>
+        <div type="chapter">
+          <head>V. La <hi>Maripare</hi> et la <hi>Gallinetta</hi></head>
           <p>
-<lb/>
-Une bourgade, à laquelle il aurait plu de se blottir dans le coude d’un fleuve, ne pourrait qu’envier la situation de Caïcara. Elle est placée là comme une auberge à un tournant de route, ou mieux, à un carrefour. Excellente position pour prospérer, même à quatre cents kilomètres du delta de l’Orénoque.</p>
+            <lb/> Une bourgade, à laquelle il aurait plu de se blottir dans le coude d’un fleuve, ne pourrait qu’envier la situation de Caïcara. Elle est placée là comme une auberge à un tournant de route, ou mieux, à un carrefour. Excellente position pour prospérer, même à quatre cents kilomètres du delta de l’Orénoque.</p>
           <p>Et Caïcara est en pleine prospérité, grâce au voisinage du confluent de l’Apure, qui s’ouvre en amont au commerce de la Colombie et du Venezuela.</p>
           <p>Le <hi>Simon-Bolivar</hi> n’avait atteint ce port fluvial que vers neuf heures du soir. Ayant quitté Las Bonitas à une heure après midi, puis, dépassant successivement le rio Cuchivero, le Manapire, l’île Taruma, il était venu déposer ses passagers à l’appontement du quai de Caïcara.</p>
           <p>Ces passagers, cela va sans dire, étaient uniquement ceux que le bateau ne devait pas conduire, par l’Apure, à San-Fernando ou à Nutrias.</p>
@@ -582,16 +535,10 @@ Une bourgade, à laquelle il aurait plu de se blottir dans le coude d’un fleuv
           <p>— Il le sera pour tout le monde, ajouta M. Miguel, puisque nous le faisons ensemble ! »</p>
           <p>Les palancas s’appuyèrent contre la berge, les voiles furent hissées à bloc, et les deux embarcations, enlevées par une jolie brise, prirent le milieu du fleuve, au bruit des derniers vivats.</p>
         </div>
-      </div>
-      <div type="section" n="D’îles en îles">
-        <div type="section">
-          <head rend="tmp" xml:id="VI_D_iles_en_iles" type="h3"> VI</head>
-          <p rend="c3 h3">
-            <hi rend="sc">D’îles en îles</hi>
-          </p>
+        <div type="chapter">
+          <head>VI. D’îles en îles</head>
           <p>
-<lb/>
-Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de monotones journées à passer à bord de ces pirogues ! Que de retards aussi sur un fleuve, en réalité, si peu propre à une rapide navigation ! Cette monotonie n’existerait pas, sans doute, pour M. Miguel et ses compagnons. En attendant leur arrivée au confluent du Guaviare et de l’Atabapo, ils feraient œuvre de géographes, ils compléteraient la reconnaissance hydrographique de l’Orénoque, ils étudieraient la disposition de ses affluents non moins nombreux que ses îles, ils relèveraient la situation de ses raudals, ils rectifieraient enfin les erreurs dont la carte de ces territoires était encore entachée. Le temps s’écoule vite pour des savants… qui cherchent à en savoir davantage !</p>
+            <lb/> Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de monotones journées à passer à bord de ces pirogues ! Que de retards aussi sur un fleuve, en réalité, si peu propre à une rapide navigation ! Cette monotonie n’existerait pas, sans doute, pour M. Miguel et ses compagnons. En attendant leur arrivée au confluent du Guaviare et de l’Atabapo, ils feraient œuvre de géographes, ils compléteraient la reconnaissance hydrographique de l’Orénoque, ils étudieraient la disposition de ses affluents non moins nombreux que ses îles, ils relèveraient la situation de ses raudals, ils rectifieraient enfin les erreurs dont la carte de ces territoires était encore entachée. Le temps s’écoule vite pour des savants… qui cherchent à en savoir davantage !</p>
           <p>Peut-être était-il regrettable que le sergent Martial se fût opposé à ce que le voyage s’effectuât dans une seule et même embarcation, car les heures eussent paru moins interminables. Mais, sur ce point, l’intransigeance de l’oncle avait été absolue, et, d’ailleurs, le neveu n’avait fait aucune observation à ce sujet, comme s’il eût été nécessaire qu’il en fût ainsi.</p>
           <p>Le jeune garçon dut se contenter de lire et relire l’ouvrage de son compatriote, si précis, en somme, sur tout ce qui concerne l’Orénoque, et il n’aurait pu trouver un meilleur guide que le voyageur français.</p>
           <p>Lorsque la <hi>Maripare</hi> et la <hi>Gallinetta</hi> eurent atteint le milieu du fleuve, on aperçut les cerros qui bossuent la surface des plaines voisines. Sur la rive gauche, un amas de cases devint visible vers onze heures du matin, au pied de collines granitiques. C’était le village de Cabruta, composé d’une cinquantaine de paillotes, et si l’on veut bien multiplier ce nombre par huit, on aura à peu près celui de ses habitants. Là les métis ont remplacé les Indiens Guamos, actuellement dispersés, des indigènes dont la peau est plus blanche que celle des mulâtres. Cependant, comme on était dans la saison des pluies, le sergent Martial et Jean de Kermor purent voir d’assez près quelques-uns de ces Guamos, qui viennent, à cette époque, pêcher sur leurs canots d’écorce.</p>
@@ -687,13 +634,8 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>C’est ainsi que les îles Seiba, Cururuparo et Estillero furent laissées sur bâbord, et, un peu après, l’île Posso Redondo, plus rapprochée de la rive droite.</p>
           <p>Entre-temps, l’orage montait vers le zénith. Tout l’horizon méridional se zébrait d’éclairs d’une extraordinaire fréquence. Les roulements de la foudre, mêlés d’éclats intenses, ne discontinuaient plus. Par bonheur, vers huit heures du soir, lorsque la tempête se déchaîna en violentes bourrasques de vent et de grêle sur la rive gauche de l’Orénoque, les deux pirogues se trouvaient en sûreté au pied du village de Buena Vista.</p>
         </div>
-      </div>
-      <div type="section" n="Entre Buena Vista et la Urbana">
-        <div type="section">
-          <head rend="tmp" xml:id="VII_Entre_Buena_Vista_et_la_Urbana" type="h3">VII</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Entre Buena Vista et la Urbana</hi>
-          </p>
+        <div type="chapter">
+          <head>VII. Entre Buena Vista et la Urbana</head>
           <p>La nuit fut féconde en désastres. Les dégâts, produits par les fureurs de l’orage, s’étendirent sur une aire d’une quinzaine de kilomètres jusqu’à l’embouchure du rio Arauca. On le reconnut bien, le lendemain, 26 août, à voir les débris de toutes sortes que charriait le fleuve, dont les eaux, d’habitude si limpides, avaient pris une teinte limoneuse. Si les deux pirogues ne s’étaient abritées au fond de ce petit port, si elles eussent été surprises en plein Orénoque, il n’en serait plus resté que d’informes carcasses. Équipages et passagers auraient péri, sans qu’il eût été possible de leur porter secours.</p>
           <p>Très heureusement, Buena Vista fut épargnée, la diagonale de ce chubasco s’étant établie plus à l’ouest.</p>
           <p>Buena Vista occupe la partie latérale d’une île prolongée par de vastes bancs de sable à l’époque de la saison sèche, et que la crue du fleuve réduit notablement pendant la saison des pluies. C’est ce qui avait permis à la <hi>Gallinetta</hi> et à la <hi>Maripare</hi> de gagner la base même du village.</p>
@@ -796,13 +738,8 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>Vers trois heures, Valdez donna le signal du départ. Aussitôt les pirogues débordèrent. On devait d’abord se haler avec l’espilla jusqu’à la pointe méridionale de l’île. De là, il n’y aurait qu’à traverser obliquement l’autre moitié du fleuve.</p>
           <p>Cette dernière partie de la navigation ne donna lieu à aucun incident, et, avant le soir, les deux falcas vinrent relâcher au pied même de la Urbana.</p>
         </div>
-      </div>
-      <div type="section" n="Un nuage de poussière à l’horizon.">
-        <div type="section">
-          <head rend="tmp" xml:id="VIII_Un_nuage_de_poussiere_a_l_horizon." type="h3"> VIII</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Un nuage de poussière à l’horizon.</hi>
-          </p>
+        <div type="chapter">
+          <head>VIII. Un nuage de poussière à l’horizon.</head>
           <p>On pourrait appeler la Urbana la capitale du moyen Orénoque. C’est la bourgade la plus importante entre Caïcara et San-Fernando de Atabapo, situés chacun aux deux angles que fait le fleuve, — le premier à l’endroit où il quitte la direction de l’est à l’ouest pour prendre celle du sud, le second à l’endroit où il quitte la direction du sud pour prendre celle de l’ouest à l’est.</p>
           <p>Il va sans dire que cette disposition hydrographique n’est la véritable que si l’opinion de M. Miguel prévaut contre celles de MM. Felipe et Varinas, et conformément au tracé de l’Orénoque, tel qu’il est indiqué sur les cartes modernes.</p>
           <p>Au surplus, encore six cents kilomètres environ, et les géographes auraient atteint le triple confluent où serait tranchée cette question, — on devait l’espérer du moins.</p>
@@ -866,11 +803,6 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>— Assurément, et je n’ai jamais appris que le colonel de Kermor y ait passé. »</p>
           <p>Toujours cet incognito, dont il semblait que le colonel eût voulu se couvrir depuis son départ.</p>
           <p>« Peu importe, mon cher enfant, affirma M. Miguel, il est impossible que votre père n’ait pas laissé trace de son séjour à </p>
-          
-
-
-
-
           <p>San-Fernando, et là, vous obtiendrez les renseignements qui assureront le succès de vos recherches. »</p>
           <p>La réunion se prolongea jusqu’à dix heures, et les hôtes du chef civil, après avoir pris congé de cette obligeante famille, retournèrent à bord de leurs pirogues, qui devaient démarrer le lendemain au jour levant.</p>
           <p>Jean alla s’étendre sur sa couchette à l’arrière du rouf, et, sa chasse ordinaire aux moustiques terminée, le sergent Martial vint s’étaler sur la sienne.</p>
@@ -925,11 +857,6 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>— Ils auraient donc affaire à une armée, répondit le vieillard. Il n’y a que des milliers d’hommes qui puissent soulever tant de poussière !… Vous avez raison, M. Miguel, descendons sur la plaine…</p>
           <p>— Bien armés ! » ajouta M. Miguel.</p>
           <p>Mesure de prudence très indiquée, en effet, si les pressentiments de Jean de Kermor ne l’avaient pas trompé, si c’étaient les deux </p>
-          
-
-
-
-
           <p>Français, que les Indiens de cette région attaquaient et qui se défendaient à coups de fusil.</p>
           <p>En quelques instants, chacun eut regagné l’un sa case, l’autre sa pirogue. Le chef civil et quelques-uns des habitants, les trois géographes, le sergent Martial et son neveu, le revolver à la ceinture, la carabine sur l’épaule, prirent direction à travers les llanos, en contournant le pied du cerro d’Urbana. </p>
           <p>M. Marchal avait voulu se joindre à eux, tant son impatience était grande de savoir à quoi s’en tenir.</p>
@@ -974,16 +901,10 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>Une minute plus tard, Jacques Helloch et Germain Paterne, — c’étaient eux, — se trouvaient en sûreté près de M. Marchal, après y avoir gagné le revers du cerro.</p>
           <p>Alors, se détournant de ce rideau de flammes tendu sur une longueur d’un demi-kilomètre, la masse des chéloniens inclina vers la gauche de la bourgade, puis, descendant la rive, disparut sous les eaux de l’Orénoque.</p>
         </div>
-      </div>
-      <div type="section" n="Trois pirogues naviguant de conserve">
-        <div type="section">
-          <head rend="tmp" xml:id="IX_Trois_pirogues_naviguant_de_conserve." type="h3">IX</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Trois pirogues naviguant de conserve.</hi>
-          </p>
+        <div type="chapter">
+          <head>IX. Trois pirogues naviguant de conserve</head>
           <p>
-<lb/>
-À la suite de cette extraordinaire invasion qui avait menacé de détruire complètement la Urbana, le départ des falcas fut retardé de vingt-quatre heures. Si l’intention des deux Français était de continuer leur exploration du cours de l’Orénoque jusqu’à San-Fernando de Atabapo, ne valait-il pas mieux remonter le fleuve avec eux ?… Et, dans ce cas, pour leur laisser le temps de se reposer, puis de faire leurs préparatifs, ne convenait-il pas de remettre le départ au lendemain ?…</p>
+            <lb/> À la suite de cette extraordinaire invasion qui avait menacé de détruire complètement la Urbana, le départ des falcas fut retardé de vingt-quatre heures. Si l’intention des deux Français était de continuer leur exploration du cours de l’Orénoque jusqu’à San-Fernando de Atabapo, ne valait-il pas mieux remonter le fleuve avec eux ?… Et, dans ce cas, pour leur laisser le temps de se reposer, puis de faire leurs préparatifs, ne convenait-il pas de remettre le départ au lendemain ?…</p>
           <p>Assurément, et ainsi en jugèrent dans leur sagesse MM. Miguel, Felipe et Varinas. De fait, on se fût demandé, non sans surprise, pourquoi l’oncle et le neveu n’auraient pas été de cet avis. D’ailleurs, Jacques Helloch et Germain Paterne, ayant leur propre pirogue, ne seraient ni une charge ni une gêne, et, quoi que pût penser le sergent Martial, il y aurait plus de sécurité pour les trois embarcations à naviguer de conserve.</p>
           <p>« Et, en outre, n’oublie pas, ce sont des compatriotes, lui dit Jean de Kermor.</p>
           <p>— Un peu jeunes ! » avait murmuré le sergent Martial, en secouant la tête.</p>
@@ -1010,11 +931,6 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>Cette après-midi, les préparatifs furent achevés, c’est-à-dire ceux qui se rapportaient à la troisième pirogue, car les deux autres étaient, depuis le matin, prêtes à partir. Cette falca se nommait la <hi>Moriche</hi>, ayant pour patron un Banivas, appelé Parchal, et pour équipage neuf Indiens, dont il n’y avait qu’à se louer. Les approvisionnements renouvelés, Jacques Helloch n’eut à regretter que la perte de son matériel de campement, volé au cours de l’expédition à la sierra Matapey. Quant à Germain Paterne, comme il avait sauvé, intacte et bien garnie, sa boîte de botaniste, il aurait eu mauvaise grâce à se plaindre.</p>
           <p>Le lendemain, 28 août, dès la pointe de l’aube, les passagers des trois pirogues prirent congé du chef civil de la Urbana, de M. Marchal et des habitants qui leur avaient fait si cordial accueil.</p>
           <p>L’excellent vieillard voulut serrer dans ses bras le jeune garçon, qu’il espérait bien revoir, lorsque le colonel de Kermor et lui </p>
-          
-
-
-
-
           <p>repasseraient devant le hato de la Tigra, où ils ne refuseraient pas de s’arrêter quelques jours. Puis, l’embrassant :</p>
           <p>« Courage, mon cher enfant, lui dit-il, mes vœux vous accompagnent, et Dieu vous conduise ! »</p>
           <p>Les trois falcas démarrèrent l’une après l’autre. Le vent qui remontait favorisait la marche, et comme il tendait à fraîchir, on pouvait compter sur une rapide navigation. Leurs voiles hissées, les pirogues, après un dernier adieu à la Urbana, longèrent la rive droite, où le courant était moins accentué.</p>
@@ -1074,13 +990,8 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>— Non, sans doute, répliqua Germain Paterne. Tout de même un orgue naturel, cela fait bien dans le paysage…</p>
           <p>— Mais il y a trop de monde à l’entendre ! » grommela le sergent Martial.</p>
         </div>
-      </div>
-      <div type="section" n="À l’embouchure du Meta">
-        <div type="section">
-          <head rend="tmp" xml:id="X_A_l_embouchure_du_Meta" type="h3"> X</head>
-          <p rend="c3 h3">
-            <hi rend="sc">À l’embouchure du Meta</hi>
-          </p>
+        <div type="chapter">
+          <head>X. À l’embouchure du Meta</head>
           <p>Après avoir rallié la rive gauche du fleuve, les trois pirogues purent se dégager du raudal de Cariben, sans qu’il fût nécessaire de débarquer leur matériel. Vers six heures du soir, elles vinrent s’amarrer l’une après l’autre au fond du petit port.</p>
           <p>Autrefois, les passagers eussent trouvé en cet endroit une bourgade, habitée par une population active, douée d’un certain mouvement commercial, et qui ne demandait qu’à prospérer. À présent, la ruine était arrivée, pour les causes que l’on sait, et Cariben ne comptait plus que cinq cases d’Indiens, — une de moins qu’à l’époque où M. Chaffanjon y débarquait avec le général Oublion.</p>
           <p>Au surplus, demander l’hospitalité aux quelques Yaruros qui les habitaient n’eût offert aucun avantage. Ce n’est pas en cette localité déchue que les falcas auraient eu chance de se ravitailler. D’ailleurs, elles l’avaient amplement fait à la Urbana, et pourraient gagner Atures, sans avoir besoin de renouveler les approvisionnements. Les chasseurs, entre-temps, ne les laisseraient point à court de gibier.</p>
@@ -1210,13 +1121,8 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>Les Quivas, n’ayant pu surprendre les passagers et les équipages, n’avaient plus qu’à s’enfuir. Plusieurs d’entre eux étaient mortellement atteints, et quelques autres avaient reçu de graves blessures.</p>
           <p>Le coup manqué, les curiares disparurent en aval de l’Orénoque.</p>
         </div>
-      </div>
-      <div type="section" n="Relâche au village d’Atures">
-        <div type="section">
-          <head rend="tmp" xml:id="XI_Relache_au_village_d_Atures." type="h3"> XI</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Relâche au village d’Atures.</hi>
-          </p>
+        <div type="chapter">
+          <head>XI. Relâche au village d’Atures</head>
           <p>Ce jour-là, — 1<hi rend="sup">er</hi> septembre, — dès six heures du matin, les falcas quittèrent ces dangereux parages. Passagers et mariniers venaient d’échapper au massacre, aux lieux mêmes où tant d’autres furent les victimes de ces cruelles tribus.</p>
           <p>Et, décidément, pensa M. Miguel, puisque le Congrès a voté la destruction de cette maudite engeance de Quivas, il ne serait pas trop tôt de se mettre à l’œuvre !</p>
           <p>« Je n’ai que ce que je mérite ! » s’était écrié le sergent Martial, en arrachant la flèche qui lui avait déchiré l’épaule.</p>
@@ -1313,11 +1219,6 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>— Et pourquoi ces bêtes-là ne vaudraient-elles pas le veau, le bœuf ou le mouton, observa Germain Paterne, puisqu’elles ne se nourrissent que de végétaux d’un parfum exquis ?…</p>
           <p>— Seulement, répondit M. Varinas, le difficile est de les approcher d’assez près pour les tirer avec avantage.</p>
           <p>— Nous en savons quelque chose, répliqua M. Miguel, puisque, je le répète, celui-ci est le premier… </p>
-          
-
-
-
-
           <p>— Auquel il faudra joindre un deuxième, monsieur Miguel, dit Jacques Helloch. Puisque nous devons passer quelques jours dans ce village, faisons la chasse aux singes. — Vous serez des nôtres, n’est-il pas vrai, mon cher Jean ?</p>
           <p>— Je ne me crois pas digne de vous accompagner, répondit le jeune garçon en remerciant d’un geste. D’ailleurs, mon oncle ne me permettrait pas… sans lui, du moins… </p>
           <p>— Certes, non, je ne le permettrais pas ! déclara le sergent Martial, très heureux que son neveu l’eût mis à même de répondre par un refus à la proposition de son compatriote.</p>
@@ -1365,16 +1266,10 @@ Ce parcours du moyen Orénoque était commencé. Que de longues heures, que de m
           <p>— Oui… et en sept jours… ce qui est rare, lorsqu’il s’agit de franchir le raudal d’Atures. »</p>
           <p>Et Parchal disait vrai, mais ces Banivas sont d’excellents mariniers, il est juste de le reconnaître. Il n’y avait qu’à les louer de leur habileté et de leur zèle, et ces braves gens se montrèrent d’autant plus sensibles aux éloges des passagers, que ces éloges furent accompagnés de quelques piastres supplémentaires, — à titre de bonne main.</p>
         </div>
-      </div>
-      <div type="section" n="Quelques observations de Germain Paterne">
-        <div type="section">
-          <head rend="tmp" xml:id="XII_Quelques_observations_de_Germain_Paterne." type="h3">XII</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Quelques observations de Germain Paterne.</hi>
-          </p>
+        <div type="chapter">
+          <head>XII. Quelques observations de Germain Paterne</head>
           <p>
-<lb/>
-Le départ des trois pirogues s’effectua le lendemain aux premières heures du soleil levant. La veille, l’après-midi, on avait procédé au rembarquement du matériel, et comme aucune avarie n’était survenue pendant le passage du raudal, le voyage n’eut à subir aucun retard de ce chef.</p>
+            <lb/> Le départ des trois pirogues s’effectua le lendemain aux premières heures du soleil levant. La veille, l’après-midi, on avait procédé au rembarquement du matériel, et comme aucune avarie n’était survenue pendant le passage du raudal, le voyage n’eut à subir aucun retard de ce chef.</p>
           <p>Il est vrai, peut-être les passagers allaient-ils être moins favorisés entre Atures et la bourgade de San-Fernando. Le vent, qui marquait une tendance à calmir, ne suffirait pas à pousser les falcas contre le courant de l’Orénoque. Tout au plus pourraient-elles l’étaler. Cependant, comme la brise soufflait encore de la partie du nord, ne variant guère que de l’est à l’ouest, les voiles furent hissées, en attendant qu’il y eût lieu de recourir à l’espilla ou aux palancas.</p>
           <p>Inutile de mentionner que chaque groupe avait repris sa place dans sa pirogue, — le sergent Martial et Jean de Kermor à bord de la <hi>Gallinetta</hi>, MM. Miguel, Varinas et Felipe à bord de la <hi>Maripare</hi>, Jacques Helloch et Germain Paterne à bord de la <hi>Moriche</hi>.</p>
           <p>Autant que possible, on naviguait en ligne, et le plus souvent — le sergent Martial l’observait non sans grogner en sourdine, — la <hi>Moriche</hi> marchait de conserve avec la <hi>Gallinetta</hi>, ce qui permettait aux passagers de causer, et ils ne s’en faisaient pas faute.</p>
@@ -1416,11 +1311,6 @@ Le départ des trois pirogues s’effectua le lendemain aux premières heures du
           <p>Or, de Maipures à San-Fernando, étant donné le cours irrégulier de l’Orénoque, il faut compter environ de cent trente à cent quarante kilomètres.</p>
           <p>Enfin, le 18, dans l’après-midi, les trois falcas arrivèrent à ce village, après avoir suivi la rive gauche du fleuve, sur laquelle il est bâti. Par sa situation, il n’est pas vénézuélien, et il appartient à la Colombie. Seulement, le chemin de halage de cette rive doit, paraît-il, rester neutralisé jusqu’en 1911, et ne deviendra colombien qu’à partir de cette date.</p>
           <p>On voit que Valdez et ses compagnons avait fait diligence, puisque, en cinq jours, ils avaient pu remonter le raudal. Sans attendre </p>
-          
-
-
-
-
           <p>au lendemain, les pirogues furent rechargées, et, le 19 au matin, elles reprirent leur navigation.</p>
           <p>Durant cette journée pluvieuse, la flottille dut encore circuler entre une infinité d’îlots et de roches qui hérissent le lit du fleuve. Comme le vent soufflait de l’ouest, il ne favorisait plus la marche des falcas, et même eût-il soufflé du nord qu’elles n’auraient pu en profiter, tant elles étaient obligées à de fréquents changements de direction à travers les passes.</p>
           <p>Au-delà de l’embouchure du Sipapo, se rencontre un petit raudal, celui de Sijuaumi, dont le passage n’exigea que quelques heures sans débarquement.</p>
@@ -1472,13 +1362,8 @@ Le départ des trois pirogues s’effectua le lendemain aux premières heures du
           <p>Dans la pirogue voisine, agenouillé au fond du rouf, Jean avait tout entendu… Il savait quelle sympathie il inspirait à ses compagnons… Et il savait aussi que ni Jacques Helloch ni Germain Paterne ne croyaient à cette parenté qui l’unissait au sergent Martial… Sur quoi se fondaient-ils pour cela, et que penserait son vieil ami, s’il venait à l’apprendre ?…</p>
           <p>Et, sans se demander ce que lui réservait l’avenir, si le courage, le dévouement de Jacques Helloch lui viendraient jamais en aide, il remerciait Dieu d’avoir mis sur sa route ce brave et généreux compatriote.</p>
         </div>
-      </div>
-      <div type="section" n="Respect au tapir">
-        <div type="section">
-          <head rend="tmp" xml:id="XIII_Respect_au_tapir." type="h3">XIII</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Respect au tapir.</hi>
-          </p>
+        <div type="chapter">
+          <head>XIII. Respect au tapir</head>
           <p>Le lendemain matin, — 21 septembre, — lorsque les voyageurs quittèrent le petit port de Mataweni, ils n’étaient plus qu’à trois jours et demi de San-Fernando. En quatre-vingts heures, s’il ne leur survenait aucun retard, — même si le temps ne les favorisait pas, — ils devaient être rendus au terme de leur voyage.</p>
           <p>La navigation fut reprise dans les conditions ordinaires, — à la voile lorsque la brise le permettait, — à la palanca et au garapato, lorsque les pirogues pouvaient profiter des remous dus aux nombreux coudes du fleuve, — à l’espilla, quand les perches ne parvenaient pas à vaincre la force du courant.</p>
           <p>La température se tenait à un haut degré. Des nuages orageux traînaient lourdement, se résolvant parfois en grosse pluie tiède. Puis, un ardent soleil leur succédait, et il fallait s’abriter sous les roufs. En somme, le vent était faible, intermittent, et ne suffisait pas à rafraîchir cette dévorante atmosphère.</p>
@@ -1590,13 +1475,8 @@ Le départ des trois pirogues s’effectua le lendemain aux premières heures du
           <p>— Ils l’enterreront avec tous les honneurs dus à une bête si sacrée !</p>
           <p>— Par exemple… Jacques !… Je te parie qu’ils le mangeront, et ils n’auront pas tort, car rien de bon comme un filet de tapir à la braise ! »</p>
         </div>
-      </div>
-      <div type="section" n="Le chubasco">
-        <div type="section">
-          <head rend="tmp" xml:id="XIV_Le_chubasco." type="h3">XIV</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Le chubasco.</hi>
-          </p>
+        <div type="chapter">
+          <head>XIV. Le chubasco</head>
           <p>Dès la pointe du jour, lorsque les dernières constellations illuminaient encore l’horizon de l’ouest, les passagers furent réveillés par les préparatifs du départ. Tout laissait espérer qu’ils étaient à leur dernière étape. San-Fernando ne se trouvait pas à plus d’une quinzaine de kilomètres. La pensée de coucher le soir même dans une véritable chambre, pourvue d’un véritable lit, n’offrait rien moins qu’une très agréable perspective. On comptait alors trente et un jours de navigation depuis Caïcara, autant de nuits, par conséquent, pendant lesquelles il avait fallu se contenter de la simple estera des roufs. Quant au temps passé à la Urbana, dans les villages d’Atures et de Maipures, sous le chaume des paillotes et sur des couches indiennes, cela n’a rien de commun avec le confort, non pas d’un hôtel, mais d’une auberge, pour peu qu’elle soit meublée à l’européenne. Nul doute que San-Fernando n’offrît toute satisfaction à cet égard.</p>
           <p>Lorsque M. Miguel et ses compagnons se tirèrent de leurs roufs, les falcas avaient pris le milieu du fleuve. Elles marchaient assez rapidement sous l’action d’un vent du nord-est. Par malheur, certains symptômes, auxquels les mariniers de l’Orénoque ne se trompent guère, faisaient craindre que cette brise n’eût pas la durée suffisante à un parcours de quinze kilomètres. Les pirogues naviguaient l’une près de l’autre, et Jacques Helloch, se tournant vers la <hi>Gallinetta</hi> :</p>
           <p>« Vous allez bien, ce matin, mon cher Jean ?… lui demanda-t-il en le saluant de la main.</p>
@@ -1627,14 +1507,8 @@ Le départ des trois pirogues s’effectua le lendemain aux premières heures du
           <p>— Savez-vous ce que le thermomètre indique à l’intérieur du rouf ?… répliqua M. Varinas. Trente-sept degrés, et s’il monte un tant soit peu, nous serons sur les limites mêmes de la cuisson !</p>
           <p>— Je n’ai jamais eu aussi chaud ! » se contenta de répondre M. Miguel, en s’épongeant le front.</p>
           <p>Chercher abri sous les roufs était devenu impossible. Au moins, à l’arrière des pirogues, pouvait-on respirer quelques souffles d’air, </p>
-          
-
-
-
-
           <p>
-<lb/>
-— un air brûlant, il est vrai, à croire qu’il s’échappait de la gueule d’un four. Par malheur, les falcas marchant avec la brise, celle-ci se faisait sentir à peine, et même pas du tout dans ses intermittences qui se prolongeaient d’une inquiétante façon.</p>
+            <lb/> — un air brûlant, il est vrai, à croire qu’il s’échappait de la gueule d’un four. Par malheur, les falcas marchant avec la brise, celle-ci se faisait sentir à peine, et même pas du tout dans ses intermittences qui se prolongeaient d’une inquiétante façon.</p>
           <p>La <hi>Gallinetta</hi>, la <hi>Maripare</hi> et la <hi>Moriche</hi>, cependant, parvinrent à rallier vers trois heures une grande île indiquée sur la carte sous le nom d’Amanameni, — île boisée, couverte d’épais taillis, berges à pic. En remontant le bras du fleuve où le courant descendait moins rapidement, et en se remorquant à l’espilla, les mariniers atteignirent l’extrémité méridionale de cette île.</p>
           <p>Le soleil avait alors disparu derrière cet amoncellement de ballots de vapeurs, qui semblaient prêts à se dérouler les uns sur les autres. De longs ronflements de tonnerre bourdonnaient vers le sud. Des premiers éclairs sillonnaient ces amas nuageux, qui menaçaient de faire explosion. Pas un souffle venant du nord. Aussi l’orage gagnait-il, en étendant ses larges ailes électriques du levant au couchant. Toute l’aire du ciel serait vite envahie par ces masses fuligineuses. Le météore se dissiperait-il sans provoquer une formidable lutte des éléments ?… Cela peut arriver, mais le plus confiant des météorologistes n’aurait pu l’espérer, cette fois.</p>
           <p>Par prudence, les voiles des pirogues furent amenées, d’autant qu’elles ne rendaient aucun service. Par prudence aussi, les mariniers décalèrent les mâts, que l’on coucha de l’avant à l’arrière. Dès que les falcas commencèrent à perdre, chaque équipage se mit sur les palancas, et, en déployant ce que cette atmosphère étouffante lui laissait de vigueur, rebroussa le rapide courant du fleuve.</p>
@@ -1658,11 +1532,6 @@ Le départ des trois pirogues s’effectua le lendemain aux premières heures du
           <p>Ce qui n’est que trop réel, par malheur, c’est que ces chubascos sont le plus souvent féconds en désastres. Qui n’en a pas été témoin ne pourrait se faire une idée de leur impétuosité. Ils engendrent des rafales cinglantes, mélangées de grêlons, dont on ne supporterait pas impunément le choc, mitraille pénétrante qui traverse le paillis des roufs.</p>
           <p>En entendant le cri de « chubasco… chubasco ! » les passagers s’étaient mis à l’abri. Comme, en prévision de ce « coup de chien », suivant l’expression des matelots, les voiles avaient été amenées et les mâts rabattus, la <hi>Maripare</hi>, la <hi>Moriche</hi> et la <hi>Gallinetta</hi> purent résister au premier choc de la bourrasque. Cependant ces précautions n’avaient pas éloigné tout danger. Il en était d’autres que le risque de chavirer. Poussées avec cette fureur, balayées de lames déferlantes comme celles d’un océan, les falcas se jetèrent les unes sur les autres, s’entrechoquèrent, menaçant de s’ouvrir ou de se fracasser contre les récifs de la rive droite. En admettant que les passagers parvinssent à se sauver sur la berge, leur matériel serait entièrement perdu.</p>
           <p>Et, à présent, les embarcations bondissaient à la surface </p>
-          
-
-
-
-
           <p>démontée du fleuve. Impossible de les maintenir avec les pagaies d’arrière que les patrons essayaient vainement de manœuvrer. Elles tournaient sur elles-mêmes, lorsqu’elles se heurtaient à quelque vague monstrueuse, qui précipitait à bord d’énormes paquets d’eau. À demi enfoncées sous cette surcharge, elles se fussent certainement englouties, si les mariniers n’avaient pris soin de les vider, et si les passagers ne s’étaient joints à eux. En somme, ces bateaux à fond plat, faits pour naviguer sur des nappes tranquilles, ne sont ni de taille ni de forme à supporter de pareils coups, et le nombre est grand de ceux qui, pendant ces fréquents chubascos de la saison chaude, périssent entre les rives du moyen Orénoque.</p>
           <p>Le fleuve est fort large en cet endroit. Il s’évase depuis la pointe méridionale de la grande île de Guayartivari. On le prendrait pour un vaste lac, arrondi vers l’est, à l’opposé de l’embouchure du Guaviare, qui se creuse en entonnoir au sud. Les violences atmosphériques peuvent donc s’y exercer librement, et les llanos riverains ne présentent ni cerros, ni forêts de nature à leur faire obstacle. L’embarcation, surprise par ces coups de vent, n’a même plus la possibilité de fuir comme les navires en mer, et sa seule ressource est de se jeter à la côte.</p>
           <p>Les mariniers le savaient bien, et ne pouvaient rien faire pour prévenir cette catastrophe. Aussi songeaient-ils déjà à sauver leurs personnes, avant d’avoir abordé les récifs, et ce sauvetage ne pourrait s’effectuer qu’à la condition de se lancer à travers le ressac.</p>
@@ -1710,13 +1579,8 @@ Le départ des trois pirogues s’effectua le lendemain aux premières heures du
           <p>Ce fut là tout le remerciement qu’il adressa au jeune homme.</p>
           <p>Alors, Jean entre ses bras, accompagné de M. Miguel et de ses deux collègues, de Jacques Helloch et de Germain Paterne, le sergent Martial suivit le sentier de la berge qui conduisait à la bourgade.</p>
         </div>
-      </div>
-      <div type="section" n="San-Fernando">
-        <div type="section">
-          <head rend="tmp" xml:id="XV_San-Fernando." type="h3">XV</head>
-          <p rend="c3 h3">
-            <hi rend="sc">San-Fernando.</hi>
-          </p>
+        <div type="chapter">
+          <head>XV. San-Fernando</head>
           <p>L’Atabapo et le Guaviare, à l’endroit où ils se jettent dans l’Orénoque, — que l’on veuille bien admettre cette hypothèse jusqu’à plus ample informé, — sont séparés par une sorte de presqu’île. Les lits de ces deux affluents limitent cette presqu’île, le premier à l’est, le second à l’ouest, et sa pointe se dirige vers le nord.</p>
           <p>Là se dessine ce carrefour dont M. E. Reclus fait avec raison « le véritable centre hydrographique de toute la région comprise entre les Antilles et l’Amazone ».</p>
           <p>San-Fernando occupe la rive occidentale de ladite presqu’île, bordée en même temps par la rive droite de l’Atabapo. Ce tributaire tombe-t-il directement dans l’Orénoque, ou même n’est-il qu’un bras du Guaviare ?… Question indécise que les nouvelles discussions et études de MM. Miguel, Varinas et Felipe finiraient peut-être par élucider.</p>
@@ -1810,11 +1674,6 @@ Le départ des trois pirogues s’effectua le lendemain aux premières heures du
           <p>— Merci ! »</p>
           <p>Et alors, Germain Paterne prit le parti de ne plus interroger son compagnon, se demandant ce qu’il y avait au fond de cette extraordinaire affection croissante pour le jeune de Kermor.</p>
           <p>Le lendemain, lorsque Jean arriva avec le sergent Martial chez </p>
-          
-
-
-
-
           <p>M. Mirabal, celui-ci, en compagnie de Jacques Helloch, se disposait à leur rendre visite.</p>
           <p>De l’enquête faite chez les habitants de San-Fernando, il résultait qu’un étranger, une douzaine d’années auparavant, avait effectivement séjourné dans la bourgade. Cet étranger était-il français ?… Personne à pouvoir le dire, et il semblait, d’ailleurs, avoir des raisons particulières pour garder le plus secret incognito.</p>
           <p>Jean crut voir l’obscurité de cette mystérieuse affaire s’éclairer de quelque lueur. Que l’on doive ou non ajouter foi aux pressentiments, il lui vint à la pensée que l’étranger était… devait être son père.</p>
@@ -1870,27 +1729,14 @@ Le départ des trois pirogues s’effectua le lendemain aux premières heures du
           <p>— Qui n’est pas votre neveu, sergent !</p>
           <p>— Lui… le fils du colonel…</p>
           <p>— Qui n’est pas son fils… mais sa fille… la fille du colonel de Kermor ! »</p>
-          <p rend="c5">fin de la première partie.</p>
         </div>
       </div>
-      <div type="section" n="Quelques mots du passé">
-        <div type="section">
-          
-          
-
-
-
-
-          <head rend="tmp c2" xml:id="Seconde_partie" type="h2">
-            <hi rend="sc">Seconde partie</hi>
-          </head>
-          <head rend="tmp" xml:id="I_Quelques_mots_du_passe." type="h3"> I</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Quelques mots du passé.</hi>
-          </p>
+      <div>
+        <head>Seconde partie</head>
+        <div type="chapter">
+          <head>I. Quelques mots du passé</head>
           <p>
-<lb/>
-Vers huit heures, dans la matinée du 2 octobre, les pirogues <hi>Gallinetta</hi> et <hi>Moriche</hi>, ayant descendu le bras qui longe à droite la presqu’île d’Atabapo, remontaient le cours du haut Orénoque sous une favorable brise du nord-ouest.</p>
+            <lb/> Vers huit heures, dans la matinée du 2 octobre, les pirogues <hi>Gallinetta</hi> et <hi>Moriche</hi>, ayant descendu le bras qui longe à droite la presqu’île d’Atabapo, remontaient le cours du haut Orénoque sous une favorable brise du nord-ouest.</p>
           <p>La veille, après la conversation du sergent Martial et de Jacques Helloch, le premier ne pouvait plus refuser au second la permission de les accompagner, « son neveu et lui », jusqu’à la Mission de Santa-Juana. À présent, le secret de Jeanne de Kermor était connu de celui qui l’avait sauvée, et ne tarderait pas à l’être — nul doute à cet égard — de Germain Paterne. Il eût été difficile, on l’avouera, que cette révélation ne se produisît pas, et même il était préférable qu’il en fût ainsi, étant donné les circonstances dans lesquelles la deuxième partie du voyage allait s’accomplir. Mais ce secret, si précieusement conservé jusqu’alors, les deux jeunes gens sauraient le garder vis-à-vis de MM. Miguel, Felipe, Varinas, Mirabal et le gouverneur de la province. Au retour, si les recherches aboutissaient, ce serait le colonel de Kermor en personne qui aurait cette joie de leur présenter sa fille.</p>
           <p>Il fut aussi convenu que ni Valdez, ni Parchal, ni aucun des mariniers des pirogues ne seraient instruits de ces derniers incidents. Au total, on ne pouvait qu’approuver le sergent Martial d’avoir fait passer Jeanne pour son neveu Jean, dans l’espoir d’obvier aux difficultés d’une telle campagne, et mieux valait ne pas se départir de cette prudente conduite.</p>
           <p>Et maintenant, dépeindre la stupéfaction, l’abattement, puis la colère du vieux soldat, lorsque Jacques Helloch lui eut fait connaître ce qu’il avait découvert, — à savoir que Jean de Kermor était Jeanne de Kermor, — ce serait malaisé et, d’ailleurs, inutile, car on se le figurera sans peine.</p>
@@ -1937,11 +1783,6 @@ Vers huit heures, dans la matinée du 2 octobre, les pirogues <hi>Gallinetta</hi
           <p>Alors M<hi rend="sup">lle</hi> de Kermor supplia ses parents adoptifs de la laisser partir pour l’Europe… Elle irait en France… à Nantes… Elle parviendrait à ressaisir des traces que l’on disait perdues… Où des étrangers échouent, une fille, guidée par son seul instinct, peut réussir…</p>
           <p>Bref, les Eredia consentirent à son départ, sans aucun espoir, d’ailleurs. M<hi rend="sup">lle</hi> de Kermor quitta donc la Havane, puis, après une heureuse traversée, arriva à Nantes, où elle ne trouva plus que le sergent Martial, toujours dans l’ignorance de ce qu’était devenu son colonel.</p>
           <p>Que l’on juge de l’émotion du vieux soldat, lorsque cette enfant, celle que l’on disait avoir péri dans la catastrophe du <hi>Norton</hi>, franchit le seuil de la maison de Chantenay. Il ne voulait pas croire, et il fut forcé de croire. Le visage de Jeanne lui rappelait les traits </p>
-          
-
-
-
-
           <p>de son père, ses yeux, sa physionomie, tout ce qui peut se transmettre par le sang de ressemblance physique et morale. Aussi reçut-il la jeune fille comme un ange que son colonel lui eût envoyé de là-haut…</p>
           <p>Mais, à cette époque, il avait déjà abandonné tout espoir d’apprendre en quel pays le colonel de Kermor avait été enfouir sa triste existence… </p>
           <p>Quant à Jeanne, elle prit la résolution de ne plus quitter la maison paternelle. Cette fortune que le sergent Martial avait reçue et qu’il se mit en mesure de lui restituer, tous deux l’emploieraient à entreprendre de nouvelles recherches.</p>
@@ -1963,11 +1804,6 @@ Vers huit heures, dans la matinée du 2 octobre, les pirogues <hi>Gallinetta</hi
           <p>— Pas de mademoiselle, monsieur Helloch, se hâta de déclarer Jeanne de Kermor, et il ne faut pas prendre cette mauvaise habitude de m’appeler ainsi… Vous finirez par vous trahir… Non… Jean… rien que Jean…</p>
           <p>— Oui… Jean… tout court… et même notre cher Jean… pour varier un peu… dit Germain Paterne.</p>
           <p>— Maintenant, monsieur Helloch, vous vous expliquez ce qu’a </p>
-          
-
-
-
-
           <p>exigé de moi mon bon Martial… Il est devenu mon oncle, et je suis devenue son neveu… J’ai revêtu l’habit d’un jeune garçon, j’ai coupé mes cheveux, et, ainsi métamorphosée, je me suis embarquée à Saint-Nazaire pour Caracas. Je parlais l’espagnol comme ma langue naturelle, — ce qui pouvait m’être bien utile pendant ce voyage, — et me voici dans cette bourgade de San-Fernando !… Puis, lorsque j’aurai retrouvé mon père, nous reviendrons en Europe par la Havane… Je tiens à ce qu’il rende visite à cette généreuse famille qui l’a remplacé près de sa fille… et à laquelle nous devons tous deux tant de reconnaissance ! »</p>
           <p>Les yeux de Jeanne de Kermor se mouillèrent de quelques larmes. Mais elle se remit, et ajouta :</p>
           <p>« Non, mon oncle, non, il ne faut pas se plaindre si notre secret a été découvert… Dieu l’a voulu, comme il a voulu que deux de nos compatriotes, deux amis dévoués, se soient rencontrés sur notre route… Et, au nom de mon père, messieurs, je vous remercie de toute mon âme, de ce que vous avez déjà fait… et de ce que vous avez résolu de faire encore ! »</p>
@@ -1977,13 +1813,8 @@ Vers huit heures, dans la matinée du 2 octobre, les pirogues <hi>Gallinetta</hi
           <p>Enfin, après avoir reçu les adieux du gouverneur de San-Fernando qui leur donna des lettres pour les commissaires des principales bourgades de l’amont, puis les embrassements de M. Mirabal qui pressa Jean sur son cœur, Jacques Helloch et Germain Paterne, Jean et le sergent Martial s’embarquèrent à bord de leurs pirogues.</p>
           <p>La population avait voulu assister au départ. Des vivats saluèrent les deux falcas, lorsqu’elles se détachèrent de la rive gauche du fleuve. Dès qu’elles eurent contourné les rochers, qui se dressent au confluent où s’entremêlent les eaux de l’Atabapo et du Guaviare, elles gagnèrent l’Orénoque et disparurent en remontant dans la direction de l’est.</p>
         </div>
-      </div>
-      <div type="section" n="Première étape">
-        <div type="section">
-          <head rend="tmp" xml:id="II_Premiere_etape." type="h3"> II</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Première étape.</hi>
-          </p>
+        <div type="chapter">
+          <head>II. Première étape</head>
           <p>La <hi>Gallinetta</hi> et la <hi>Moriche</hi> étaient commandées, ainsi qu’elles l’avaient été depuis leur départ de Caïcara, par les patrons Parchal et Valdez. Avec Parchal et ses hommes, Jacques Helloch et Germain Paterne n’avaient éprouvé aucune difficulté pour la prolongation du voyage. Engagés en vue d’une campagne d’une durée indéterminée, peu importait à ces braves gens qu’elle eût pour résultat l’exploration de l’Orénoque jusqu’à ses sources ou de tout autre de ses affluents, du moment qu’ils étaient assurés d’un bon salaire.</p>
           <p>En ce qui concernait Valdez, il avait fallu établir les conditions d’un nouveau marché. L’Indien ne devait conduire le sergent Martial et son neveu que jusqu’à San-Fernando, ceux-ci n’ayant pu traiter que de cette façon, puisque tout dépendait des renseignements qui seraient recueillis dans la bourgade. Valdez, on le sait, était originaire de San-Fernando, où il demeurait d’habitude, et, après avoir pris congé du sergent Martial, il comptait attendre l’occasion de redescendre le fleuve pour le compte d’autres passagers, marchands ou voyageurs.</p>
           <p>Or, le sergent Martial et Jean avaient été extrêmement satisfaits de l’habileté et du zèle de Valdez, et ce n’est pas sans regret qu’ils s’en fussent séparés pour cette seconde partie de la campagne, la plus difficile assurément. Aussi lui proposèrent-ils de rester à bord de sa pirogue la <hi>Gallinetta</hi> au cours de cette navigation sur le haut Orénoque.</p>
@@ -2016,11 +1847,6 @@ Vers huit heures, dans la matinée du 2 octobre, les pirogues <hi>Gallinetta</hi
           <p>— Oui… monsieur Jean ! » répondit Jacques Helloch, après avoir indiqué du geste qu’aucun des mariniers de la falca n’avait pu l’entendre.</p>
           <p>Ce soir-là, la conversation s’engagea sur cet affluent à l’embouchure duquel les pirogues avaient pris leur poste de nuit.</p>
           <p>C’est un des plus considérables de l’Orénoque. Il lui verse une </p>
-          
-
-
-
-
           <p>énorme masse d’eau par sept bouches disposées en delta, à travers une des courbes les plus prononcées de tout son système hydrographique, — un coude en angle aigu, qui mord profondément sa coulière. Le Ventuari descend du nord-est au sud-ouest, alimenté par les inépuisables réservoirs des Andes guyanaises, et il arrose les territoires ordinairement habités par les Indiens Macos et les Indiens Mariquitares. Son apport est donc plus volumineux que celui des affluents de gauche, qui se promènent lentement à travers la plate savane.</p>
           <p>Et c’est ce qui amena Germain Paterne à déclarer, en haussant quelque peu les épaules :</p>
           <p>« En vérité, MM. Miguel, Varinas et Felipe auraient là un beau sujet de discussion ! Voici ce Ventuari, qui le disputerait non sans avantage à leur Atabapo et à leur Guaviare, et s’ils avaient été ici, nous en aurions eu pour toute la nuit à entendre les arguments qu’ils s’envoient en pleine poitrine.</p>
@@ -2099,16 +1925,10 @@ Vers huit heures, dans la matinée du 2 octobre, les pirogues <hi>Gallinetta</hi
           <p>— Pourquoi s’en cacherait-il ?… demanda Jean.</p>
           <p>— Il n’y a là qu’une ressemblance, mon brave Indien », se contenta de répliquer Jacques Helloch.</p>
         </div>
-      </div>
-      <div type="section" n="Une halte de deux jours à Danaco">
-        <div type="section">
-          <head rend="tmp" xml:id="III_Une_halte_de_deux_jours_a_Danaco." type="h3"> III</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Une halte de deux jours à Danaco.</hi>
-          </p>
+        <div type="chapter">
+          <head>III. Une halte de deux jours à Danaco</head>
           <p>
-<lb/>
-Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la cime d’une montagne que les deux patrons Valdez et Parchal disaient être le cerro Yapacana. Ils ajoutaient même que cette montagne était hantée, que les esprits, chaque année, en février et mars, allument sur sa pointe un grand feu dont le reflet s’étend sur toute la contrée en s’élevant jusqu’au ciel.</p>
+            <lb/> Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la cime d’une montagne que les deux patrons Valdez et Parchal disaient être le cerro Yapacana. Ils ajoutaient même que cette montagne était hantée, que les esprits, chaque année, en février et mars, allument sur sa pointe un grand feu dont le reflet s’étend sur toute la contrée en s’élevant jusqu’au ciel.</p>
           <p>Ce cerro, les pirogues eurent atteint, dans la soirée du 11 octobre, l’endroit d’où il se montre sous ses véritables dimensions, — long de quatre kilomètres, large d’un kilomètre et demi, haut d’environ douze cents mètres.</p>
           <p>Pendant les trois jours qui avaient suivi leur départ de Carida, la navigation des falcas, servie par une brise constante, s’était accomplie rapidement et sans obstacles. On avait dépassé l’île Luna, remonté le fleuve entre des rives bordées d’épaisses palmeraies, n’ayant eu d’autre difficulté que de franchir un petit raudal qu’on appelle la « Traversée du Diable ». Seulement, le diable ne s’était pas mis en travers.</p>
           <p>Le cerro de Yapacana occupe la plaine qui se développe sur la droite de l’Orénoque. Ainsi que l’indique M. Chaffanjon, il se présente sous la forme d’un énorme sarcophage.</p>
@@ -2153,11 +1973,6 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>Du reste, Manuel Assomption n’avait dit que la vérité relativement au village dont il parlait avec un juste orgueil. À cette époque, Danaco se composait d’une cinquantaine d’habitations, auxquelles le nom de paillotes n’eût point convenu.</p>
           <p>Ces cases reposent sur une sorte de soubassement cylindro-conique, que domine un haut toit en feuilles de palmier, terminé par une pointe agrémentée de quelques pendeloques à sa base. Le soubassement est entrelacé de branches solidement reliées entre elles, et cimentées d’un gâchis de terre, dont les fendillements lui donnent l’apparence d’une maçonnerie de brique.</p>
           <p>Deux portes, l’une à l’opposé de l’autre, permettent de s’introduire </p>
-          
-
-
-
-
           <p>à l’intérieur ; au lieu de la chambre unique, il forme deux chambres distinctes à l’usage des membres de la même famille, et séparées par la salle commune. Notable progrès sur l’aménagement des paillotes indiennes, qui empêche toute promiscuité. Puis, progrès non moins égal pour l’ameublement qui, tout rudimentaire qu’il soit, bahuts, table, escabeaux, paniers, hamacs, etc., témoigne d’un besoin de confort.</p>
           <p>En traversant le village, les voyageurs purent observer la population masculine et féminine de Danaco, car les femmes et les enfants ne s’enfuirent point à leur approche.</p>
           <p>Les hommes, d’un type assez beau, robustes, de saine constitution, étaient peut-être moins « couleur locale » qu’au temps où leur costume ne comportait que le guayuco serré à la ceinture. De même pour les femmes, qui se contentaient autrefois d’un simple tablier dont l’étoffe, semée de dessins en verroteries, se retenait au-dessus des hanches par une ceinture de perles. Actuellement, leur costume, se rapprochant de celui des métis ou des Indiens civilisés, ne choquait plus les règles de la décence. En somme, on retrouvait l’équivalent du poncho mexicain chez les chefs, et quant aux femmes, elles n’auraient pas été de leur sexe si elles n’eussent porté nombre de bracelets aux bras et aux jambes.</p>
@@ -2198,7 +2013,7 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>— Oui, monsieur le commissaire, déclara Jacques Helloch, et elle honore aussi le pays qui produit de tels hommes !… Je suis certain que nous recevrons un bon accueil du Père Esperante…</p>
           <p>— N’en doutez pas, répliqua M. Manuel, et il vous traitera comme si vous étiez ses compatriotes. C’est l’accueil qu’il réservait à M. Chaffanjon, si celui-ci eût été jusqu’à Santa-Juana…</p>
           <p>— Et, ajouta Jean, puisse-t-il nous mettre sur les traces de mon père ! »</p>
-          <p>L’après-midi, les hôtes du commissaire durent visiter le rancho, ses champs bien cultivés, ses plantations bien entretenues, ses bois où les fils Manuel faisaient une incessante guerre aux singes déprédateurs, ses prairies où paissaient les troupeaux.  On était à l’époque de la récolte du caoutchouc, — récolte prématurée cette année. D’habitude, elle ne commence qu’en novembre pour se continuer jusqu’à la fin de mars.</p>
+          <p>L’après-midi, les hôtes du commissaire durent visiter le rancho, ses champs bien cultivés, ses plantations bien entretenues, ses bois où les fils Manuel faisaient une incessante guerre aux singes déprédateurs, ses prairies où paissaient les troupeaux. On était à l’époque de la récolte du caoutchouc, — récolte prématurée cette année. D’habitude, elle ne commence qu’en novembre pour se continuer jusqu’à la fin de mars.</p>
           <p>Aussi, M. Manuel de dire :</p>
           <p>« Si cela peut vous intéresser, messieurs, je vous montrerai demain comment on procède à cette récolte.</p>
           <p>— Nous acceptons très volontiers, répondit Germain Paterne, et j’en ferai mon profit…</p>
@@ -2242,13 +2057,8 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>Et cependant, cet incident ne laissait pas de préoccuper Jacques Helloch, non qu’il vît là un sujet d’appréhension pour lui-même ; mais tout ce qui intéressait le voyage de la fille du colonel de Kermor, tout ce qui pouvait en retarder ou en compromettre le succès, l’obsédait, l’inquiétait, le troublait plus qu’il ne voulait en convenir.</p>
           <p>Cette nuit-là, le sommeil ne le prit que très tard, et, le lendemain, il fallut que Germain Paterne l’en tirât par une tape amicale, au moment où le soleil commençait à déborder l’horizon.</p>
         </div>
-      </div>
-      <div type="section" n="Derniers conseils de M. Manuel Assomption">
-        <div type="section">
-          <head rend="tmp" xml:id="IV_Derniers_conseils_de_M._Manuel_Assomption." type="h3">IV</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Derniers conseils de M. Manuel Assomption.</hi>
-          </p>
+        <div type="chapter">
+          <head>IV. Derniers conseils de M. Manuel Assomption</head>
           <p>Est-il utile d’insister sur les sentiments de Jacques Helloch depuis le jour où Jean avait fait place à Jeanne, depuis le jour où la fille du colonel de Kermor, après avoir été sauvée des eaux de l’Orénoque, ne pouvait plus se cacher sous le masque de ce prétendu neveu du sergent Martial ?</p>
           <p>Que la nature de ces sentiments n’eût point échappé à Jeanne, qui, âgée de vingt-deux ans, avait pu, sous l’habit d’un jeune garçon, n’en paraître avoir que dix-sept, cela est très naturellement explicable.</p>
           <p>Et, en somme, Germain Paterne, qui « n’entendait rien à ces choses-là ! » à en croire son compagnon, avait très bien remarqué les changements qui se produisaient par une inévitable gradation dans le cœur de Jacques Helloch. Et s’il fût venu lui dire : « Jacques, tu aimes mademoiselle Jeanne de Kermor », est-il certain que Jacques lui aurait encore répondu : « Mon pauvre ami, tu n’entends rien à ces choses-là ! »</p>
@@ -2314,11 +2124,6 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>— Les dangers qu’implique la présence des Indiens le long de ces rives…</p>
           <p>— Monsieur Manuel, dit alors Jean, ne voulez-vous pas parler des Guaharibos ?…</p>
           <p>— Non, mon cher enfant, répondit le commissaire en souriant, car ces Indiens sont inoffensifs. Je sais bien qu’ils passaient autrefois pour dangereux. Et précisément, en 1879 à l’époque où le colonel de Kermor aurait remonté vers les sources de l’Orénoque, on mettait à leur compte la destruction de plusieurs villages, le massacre de leurs habitants… </p>
-          
-
-
-
-
           <p>— Mon père aurait-il eu à se défendre contre les attaques de ces Guaharibos, s’écria Jean, et serait-il donc tombé entre leurs mains ?…</p>
           <p>— Non… non ! se hâta de répondre Jacques Helloch. Jamais, sans doute, M. Manuel n’a entendu dire…</p>
           <p>— Jamais, monsieur Helloch, jamais, mon cher enfant, et je vous le répète, votre père n’a pu être la victime de ces tribus indiennes, parce que, depuis une quinzaine d’années, ils ne méritent plus une si mauvaise réputation…</p>
@@ -2361,13 +2166,8 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>Enfin, l’heure étant venue de se retirer, la famille Assomption reconduisit les passagers jusqu’au petit port. Là se firent les adieux, là furent échangées les dernières poignées de main, là on promit de se revoir au retour, et M. Manuel n’oublia pas de dire :</p>
           <p>« À propos, monsieur Helloch, et vous aussi, monsieur Paterne, lorsque vous rejoindrez les compagnons que vous avez laissés à San-Fernando, tous mes compliments à M. Miguel ! Quant à ses deux amis, toutes mes malédictions, et vive l’Orénoque ! — bien entendu le seul… le vrai… celui qui passe à Danaco et arrose les rives de mon domaine ! »</p>
         </div>
-      </div>
-      <div type="section" n="Bœufs et gymnotes">
-        <div type="section">
-          <head rend="tmp" xml:id="V_Boeufs_et_gymnotes." type="h3"> V</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Bœufs et gymnotes.</hi>
-          </p>
+        <div type="chapter">
+          <head>V. Bœufs et gymnotes</head>
           <p>La voici reprise, cette navigation sur le cours supérieur du fleuve. Les voyageurs ont toujours confiance dans le succès de leur voyage. Ils ont hâte d’être arrivés à la Mission de Santa-Juana, et fasse le ciel que le Père Esperante les mette sur la bonne route, que des renseignements plus précis les conduisent enfin au but ! Puissent-ils aussi éviter une rencontre avec la bande d’Alfaniz, qui risquerait de compromettre le sort de la campagne !</p>
           <p>Ce matin-là, presque à l’heure du départ, Jeanne de Kermor avait dit à Jacques Helloch, alors qu’ils se trouvaient seuls :</p>
           <p>« Monsieur Helloch, non seulement vous m’avez sauvé la vie mais vous avez voulu joindre vos efforts aux miens… Mon âme est pleine de reconnaissance… Je ne sais comment je pourrai jamais m’acquitter envers vous…</p>
@@ -2411,11 +2211,6 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>Le lendemain, départ hâtif, afin d’utiliser une brise matinale assez vive pour remplir la voile des falcas. De cet endroit, on voyait poindre une chaîne de montagnes au-dessus des forêts qui s’étendaient sur la rive droite jusqu’à l’horizon. C’était la chaîne du Duido, dont les voyageurs se trouvaient encore à quelques jours de distance, et l’une des plus considérables de ce territoire.</p>
           <p>Vingt-quatre heures après, au terme d’une fatigante journée, pendant laquelle la brise avait été intermittente, entre des averses violentes et des éclaircies courtes, Valdez et Parchal vinrent prendre le poste de nuit à la Piedra Pintada.</p>
           <p>Il ne faut pas confondre cette « Pierre Peinte » et celle que les voyageurs avaient déjà rencontrée, en amont de San-Fernando. Si elle est ainsi dénommée, c’est que les roches de la rive gauche portent également l’empreinte de figurines et autres signes hiéroglyphiques. </p>
-          
-
-
-
-
           <p>Grâce à la baisse des eaux déjà prononcée, ces signes étaient apparents à la base des roches, et Germain Paterne put les examiner à loisir.</p>
           <p>M. Chaffanjon l’avait fait, d’ailleurs, ainsi que le témoigne le récit de son voyage.</p>
           <p>Mais il y avait lieu d’observer que leur compatriote parcourait cette partie de l’Orénoque dans la seconde quinzaine de novembre, tandis que Jacques Helloch et ses compagnons l’effectuaient dans la seconde quinzaine d’octobre. Or, ce délai d’un mois se traduit par des différences climatériques assez notables en un pays où la saison sèche succède brusquement, pour ainsi dire, à la saison pluvieuse.</p>
@@ -2495,11 +2290,6 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>Et beaucoup disparurent en quelques secondes, tandis que les autres, rebelles à la voix de leurs guides, dont quelques-uns furent également frappés par les gymnotes, durent céder au courant, et n’accostèrent la berge opposée qu’à plusieurs centaines de mètres en aval.</p>
           <p>En outre, comme il n’avait pas été possible d’arrêter les rangs en arrière de la berge que poussait la masse du troupeau, les bœufs affolés furent contraints de se précipiter dans le fleuve, en proie à l’épouvante. Mais, sans doute, l’énergie électrique des parayos et des caribes avait diminué. Aussi, nombre de bêtes finirent par gagner la rive gauche, et s’enfuirent tumultueusement à travers la savane.</p>
           <p>« Voilà, dit Germain Paterne, ce qui ne se voit ni dans la Seine, </p>
-          
-
-
-
-
           <p>ni dans la Loire, ni même dans la Garonne, et c’est un spectacle digne d’être vu !</p>
           <p>— Tonnerre de tonnerres, nous ferons bien de nous défier de ces abominables anguilles ! grommela le sergent Martial.</p>
           <p>— Assurément, mon brave sergent, déclara Jacques Helloch, et, le cas échéant, on s’en défierait comme d’une batterie de piles électriques !</p>
@@ -2510,13 +2300,8 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>Lorsque les pirogues eurent repris leur marche, la navigation fut retardée par l’insuffisance du vent, qui calmissait généralement dans l’après-midi. En de certaines passes étroites, où le courant se mouvait avec rapidité, on dut se haler à l’espilla, — ce qui occasionna une perte de plusieurs heures. La nuit était venue, lorsque les passagers firent halte au pied du village de la Esmeralda.</p>
           <p>En ce moment, sur la rive droite, l’espace était brillamment illuminé par un magnifique vacillement de lueurs à la cime boisée de cette pyramide du Duido, haute de deux mille quatre cent soixante-quatorze mètres au-dessus du niveau de la mer. Ce n’était point une éruption volcanique, mais des flammes, souples et falotes, qui dansaient sur les flancs du cerro, tandis que les chauves-souris pêcheuses, éblouies par ces fulgurations éclatantes, tourbillonnaient au-dessus des falcas endormies près de la berge.</p>
         </div>
-      </div>
-      <div type="section" n="Terribles inquiétudes">
-        <div type="section">
-          <head rend="tmp" xml:id="VI_Terribles_inquietudes." type="h3"> VI</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Terribles inquiétudes.</hi>
-          </p>
+        <div type="chapter">
+          <head>VI. Terribles inquiétudes</head>
           <p>Aussi longtemps que les Barés seront les Barés, l’apparition de ces énormes feux follets au sommet du Duido devra être considérée dans le pays comme un funeste présage, avant-coureur de catastrophes.</p>
           <p>Aussi longtemps que les Mariquitares seront les Mariquitares, ce phénomène sera pour eux l’indication d’une série d’heureux événements.</p>
           <p>Ces deux tribus indiennes ont donc une façon très opposée d’envisager les pronostics de leur prophétique montagne. Mais, qu’elles aient raison l’une ou l’autre, il est certain que le voisinage du Duido n’a pas porté bonheur au village de la Esmeralda.</p>
@@ -2661,13 +2446,8 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>Lorsque les équipages furent rassemblés sur l’avant des pirogues, on s’aperçut que l’un des hommes manquait à l’appel.</p>
           <p>Jorrès avait disparu, et, cette fois, il ne devait pas revenir.</p>
         </div>
-      </div>
-      <div type="section" n="Le campement du pic Maunoir">
-        <div type="section">
-          <head rend="tmp" xml:id="VII_Le_campement_du_Pic_Maunoir." type="h3">VII</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Le campement du Pic Maunoir.</hi>
-          </p>
+        <div type="chapter">
+          <head>VII. Le campement du pic Maunoir</head>
           <p>Le pic Maunoir domine la savane de la rive gauche d’une hauteur de quinze cents mètres. La chaîne, qui vient s’appuyer à son énorme masse, dont il semble être l’inébranlable contrefort, prolonge ses ramifications à perte de vue vers le sud-est.</p>
           <p>À quatre-vingts kilomètres de là environ, pointe le pic Ferdinand de Lesseps, ainsi dénommé sur la carte de M. Chaffanjon.</p>
           <p>C’est la contrée montagneuse qui commence, celle où le système orographique du Venezuela profile ses plus hauts reliefs. Là s’arrondissent de larges et énormes voussures. Là s’entrecroisent de capricieuses arêtes de jonction. Là l’ossature des monts prend un aspect imposant et grandiose. Là se développe la sierra Parima, qui engendre l’Orénoque. Là se dresse la « montagne Rouge », entourée de nuages, cette mère féconde des ruisseaux, disent les incantations indiennes, ce Roraima, gigantesque borne milliaire, plantée à l’intersection des frontières des trois États.</p>
@@ -2718,14 +2498,8 @@ Déjà, depuis quarante-huit heures, se dessinait à l’horizon de l’est la c
           <p>— Comme nous devions le faire… comme nous l’aurions fait, une fois arrivés à la sierra Parima.</p>
           <p>— À pied ?…</p>
           <p>— À pied, répondit Jacques Helloch. Sur ces territoires déserts, </p>
-          
-
-
-
-
           <p>
-<lb/>
-il n’y a ni un sitio ni un rancho où nous puissions nous procurer des chevaux.</p>
+            <lb/> il n’y a ni un sitio ni un rancho où nous puissions nous procurer des chevaux.</p>
           <p>— Et nos bagages ?… demanda Germain Paterne. Il faudra donc les laisser à bord des pirogues…</p>
           <p>— Je le pense, répondit Jacques Helloch, et cela sera sans grand inconvénient. Pourquoi nous embarrasser de colis encombrants ?… </p>
           <p>— Hum ! fit Germain Paterne, qui songeait à ses collections de naturaliste plus qu’à ses chemises et à ses chaussettes.</p>
@@ -2785,13 +2559,8 @@ il n’y a ni un sitio ni un rancho où nous puissions nous procurer des chevaux
           <p>Elle était vide.</p>
           <p>En ce moment, une détonation assez rapprochée retentit dans la direction du nord.</p>
         </div>
-      </div>
-      <div type="section" n="Le jeune Indien">
-        <div type="section">
-          <head rend="tmp" xml:id="VIII_Le_jeune_indien." type="h3">VIII</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Le jeune indien.</hi>
-          </p>
+        <div type="chapter">
+          <head>VIII. Le jeune Indien</head>
           <p>« Un coup de feu… s’écria Jacques Helloch.</p>
           <p>— Et à moins de trois cents pas… répondit Valdez. </p>
           <p>— Est-ce le sergent Martial qui se serait mis en chasse après votre départ ?…</p>
@@ -2955,14 +2724,9 @@ il n’y a ni un sitio ni un rancho où nous puissions nous procurer des chevaux
           <p>La nuit venue, les passagers regagnèrent le rouf des pirogues, tandis que les mariniers se disposaient à veiller sur le campement.</p>
           <p>On avait fait une place à bord de la <hi>Gallinetta</hi>, pour Gomo. Mais le pauvre enfant ne dormit guère et de gros soupirs troublèrent fréquemment son sommeil.</p>
         </div>
-      </div>
-      <div type="section" n="À travers la sierra">
-        <div type="section">
-          <head rend="tmp" xml:id="IX_A_travers_la_sierra." type="h3"> IX</head>
-          <p rend="c3 h3">
-            <hi rend="sc">À travers la sierra.</hi>
-          </p>
-          <p>Dès six heures du matin, Jacques Helloch et ses compagnons quittèrent le campement du pic Maunoir, laissé à la garde de Parchal, en qui l’on pouvait avoir toute confiance.  Parchal avait sous ses ordres les bateliers de la <hi>Gallinetta</hi> et de la <hi>Moriche</hi>, — en tout quinze hommes. Les deux autres, chargés du transport des bagages, accompagnaient les voyageurs. En cas d’agression, si Parchal ne se sentait pas en mesure de se défendre soit contre des indigènes, soit contre une attaque d’Alfaniz, il devrait abandonner le campement et, autant que possible, rallier la Mission de Santa-Juana.</p>
+        <div type="chapter">
+          <head>IX. À travers la sierra</head>
+          <p>Dès six heures du matin, Jacques Helloch et ses compagnons quittèrent le campement du pic Maunoir, laissé à la garde de Parchal, en qui l’on pouvait avoir toute confiance. Parchal avait sous ses ordres les bateliers de la <hi>Gallinetta</hi> et de la <hi>Moriche</hi>, — en tout quinze hommes. Les deux autres, chargés du transport des bagages, accompagnaient les voyageurs. En cas d’agression, si Parchal ne se sentait pas en mesure de se défendre soit contre des indigènes, soit contre une attaque d’Alfaniz, il devrait abandonner le campement et, autant que possible, rallier la Mission de Santa-Juana.</p>
           <p>Il n’était pas douteux, d’ailleurs, — et Jacques Helloch s’en croyait assuré, — que la Mission serait en mesure de résister aux Quivas, qui infestaient sans doute cette partie du territoire vénézuélien.</p>
           <p>À ce sujet, dont il s’était entretenu avec Valdez, il y avait tout lieu de se dire que les bonnes chances l’emporteraient sur les mauvaises. Assurément, de rencontrer la bande d’Alfaniz eût été la plus redoutable éventualité pendant ces étapes à travers les forêts de la sierra Parima. Mais, suivant l’affirmation du jeune Gomo, d’après ce que son père avait répondu à Jorrès, cette bande ne s’était pas montrée dans le voisinage de la sierra. Il est vrai, en se jetant vers le nord, l’Espagnol espérait évidemment rejoindre cet Alfaniz dont il avait peut-être été le compagnon de bagne, — toute hypothèse étant permise à son égard. Au surplus, si les Quivas n’étaient pas loin, la Mission ne l’était pas non plus — une cinquantaine de kilomètres seulement. À raison de vingt-cinq kilomètres par vingt-quatre heures, des piétons pourraient probablement franchir cette distance en deux jours et demi. Partis le 30 octobre, au soleil levant, était-ce exagéré de penser qu’ils arriveraient à Santa-Juana dans l’après-midi du 1<hi rend="sup">er</hi> novembre ?… Non, si le mauvais temps ne leur suscitait pas des retards.</p>
           <p>Donc, avec un peu de bonne chance, la petite troupe comptait effectuer ce voyage sans faire aucune fâcheuse rencontre.</p>
@@ -3007,11 +2771,6 @@ il n’y a ni un sitio ni un rancho où nous puissions nous procurer des chevaux
           <p>Ce que disait le jeune garçon n’était pas pour étonner Jacques Helloch et ses compagnons. D’après le récit du voyageur français, ils connaissaient le caractère de ces Banivas, les meilleurs mariniers de l’Orénoque, depuis nombre d’années convertis au catholicisme, des Indiens intelligents et honnêtes. C’était par suite de circonstances particulières, — et parce que la mère de Gomo appartenait à une tribu de l’est, — que son père avait été se fixer au village de San-Salvador, au-delà des sources du fleuve. Et, en prenant cette décision de quitter Santa-Juana, il obéissait à son instinct qui le poussait à retourner vers les llanos entre San-Fernando et Caïcara. Il guettait donc une occasion, l’arrivée de pirogues à bord desquelles il eût pu trouver du service, et, en attendant, il habitait cette misérable case de la sierra Parima.</p>
           <p>Et que fût devenu son enfant, après l’assassinat commis par Jorrès, si les falcas n’eussent été dans la nécessité de s’arrêter au campement du pic Maunoir ?…</p>
           <p>C’est à toutes ces choses que réfléchissait Jeanne de Kermor, en écoutant le jeune Indien. Puis, elle ramenait la conversation sur Santa-Juana, sur l’état actuel de la Mission, plus particulièrement sur le Père Esperante. Gomo répondait avec netteté à toutes ces questions. Il dépeignait le missionnaire espagnol, un homme grand, vigoureux, malgré sa soixantaine d’années, — beau… beau… répétait-il, sa barbe blanche, ses yeux qui brillaient comme du feu, tel que l’avaient dépeint M. Manuel Assomption et le misérable </p>
-          
-
-
-
-
           <p>Jorrès. Et alors, dans une disposition d’esprit à prendre ses désirs pour des réalités, Jeanne se voyait déjà rendue à Santa-Juana… Le Père Esperante l’accueillait à bras ouverts… il lui fournissait les renseignements dont elle avait besoin… il lui apprenait ce qu’était devenu le colonel de Kermor depuis son dernier passage à San-Fernando… elle savait enfin où il avait été chercher refuge en quittant Santa-Juana… </p>
           <p>À six heures du soir, Jacques Helloch donna le signal d’arrêt, après la seconde étape de la journée.</p>
           <p>Les Indiens s’occupèrent d’organiser la halte de nuit. Le lieu paraissait propice. Une profonde anfractuosité, coupant la berge, se dessinait en entonnoir jusqu’au bord du rio. Au-dessus de cette anfractuosité, de grands arbres inclinaient leurs branches, comme une sorte de rideau qui retombait sur les parois de la roche. Au bas, s’évidait une sorte de niche, dans laquelle la jeune fille pourrait s’étendre. Avec une litière d’herbes sèches et de feuilles mortes, on lui ferait un lit, et elle y reposerait aussi bien que sous le rouf de la <hi>Gallinetta</hi>.</p>
@@ -3063,13 +2822,8 @@ il n’y a ni un sitio ni un rancho où nous puissions nous procurer des chevaux
           <p>Or, comment continuer le voyage dans des conditions de sécurité si insuffisantes ?… On avait été découvert… on était épié… Jorrès venait de retrouver Jacques Helloch et ses compagnons en marche vers la Mission de Santa-Juana… Il ne perdrait plus maintenant leurs traces…</p>
           <p>Conjonctures d’une extrême gravité, et ce qui était plus grave encore, c’est que l’Espagnol avait certainement rejoint la bande des Quivas, qui parcourait ces territoires sous les ordres du forçat Alfaniz.</p>
         </div>
-      </div>
-      <div type="section" n="Le gué de Frascaès">
-        <div type="section">
-          <head rend="tmp" xml:id="X_Le_gue_de_Frascaes." type="h3"> X</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Le gué de Frascaès.</hi>
-          </p>
+        <div type="chapter">
+          <head>X. Le gué de Frascaès</head>
           <p>À cinq heures, le campement s’éveilla.</p>
           <p>Le premier à se lever fut Jean. Tandis qu’il allait et venait le long de la rive du rio, le sergent Martial, Germain Paterne et le jeune Indien dormaient encore, enveloppés de leurs couvertures, le chapeau sur les yeux.</p>
           <p>Le marinier de garde au bord de la grève, après s’être rapproché de Jacques Helloch et de Valdez, les entretenait de ce qu’il avait observé pendant sa faction. D’ailleurs, il confirmait le dire de Valdez. Lui aussi avait reconnu Jorrès dans l’homme qui rôdait sur la berge du Torrida.</p>
@@ -3183,8 +2937,7 @@ il n’y a ni un sitio ni un rancho où nous puissions nous procurer des chevaux
           <p>Si la forêt se développait sans discontinuité sur la rive droite du rio Torrida, la rive gauche présentait alors un aspect très différent. Les arbres ne s’y groupaient que par bouquets épars à la surface des llanos, tapissés d’une herbe épaisse, dont les flancs de la sierra étaient également revêtus presque jusqu’à la cime.</p>
           <p>D’autre part, la berge opposée, très basse, affleurait presque le niveau du rio. Il était donc aisé de fouiller du regard une vaste étendue de savane que ne masquait plus l’épais rideau d’arbres. Après avoir eu la sierra, au nord-est, on l’avait dans le sud depuis la veille. </p>
           <p>
-<lb/>
-Jacques Helloch et Valdez ne cessaient d’observer anxieusement l’autre rive, sans négliger toutefois celle qu’ils longeaient en remontant le rio.</p>
+            <lb/> Jacques Helloch et Valdez ne cessaient d’observer anxieusement l’autre rive, sans négliger toutefois celle qu’ils longeaient en remontant le rio.</p>
           <p>Rien de suspect encore.</p>
           <p>Peut-être les Quivas attendaient-ils la petite troupe au gué de Frascaès ?</p>
           <p>Vers une heure après midi, Gomo indiqua à quelques centaines de pas un coude du rio, lequel, en obliquant vers l’est, disparaissait derrière un gros massif de rocs dénudés.</p>
@@ -3235,13 +2988,8 @@ Jacques Helloch et Valdez ne cessaient d’observer anxieusement l’autre rive,
           <p>Maintenant, Jacques Helloch et ses compagnons à sa merci, ce misérable comptait s’emparer des pirogues, à leur mouillage sur l’Orénoque.</p>
           <p>Le fils ou plutôt la fille du colonel de Kermor était en son pouvoir.</p>
         </div>
-      </div>
-      <div type="section" n="La Mission de Santa-Juana">
-        <div type="section">
-          <head rend="tmp" xml:id="XI_La_mission_de_Santa-Juana." type="h3">XI</head>
-          <p rend="c3 h3">
-            <hi rend="sc">La mission de Santa-Juana.</hi>
-          </p>
+        <div type="chapter">
+          <head>XI. La Mission de Santa-Juana</head>
           <p>Treize ans avant le début de cette histoire, la région que traversait le rio Torrida ne possédait ni un village, ni un rancho, ni un sitio. C’est à peine si les Indiens le parcouraient, lorsque la nécessité les obligeait à faire transhumer leurs troupeaux. À la surface de ces territoires, rien que de vastes llanos, fertiles mais incultivés, des forêts impénétrables, des esteros marécageux, inondés l’hiver par le trop-plein des coulières avoisinantes. Rien que des fauves, des ophidiens, des singes, des volatiles, — sans oublier les insectes et particulièrement les moustiques, — à représenter la vie animale en ces contrées presque inconnues encore. C’était, à vrai dire, le désert, où ne s’aventuraient jamais ni les marchands ni les exploitants de la République vénézuélienne.</p>
           <p>En s’élevant de quelques centaines de kilomètres vers le nord et le nord-est, on se fût perdu à la surface d’une extraordinaire région, dont le relief se rattachait peut-être à celui des Andes, avant que les grands lacs se fussent vidés à travers un incohérent réseau d’artères fluviales dans les profondeurs de l’Atlantique. Pays tourmenté, où les arêtes se confondent, où les reliefs semblent en désaccord avec les logiques lois de la nature, même dans ses caprices hydrographiques et orographiques, immense aire, génératrice inépuisable de cet Orénoque qu’elle envoie vers le nord, et de ce rio Blanco qu’elle déverse vers le sud, dominée par l’imposant massif du Roraima, dont Im Thurn et Perkin devaient, quelques années plus tard, fouler la cime inviolée jusqu’alors.</p>
           <p>Telle était cette portion du Venezuela, son inutilité, son abandon, lorsqu’un étranger, un missionnaire, entreprit de la transformer.</p>
@@ -3253,11 +3001,6 @@ Jacques Helloch et Valdez ne cessaient d’observer anxieusement l’autre rive,
           <p>Pour tout personnel, en arrivant au milieu de ce désert, le Père Esperante n’avait qu’un jeune compagnon, nommé Angelos. Ce novice des missions étrangères, alors âgé de vingt ans, était enflammé comme lui de ce zèle apostolique qui accomplit des prodiges et des miracles. Tous les deux, — au prix de quelles difficultés et de quels dangers ! — sans jamais faiblir, sans jamais reculer, ils avaient créé, développé, organisé cette Mission de Santa-Juana, ils avaient régénéré toute une tribu au double point de vue moral et physique, constitué une population qui, à cette heure, se chiffrait par un millier d’habitants, en y comprenant ceux des llanos du voisinage.</p>
           <p>C’était à une cinquantaine de kilomètres dans le nord-est des sources du fleuve et de l’embouchure du rio Torrida que le missionnaire avait choisi l’emplacement de la future bourgade. Choix heureux, s’il en fût, — un sol d’une étonnante fertilité où croissaient les plus utiles essences, arbres et arbrisseaux, entre autres ces marimas dont l’écorce forme une sorte de feutre naturel, des bananiers, des platanes, des cafiers ou caféiers qui se couvrent à l’ombre des grands arbres de fleurs écarlates, des bucares, des caoutchoucs, des cacaoyers, puis des champs de cannes à sucre et de salsepareille, des plantations de ce tabac d’où l’on tire le « cura nigra » pour la consommation locale et le « cura seca » mélangé de salpêtre, pour l’exportation, les tonkas dont les fèves sont extrêmement recherchées, les sarrapias dont les gousses servent d’aromates. Un peu de travail, et ces champs défrichés, labourés, ensemencés, allaient donner en abondance les racines de manioc, les cannes à sucre, et cet inépuisable maïs, qui produit quatre récoltes annuelles avec près de quatre cents grains pour le seul grain dont l’épi a germé.</p>
           <p>Si le sol de cette contrée possédait une si merveilleuse fertilité que devaient accroître les bonnes méthodes de culture, c’est qu’il était vierge encore. Rien n’avait épuisé sa puissance végétative. De </p>
-          
-
-
-
-
           <p>nombreux ruisselets couraient à sa surface, même en été, et venaient se jeter dans le rio Torrida, lequel, pendant l’hiver, apportait un large tribut d’eaux au lit de l’Orénoque.</p>
           <p>Ce fut sur la rive gauche de ce rio, né des flancs du Roraima, que se disposèrent les premières habitations de la Mission. Ce n’étaient point de simples paillotes, mais des cases qui valaient les mieux construites des Banivas ou des Mariquitares. La Urbana, Caïcara, San-Fernando de Atabapo, auraient pu envier ces solides et confortables habitations.</p>
           <p>Le village s’était établi tout près d’un cerro détaché de la sierra Parima, dont les premières déclivités se prêtaient à une installation salubre et agréable.</p>
@@ -3271,11 +3014,6 @@ Jacques Helloch et Valdez ne cessaient d’observer anxieusement l’autre rive,
           <p>Au surplus, la Mission de Santa-Juana était organisée, au point de vue de la défensive comme de l’offensive. Non pas que le Père Esperante eût la pensée de jamais faire acte de conquête, puisque le territoire dont il disposait était assez vaste pour suffire à ses besoins ; mais il ne voulait pas que l’on vînt l’insulter, ni que ces bandes de malfaiteurs de la pire espèce pussent assaillir la bourgade. Aussi, afin de prévenir tout danger, avait-il agi en militaire. Et, de fait, un missionnaire est-il autre chose qu’un soldat, et s’il a le devoir de sacrifier sa vie, n’a-t-il pas le devoir de défendre les fidèles rangés autour de lui sous le drapeau du christianisme ?</p>
           <p>Il a été parlé plus haut des cultures qui contribuaient si largement à la prospérité de la Mission de Santa-Juana. Cependant ce n’était pas son unique source de richesses. Aux champs de céréales confinaient d’immenses plaines, où pâturaient des troupeaux de bœufs, de vaches, dont l’alimentation était assurée par les herbages de la savane et llanera-palma des fourrés. Cet élevage constituait une importante branche de commerce, et il en est d’ailleurs ainsi dans toutes les provinces de la république vénézuélienne. Puis, les Guaharibos avaient une certaine quantité de ces chevaux, dont il existait autrefois tant de milliers autour des ranchos, et nombre d’entre eux servaient au transport et aux excursions des Guaharibos, lesquels devinrent promptement d’excellents cavaliers. De là, ces fréquentes reconnaissances qui pouvaient s’étendre aux environs de la bourgade.</p>
           <p>Le Père Esperante était bien tel que l’avaient dépeint M. Mirabal, le jeune Gomo, et aussi le faux Jorrès. Sa physionomie, son attitude, ses mouvements, indiquaient l’homme d’action, d’une volonté toujours prête à se manifester, le chef qui a l’habitude du commandement. Il possédait cette énergie de tous les instants qu’éclaire une vive intelligence. Son œil, ferme et calme, s’imprégnait d’une expression de parfaite bonté, indiquée par le sourire permanent des lèvres que laissait entrevoir une barbe blanchie par l’âge. Il était courageux et généreux, au même degré, — deux qualités qui le plus </p>
-          
-
-
-
-
           <p>souvent n’en font qu’une. Bien qu’il eût dépassé la soixantaine, sa haute taille, ses épaules larges, sa poitrine développée, ses membres robustes, témoignaient d’une grande résistance physique, à la hauteur de sa force intellectuelle et morale.</p>
           <p>Quelle avait été l’existence de ce missionnaire avant qu’il l’eût vouée à cet apostolat si rude, personne ne l’eût su dire. Il gardait à cet égard un absolu silence. Mais, à de certaines tristesses dont se voilait parfois sa mâle figure, on eût compris qu’il portait en lui les douleurs d’un inoubliable passé.</p>
           <p>À noter que le Père Esperante avait été courageusement secondé dans sa tâche par son adjoint. Le frère Angelos lui était dévoué de corps et d’âme, et avait droit de revendiquer une large part dans le succès de cette entreprise.</p>
@@ -3368,16 +3106,10 @@ Jacques Helloch et Valdez ne cessaient d’observer anxieusement l’autre rive,
           <p>— Le sergent Martial ! » répéta le Père Esperante.</p>
           <p>Et, cette fois, si le frère Angelos ne l’eût retenu, il fût tombé, comme foudroyé, sur le plancher de la chambre.</p>
         </div>
-      </div>
-      <div type="section" n="En route">
-        <div type="section">
-          <head rend="tmp" xml:id="XII_En_route." type="h3">XII</head>
-          <p rend="c3 h3">
-            <hi rend="sc">En route.</hi>
-          </p>
+        <div type="chapter">
+          <head>XII. En route</head>
           <p>
-<lb/>
-Porter secours à ces Français, prisonniers des Quivas, cela ne permettait pas même une hésitation, après les réponses si précises du jeune Indien. </p>
+            <lb/> Porter secours à ces Français, prisonniers des Quivas, cela ne permettait pas même une hésitation, après les réponses si précises du jeune Indien. </p>
           <p>Le missionnaire se fût donc mis en route le soir même, il se serait jeté à travers la savane, s’il eût su en quelle direction effectuer ses poursuites.</p>
           <p>En effet, où se trouvait actuellement Alfaniz ?… Près du gué de Frascaès ?… Non ! Au dire de Gomo, il l’aurait quitté le lendemain de l’attaque. D’ailleurs, son intérêt lui commandait de s’éloigner de Santa-Juana, de se perdre au milieu des forêts voisines de la sierra, peut-être aussi de regagner l’Orénoque à l’embouchure du rio Torrida, afin d’enlever les pirogues et les équipages.</p>
           <p>Le Père Esperante comprit qu’une reconnaissance de la situation s’imposait avant de se mettre en campagne.</p>
@@ -3420,11 +3152,6 @@ Porter secours à ces Français, prisonniers des Quivas, cela ne permettait pas 
           <p>Vers le sud-ouest, de l’autre côté de l’Orénoque, pointait le pic Maunoir, dont la cime s’éclairait des premiers rayons de l’aube. Sur cette rive s’arrondissait un cerro de six à sept cents mètres d’altitude, dépendant de ce système orographique.</p>
           <p>Il ne fut pas un instant question de prendre du repos, — même une heure. Si les Quivas s’étaient dirigés le long du fleuve afin de descendre au campement, s’y trouvaient-ils encore, ou, après avoir déjà pillé les pirogues, ne s’étaient-ils pas enfoncés à travers la savane ?… Qui sait si Alfaniz ne serait pas alors tenté de mettre à exécution ce projet de revenir vers les territoires de l’ouest du Venezuela, emmenant ses prisonniers avec lui ?…</p>
           <p>On marcha pendant une heure, et le Père Esperante n’eût pas fait </p>
-          
-
-
-
-
           <p>halte, sans doute, avant d’avoir atteint l’embouchure du rio Torrida, si un incident ne se fût produit vers six heures du matin.</p>
           <p>Le jeune Indien précédait la troupe d’une cinquantaine de pas sur cette rive qu’il avait maintes fois parcourue avec son père. Il s’appliquait à relever les traces du passage des Quivas, lorsqu’on le vit soudain s’arrêter, se courber vers le sol, et qu’on l’entendit pousser un cri… </p>
           <p>En cet endroit, au pied d’un arbre, gisait un homme dans l’immobilité du sommeil ou de la mort.</p>
@@ -3465,11 +3192,6 @@ Porter secours à ces Français, prisonniers des Quivas, cela ne permettait pas 
           <p>Après avoir constaté que l’état du blessé n’avait pas empiré, le colonel de Kermor prit ses dispositions pour envelopper Alfaniz et ses compagnons. En dirigeant ses cavaliers de manière à traverser obliquement la clairière, il parviendrait à cerner les Quivas et il pourrait les détruire jusqu’au dernier.</p>
           <p>Quelques instants plus tard, éclatèrent des cris terribles, auxquels se mêla une décharge des armes à feu.</p>
           <p>Les Guaharibos venaient de se précipiter sur Alfaniz avant que celui-ci eût pu se mettre en défense. S’ils s’égalaient en nombre, les Guaharibos étaient mieux armés et mieux commandés que les Quivas. Les armes dont l’Espagnol disposait étaient celles qui provenaient du pillage des pirogues, — quelques revolvers laissés </p>
-          
-
-
-
-
           <p>par Jacques Helloch, et celles qui avaient été enlevées aux prisonniers.</p>
           <p>La lutte ne pouvait donc être longue, elle ne le fut pas. Du moment que la bande avait été surprise, elle était battue. Aussi, la plupart des Quivas abandonnèrent-ils la place, après une faible résistance. Les uns se jetèrent dans la forêt, les autres s’enfuirent à travers le fleuve presque à sec, afin de gagner la savane opposée, la plupart mortellement atteints par les balles.</p>
           <p>En même temps, Jacques Helloch, Germain Paterne, Valdez, Parchal, les mariniers des falcas, s’étaient élancés sur ceux des Quivas qui les gardaient.</p>
@@ -3496,14 +3218,9 @@ Porter secours à ces Français, prisonniers des Quivas, cela ne permettait pas 
           <p>Le sergent Martial venait de se redresser, et, les bras tendus vers Jeanne, il dit :</p>
           <p>« Non… mon colonel… mais vous aviez une fille… et la voilà ! »</p>
         </div>
-      </div>
-      <div type="section" n="Deux mois à la Mission">
-        <div type="section">
-          <head rend="tmp" xml:id="XIII_Deux_mois_a_la_mission." type="h3"> XIII</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Deux mois à la mission.</hi>
-          </p>
-          <p>Depuis la disparition du colonel de Kermor, depuis son départ pour le Nouveau-Monde, quatorze ans s’étaient écoulés, et l’histoire de ces quatorze années tiendra en quelques lignes.  Ce fut en 1872 qu’il apprit, avec le naufrage du <hi>Norton</hi>, la nouvelle que sa femme et son enfant avaient péri dans ce sinistre maritime. Les conditions où s’était produite la catastrophe ne lui permettaient pas de croire que, de ces deux êtres si chers, l’un, sa fille Jeanne, toute petite alors, eût été sauvée. Il ne la connaissait même pas, puisqu’il avait dû quitter la Martinique quelques mois avant sa naissance.</p>
+        <div type="chapter">
+          <head>XIII. Deux mois à la Mission</head>
+          <p>Depuis la disparition du colonel de Kermor, depuis son départ pour le Nouveau-Monde, quatorze ans s’étaient écoulés, et l’histoire de ces quatorze années tiendra en quelques lignes. Ce fut en 1872 qu’il apprit, avec le naufrage du <hi>Norton</hi>, la nouvelle que sa femme et son enfant avaient péri dans ce sinistre maritime. Les conditions où s’était produite la catastrophe ne lui permettaient pas de croire que, de ces deux êtres si chers, l’un, sa fille Jeanne, toute petite alors, eût été sauvée. Il ne la connaissait même pas, puisqu’il avait dû quitter la Martinique quelques mois avant sa naissance.</p>
           <p>Pendant un an encore, le colonel de Kermor resta à la tête de son régiment. Puis, après avoir donné sa démission, aucun lien de famille ne le rattachant au monde, il résolut de consacrer le reste de sa vie à cette œuvre si généreuse des missions étrangères.</p>
           <p>Il y avait toujours eu en lui, avec l’âme d’un soldat, l’âme d’un apôtre. L’officier était tout préparé à se fondre dans le prêtre, le prêtre militant, qui se consacre à la conversion, en d’autres termes, à la civilisation des tribus sauvages.</p>
           <p>Le colonel de Kermor, sans avoir mis personne, — pas même le sergent Martial, — dans la confidence de ses projets, quitta secrètement la France en 1875, et se rendit au Venezuela, où tant de tribus indiennes étaient vouées à l’ignorance, à la dégradation physique et morale.</p>
@@ -3551,11 +3268,6 @@ Porter secours à ces Français, prisonniers des Quivas, cela ne permettait pas 
           <p>Et la jeune fille ajouta :</p>
           <p>« Je disais, mon père, que M. Helloch m’a sauvé la vie, mais il a fait plus encore, en nous accompagnant, Martial et moi, en s’associant à nos recherches… avec M. Germain Paterne…</p>
           <p>— Par exemple ! répliqua ce dernier en protestant. Croyez bien… mademoiselle… nous avions l’intention de remonter jusqu’aux sources </p>
-          
-
-
-
-
           <p>de l’Orénoque… C’était notre mission… le ministre de l’Instruction publique…</p>
           <p>— Non, monsieur Germain, non, répondit Jeanne en souriant. Vous deviez vous arrêter à San-Fernando, et si vous êtes venus jusqu’à Santa-Juana…</p>
           <p>— C’est que c’était notre devoir ! » déclara simplement Jacques Helloch.</p>
@@ -3592,11 +3304,6 @@ Porter secours à ces Français, prisonniers des Quivas, cela ne permettait pas 
           <p>« Que voulez-vous, mon colonel, répondait le sergent Martial, j’avais pris toutes mes précautions… C’était Jean… un jeune gars de Bretagne… un neveu que son oncle faisait voyager dans ce pays de sauvages… Il a fallu que Jacques Helloch et notre chère fille se soient rencontrés en route… J’ai tout fait pour empêcher… je n’ai pas pu !… Le diable s’en est mêlé…</p>
           <p>— Non… Dieu, mon brave compagnon !… » répondit le Père Esperante.</p>
           <p>Cependant le temps marchait et les choses n’avançaient pas. En somme, pourquoi Jacques Helloch hésitait-il à parler ?… Se </p>
-          
-
-
-
-
           <p>trompait-il donc ?… Non… ni sur ses propres sentiments, ni sur ceux qu’il avait inspirés à Jeanne de Kermor. Mais, par une discrétion qui l’honorait, il gardait le silence… C’eût été là, lui semblait-il, réclamer le prix des services rendus…</p>
           <p>Très à propos, Germain Paterne brusqua les choses, et, un jour, il dit à son ami :</p>
           <p>« Quand partons-nous ?… </p>
@@ -3626,14 +3333,9 @@ Porter secours à ces Français, prisonniers des Quivas, cela ne permettait pas 
           <p>Mais, en cinq semaines, les pirogues auraient atteint Caïcara, où l’on prendrait le paquebot du bas Orénoque. Quant au retour à Santa-Juana… on pouvait s’en rapporter à Jacques Helloch, il s’accomplirait avec toutes les chances de rapidité et de sécurité possibles.</p>
           <p>« Et puis, mon colonel, fit observer le sergent Martial, notre fille a un bon mari pour la défendre, et ça vaut mieux qu’un vieux bonhomme de soldat… une vieille bête… qui n’a pas même été capable de la sauver… ni des flots de l’Orénoque… ni de l’amour de ce brave Jacques Helloch ! »</p>
         </div>
-      </div>
-      <div type="section" n="Au revoir !">
-        <div type="section">
-          <head rend="tmp" xml:id="XIV_Au_revoir__" type="h3"> XIV</head>
-          <p rend="c3 h3">
-            <hi rend="sc">Au revoir !</hi>
-          </p>
-          <p>Le 25 décembre, dans la matinée, les pirogues étaient prêtes à redescendre le cours du fleuve.  À cette époque de l’année, les crues n’avaient pas encore relevé le niveau de l’Orénoque. Il avait donc fallu traîner la <hi>Gallinetta</hi> et la <hi>Moriche</hi> à cinq kilomètres en aval, à l’embouchure d’un petit rio de la rive droite, où la profondeur de l’eau était suffisante. À partir de cet endroit elles ne couraient plus que le risque de s’engraver pendant quelques heures, et non celui de demeurer à sec jusqu’au début de la saison pluvieuse.</p>
+        <div type="chapter">
+          <head>XIV. Au revoir !</head>
+          <p>Le 25 décembre, dans la matinée, les pirogues étaient prêtes à redescendre le cours du fleuve. À cette époque de l’année, les crues n’avaient pas encore relevé le niveau de l’Orénoque. Il avait donc fallu traîner la <hi>Gallinetta</hi> et la <hi>Moriche</hi> à cinq kilomètres en aval, à l’embouchure d’un petit rio de la rive droite, où la profondeur de l’eau était suffisante. À partir de cet endroit elles ne couraient plus que le risque de s’engraver pendant quelques heures, et non celui de demeurer à sec jusqu’au début de la saison pluvieuse.</p>
           <p>Le Père Esperante voulut reconduire ses enfants au nouveau campement. Le sergent Martial, entièrement rétabli, se joignit à lui, en même temps que le jeune Indien, devenu enfant adoptif de la Mission de Santa-Juana.</p>
           <p>Une cinquantaine de Guaharibos leur firent escorte, et tous arrivèrent heureusement à l’embouchure du rio.</p>
           <p>L’heure du départ venue, Valdez prit son poste dans la <hi>Gallinetta</hi>, où Jacques Helloch et sa femme devaient s’embarquer. Parchal reprit le sien dans la <hi>Moriche</hi>, dont le rouf abriterait à la fois les précieuses collections de Germain Paterne et sa non moins précieuse personne.</p>
@@ -3694,9 +3396,7 @@ Porter secours à ces Français, prisonniers des Quivas, cela ne permettait pas 
           <p>— Enfin le Guaviare se jette dans l’Atabapo… ici même… de l’avis de tout le monde…</p>
           <p>— Non… c’est l’Atabapo qui se jette dans le Guaviare, ainsi que tous les gens de bonne foi en conviennent, et l’apport du Guaviare n’est pas inférieur à trois mille deux cents mètres cubes…</p>
           <p>— Et, comme le Danube, dit alors Germain Paterne, en citant le poète des <hi>Orientales</hi> :</p>
-          <p rend="poem c2">… Il coule
-<lb/>
-De l’Occident à l’Orient. »</p>
+          <l>… Il coule <lb/> De l’Occident à l’Orient. »</l>
           <p>Un argument dont M. Varinas ne s’était pas encore servi, mais qu’il inséra précieusement dans le dossier du Guaviare.</p>
           <p>Pendant cet échange de répliques en faveur des deux tributaires, M. Miguel ne cessait de sourire, laissant tranquillement couler l’Orénoque sur les deux mille cinq cents kilomètres de son parcours, entre la sierra Parima et l’estuaire de ses cinquante bras, qui se ramifient à travers le littoral de l’Atlantique.</p>
           <p>Cependant les préparatifs avançaient. Les pirogues, visitées, réparées, mises en parfait état, réapprovisionnées, seraient prêtes pour le 9 janvier.</p>
@@ -3710,11 +3410,6 @@ De l’Occident à l’Orient. »</p>
           <p>— Au revoir ?… demanda M. Miguel.</p>
           <p>— Oui… répondit Germain Paterne… à San-Fernando… lorsque nous repasserons… dans six mois… car il n’est pas probable que l’interminable question de l’Orénoque… »</p>
           <p>Le lendemain, 9 janvier, après avoir reçu les adieux du gouverneur, de M. Miguel et de ses collègues, les voyageurs </p>
-          
-
-
-
-
           <p>s’embarquèrent, et, entraînées par le rapide courant du fleuve, — qu’il se nommât Orénoque, Atabapo ou Guaviare, — les deux pirogues eurent bientôt perdu de vue la bourgade de San-Fernando.</p>
           <p>À une heure de là, la jeune femme revit l’endroit où les falcas s’étaient échouées sur la rive droite, la place même où Jacques l’avait sauvée au péril de sa vie, pendant cette terrible tourmente du chubasco !</p>
           <p>« Oui… ma Jeanne chérie… dit Jacques, et c’est là…</p>
@@ -3734,10 +3429,8 @@ De l’Occident à l’Orient. »</p>
           <p>Et alors Germain Paterne de dire :</p>
           <p>« Sais-tu bien, Jacques… c’est cinq mille kilomètres que nous avons faits sur l’Orénoque !… Est-ce que cela ne t’a point paru un peu long ?…</p>
           <p>— Pas en redescendant !… » répondit Jacques Helloch, qui regardait Jeanne, heureuse et souriante.</p>
-          <p rend="c6">fin de la seconde et dernière partie.</p>
         </div>
       </div>
-      
     </body>
   </text>
 </TEI>
