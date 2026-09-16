@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La famille Raton</title>
+        <title>Aventures de la famille Raton</title>
         <author>Verne, Jules</author>
       </titleStmt>
       <publicationStmt>
@@ -22,13 +22,13 @@
         <language ident="fr"/>
       </langUsage>
       <creation>
-        <date when="1863"/>
+        <date when="1891"/>
       </creation>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <head>La famille Raton</head>
+      <head>Aventures de la famille Raton</head>
       <label>CONTE DE FÉES.</label>
       <div>
         <head>I</head>
