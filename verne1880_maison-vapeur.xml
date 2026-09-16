@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La Maison à vapeur (1880) Voyage à travers l’Inde septentrionale </title>
+        <title>La Maison à vapeur</title>
         <author>Verne, Jules</author>
       </titleStmt>
       <publicationStmt>
@@ -21,7 +21,7 @@
         <language ident="fr"/>
       </langUsage>
       <creation>
-        <date when="1902"/>
+        <date when="1880"/>
       </creation>
     </profileDesc>
   </teiHeader>

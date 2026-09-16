@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,22 +24,8 @@
   </teiHeader>
   <text>
     <body>
-      
-      
-      
-      <div type="section" n="Où le monde savant et le monde ignorant sont aussi embarrassés l’un que l’autre">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="I" type="h3">I</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">où le monde savant et le monde ignorant sont aussi embarrassés l’un que l’autre.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>I. Où le monde savant et le monde ignorant sont aussi embarrassés l’un que l’autre</head>
           <p>« Pan !… Pan !… »</p>
           <p>Les deux coups de pistolet partirent presque en même temps. Une vache, qui paissait à cinquante pas de là, reçut une des balles dans l’échine. Elle n’était pour rien dans l’affaire, cependant.</p>
           <p>Ni l’un ni l’autre des deux adversaires n’avait été touché.</p>
@@ -51,10 +37,7 @@
           <p>« Mettons que c’était le <hi>Rule Doodle</hi> et le <hi>Yankee Britannia</hi>, et allons déjeuner ! »</p>
           <p>Ce compromis entre les deux chants nationaux de l’Amérique et de la Grande-Bretagne fut adopté à la satisfaction générale. Américains et Anglais, remontant la rive gauche du Niagara, vinrent s’attabler dans l’hôtel de Goat-Island ― un terrain neutre entre les deux chutes. Comme ils sont en présence des œufs bouillis et du jambon traditionnels, du roastbeef froid, relevé de pickles incendiaires, et de flots de thé à rendre jalouses les célèbres cataractes, on ne les dérangera plus. Il est peu probable, d’ailleurs, qu’il soit encore question d’eux dans cette histoire.</p>
           <p>Qui avait raison de l’Anglais ou de l’Américain ? Il eût été difficile de se prononcer. En tout cas, ce duel montre combien les esprits s’étaient passionnés, non seulement dans le nouveau, mais aussi dans l’ancien continent, à propos d’un phénomène inexplicable, qui, depuis un mois environ, mettait toutes les cervelles à l’envers.</p>
-          <p rend="poem p"> 
-<lb/>
-...<hi>Os sublime dedit cœlumque tueri</hi>,</p>
-          <space quantity="1" unit="line"/>
+          <p rend="center">...<hi>Os sublime dedit cœlumque tueri</hi>,</p>
           <p>a dit Ovide pour le plus grand honneur de la créature humaine. En vérité, jamais on n’avait tant regardé le ciel depuis l’apparition de l’homme sur le globe terrestre.</p>
           <p>Or, précisément, pendant la nuit précédente, une trompette aérienne avait lancé ses notes cuivrées à travers l’espace, au-dessus de cette portion du Canada située entre le lac Ontario et le lac Érié. Les uns avaient entendu le <hi>Yankee Doodle</hi>, les autres le <hi>Rule Britannia</hi>. De là cette querelle d’Anglo-Saxons qui se terminait par un déjeuner à Goat-Island. Peut-être, en somme, n’était-ce ni l’un ni l’autre de ces chants patriotiques. Mais ce qui n’était douteux pour personne c’est que ce son étrange avait ceci de particulier qu’il semblait descendre du ciel sur la terre.</p>
           <p>Fallait-il croire à quelque trompette céleste, embouchée par un ange ou un archange ?… N’était-ce pas plutôt de joyeux aéronautes qui jouaient de ce sonore instrument, dont la Renommée fait un si bruyant usage ?</p>
@@ -76,7 +59,7 @@
           <p>― Illusion d’acoustique ! » répondait l’autre.</p>
           <p>Et là-dessus, ils disputèrent. En tout cas, illusion.</p>
           <p>À l’observatoire de Berlin, à celui de Vienne, la discussion menaça d’amener des complications internationales. Mais la Russie, en la personne du directeur de son observatoire de Poulkowa, leur prouva qu’ils avaient raison tous deux ; cela dépendait du point de vue auquel ils se mettaient pour déterminer la nature du phénomène, en théorie impossible, possible en pratique. </p>
-          <p>En Suisse, à l’observatoire de Saütis, dans le canton d’Appenzel, au Righi, au Gäbris, dans les postes du Saint-Gothard, du Saint-Bernard, du Julier, du Simplon, de Zurich, du Somblick dans les Alpes tyroliennes, on fit preuve d’une extrême réserve à propos d’un fait que <seg rend="coquille" n="personne,">personne</seg> n’avait jamais pu constater ― ce qui est fort raisonnable.</p>
+          <p>En Suisse, à l’observatoire de Saütis, dans le canton d’Appenzel, au Righi, au Gäbris, dans les postes du Saint-Gothard, du Saint-Bernard, du Julier, du Simplon, de Zurich, du Somblick dans les Alpes tyroliennes, on fit preuve d’une extrême réserve à propos d’un fait que personne n’avait jamais pu constater ― ce qui est fort raisonnable.</p>
           <p>Mais, en Italie, aux stations météorologiques du Vésuve, au poste de l’Etna, installé dans l’ancienne Casa Inglese, au Monte Cavo, les observateurs n’hésitèrent pas à admettre la matérialité du phénomène, attendu qu’ils l’avaient pu voir, un jour, sous l’aspect d’une petite volute de vapeur, une nuit, sous l’apparence d’une étoile filante. Ce que c’était, d’ailleurs, ils n’en savaient absolument rien.</p>
           <p>En vérité, ce mystère commençait à fatiguer les gens de science, tandis qu’il continuait à passionner, à effrayer même les humbles et les ignorants, qui ont formé, forment et formeront l’immense majorité en ce monde, grâce à l’une des plus sages lois de la nature. Les astronomes et les météorologistes auraient donc renoncé à s’en occuper, si, dans la nuit du 26 au 27, à l’observatoire de Kantokeino, au Finmark, en Norvège, et dans la nuit du 28 au 29, à celui de l’Isfjord, au Spitzberg, les Norvégiens d’une part, les Suédois de l’autre, ne se fussent trouvés d’accord sur ceci : au milieu d’une aurore boréale avait apparu une sorte de gros oiseau, de monstre aérien. S’il n’avait pas été possible d’en déterminer la structure, du moins n’était-il pas douteux qu’il eût projeté hors de lui des corpuscules qui détonaient comme des bombes.</p>
           <p>En Europe, on voulut bien ne pas mettre en doute cette observation des stations du Finmark et du Spitzberg. Mais, ce qui parut le plus phénoménal en tout cela, c’était que des Suédois et des Norvégiens eussent pu se mettre d’accord sur un point quelconque.</p>
@@ -94,12 +77,10 @@
           <p>Mais plaisanter n’est pas répondre. C’est ce que fit remarquer l’observatoire de Boston, fondé par l’<hi>Atlantic Iron Works Society</hi>, dont les opinions sur les questions d’astronomie et de météorologie commençaient à faire loi dans le monde savant.</p>
           <p>Intervint alors l’observatoire de Cincinnati, créé en 1870 sur le mont Lookout, grâce à la générosité de M. Kilgoor, et si connu pour ses mesures micrométriques des étoiles doubles. Son directeur déclara, avec la plus entière bonne foi, qu’il y avait certainement quelque chose, qu’un mobile quelconque se montrait, dans des temps assez rapprochés, en divers points de l’atmosphère, mais que sur la nature de ce mobile, ses dimensions, sa vitesse, sa trajectoire, il était impossible de se prononcer.</p>
           <p>Ce fut alors qu’un journal dont la publicité est immense, le <hi>New-York-Herald</hi>, reçut d’un abonné la communication anonyme qui suit :</p>
-          <space quantity="1" unit="line"/>
           <p>« On n’a pas oublié la rivalité qui mit aux prises, il y a quelques années, les deux héritiers de la Begum de Ragginahra, ce docteur français Sarrasin dans sa cité de Franceville, l’ingénieur allemand Herr Schultze, dans sa cité de Stahlstadt, cités situées toutes deux en la partie sud de l’Oregon, aux États-Unis.</p>
           <p>« On ne peut avoir oublié davantage que, dans le but de détruire Franceville, Herr Schultze lança un formidable engin qui devait s’abattre sur la ville française et l’anéantir d’un seul coup.</p>
           <p>« Encore moins ne peut-on avoir oublié que cet engin, dont la vitesse initiale au sortir de la bouche du canon-monstre avait été mal calculée, fut emporté avec une rapidité supérieure à seize fois celle des projectiles ordinaires, ― soit cent cinquante lieues à l’heure, ― qu’il n’est plus retombé sur la terre, et que, passé à l’état de bolide, il circule et doit éternellement circuler autour de notre globe.</p>
           <p>« Pourquoi ne serait-ce pas le corps en question dont l’existence ne peut être niée ? »</p>
-          <space quantity="1" unit="line"/>
           <p>Fort ingénieux, l’abonné du <hi>New-York-Herald</hi>. Et la trompette ?… Il n’y avait pas de trompette dans le projectile de Herr Schultze !</p>
           <p>Donc, toutes ces explications n’expliquaient rien, tous ces observateurs observaient mal.</p>
           <p>Restait toujours l’hypothèse proposée par le directeur de Zi-Ka-Wey. Mais l’opinion d’un Chinois !… </p>
@@ -107,23 +88,9 @@
           <p>Mais alors, entre le 2 et le 9 juin, une série de faits nouveaux se produisirent, dont l’explication eût été impossible par la seule existence d’un phénomène cosmique.</p>
           <p>En huit jours, les Hambourgeois, à la pointe de la tour Saint-Michel, les Turcs, au plus haut minaret de Sainte-Sophie, les Rouennais, au bout de la flèche métallique de leur cathédrale, les Strasbourgeois, à l’extrémité du Munster, les Américains, sur la tête de leur statue de la Liberté, à l’entrée de l’Hudson, et, au faîte du monument de Washington, à Boston, les Chinois, au sommet du temple des Cinq-Cents-Génies, à Canton, les Indous, au seizième étage de la pyramide du temple de Tanjour, les San-Pietrini, à la croix de Saint-Pierre de Rome, les Anglais, à la croix de Saint-Paul de Londres, les Égyptiens, à l’angle aigu de la Grande Pyramide de Gizèh, les Parisiens, au paratonnerre de la Tour en fer de l’Exposition de 1889, haute de trois cents mètres, purent apercevoir un pavillon qui flottait sur chacun de ces points difficilement accessibles.</p>
           <p>Et ce pavillon, c’était une étamine noire, semée d’étoiles, avec un soleil d’or à son centre.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel les membres du Weldon-Institute se disputent sans parvenir à se mettre d’accord">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="II" type="h3">II</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel les membres du <seg rend="coquille" n="weldon-institute!">weldon-institute</seg> se disputent sans parvenir à se mettre d’accord.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>II. Dans lequel les membres du Weldon-Institute se disputent sans parvenir à se mettre d’accord</head>
           <p>« Et le premier qui dira le contraire…</p>
           <p>― Vraiment !… Mais on le dira, s’il y a lieu de le dire !</p>
           <p>― Et en dépit de vos menaces !…</p>
@@ -138,8 +105,8 @@
           <p>― Alors à quoi bon disputer ?</p>
           <p>― Ce n’est pas de la dispute !… C’est de la discussion !</p>
           <p>On ne l’aurait pas cru, à entendre les reparties, les objurgations, les vociférations, qui emplissaient la salle des séances depuis un bon quart d’heure.</p>
-          <p>Cette salle, il est vrai, était la plus grande du <seg rend="coquille" n="Weldon-Institut">Weldon-Institute</seg>, ― club célèbre entre tous, établi Walnut-Street, à Philadelphie, État de Pensylvanie, États-Unis d’Amérique.</p>
-          <p>Or, la veille, dans la cité, à propos de l’élection d’un allumeur de gaz, il y avait eu manifestations publiques, meetings bruyants, coups échangés de part et d’autre. De là, une effervescence qui n’était pas encore calmée, et d’où provenait peut-être cette surexcitation dont les membres du <seg rend="coquille" n="Weldon-Institut">Weldon-Institute</seg> venaient de faire preuve. Et, cependant, ce n’était là qu’une simple réunion de « Ballonistes », discutant la question encore palpitante — même à cette époque ― de la direction des ballons.</p>
+          <p>Cette salle, il est vrai, était la plus grande du Weldon-Institute, ― club célèbre entre tous, établi Walnut-Street, à Philadelphie, État de Pensylvanie, États-Unis d’Amérique.</p>
+          <p>Or, la veille, dans la cité, à propos de l’élection d’un allumeur de gaz, il y avait eu manifestations publiques, meetings bruyants, coups échangés de part et d’autre. De là, une effervescence qui n’était pas encore calmée, et d’où provenait peut-être cette surexcitation dont les membres du Weldon-Institute venaient de faire preuve. Et, cependant, ce n’était là qu’une simple réunion de « Ballonistes », discutant la question encore palpitante — même à cette époque ― de la direction des ballons.</p>
           <p>Cela se passait dans une ville des États-Unis, dont le développement rapide fut supérieur même à celui de New-York, de Chicago, de Cincinnati, de San Francisco, ― une ville, qui n’est pourtant ni un port, ni un centre minier de houille ou de pétrole, ni une agglomération manufacturière, ni le terminus d’un rayonnement de voies ferrées, ― une ville plus grande que Berlin, Manchester, Édimbourg, Liverpool, Vienne, Pétersbourg, Dublin, ― une ville qui possède un parc dans lequel tiendraient ensemble les sept parcs de la capitale de l’Angleterre, ― une ville, enfin, qui compte actuellement près de douze cent mille âmes et se dit la quatrième ville du monde, après Londres, Paris et New York.</p>
           <p>Philadelphie est presque une cité de marbre avec ses maisons de grand caractère et ses établissements publics qui ne connaissent point de rivaux. Le plus important de tous les collèges du Nouveau-Monde est le collège Girard, et il est à Philadelphie. Le plus large pont de fer du globe est le pont jeté sur la rivière Schuylkill, et il est à Philadelphie. Le plus beau temple de la Franc-Maçonnerie est le Temple Maçonnique, et il est à Philadelphie. Enfin, le plus grand club des adeptes de la navigation aérienne est à Philadelphie. Et si l’on veut bien le visiter dans cette soirée du 12 juin, peut-être y trouvera-t-on quelque plaisir.</p>
           <p>En cette grande salle s’agitaient, se démenaient, gesticulaient, parlaient, discutaient, disputaient ― tous le chapeau sur la tête, ― une centaine de ballonistes, sous la haute autorité d’un président assisté d’un secrétaire et d’un trésorier. Ce n’étaient point des ingénieurs de profession. Non, de simples amateurs de tout ce qui se rapportait à l’aérostatique, mais amateurs enragés et particulièrement ennemis de ceux qui veulent opposer aux aérostats les appareils « plus lourds que l’air », machines volantes, navires aériens ou autres. Que ces braves gens dussent jamais trouver la direction des ballons, c’est possible. En tout cas, leur président avait quelque peine à les diriger eux-mêmes.</p>
@@ -179,7 +146,7 @@
           <p>Donc, impossibilité de s’entendre, impossibilité de mettre l’hélice en place. Cela pouvait durer longtemps, à moins que le gouvernement n’intervînt. Mais, aux États-Unis, on le sait, le gouvernement n’aime point à s’immiscer dans les affaires privées, ni à se mêler de ce qui ne le regarde pas. En quoi il a raison.</p>
           <p>Les choses en étaient là, et cette séance du 13 juin menaçait de ne pas finir ou plutôt de finir au milieu du plus épouvantable tumulte, ― injures échangées, coups de poing succédant aux injures, coups de canne succédant aux coups de poing, coups de revolver succédant aux coups de canne, ― quand, à huit heures trente-sept, il se fit une diversion.</p>
           <p>L’huissier du Weldon-Institute, froidement et tranquillement, comme un policeman au milieu des orages d’un meeting, s’était approché du bureau du président. Il lui avait remis une carte. Il attendait les ordres qu’il conviendrait à Uncle Prudent de lui donner.</p>
-          <p>Uncle Prudent fit résonner la trompe à vapeur qui lui servait de sonnette présidentielle, car même la cloche du <seg rend="coquille" n="Kremlin,">Kremlin</seg> ne lui aurait pas suffi !… Mais le tumulte ne cessa de s’accroître. Alors le président « se découvrit », et un demi-silence fut obtenu, grâce à ce moyen extrême.</p>
+          <p>Uncle Prudent fit résonner la trompe à vapeur qui lui servait de sonnette présidentielle, car même la cloche du Kremlin ne lui aurait pas suffi !… Mais le tumulte ne cessa de s’accroître. Alors le président « se découvrit », et un demi-silence fut obtenu, grâce à ce moyen extrême.</p>
           <p>« Une communication ! dit Uncle Prudent, après avoir puisé une énorme prise dans la tabatière qui ne le quittait jamais.</p>
           <p>― Parlez ! parlez ! répondirent quatre-vingt-dix-neuf voix, ― par hasard, d’accord sur ce point.</p>
           <p>― Un étranger, mes chers collègues, demande à être introduit dans la salle de nos séances. </p>
@@ -192,27 +159,13 @@
           <p>― Robur !… Robur !… Robur ! » hurla toute l’assemblée.</p>
           <p>Et, si l’accord s’était si rapidement fait sur ce nom singulier, c’est que le Weldon-Institute espérait bien décharger sur celui qui le portait le trop plein de son exaspération.</p>
           <p>La tempête s’était donc un instant apaisée, ― en apparence du moins. D’ailleurs comment une tempête pourrait-elle se calmer chez un peuple qui en expédie deux ou trois par mois à destination de l’Europe, sous forme de bourrasques ?</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel un nouveau personnage n’a pas besoin d’être présenté, car il se présente lui-même">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="III" type="h3">III</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel un nouveau personnage n’a pas besoin d’être présenté, car il se présente lui-même.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>III. Dans lequel un nouveau personnage n’a pas besoin d’être présenté, car il se présente lui-même</head>
           <p>« Citoyens des États-Unis d’Amérique, je me nomme Robur. Je suis digne de ce nom. J’ai quarante ans, bien que je paraisse n’en pas avoir trente, une constitution de fer, une santé à toute épreuve, une remarquable force musculaire, un estomac qui passerait pour excellent même dans le monde des autruches. Voilà pour le physique. »</p>
           <p>On l’écoutait. Oui ! Les bruyants furent tout d’abord interloqués par l’inattendu de ce discours <hi>pro facie suâ</hi>. Était-ce un fou ou un mystificateur, ce personnage ? Quoi qu’il en soit, il imposait et s’imposait. Plus un souffle au milieu de cette assemblée, dans laquelle se déchaînait naguère l’ouragan. Le calme après la houle.</p>
           <p>Au surplus, Robur paraissait bien être l’homme qu’il disait être. Une taille moyenne, avec une carrure géométrique, ― ce que serait un trapèze régulier, dont le plus grand des côtés parallèles était formé par la ligne des épaules. Sur cette ligne, rattachée par un cou robuste, une énorme tête sphéroïdale. À quelle tête d’animal eût-elle ressemblé pour donner raison aux théories de l’Analogie passionnelle ? À celle d’un taureau, mais un taureau à face intelligente. Des yeux que la moindre contrariété devait porter à l’incandescence, et, au-dessus, une contraction permanente du muscle sourcilier, signe d’extrême énergie. Des cheveux courts, un peu crépus, à reflet métallique, comme eût été un toupet en paille de fer. Large poitrine qui s’élevait ou s’abaissait avec des mouvements de soufflet de forge. Des bras, des mains, des jambes, des pieds dignes du tronc.</p>
-          <p>Pas de moustaches, pas de favoris, une large barbiche de marin, à l’américaine, ― ce qui laissait voir les attaches de la mâchoire, dont les muscles <seg rend="coquille" n="masseters">masséters</seg> devaient posséder une puissance formidable. On a calculé ― que ne calcule-t-on pas ? ― que la pression d’une mâchoire de crocodile ordinaire peut atteindre quatre cents atmosphères, quand celle du chien de chasse de grande taille n’en développe que cent. On a même déduit cette curieuse formule : si un kilogramme de chien produit huit kilogrammes de force massétérienne, un kilogramme de crocodile en produit douze. Eh bien, un kilogramme dudit Robur devait en produire au moins dix. Il était donc entre le chien et le crocodile.</p>
+          <p>Pas de moustaches, pas de favoris, une large barbiche de marin, à l’américaine, ― ce qui laissait voir les attaches de la mâchoire, dont les muscles masséters devaient posséder une puissance formidable. On a calculé ― que ne calcule-t-on pas ? ― que la pression d’une mâchoire de crocodile ordinaire peut atteindre quatre cents atmosphères, quand celle du chien de chasse de grande taille n’en développe que cent. On a même déduit cette curieuse formule : si un kilogramme de chien produit huit kilogrammes de force massétérienne, un kilogramme de crocodile en produit douze. Eh bien, un kilogramme dudit Robur devait en produire au moins dix. Il était donc entre le chien et le crocodile.</p>
           <p>De quel pays venait ce remarquable type ? C’eût été difficile à dire. En tout cas, il s’exprimait couramment en anglais, sans cet accent un peu traînard qui distingue les Yankees de la Nouvelle-Angleterre.</p>
           <p>Il continua de la sorte :</p>
           <p>« Voici présentement pour le moral, honorables citoyens. Vous voyez devant vous un ingénieur, dont le moral n’est point inférieur au physique. Je n’ai peur de rien ni de personne. J’ai une force de volonté qui n’a jamais cédé devant une autre. Quand je me suis fixé un but, l’Amérique tout entière, le monde tout entier, se coaliseraient en vain pour m’empêcher de l’atteindre. Quand j’ai une idée, j’entends qu’on la partage et ne supporte pas la contradiction. J’insiste sur ces détails, honorables citoyens, parce qu’il faut que vous me connaissiez à fond. Peut-être trouverez-vous que je parle trop de moi ? Peu importe ! Et maintenant, réfléchissez avant de m’interrompre, car je suis venu pour vous dire des choses qui n’auront peut-être pas le don de vous plaire. »</p>
@@ -262,7 +215,7 @@
           <p>― Qui ont volé ou qui voleront, répondit Robur, sans se déconcerter. Et, soit qu’on les appelle des stréophores, des hélicoptères, des orthopthères, ou, à l’imitation du mot « nef » qui vient de <hi>navis</hi>, qu’on les fasse venir de <hi>avis</hi> pour les nommer des « efs… » on arrive à l’appareil dont la création doit rendre l’homme maître de l’espace.</p>
           <p>― Ah ! l’hélice ! repartit Phil Evans. Mais l’oiseau n’a pas d’hélice… que nous sachions !</p>
           <p>― Si, répondit Robur. Comme l’a démontré M. Penaud, en réalité l’oiseau se fait hélice, et son vol est hélicoptère. Aussi, le moteur de l’avenir est-il l’hélice…</p>
-          <p rend="poem p"> 
+          <p rend="lg"> 
 <lb/>
 ― « D’un pareil maléfice,
 <lb/>
@@ -275,10 +228,10 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>« Citoyen étranger, jusqu’ici on vous a laissé parler sans vous interrompre… »</p>
           <p>Il paraît que, pour le président du Weldon-Institute, ces reparties, ces cris, ces coq-à-l’âne, n’étaient même pas des interruptions, mais un simple échange d’arguments.</p>
           <p>« Toutefois, continua-t-il, je vous rappellerai que la théorie de l’aviation est condamnée d’avance et repoussée par la plupart des ingénieurs américains ou étrangers. Un système qui a dans son passif la mort du Sarrasin Volant, à Constantinople, celle du moine Voador, à Lisbonne, celle de Letur en 1852, celle de Groof en 1864, sans compter les victimes que j’oublie, ne fût-ce que le mythologique Icare…</p>
-          <p>― Ce système, riposta Robur, n’est pas plus condamnable que celui dont le martyrologe contient les noms de Pilâtre de Rozier, à Calais, de <abbr rend="abbr" n="Madame">M<hi rend="sup">me</hi></abbr> Blanchard, à Paris, de Donaldson et Grimwood, tombés dans le lac Michigan, de Sivel et de Crocè-Spinelli, d’Eloy et de tant d’autres que l’on se gardera bien d’oublier ! »</p>
+          <p>― Ce système, riposta Robur, n’est pas plus condamnable que celui dont le martyrologe contient les noms de Pilâtre de Rozier, à Calais, de M<hi rend="sup">me</hi> Blanchard, à Paris, de Donaldson et Grimwood, tombés dans le lac Michigan, de Sivel et de Crocè-Spinelli, d’Eloy et de tant d’autres que l’on se gardera bien d’oublier ! »</p>
           <p>C’était une riposte « du tac au tac, » comme on dit en escrime.</p>
           <p>« D’ailleurs, reprit Robur, avec vos ballons, si perfectionnés qu’ils soient, vous ne pourriez jamais obtenir une vitesse véritablement pratique. Vous mettriez dix ans à faire le tour du monde ― ce qu’une machine volante pourra faire en huit jours ! » </p>
-          <p>Nouveaux cris de protestation et de dénégation qui durèrent trois grandes minutes, jusqu’au moment où Phil Evans put prendre la <seg rend="coquille" n="parole">parole.</seg></p>
+          <p>Nouveaux cris de protestation et de dénégation qui durèrent trois grandes minutes, jusqu’au moment où Phil Evans put prendre la parole.</p>
           <p>« Monsieur l’aviateur, dit-il, vous qui venez nous vanter les bienfaits de l’aviation, avez-vous jamais « avié ? »</p>
           <p>― Parfaitement !</p>
           <p>― Et fait la conquête de l’air ?</p>
@@ -300,30 +253,16 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Et alors, profitant non seulement du recul des assaillants, mais aussi du silence qui avait accompagné ce recul :</p>
           <p>« Décidément, dit-il, ce n’est pas Améric Vespuce qui a découvert le Nouveau Monde, c’est Sébastien Cabot ! Vous n’êtes pas des Américains, citoyens ballonistes ! Vous n’êtes que des cabo… »</p>
           <p>À ce moment, quatre ou cinq coups de feu éclatèrent, tirés dans le vide. Ils ne blessèrent personne. Au milieu de la fumée, l’ingénieur disparut, et, quand elle se fut dissipée, on ne trouva plus sa trace. Robur-le-Conquérant s’était envolé, comme si quelque appareil d’aviation l’eût emporté dans les airs.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel, à propos du valet Frycollin, l’auteur essaye de réhabiliter la Lune">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="IV" type="h3">IV</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel, à propos du valet frycollin, l’auteur essaye de réhabiliter la lune.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>IV. Dans lequel, à propos du valet Frycollin, l’auteur essaye de réhabiliter la Lune</head>
           <p>Certes, et plus d’une fois déjà, à la suite de discussions orageuses, au sortir de leurs séances, les membres du Weldon-Institute avaient rempli de clameurs Walnut-street et les rues adjacentes. Plus d’une fois, les habitants de ce quartier s’étaient justement plaints de ces bruyantes queues de discussions qui les troublaient jusque dans leurs domiciles. Plus d’une fois, enfin, les policemen avaient dû intervenir pour assurer la circulation des passants, la plupart très indifférents à cette question de la navigation aérienne. Mais, avant cette soirée, jamais ce tumulte n’avait pris de telles proportions, jamais les plaintes n’eussent été plus fondées, jamais l’intervention des policemen plus nécessaire.</p>
           <p>Toutefois les membres du Weldon-Institute étaient quelque peu excusables. On n’avait pas craint de venir les attaquer jusque chez eux. À ces enragés du « Plus léger que l’air » un non moins enragé du « Plus lourd » avait dit des choses absolument désagréables. Puis, au moment où on allait le traiter comme il le méritait, il s’était éclipsé.</p>
           <p>Or, cela criait vengeance. Pour laisser de telles injures impunies, il ne faudrait pas avoir du sang américain dans les veines ! Des fils d’Améric traités de fils de Cabot ! N’était-ce pas une insulte, d’autant plus impardonnable qu’elle tombait juste, ― historiquement ?</p>
           <p>Les membres du club se jetèrent donc par groupes divers dans Walnut-street, puis au milieu des rues voisines, puis à travers tout le quartier. Ils réveillèrent les habitants. Ils les obligèrent à laisser fouiller leurs maisons, quitte à les indemniser, plus tard, du tort fait à la vie privée de chacun, laquelle est particulièrement respectée chez les peuples d’origine anglo-saxonne. Vain déploiement de tracasseries et de recherches. Robur ne fut aperçu nulle part. Aucune trace de lui. Il serait parti dans le <hi>Go a head</hi>, le ballon du Weldon-Institute, qu’il n’aurait pas été plus introuvable. Après une heure de perquisitions, il fallut y renoncer, et les collègues se séparèrent, non sans s’être juré d’étendre leurs recherches à tout le territoire de cette double Amérique qui forme le Nouveau Continent.</p>
-          <p>Vers onze heures, le calme était à peu près rétabli dans le quartier. Philadelphie allait pouvoir se replonger dans ce bon sommeil, dont les cités, qui ont le bonheur de n’être point industrielles, ont l’enviable privilège. Les divers membres du club ne songèrent plus qu’à regagner chacun son chez soi. Pour n’en nommer que quelques-uns des plus marquants, William T. Forbes se dirigea du côté de sa grande chiffonnière à sucre, où <seg rend="coquille" n="mis">miss</seg> Doll et miss Mat lui avaient préparé le thé du soir, sucré avec sa propre <seg rend="coquille" n="glucose,">glucose.</seg> Truk Milnor prit le chemin de sa fabrique, dont la pompe à feu haletait jour et nuit dans le plus reculé des faubourgs. Le trésorier Jem <seg rend="coquille" n="Cip">Cip,</seg> publiquement accusé d’avoir un pied de plus d’intestins que n’en comporte la machine humaine, regagna la salle à manger où l’attendait son souper végétal.</p>
-          <p>Deux des plus importants ballonistes ― deux seulement ― ne paraissaient pas songer à réintégrer de sitôt leur domicile. Ils avaient profité de l’occasion pour causer avec plus d’acrimonie encore. C’étaient les irréconciliables Uncle Prudent et Phil Evans, le président et le secrétaire du <seg rend="coquille" n="Weldon-Institut">Weldon-Institute</seg>.</p>
-          <p>À la porte du club, le valet Frycollin attendait Uncle Prudent, son <seg rend="coquille" n="maître,">maître.</seg> </p>
+          <p>Vers onze heures, le calme était à peu près rétabli dans le quartier. Philadelphie allait pouvoir se replonger dans ce bon sommeil, dont les cités, qui ont le bonheur de n’être point industrielles, ont l’enviable privilège. Les divers membres du club ne songèrent plus qu’à regagner chacun son chez soi. Pour n’en nommer que quelques-uns des plus marquants, William T. Forbes se dirigea du côté de sa grande chiffonnière à sucre, où miss Doll et miss Mat lui avaient préparé le thé du soir, sucré avec sa propre glucose. Truk Milnor prit le chemin de sa fabrique, dont la pompe à feu haletait jour et nuit dans le plus reculé des faubourgs. Le trésorier Jem Cip, publiquement accusé d’avoir un pied de plus d’intestins que n’en comporte la machine humaine, regagna la salle à manger où l’attendait son souper végétal.</p>
+          <p>Deux des plus importants ballonistes ― deux seulement ― ne paraissaient pas songer à réintégrer de sitôt leur domicile. Ils avaient profité de l’occasion pour causer avec plus d’acrimonie encore. C’étaient les irréconciliables Uncle Prudent et Phil Evans, le président et le secrétaire du Weldon-Institute.</p>
+          <p>À la porte du club, le valet Frycollin attendait Uncle Prudent, son maître. </p>
           <p>Il se mit à le suivre, sans s’inquiéter du sujet qui mettait aux prises les deux collègues.</p>
           <p>C’est par euphémisme que le verbe « causer » a été employé pour exprimer l’acte auquel se livraient de concert le président et le secrétaire du club. En réalité, ils se disputaient avec une énergie qui prenait son origine dans leur ancienne rivalité.</p>
           <p>« Non, monsieur, non ! répétait Phil Evans. Si j’avais eu l’honneur de présider le Weldon-Institute, jamais, non, jamais il ne se serait produit un tel scandale !</p>
@@ -361,33 +300,19 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Un coup de sifflet venait d’être lancé sous bois. À l’instant, une sorte d’étoile électrique s’alluma au milieu de la clairière.</p>
           <p>Un signal, sans doute, et, dans ce cas, c’est que le moment était venu d’exécuter quelque œuvre de violence.</p>
           <p>En moins de temps qu’il n’en faut pour l’imaginer, six hommes bondirent à travers la futaie, deux sur Uncle Prudent, deux sur Phil Evans, deux sur le valet Frycollin, ― ces deux derniers de trop, évidemment, car le nègre était incapable de se défendre.</p>
-          <p>Le président et le secrétaire du Weldon-Institute, quoique surpris par cette attaque, voulurent résister. Ils n’en eurent ni le temps ni la force. En quelques secondes, rendus aphones par un <seg rend="coquille" n="baillon">bâillon</seg>, aveugles par un bandeau, maîtrisés, ligotés, ils furent emportés rapidement à travers la clairière. Que devaient-ils penser, sinon qu’ils avaient affaire à cette race de gens peu scrupuleux, qui n’hésitent point à dépouiller les gens attardés au fond des bois. Il n’en fut rien, cependant. On ne les fouilla même pas, bien que Uncle Prudent eut toujours sur lui, suivant son habitude, quelques milliers de dollars-papier. </p>
+          <p>Le président et le secrétaire du Weldon-Institute, quoique surpris par cette attaque, voulurent résister. Ils n’en eurent ni le temps ni la force. En quelques secondes, rendus aphones par un bâillon, aveugles par un bandeau, maîtrisés, ligotés, ils furent emportés rapidement à travers la clairière. Que devaient-ils penser, sinon qu’ils avaient affaire à cette race de gens peu scrupuleux, qui n’hésitent point à dépouiller les gens attardés au fond des bois. Il n’en fut rien, cependant. On ne les fouilla même pas, bien que Uncle Prudent eut toujours sur lui, suivant son habitude, quelques milliers de dollars-papier. </p>
           <p>Bref, une minute après cette agression, sans qu’aucun mot eût été échangé entre les agresseurs, Uncle Prudent, Phil Evans et Frycollin sentaient qu’on les déposait doucement, non sur l’herbe de la clairière, mais sur une sorte de plancher que leur poids fit gémir. Là, ils furent accotés l’un près de l’autre. Une porte se referma sur eux. Puis, le grincement d’un pêne dans une gâche leur apprit qu’ils étaient prisonniers.</p>
           <p>Il se fit alors un bruissement continu, comme un frémissement, un frrrr, dont les rrr se prolongeaient à l’infini, sans qu’aucun autre bruit fût perceptible au milieu de cette nuit si calme.</p>
-          <p rend="no_erreurs_communes c2">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
+          <p rend="center">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
           <p>Quel émoi, le lendemain, dans Philadelphie ! Dès les premières heures, on savait ce qui s’était passé la veille à la séance du Weldon-Institute : l’apparition d’un mystérieux personnage, un certain ingénieur nommé Robur ― Robur-le-Conquérant ! ― la lutte qu’il semblait vouloir engager contre les ballonistes, puis sa disparition inexplicable.</p>
           <p>Mais ce fut bien une autre affaire, lorsque toute la ville apprit que le président et le secrétaire du club, eux aussi, avaient disparu pendant la nuit du 12 au 13 juin.</p>
           <p>Ce que l’on fit de recherches dans toute la cité et aux environs ! Inutilement, d’ailleurs. Les feuilles publiques de Philadelphie, puis les journaux de la Pensylvanie, puis ceux de toute l’Amérique, s’emparèrent du fait et l’expliquèrent de cent façons, dont aucune ne devait être la vraie. Des sommes considérables furent promises par annonces et affiches ― non seulement à qui retrouverait les honorables disparus, mais à quiconque pourrait produire quelque indice de nature à mettre sur leurs traces. Rien n’aboutit. La terre se serait entrouverte pour les engloutir, que le président et le secrétaire du Weldon-Institute n’auraient pas été plus supprimés de la surface du globe.</p>
           <p>À ce propos, les journaux du gouvernement demandèrent que le personnel de la police fût augmenté dans une forte proportion, puisque de pareils attentats pouvaient se produire contre les meilleurs citoyens des États-Unis ― et ils avaient raison…</p>
           <p>Il est vrai, les journaux de l’opposition demandèrent que ce personnel fût licencié comme inutile, puisque de pareils attentats pouvaient se produire, sans qu’il fût possible d’en retrouver les auteurs ― et peut-être n’avaient-ils pas tort.</p>
           <p>En somme, la police resta ce qu’elle était, ce qu’elle sera toujours dans le meilleur des mondes qui n’est pas parfait et ne saurait l’être.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel une suspension d’hostilités est consentie entre le président et le secrétaire du Weldon-Institute">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="V" type="h3">V</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel une suspension d’hostilités est consentie entre le président et le secrétaire du weldon-institute.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>V. Dans lequel une suspension d’hostilités est consentie entre le président et le secrétaire du Weldon-Institute</head>
           <p>Un bandeau sur les yeux, un bâillon dans la bouche, une corde aux poignets, une corde aux pieds, donc impossible de voir, de parler, de se déplacer. Cela n’était pas fait pour rendre plus acceptable la situation de Uncle Prudent, de Phil Evans et du valet Frycollin. En outre, ne point savoir quels sont les auteurs d’un pareil rapt, en quel endroit on a été jeté comme de simples colis dans un wagon de bagages, ignorer où l’on est, à quel sort on est réservé, il y avait là de quoi exaspérer les plus patients de l’espèce ovine, et l’on sait que les membres du Weldon-Institute ne sont pas précisément des moutons pour la patience. Étant donné sa violence de caractère, on imagine aisément dans quel état Uncle Prudent devait être.</p>
           <p>En tout cas, Phil Evans et lui devaient penser qu’il leur serait difficile de prendre place, le lendemain soir, au bureau du club.</p>
           <p>Quant à Frycollin, yeux fermés, bouche close, il lui était impossible de songer à quoi que ce fût. Il était plus mort que vif.</p>
@@ -514,25 +439,11 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Uncle Prudent et Phil Evans se précipitèrent hors de la cellule.</p>
           <p>Et que virent-ils ?</p>
           <p>À douze ou treize cents mètres au-dessous d’eux, la surface d’un pays qu’ils cherchaient en vain à reconnaître.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Que les ingénieurs, les mécaniciens et autres savants feraient, peut-être bien de passer">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="VI" type="h3">VI</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">que les ingénieurs, les mécaniciens et autres savants feraient, peut-être bien de passer.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>VI. Que les ingénieurs, les mécaniciens et autres savants feraient, peut-être bien de passer</head>
           <p>« À quelle époque l’homme cessera-t-il de ramper dans les bas-fonds pour vivre dans l’azur et la paix du ciel ? »</p>
-          <p>À cette demande de Camille Flammarion, la réponse est facile : ce sera à l’époque où les progrès de la mécanique auront permis de résoudre le problème de l’aviation. Et, depuis quelques années ― on le prévoyait ― une utilisation plus pratique de l’électricité devait conduire à la solution du <seg rend="coquille" n="problème">problème.</seg></p>
+          <p>À cette demande de Camille Flammarion, la réponse est facile : ce sera à l’époque où les progrès de la mécanique auront permis de résoudre le problème de l’aviation. Et, depuis quelques années ― on le prévoyait ― une utilisation plus pratique de l’électricité devait conduire à la solution du problème.</p>
           <p>En 1783, bien avant que les frères Montgolfier eussent construit la première montgolfière, et le physicien Charles son premier ballon, quelques esprits aventureux avaient rêvé la conquête de l’espace au moyen d’appareils mécaniques. Les premiers inventeurs n’avaient donc pas songé aux appareils plus légers que l’air ― ce que la physique de leur temps n’eût point permis d’imaginer. C’était aux appareils plus lourds que lui, aux machines volantes, faites à l’imitation de l’oiseau, qu’ils demandaient de réaliser la locomotion aérienne.</p>
           <p>C’est précisément ce qu’avait fait ce fou d’Icare, fils de Dédale, dont les ailes, attachées avec de la cire, tombèrent aux approches du soleil. </p>
           <p>Mais, sans remonter jusqu’aux temps mythologiques, parler d’Archytas de Tarente, on trouve déjà dans les travaux de Dante de Pérouse, de Léonard de Vinci, de Guidotti, l’idée de machines destinées à se mouvoir au milieu de l’atmosphère. Deux siècles et demi après, les inventeurs commencent à se multiplier. En 1742, le marquis de Bacqueville fabrique un système d’ailes, l’essaie au-dessus de la Seine et se casse le bras en tombant. En 1768, Paucton conçoit la disposition d’un appareil à deux hélices suspensive et propulsive. En 1781, Meerwein, architecte du prince de Bade, construit une machine à mouvement orthoptérique, et proteste contre la direction des aérostats qui venaient d’être inventés. En 1784, Launoy et Bienvenu font manœuvrer un hélicoptère, mu par des ressorts. En 1808, essais de vol par l’autrichien Jacques Degen. En 1810, brochure de Deniau, de Nantes, où les principes du « Plus lourd que l’air » sont posés. Puis, de 1811 à 1840, études et inventions de Berblinger, de Vigual, de Sarti, de Dubochet, de Cagniard de Latour. En 1842, on trouve l’anglais Henson avec son système de plans inclinés et d’hélices actionnées par la vapeur ; en 1845, Cossus et son appareil à hélices ascensionnelles ; en 1847, Camille Vert et son hélicoptère à ailes de plumes ; en 1852, Letur avec son système de parachute dirigeable, dont l’expérience lui coûta la vie ; en la même année, Michel Loup avec son plan de glissement muni de quatre ailes tournantes ; en 1853, Béléguic et son aéroplane mu par des hélices de traction, Vaussin-Chardannes avec son cerf-volant libre dirigeable, Georges Cauley avec ses plans de machines volantes, pourvues d’un moteur à gaz. De 1854 à 1863, apparaissent Joseph Pline, breveté pour plusieurs systèmes aériens, Bréant, Carlingford, Le Bris, Du Temple, Bright, dont les hélices ascensionnelles tournent en sens inverse, Smythies, Panafieu, Crosnier, etc. Enfin, en 1863, grâce aux efforts de Nadar, une Société du <hi>Plus lourd que l’air</hi> est fondée à Paris. Là les inventeurs font expérimenter des machines dont quelques-unes sont déjà brevetées : de Ponton d’Amécourt et son hélicoptère à vapeur, de la Landelle et son système à combinaisons d’hélices avec plans inclinés et parachutes, de Louvrié et son aéroscaphe, d’Esterno et son oiseau mécanique, de Groof et son appareil à ailes mues par des leviers. L’élan était donné, les inventeurs inventent, les calculateurs calculent tout ce qui doit rendre pratique la locomotion aérienne. Bourcart, Le Bris, Kaufmann, Smyth, Stringfellow, Prigent, Danjard, Pomès et de la Pauze, Moy, Pénaud, Jobert, Hureau de Villeneuve, Achenbach, Garapon, Duchesne, Danduran, Parisel, Dieuaide, Melkisff, Forlanini, Brearey, Tatin, Dandrieux, Edison, les uns avec des ailes ou des hélices, les autres avec des plans inclinés, imaginent, créent, fabriquent, perfectionnent leurs machines volantes qui seront prêtes à fonctionner le jour où un moteur d’une puissance considérable et d’une légèreté excessive leur sera appliqué par quelque inventeur.</p>
@@ -557,7 +468,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Si l’orthoptère ― battement d’ailes des oiseaux ― s’élève en s’appuyant normalement sur l’air, l’hélicoptère s’élève en le frappant obliquement avec les branches de son hélice, comme s’il montait sur un plan incliné. En réalité, ce sont des ailes en hélice au lieu d’être des ailes en aube. L’hélice marche nécessairement dans la direction de son axe. Cet axe est-il vertical ? elle se déplace verticalement. Est-il horizontal ? elle se déplace horizontalement.</p>
           <p>Tout l’appareil volant de l’ingénieur Robur était dans ces deux fonctionnements.</p>
           <p>En voici la description exacte, qui peut se scinder en trois parties essentielles : la plate-forme, les engins de suspension et de propulsion, la machinerie.</p>
-          <p>Plate-forme. ― C’est un bâti, long de trente mètres, large de quatre, véritable pont de navire avec proue en forme d’éperon. Au-dessous, s’arrondit une coque, solidement membrée, qui renferme les appareils destinés à produire la puissance mécanique, la soute aux munitions, les apparaux, les outils, le magasin général pour approvisionnements de toutes sortes, y compris les caisses à eau du bord. Autour du bâti, quelques légers montants, reliés par un treillis de fil de fer, supportent une rambarde qui sert de main-courante. À sa surface s’élèvent trois roufles, dont les compartiments sont affectés, les uns au logement du personnel, les autres à la machinerie. Dans le roufle central fonctionne la machine qui actionne tous les engins de suspension ; dans celui de l’avant la machine du propulseur de l’avant ; dans celui de l’arrière, la machine du propulseur de l’arrière, ― ces trois machines ayant chacune leur mise en train spéciale. Du côté de la proue, dans le premier roufle, se trouvent l’office, la cuisine et le poste de l’équipage. Du côté de la poupe, dans le dernier roufle, sont disposées plusieurs cabines, entre autres, celle de l’ingénieur, une salle à manger, puis, au-dessus, une cage vitrée dans laquelle se tient le timonier qui dirige l’appareil au moyen d’un puissant gouvernail. Tous ces roufles sont éclairés par des hublots, fermés de verres trempés qui ont dix fois la résistance du verre ordinaire. Au-dessous de la <seg rend="coquille" n="coque,">coque</seg> est établi un système de ressorts flexibles, destinés à adoucir les heurts, bien que l’atterrissage puisse se faire avec une douceur extrême, tant l’ingénieur est maître des mouvements de l’appareil.</p>
+          <p>Plate-forme. ― C’est un bâti, long de trente mètres, large de quatre, véritable pont de navire avec proue en forme d’éperon. Au-dessous, s’arrondit une coque, solidement membrée, qui renferme les appareils destinés à produire la puissance mécanique, la soute aux munitions, les apparaux, les outils, le magasin général pour approvisionnements de toutes sortes, y compris les caisses à eau du bord. Autour du bâti, quelques légers montants, reliés par un treillis de fil de fer, supportent une rambarde qui sert de main-courante. À sa surface s’élèvent trois roufles, dont les compartiments sont affectés, les uns au logement du personnel, les autres à la machinerie. Dans le roufle central fonctionne la machine qui actionne tous les engins de suspension ; dans celui de l’avant la machine du propulseur de l’avant ; dans celui de l’arrière, la machine du propulseur de l’arrière, ― ces trois machines ayant chacune leur mise en train spéciale. Du côté de la proue, dans le premier roufle, se trouvent l’office, la cuisine et le poste de l’équipage. Du côté de la poupe, dans le dernier roufle, sont disposées plusieurs cabines, entre autres, celle de l’ingénieur, une salle à manger, puis, au-dessus, une cage vitrée dans laquelle se tient le timonier qui dirige l’appareil au moyen d’un puissant gouvernail. Tous ces roufles sont éclairés par des hublots, fermés de verres trempés qui ont dix fois la résistance du verre ordinaire. Au-dessous de la coque est établi un système de ressorts flexibles, destinés à adoucir les heurts, bien que l’atterrissage puisse se faire avec une douceur extrême, tant l’ingénieur est maître des mouvements de l’appareil.</p>
           <p>Engins de suspension et de propulsion. ― Au-dessus de la plate-forme, trente-sept axes se dressent verticalement, dont quinze en abord, de chaque côté, et sept plus élevés au milieu. On dirait un navire à trente-sept mâts. Seulement ces mâts, au lieu de voiles, portent chacun deux hélices horizontales, d’un pas et d’un diamètre assez courts, mais auxquelles on peut imprimer une rotation prodigieuse. Chacun de ces axes a son mouvement indépendant du mouvement des autres, et, en outre, de deux en deux, chaque axe tourne en sens inverse ― disposition nécessaire pour que l’appareil ne soit pas pris d’un mouvement de giration. De la sorte, les hélices, tout en continuant à s’élever sur la colonne d’air verticale, se font équilibre contre la résistance horizontale. Conséquemment, l’appareil est muni de soixante-quatorze hélices suspensives, dont les trois branches sont maintenues extérieurement par un cercle métallique, qui, faisant fonction de volant, économise la force motrice. À l’avant et à l’arrière, montées sur axes horizontaux, deux hélices propulsives, à quatre branches, d’un pas inverse très allongé tournent en sens différent et communiquent le mouvement de propulsion. Ces hélices, d’un diamètre plus grand que celui des hélices de suspension, peuvent également tourner avec une excessive vitesse.</p>
           <p>En somme, cet appareil tient à la fois des systèmes qui ont été préconisés par MM. Cossus, de la Landelle et de Ponton d’Amécourt, systèmes perfectionnés par l’ingénieur Robur. Mais c’est surtout dans le choix et l’application de la force motrice qu’il a le droit d’être considéré comme inventeur.</p>
           <p>Machinerie. ― Ce n’est ni à la vapeur d’eau ou autres liquides, ni à l’air comprimé ou autres gaz élastiques, ni aux mélanges explosifs susceptibles de produire une action mécanique, que Robur a demandé la puissance nécessaire à soutenir et à mouvoir son appareil. C’est à l’électricité, à cet agent qui sera, un jour, l’âme du monde industriel. D’ailleurs, nulle machine électromotrice pour le produire. Rien que des piles et des accumulateurs. Seulement, quels sont les éléments qui entrent dans la composition de ces piles, quels acides les mettent en activité ? c’est le secret de Robur. De même pour les accumulateurs. De quelle nature sont leurs lames positives et négatives ? on ne sait. L’ingénieur s’était bien gardé, ― et pour cause ― de prendre un brevet d’invention. En somme, résultat non contestable : des piles d’un rendement extraordinaire, des acides d’une résistance presque absolue à l’évaporation ou à la congélation, des accumulateurs qui laissent très loin les Faure-Sellon-Volckmar, enfin des courants dont les ampères se chiffrent en nombres inconnus jusqu’alors. De là, une puissance en chevaux, électriques pour ainsi dire infinie, actionnant les hélices qui communiquent à l’appareil une force de suspension et de propulsion supérieure à tous ses besoins, en n’importe quelle circonstance.</p>
@@ -569,21 +480,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>En outre, il y avait à bord une légère embarcation en caoutchouc, insubmersible, qui pouvait porter huit hommes à la surface d’un fleuve, d’un lac ou d’une mer calme.</p>
           <p>Mais Robur avait-il au moins installé des parachutes en cas d’accident ? Non. Il ne croyait pas aux accidents de ce genre. Les axes des hélices étaient indépendants. L’arrêt des uns n’enrayait pas la marche des autres. Le fonctionnement de la moitié du jeu suffisait à maintenir l’<hi>Albatros</hi> dans son élément naturel.</p>
           <p>« Et, avec lui, ainsi que Robur-le-Conquérant eut bientôt l’occasion de le dire à ses nouveaux hôtes, ― hôtes malgré eux ― avec lui, je suis maître de cette septième partie du monde, plus grande que l’Australie, l’Océanie, l’Asie, l’Amérique et l’Europe, cette Icarie aérienne que des milliers d’Icariens peupleront un jour ! »</p>
-        </div>
       </div>
-      <div type="section" n="Dans lequel Uncle Prudent et Phil Evans refusent encore de se laisser convaincre">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="VII" type="h3">VII</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel uncle prudent et phil evans refusent encore de se laisser convaincre.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>VII. Dans lequel Uncle Prudent et Phil Evans refusent encore de se laisser convaincre</head>
           <p>Le président du Weldon-Institute était stupéfait, son compagnon abasourdi. Mais ni l’un ni l’autre ne voulurent rien laisser paraître de cet ahurissement si naturel.</p>
           <p>Le valet Frycollin, lui, ne dissimulait pas son épouvante à se sentir emporté dans l’espace à bord d’une pareille machine, et il ne cherchait point à s’en cacher.</p>
           <p>Pendant ce temps, les hélices suspensives tournaient rapidement au-dessus de leurs têtes. Si considérable que fût alors cette vitesse de rotation, elle eût pu être triplée pour le cas où l’<hi>Albatros</hi> aurait voulu atteindre de plus hautes zones.</p>
@@ -617,7 +516,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Quant au reste du personnel, le déjeuner le retenait probablement dans son poste. Seul, un aide-mécanicien, préposé à la surveillance des machines, se promenait d’un roufle à l’autre.</p>
           <p>Cependant, si la vitesse de l’appareil était grande, les deux collègues n’en pouvaient juger qu’imparfaitement, bien que l’<hi>Albatros</hi> fût alors sorti de la zone des nuages et que le sol se montrât à quinze cents mètres au-dessous.</p>
           <p>« C’est à n’y pas croire ! dit Phil Evans.</p>
-          <p>― N’y croyons pas, » répondit Uncle <seg rend="coquille" n="Prudent">Prudent.</seg></p>
+          <p>― N’y croyons pas, » répondit Uncle Prudent.</p>
           <p>Ils allèrent alors se placer à l’avant et portèrent leurs regards vers l’horizon de l’ouest. </p>
           <p>« Ah ! une autre ville ! dit Phil Evans.</p>
           <p>― Pouvez-vous la reconnaître ?</p>
@@ -674,21 +573,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>« Les cataractes du Niagara ! » s’écria Phil Evans.</p>
           <p>Et ce cri lui échappa, tandis que Uncle Prudent faisait tous ses efforts pour ne rien admirer de ces merveilles.</p>
           <p>Une minute après, l’<hi>Albatros</hi> avait franchi la rivière qui sépare les États-Unis de la colonie canadienne, et il se lançait au-dessus des vastes territoires du Nord-Amérique.</p>
-        </div>
       </div>
-      <div type="section" n="Où l’on verra que Robur se décide à répondre à l’importante question qui lui est posée">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="VIII" type="h3">VIII</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">où l’on verra que robur se décide à répondre à l’importante question qui lui est posée.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>VIII. Où l’on verra que Robur se décide à répondre à l’importante question qui lui est posée</head>
           <p>C’était dans une des cabines du roufle de l’arrière que Uncle Prudent et Phil Evans avaient trouvé deux excellentes couchettes, du linge et des habits de rechange en suffisante quantité, des manteaux et des couvertures de voyage. Un transatlantique ne leur eût point offert plus de confort. S’ils ne dormirent pas tout d’un somme, c’est qu’ils le voulurent bien, ou du moins que de très réelles inquiétudes les en empêchèrent. En quelle aventure étaient-ils embarqués ? À quelle série d’expériences avaient-ils été invités <hi>inviti</hi>, si l’on permet ce rapprochement de mots français et latin ? Comment l’affaire se terminerait-elle, et, au fond, que voulait l’ingénieur Robur ? Il y avait là de quoi donner à réfléchir.</p>
           <p>Quant au valet Frycollin, il était logé, à l’avant, dans une cabine contiguë à celle du maître coq de l’<hi>Albatros</hi>. Ce voisinage ne pouvait lui déplaire. Il aimait à frayer avec les grands de ce monde. Mais, s’il finit par s’endormir, ce fut pour rêver de chutes successives, de projections à travers le vide, qui firent de son sommeil un abominable cauchemar.</p>
           <p>Et, cependant, rien ne fut plus calme que cette pérégrination au milieu d’une atmosphère dont les courants s’étaient apaisés avec le soir. En dehors du bruissement des ailes d’hélices, pas un bruit dans cette zone. Parfois, un coup de sifflet que lançait quelque locomotive terrestre en courant les rails-roads, ou des hurlements d’animaux domestiques. Singulier instinct ! ces êtres terrestres sentaient la machine volante passer au-dessus d’eux et jetaient des cris d’épouvante à son passage.</p>
@@ -696,7 +583,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Pourquoi un homme de garde ? Y avait-il donc quelque choc à redouter avec un appareil de même sorte ? Non, évidemment. Robur n’avait pas encore trouvé d’imitateurs. Quant à rencontrer quelque aérostat planant dans les airs, cette chance était tellement minime qu’il était permis de n’en point tenir compte. En tout cas, c’eût été tant pis pour l’aérostat ― le pot de fer et le pot de terre. L’<hi>Albatros</hi> n’aurait rien eu à craindre d’une semblable collision.</p>
           <p>Mais, enfin, pouvait-elle se produire ? Oui ! Il n’était pas impossible que l’aéronef se mît à la côte comme un navire, si quelque montagne, qu’il n’eût pu tourner ou dépasser, eût barré sa route. C’étaient là les écueils de l’air, et il devait les éviter comme un bâtiment évite des écueils de la mer. </p>
           <p>L’ingénieur, il est vrai, avait donné la direction ainsi que fait un capitaine, en tenant compte de l’altitude nécessaire pour dominer les hauts sommets du territoire. Or, comme l’aéronef ne devait pas tarder à planer sur un pays de montagnes, il n’était que prudent de veiller, pour le cas où il aurait quelque peu dévié de sa route.</p>
-          <p>En observant la contrée placée au-dessous d’eux, Uncle Prudent et Phil Evans aperçurent un vaste lac dont l’<hi>Albatros</hi> allait atteindre la pointe inférieure vers le sud. Ils en conclurent que, pendant la nuit, l’<seg rend="coquille" n="Erié">Érié</seg> avait été dépassé sur toute sa longueur. Donc, puisqu’il marchait plus directement à l’ouest, l’aéronef devait alors remonter l’extrémité du lac Michigan.</p>
+          <p>En observant la contrée placée au-dessous d’eux, Uncle Prudent et Phil Evans aperçurent un vaste lac dont l’<hi>Albatros</hi> allait atteindre la pointe inférieure vers le sud. Ils en conclurent que, pendant la nuit, l’Érié avait été dépassé sur toute sa longueur. Donc, puisqu’il marchait plus directement à l’ouest, l’aéronef devait alors remonter l’extrémité du lac Michigan.</p>
           <p>« Pas de doute possible ! dit Phil Evans. Cet ensemble de toits à l’horizon, c’est Chicago ! »</p>
           <p>Il ne se trompait pas. C’était bien la cité vers laquelle rayonnent dix-sept railways, la reine de l’Ouest, le vaste réservoir dans lequel affluent les produits de l’Indiana, de l’Ohio, du Wisconsin, du Missouri, de toutes ces provinces qui forment la partie occidentale de l’Union.</p>
           <p>Uncle Prudent, armé d’une excellente lorgnette marine qu’il avait trouvée dans son roufle, reconnut aisément les principaux édifices de la ville. Son collègue put lui indiquer les églises, les édifices publics, les nombreux « élévators » ou greniers mécaniques, l’immense hôtel Sherman, semblable à un gros dé à jouer, dont les fenêtres figuraient des centaines de points sur chacune de ses faces.</p>
@@ -715,12 +602,12 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>― Ni moi ! répliqua Phil Evans. Mais, croyez-moi, Uncle Prudent, tâchez de vous modérer…</p>
           <p>― Me modérer !…</p>
           <p>― Et gardez votre colère pour le moment où il sera opportun qu’elle éclate. »</p>
-          <p>Vers cinq heures, après avoir franchi les Montagnes-Noires, couvertes de sapins et de cèdres, l’<hi>Albatros</hi> volait au-dessus de ce territoire qu’on a justement appelé les Mauvaises-Terres du Nebraska, ― un chaos de collines couleur d’ocre, de morceaux de montagnes qu’on aurait laissées tomber sur le sol et qui se seraient brisées dans leur chute. De loin, ces blocs prenaient les formes les plus fantaisistes. Çà et là, au milieu de cet énorme jeu d’osselets, on entrevoyait des ruines de cités du moyen âge avec forts, donjons, châteaux à <seg rend="coquille" n="machicoulis">mâchicoulis</seg> et à poivrières. Mais, en réalité, ces Mauvaises-Terres ne sont qu’un ossuaire immense où blanchissent, par myriades, les débris de pachydermes, de chéloniens, et même, dit-on, d’hommes fossiles, entraînés par quelque cataclysme inconnu des premiers âges.</p>
+          <p>Vers cinq heures, après avoir franchi les Montagnes-Noires, couvertes de sapins et de cèdres, l’<hi>Albatros</hi> volait au-dessus de ce territoire qu’on a justement appelé les Mauvaises-Terres du Nebraska, ― un chaos de collines couleur d’ocre, de morceaux de montagnes qu’on aurait laissées tomber sur le sol et qui se seraient brisées dans leur chute. De loin, ces blocs prenaient les formes les plus fantaisistes. Çà et là, au milieu de cet énorme jeu d’osselets, on entrevoyait des ruines de cités du moyen âge avec forts, donjons, châteaux à mâchicoulis et à poivrières. Mais, en réalité, ces Mauvaises-Terres ne sont qu’un ossuaire immense où blanchissent, par myriades, les débris de pachydermes, de chéloniens, et même, dit-on, d’hommes fossiles, entraînés par quelque cataclysme inconnu des premiers âges.</p>
           <p>Lorsque le soir vint, tout ce bassin de la Platte-River était dépassé. Maintenant la plaine se développait jusqu’aux extrêmes limites d’un horizon très relevé par l’altitude de l’<hi>Albatros</hi>.</p>
           <p>Pendant la nuit, ce ne furent plus des sifflets aigus de locomotives, ni des sifflets graves de steam-boats qui troublèrent le calme du firmament étoilé. De longs mugissements montaient parfois jusqu’à l’aéronef, alors plus rapproché du sol. C’étaient des troupeaux de bisons qui traversaient la prairie, en quête de ruisseaux et de pâturages. Et, quand ils se taisaient, le froissement des herbes, sous leurs pieds, produisait un sourd bruissement, semblable au roulement d’une inondation et très différent du frémissement continu des hélices.</p>
           <p>Puis, de temps à autre, un hurlement de loup, de renard ou de chat sauvage, un hurlement de coyote, ce <hi>canis latrans</hi>, dont le nom est bien justifié par ses aboiements sonores.</p>
           <p>Et, aussi, des odeurs pénétrantes, la menthe, la sauge et l’absinthe, mêlées aux senteurs puissantes des conifères qui se propageaient à travers l’air pur de la nuit.</p>
-          <p>Enfin, pour noter tous les bruits venus du sol, un sinistre aboiement qui, cette fois, n’était pas celui des <seg rend="coquille" n="coyottes">coyotes</seg> ; c’était le cri du Peau-Rouge qu’un pionnier n’eût pu confondre avec le cri des fauves.</p>
+          <p>Enfin, pour noter tous les bruits venus du sol, un sinistre aboiement qui, cette fois, n’était pas celui des coyotes ; c’était le cri du Peau-Rouge qu’un pionnier n’eût pu confondre avec le cri des fauves.</p>
           <p>Le lendemain, 15 juin, vers cinq heures du matin, Phil Evans quitta sa cabine. Peut-être, ce jour-là, se trouverait-il en face de l’ingénieur Robur ?</p>
           <p>En tout cas, désireux de savoir pourquoi il n’avait pas paru la veille, il s’adressa au contremaître Tom Turner.</p>
           <p>Tom Turner, d’origine anglaise, âgé de quarante-cinq ans environ, large de buste, trapu de membres, charpenté en fer, avait une de ces têtes énormes et caractéristiques, à la Hogarth, telles que ce peintre de toutes les laideurs saxonnes en a tracé du bout de son pinceau. Si l’on veut bien examiner la planche quatre du <hi>Harlots Progress</hi>, on y trouvera la tête de Tom Turner sur les épaules du gardien de la prison, et on reconnaîtra que sa physionomie n’a rien d’encourageant.</p>
@@ -740,7 +627,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>« Cela doit tenir à l’élévation de l’<hi>Albatros</hi> dans l’atmosphère, » dit Phil Evans. </p>
           <p>En effet, le baromètre, placé extérieurement à la porte du roufle central, était tombé à cinq cent quarante millimètres ― ce qui indiquait une élévation de trois mille mètres environ. L’aéronef se tenait donc alors à une assez grande altitude, nécessitée par les accidents du sol.</p>
           <p>D’ailleurs, une heure avant, il avait dû dépasser la hauteur de quatre mille mètres, car, derrière lui, se dressaient des montagnes que couvrait une neige éternelle.</p>
-          <p>Dans leur mémoire, rien ne pouvait rappeler à Uncle Prudent ni à son compagnon quel était ce <seg rend="coquille" n="pays">pays.</seg> Pendant la nuit, l’<hi>Albatros</hi> avait pu faire des écarts, nord et sud, avec une vitesse excessive, et cela suffisait pour les dérouter.</p>
+          <p>Dans leur mémoire, rien ne pouvait rappeler à Uncle Prudent ni à son compagnon quel était ce pays. Pendant la nuit, l’<hi>Albatros</hi> avait pu faire des écarts, nord et sud, avec une vitesse excessive, et cela suffisait pour les dérouter.</p>
           <p>Toutefois, après avoir discuté diverses hypothèses plus ou moins plausibles, ils s’arrêtèrent à celle-ci : ce territoire, encadré dans un cirque de montagnes, devait être celui qu’un acte du congrès, en mars 1872, avait déclaré Parc National des États-Unis.</p>
           <p>C’était en effet cette région si curieuse. Elle méritait bien le nom de parc ― un parc avec des montagnes pour collines, des lacs pour étangs, des rivières pour ruisseaux, des cirques pour labyrinthes, et, pour jets d’eau, des geysers d’une merveilleuse puissance.</p>
           <p>En quelques minutes, l’<hi>Albatros</hi> se glissa au-dessus de la Yellowstone-river, laissant le mont Stevenson sur la droite, et il aborda le grand lac qui porte le nom de ce cours d’eau. Quelle variété dans le tracé des rives de ce bassin, dont les plages, semées d’obsidienne et de petits cristaux, réfléchissent le soleil par leurs milliers de facettes ! Quel caprice dans la disposition des îles qui apparaissent à sa surface ! Quel reflet d’azur projeté par ce gigantesque miroir ! Et autour de ce lac, l’un des plus élevés du globe terrestre, quelles nuées de volatiles, pélicans, cygnes, mouettes, oies, barnaches et plongeons ! Certaines portions de rives, très escarpées, sont revêtues d’une toison d’arbres verts, pins et mélèzes, et, du pied de ces escarpements, jaillissent d’innombrables fumerolles blanches. C’est la vapeur qui s’échappe de ce sol, comme d’un énorme récipient, dans lequel l’eau est entretenue par les feux intérieurs à l’état d’ébullition permanente.</p>
@@ -767,7 +654,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Là s’étendait la grande cité, au pied des monts Wasatsh revêtus de cèdres et de sapins jusqu’à mi-flanc, sur la rive de ce Jourdain qui déverse les eaux de l’Utah dans le Great-Salt-Lake. Sous l’aéronef se développait le damier que figurent la plupart des villes américaines, ― damier dont on peut dire qu’il a « plus de dames que de cases, » puisque la polygamie est si en faveur chez les Mormons. Tout autour, un pays bien aménagé, bien cultivé, riche en textiles, dans lequel les troupeaux de moutons se comptent par milliers.</p>
           <p>Mais cet ensemble s’évanouit comme une ombre, et l’<hi>Albatros</hi> prit vers le sud-ouest une vitesse plus accélérée qui ne laissa pas d’être très sensible, puisqu’elle dépassait celle du vent.</p>
           <p>Bientôt l’aéronef s’envola au-dessus des régions du Nevada et de son territoire argentifère, que la Sierra seule sépare des placers aurifères de la Californie.</p>
-          <p>« Décidément, dit Phil Evans, nous devons nous attendre à voir <seg rend="coquille" n="San Francisco">San-Francisco</seg> avant la nuit !</p>
+          <p>« Décidément, dit Phil Evans, nous devons nous attendre à voir San-Francisco avant la nuit !</p>
           <p>― Et après ?… » répondit Uncle Prudent.</p>
           <p>Il était six heures du soir, lorsque la Sierra Nevada fut franchie précisément par le col de Truckie qui sert de passe au railway. Il ne restait plus que trois cents kilomètres à parcourir pour atteindre, sinon San-Francisco, du moins Sacramento, la capitale de l’État californien.</p>
           <p>Telle fut alors la rapidité imprimée à l’<hi>Albatros</hi>, que, avant huit heures, le dôme du Capitole pointait à l’horizon de l’ouest pour disparaître bientôt à l’horizon opposé.</p>
@@ -781,24 +668,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>― Oui !… coûte que coûte ! »</p>
           <p>Un long murmure arriva alors jusqu’à eux.</p>
           <p>C’était le grondement de la mer qui se brisait sur les roches du littoral. C’était l’océan Pacifique.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel l’Albatros franchit près de dix mille kilomètres, qui se terminent par un bond prodigieux">
-        <div type="section">
-          <div type="section" xml:lang="fr" rend="prp-pages-output">
-            <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-            <head rend="tmp" xml:id="IX" type="h3">IX</head>
-            <space quantity="1" unit="line"/>
-            <p rend="c1">dans lequel l’albatros franchit près de dix mille kilomètres, qui se terminent par un bond prodigieux.</p>
-            <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>IX. Dans lequel l’Albatros franchit près de dix mille kilomètres, qui se terminent par un bond prodigieux</head>
             <p>Uncle Prudent et Phil Evans étaient bien résolus à fuir. S’ils n’avaient eu affaire aux huit hommes particulièrement vigoureux qui composaient le personnel de l’aéronef, peut-être eussent-ils tenté la lutte. Un coup d’audace aurait pu les rendre maîtres à bord et leur permettre de redescendre sur quelque point des États-Unis. Mais à deux ― Frycollin ne devant être considéré que comme une quantité négligeable, ― il n’y fallait pas songer. Donc, puisque la force ne pouvait être employée, il conviendrait de recourir à la ruse, dès que l’<hi>Albatros</hi> prendrait terre. C’est ce que Phil Evans essaya de faire comprendre à son irascible collègue, dont il craignait toujours quelque violence prématurée qui eût aggravé la situation.</p>
             <p>En tout cas, ce n’était pas le moment. L’aéronef filait à toute vitesse au-dessus du Pacifique-Nord. Le lendemain matin, 16 juin, on ne voyait plus rien de la côte. Or, comme le littoral s’arrondit depuis l’île de Vancouver jusqu’au groupe des Aléoutiennes, ― portion de l’Amérique russe cédée aux États-Unis en 1867, ― très vraisemblablement l’<hi>Albatros</hi> le croiserait à son extrême courbure, si sa direction ne se modifiait pas.</p>
             <p>Combien les nuits paraissaient longues aux deux collègues ! Aussi avaient-ils toujours hâte de quitter leur cabine. Ce matin-là, lorsqu’ils vinrent sur le pont, depuis plusieurs heures déjà l’aube avait blanchi l’horizon de l’est. On approchait du solstice de juin, le plus long jour de l’année dans l’hémisphère boréal, et, sous le soixantième parallèle, c’est à peine s’il faisait nuit.</p>
@@ -822,8 +694,8 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
             <p>― Et la mer qui est dessous !…</p>
             <p>― En cas de chute, mieux vaut la mer.</p>
             <p>― Mais on se noie !…</p>
-            <p>― On se noie, mais on ne s’é-cra-bou-ille pas ! » répondit François <seg rend="coquille" n="Tapage, »">Tapage,</seg> en scandant chaque syllabe de sa phrase.</p>
-            <p>Un instant après, par un mouvement de reptation, Frycollin s’était glissé au fond de sa <seg rend="coquille" n="cabine">cabine.</seg> </p>
+            <p>― On se noie, mais on ne s’é-cra-bou-ille pas ! » répondit François Tapage, en scandant chaque syllabe de sa phrase.</p>
+            <p>Un instant après, par un mouvement de reptation, Frycollin s’était glissé au fond de sa cabine. </p>
             <p>Pendant cette journée du 16 juin, l’aéronef ne prit qu’une vitesse modérée. Il semblait raser la surface de cette mer si calme, tout imprégnée de soleil, qu’il dominait seulement d’une centaine de pieds.</p>
             <p>À leur tour, Uncle Prudent et son compagnon étaient restés dans leur roufle, afin de ne point rencontrer Robur qui se promenait en fumant, tantôt seul, tantôt avec le contremaître Tom Turner. Il n’y avait qu’un demi-jeu d’hélices en fonction, et cela suffisait à maintenir l’appareil dans les basses zones de l’atmosphère.</p>
             <p>En ces conditions, les gens de l’<hi>Albatros</hi> auraient pu se donner, avec le plaisir de la pêche, la satisfaction de varier leur ordinaire, si ces eaux du Pacifique eussent été poissonneuses. Mais, à sa surface, apparaissaient seulement quelques baleines, de cette espèce à ventre jaune qui mesure jusqu’à vingt-cinq mètres de longueur. Ce sont les plus redoutables cétacés des mers boréales. Les pêcheurs de profession se gardent bien de les attaquer, tant leur force est prodigieuse.</p>
@@ -908,26 +780,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
             <p>Cette passe enfin franchie, l’<hi>Albatros</hi> commença à redescendre. Au sortir du col, hors de la région des forêts, il n’y avait plus qu’une campagne infinie qui s’étendait sur un immense secteur.</p>
             <p>Alors Robur s’avança vers ses hôtes, et d’une voix aimable :</p>
             <p>« L’Inde, messieurs », dit-il.</p>
-            <space quantity="1" unit="line"/>
-            <space quantity="1" unit="line"/>
-          </div>
-          <space quantity="1" unit="line"/>
-          
-        </div>
       </div>
-      <div type="section" n="Dans lequel on verra comment et pourquoi le valet Frycollin fut mis à la remorque">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="X" type="h3">X</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel on verra comment et pourquoi le valet frycollin fut mis à la remorque.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>X. Dans lequel on verra comment et pourquoi le valet Frycollin fut mis à la remorque</head>
           <p>L’ingénieur n’avait point l’intention de promener son appareil au-dessus de ces merveilleuses contrées de l’Indoustan. Franchir l’Himalaya pour montrer de quel admirable engin de locomotion il disposait, convaincre même ceux qui ne voulaient pas être convaincus, il ne voulait sans doute pas autre chose. Est-ce donc à dire que l’<hi>Albatros</hi> fût parfait, quoique la perfection ne soit pas de ce monde ? On le verra bien.</p>
           <p>En tout cas, si, dans leur for intérieur, Uncle Prudent et son collègue ne pouvaient qu’admirer la puissance d’un pareil engin de locomotion aérienne, ils n’en laissaient rien paraître. Ils ne cherchaient que l’occasion de s’enfuir. Ils n’admirèrent même pas le superbe spectacle offert à leur vue, pendant que l’<hi>Albatros</hi> suivait les pittoresques lisières du Pendjab.</p>
           <p>Il y a bien, à la base de l’Himalaya, une bande marécageuse de terrains d’où transpirent des vapeurs malsaines, ce Teraï dans lequel la fièvre est à l’état endémique. Mais ce n’était pas pour gêner l’<hi>Albatros</hi> ni compromettre la santé de son personnel. Il monta, sans trop se presser, vers l’angle que l’Indoustan fait au point de jonction du Turkestan et de la Chine. Le 29 juin, dès les premières heures du matin, s’ouvrait devant lui l’incomparable vallée de Cachemir.</p>
@@ -1048,23 +903,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Mais, Robur, saisissant l’instant propice, se précipita vers le roufle central, il saisit les leviers de mise en train, il lança le courant des piles que ne neutralisait plus la tension électrique de l’atmosphère ambiante… En un instant, il eut rendu à ses hélices leur vitesse normale, arrêté la chute, maintenu l’<hi>Albatros</hi> à petite hauteur, pendant que ses propulseurs l’entraînaient loin de l’orage, qu’il ne tarda pas à dépasser.</p>
           <p>Inutile de dire que Frycollin avait pris un bain forcé, ― pendant quelques secondes seulement. Lorsqu’il fut ramené à bord, il était mouillé comme s’il eût plongé jusqu’au fond des mers. On le croira sans peine, il ne criait plus.</p>
           <p>Le lendemain, 4 juillet, l’<hi>Albatros</hi> avait franchi la limite septentrionale de la Caspienne.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel la colère de Uncle Prudent croît comme le carré de la vitesse">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="XI" type="h3">XI</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel la colère de uncle prudent <seg rend="coquille" n="croit">croît</seg> comme le carré de la vitesse.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>XI. Dans lequel la colère de Uncle Prudent croît comme le carré de la vitesse</head>
           <p>Si jamais Uncle Prudent et Phil Evans durent renoncer à tout espoir de s’échapper, ce fut bien pendant les cinquante heures qui suivirent. Robur redoutait-il que la garde de ses prisonniers fût moins facile durant cette traversée de l’Europe ? C’est possible. Il savait, d’ailleurs, qu’ils étaient décidés à tout pour s’enfuir.</p>
           <p>Quoi qu’il en soit, toute tentative eût alors été un suicide. Que l’on saute d’un express, marchant avec une vitesse de cent kilomètres à l’heure, ce n’est peut-être que risquer sa vie, mais, d’un rapide, lancé à raison de deux cents kilomètres, ce serait vouloir la mort.</p>
           <p>Or, c’est précisément cette vitesse, ― le maximum dont il pût disposer, ― qui fut imprimée à l’<hi>Albatros</hi>. Elle dépassait le vol de l’hirondelle, soit cent quatre-vingts kilomètres à l’heure.</p>
@@ -1079,7 +920,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Puis, à partir de ce point, le vol de l’<hi>Albatros</hi> ne fut plus qu’une sorte de chevauchée à travers les hauteurs du ciel, comme s’il eût été attelé de ces fabuleux hippogriffes qui franchissent une lieue d’un seul coup d’aile.</p>
           <p>Il était dix heures du matin, le 4 juillet, lorsque l’aéronef pointa dans le nord-ouest en suivant à peu près la vallée du Volga. Les steppes du Don et de l’Oural filaient de chaque côté du fleuve. S’il eût été possible de plonger un regard sur ces vastes territoires, à peine aurait-on eu le temps d’en compter les villes et villages. Enfin, le soir venu, l’aéronef dépassait Moscou, sans même saluer le drapeau du Kremlin. En dix heures, il avait enlevé les deux mille kilomètres qui séparent Astrakan de l’ancienne capitale de toutes les Russies.</p>
           <p>De Moscou à Pétersbourg, la ligue du chemin de fer ne compte pas plus de douze cents kilomètres. C’était donc l’affaire d’une demi-journée. Aussi, l’<hi>Albatros</hi>, exact comme un express, atteignit-il Pétersbourg et les bords de la Neva vers deux heures du matin. La clarté de la nuit, sous cette haute latitude qu’abandonne si peu le soleil de juin, permit d’embrasser un instant l’ensemble de cette vaste capitale.</p>
-          <p>Puis, ce furent le golfe de Finlande, l’archipel d’Abo, la Baltique, la Suède à la latitude de Stockholm, la Norvège à la latitude de Christiania. Dix heures seulement pour ces deux mille kilomètres ! En vérité, on aurait pu le croire, aucune puissance humaine n’eût été capable désormais d’enrayer la vitesse de l’<hi>Albatros</hi>, comme si la résultante de sa force de projection et de l’attraction terrestre l’eût maintenu dans une trajectoire immuable autour <seg rend="coquille" n="de du">du</seg> globe. </p>
+          <p>Puis, ce furent le golfe de Finlande, l’archipel d’Abo, la Baltique, la Suède à la latitude de Stockholm, la Norvège à la latitude de Christiania. Dix heures seulement pour ces deux mille kilomètres ! En vérité, on aurait pu le croire, aucune puissance humaine n’eût été capable désormais d’enrayer la vitesse de l’<hi>Albatros</hi>, comme si la résultante de sa force de projection et de l’attraction terrestre l’eût maintenu dans une trajectoire immuable autour du globe. </p>
           <p>Il s’arrêta, cependant, et précisément au-dessus de la fameuse chute de Rjukanfos, en Norvège. Le Gousta, dont la cime domine cette admirable région du Telemark, fut comme une borne gigantesque qu’il ne devait pas dépasser dans l’ouest.</p>
           <p>Aussi, à partir de ce point, l’<hi>Albatros</hi> revint-il franchement vers le sud, sans modérer sa vitesse.</p>
           <p>Et, pendant ce vol invraisemblable, que faisait Frycollin ? Frycollin demeurait muet au fond de sa cabine, dormant du mieux qu’il pouvait, sauf aux heures des repas.</p>
@@ -1098,7 +939,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Pendant ce temps, Uncle Prudent et Phil Evans, qui n’étaient point gens à récriminer inutilement, venaient de prendre un parti. Il était évident que la fuite ne pouvait plus s’effectuer. Toutefois, s’il n’était pas possible de remettre le pied sur le globe terrestre, ne pouvait-on faire savoir à ses habitants ce qu’étaient devenus, depuis leur disparition, le président et le secrétaire du Weldon-Institute, par qui ils avaient été enlevés, à bord de quelle machine volante ils étaient détenus, et provoquer peut-être, ― de quelle façon, grand Dieu ! ― une audacieuse tentative de leurs amis pour les arracher aux mains de ce Robur ?</p>
           <p>Correspondre ?… Et comment ? Suffirait-il donc d’imiter les marins en détresse qui enferment dans une bouteille un document indiquant le lieu du naufrage et le jettent à la mer ?</p>
           <p>Mais ici, la mer, c’était l’atmosphère. La bouteille n’y surnagerait pas. À moins de tomber juste sur un passant, dont elle pourrait bien fracasser le crâne, elle risquerait de n’être jamais retrouvée.</p>
-          <p>En somme, les deux collègues n’avaient que ce moyen à leur disposition, et ils allaient sacrifier une des bouteilles du bord, quand Uncle Prudent eut une autre idée. Il prisait, on le sait, et on peut pardonner ce léger défaut à un Américain, qui pourrait faire pis. Or, en sa qualité de priseur, il possédait une tabatière, ― vide maintenant. Cette tabatière était en aluminium. Une fois lancée au dehors, si quelque honnête citoyen la trouvait, il la ramasserait ; s’il la <seg rend="coquille" n="ramassit">ramassait</seg>, il la porterait à un bureau de police, et, là, on prendrait connaissance du document destiné à faire connaître la situation des deux victimes de Robur-le-Conquérant.</p>
+          <p>En somme, les deux collègues n’avaient que ce moyen à leur disposition, et ils allaient sacrifier une des bouteilles du bord, quand Uncle Prudent eut une autre idée. Il prisait, on le sait, et on peut pardonner ce léger défaut à un Américain, qui pourrait faire pis. Or, en sa qualité de priseur, il possédait une tabatière, ― vide maintenant. Cette tabatière était en aluminium. Une fois lancée au dehors, si quelque honnête citoyen la trouvait, il la ramasserait ; s’il la ramassait, il la porterait à un bureau de police, et, là, on prendrait connaissance du document destiné à faire connaître la situation des deux victimes de Robur-le-Conquérant.</p>
           <p>C’est ce qui fut fait. La note était courte, mais elle disait tout et donnait l’adresse du Weldon-Institute, avec prière de faire parvenir.</p>
           <p>Puis, Uncle Prudent, après y avoir glissé la note, entoura la tabatière d’une épaisse bande de laine solidement ficelée, autant pour l’empêcher de s’ouvrir pendant la chute que de se briser sur le sol. Il n’y avait plus qu’à attendre une occasion favorable.</p>
           <p>En réalité, la manœuvre la plus difficile, pendant cette prodigieuse traversée de l’Europe, c’était de sortir du roufle, de ramper sur la plate-forme, au risque d’être emporté, et cela secrètement. D’autre part, il ne fallait pas que la tabatière tombât en quelque mer, golfe, lac ou tout autre cours d’eau. Elle eût été perdue.</p>
@@ -1122,8 +963,8 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>À quatre heures du matin, l’<hi>Albatros</hi> avait traversé obliquement tout le territoire. Puis, afin de ne pas perdre de temps à franchir les Pyrénées ou les Alpes, il se glissa à la surface de la Provence jusqu’à la pointe du Cap d’Antibes. À neuf heures, les San-Pietrini, assemblés sur la terrasse de Saint-Pierre de Rome, restaient ébahis en le voyant passer au-dessus de la Ville Éternelle. Deux heures après, dominant la baie de Naples, il se balançait un instant au milieu des volutes fuligineuses du Vésuve. Enfin, après avoir coupé la Méditerranée d’un vol oblique, dès la première heure de l’après midi, il était signalé par les vigies de la Goulette, sur la côte tunisienne.</p>
           <p>Après l’Amérique, l’Asie ! Après l’Asie, l’Europe ! C’étaient plus de trente mille kilomètres que le prodigieux appareil venait de faire en moins de vingt-trois jours !</p>
           <p>Et maintenant, le voilà qui s’engage au-dessus des régions connues ou inconnues de la terre d’Afrique !</p>
-          <p rend="no_erreurs_communes c2">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
-          <p rend="no_erreurs_communes c2">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
+          <p rend="center">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
+          <p rend="center">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
           <p>Peut-être veut-on savoir ce qu’était devenue la fameuse tabatière, après sa chute ?</p>
           <p>La tabatière était tombée rue de Rivoli, en face du numéro 210, au moment où cette rue se trouvait déserte. Le lendemain, elle fut ramassée par une honnête balayeuse qui s’empressa de la porter à la Préfecture de Police. </p>
           <p>Là, prise tout d’abord pour un engin explosif, elle fut déficelée, développée, ouverte avec une extrême prudence.</p>
@@ -1133,23 +974,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>« Faire part aux amis et connaissances.</p>
           <p>« U. P. et P. E. »</p>
           <p>C’était l’inexplicable phénomène enfin expliqué aux habitants des Deux Mondes. C’était le calme rendu aux savants des nombreux observatoires qui fonctionnent à la surface du globe terrestre.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel l’ingénieur Robur agit comme s’il voulait concourir pour un des prix Monthyon">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="XII" type="h3">XII</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel l’ingénieur robur agit comme s’il voulait concourir pour un des prix monthyon.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>XII. Dans lequel l’ingénieur Robur agit comme s’il voulait concourir pour un des prix Monthyon</head>
           <p>À cette étape du voyage de circumnavigation de l’<hi>Albatros</hi>, il est certainement permis de se poser les questions suivantes :</p>
           <p>Qu’est-ce donc, ce Robur, dont on ne connaît que le nom jusqu’ici ? Passe-t-il sa vie dans les airs ? Son aéronef ne se repose-t-il jamais ? N’a-t-il pas une retraite en quelque endroit inaccessible, dans laquelle, s’il n’a pas besoin de se reposer, il va du moins se ravitailler ? Il serait étonnant qu’il n’en fût pas ainsi. Les plus puissants volateurs ont toujours une aire ou un nid quelque part.</p>
           <p>Accessoirement, qu’est-ce que l’ingénieur compte faire de ses deux embarrassants prisonniers ? Prétend-il les garder en son pouvoir, les condamner à l’aviation à perpétuité ? Ou bien, après les avoir encore promenés au-dessus de l’Afrique, de l’Amérique du Sud, de l’Australasie, de l’Océan Indien, de l’Atlantique, du Pacifique, pour les convaincre malgré eux, a-t-il l’intention de leur rendre la liberté en disant :</p>
@@ -1178,7 +1005,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>En tout cas, l’ingénieur ne crut pas devoir laisser ignorer au président et au secrétaire du Weldon-Institute qu’ils avaient l’heur extrême de contempler la Reine du Soudan, maintenant au pouvoir des Touâregs de Taganet.</p>
           <p>« Messieurs, Tombouctou ! » leur dit-il du même ton qu’il leur avait déjà dit, douze jours avant : « L’Inde, messieurs ! »</p>
           <p>Puis, il continua :</p>
-          <p>« Tombouctou, par 18° de latitude nord et <seg rend="c2">5° 56′</seg> de longitude à l’ouest du méridien de Paris, avec une côte de deux cent quarante-cinq mètres au-dessus du niveau moyen de la mer. Importante cité de douze à treize mille habitants, jadis illustrée par l’art et la science ! ― Peut-être auriez-vous le désir d’y faire halte pendant quelques jours ? »</p>
+          <p>« Tombouctou, par 18° de latitude nord et 5° 56′ de longitude à l’ouest du méridien de Paris, avec une côte de deux cent quarante-cinq mètres au-dessus du niveau moyen de la mer. Importante cité de douze à treize mille habitants, jadis illustrée par l’art et la science ! ― Peut-être auriez-vous le désir d’y faire halte pendant quelques jours ? »</p>
           <p>Une pareille proposition ne pouvait être qu’ironiquement faite par l’ingénieur.</p>
           <p>« Mais, reprit-il, ce serait dangereux pour des étrangers, au milieu des Nègres, des Berbères, des Foullanes et des Arabes qui l’occupent ― surtout si j’ajoute que notre arrivée en aéronef pourrait bien leur déplaire.</p>
           <p>― Monsieur, répondit Phil Evans sur le même ton, pour avoir le plaisir de vous quitter, nous risquerions volontiers d’être mal reçus de ces indigènes. Prison pour prison, mieux vaut Tombouctou que l’<hi>Albatros</hi> ! </p>
@@ -1236,7 +1063,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Mais le moment de l’hécatombe approchait. Robur, qui connaissait les sanglantes coutumes du Dahomey, ne perdait pas de vue les captifs, hommes, femmes, enfants, réservés à cette boucherie.</p>
           <p>Le minghan se tenait au pied du tertre. Il brandissait son sabre d’exécuteur à lame courbe, surmonté d’un oiseau de métal, dont le poids rend la volte plus assurée. </p>
           <p>Cette fois, il n’était pas seul. Il n’aurait pu suffire à la besogne. Auprès de lui étaient groupés une centaine de bourreaux, habiles à trancher les têtes d’un seul coup.</p>
-          <p>Cependant l’<hi>Albatros</hi> se rapprochait peu à peu, obliquement, en <seg rend="coquille" n="modérant,">modérant</seg> ses hélices suspensives et propulsives. Bientôt il sortit de la couche des nuages qui le cachaient à moins de cent mètres de terre, et, pour la première fois, il apparut.</p>
+          <p>Cependant l’<hi>Albatros</hi> se rapprochait peu à peu, obliquement, en modérant ses hélices suspensives et propulsives. Bientôt il sortit de la couche des nuages qui le cachaient à moins de cent mètres de terre, et, pour la première fois, il apparut.</p>
           <p>Contrairement à ce qui se passait d’habitude, ces féroces indigènes ne virent en lui qu’un être céleste descendu tout exprès pour rendre hommage au roi Bâhadou.</p>
           <p>Alors enthousiasme indescriptible, appels interminables, supplications bruyantes, prières générales, adressées à ce surnaturel hippogriffe qui venait sans doute prendre le corps du roi défunt afin de le transporter dans les hauteurs du ciel dahomien.</p>
           <p>En ce moment, la première tête vola sous le sabre du minghan. Puis, d’autres prisonniers furent amenés par centaines devant leurs horribles bourreaux.</p>
@@ -1256,24 +1083,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Ainsi furent troublées les fêtes en l’honneur du nouveau roi de Dahomey. Ainsi Uncle Prudent et Phil Evans durent reconnaître de quelle puissance disposait un tel appareil, et quels services il pouvait rendre à l’humanité.</p>
           <p>Ensuite, l’<hi>Albatros</hi> remonta tranquillement dans la zone moyenne ; il passa au-dessus de Wydah, et il eut bientôt perdu de vue cette côte sauvage que les vents de sud-ouest entourent d’un inabordable ressac.</p>
           <p>Il planait sur l’Atlantique.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel Uncle Prudent et Phil Evans traversent tout un océan, sans avoir le mal de mer">
-        <div type="section">
-          <div type="section" xml:lang="fr" rend="prp-pages-output">
-            <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-            <head rend="tmp" xml:id="XIII" type="h3">XIII</head>
-            <space quantity="1" unit="line"/>
-            <p rend="c1">dans lequel uncle prudent et phil evans traversent tout un océan, sans avoir le mal de mer.</p>
-            <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>XIII. Dans lequel Uncle Prudent et Phil Evans traversent tout un océan, sans avoir le mal de mer</head>
             <p>Oui, l’Atlantique ! Les craintes des deux collègues s’étaient réalisées. Il ne semblait pas, d’ailleurs, que Robur éprouvât la moindre inquiétude à s’aventurer au-dessus de ce vaste Océan. Cela n’était pas pour le préoccuper, ni ses hommes, qui devaient avoir l’habitude de pareilles traversées. Déjà ils étaient tranquillement rentrés dans le poste. Aucun cauchemar ne dut troubler leur sommeil.</p>
             <p>Où allait l’<hi>Albatros</hi> ? Ainsi que l’avait dit l’ingénieur, devait-il donc faire plus que le tour du monde ? En tout cas, il faudrait bien que ce voyage se terminât quelque part. Que Robur passât sa vie dans les airs, à bord de l’aéronef et n’atterrît jamais, cela n’était pas admissible. Comment eût-il pu renouveler ses approvisionnements en vivres et munitions, sans parler des substances nécessaires au fonctionnement des machines ? Il fallait, de toute nécessité, qu’il eût une retraite, un port de relâche, si l’on veut, en quelque endroit ignoré et inaccessible du globe, où l’<hi>Albatros</hi> pouvait se réapprovisionner. Qu’il eût rompu toute relation avec les habitants de la terre, soit ! mais avec tout point de la surface terrestre, non !</p>
             <p>S’il en était ainsi, où gisait ce point ? Comment l’ingénieur avait-il été amené à le choisir ? Y était-il attendu par une petite colonie dont il était le chef ? Pouvait-il y recruter un nouveau personnel ? Et d’abord, pourquoi ces gens, d’origines diverses, s’étaient-ils attachés à sa fortune ? Puis, de quelles ressources disposait-il pour avoir pu fabriquer un aussi coûteux appareil, dont la construction avait été tenue si secrète ? Il est vrai, son entretien ne semblait pas être dispendieux. À bord, on vivait d’une existence commune, d’une vie de famille, en gens heureux qui ne se cachaient pas de l’être. Mais enfin, quel était ce Robur ? D’où venait-il ? Quel avait été son passé ? Autant d’énigmes impossibles à résoudre, et celui qui en était l’objet ne consentirait jamais, sans doute, à en donner le mot.</p>
@@ -1285,7 +1097,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
             <p>Dans cette zone intertropicale, les plus récents travaux des météorologistes, appuyés sur un grand nombre d’observations, ont permis de reconnaître qu’il y a une convergence des alizés, soit vers le Sahara, soit vers le golfe du Mexique. En dehors de la région des calmes, ou ils viennent de l’ouest et portent vers l’Afrique, ou ils viennent de l’est et portent vers le Nouveau Monde, ― au moins durant la saison chaude.</p>
             <p>L’<hi>Albatros</hi> ne chercha donc point à lutter contre les brises contraires de toute la puissance de ses propulseurs. Il se contenta d’une allure modérée, qui dépassait, d’ailleurs, celle des plus rapides Transatlantiques.</p>
             <p>Le 13 juillet, l’aéronef traversa la ligne équinoxiale, ― ce qui fut annoncé à tout le personnel.</p>
-            <p>C’est ainsi que Uncle Prudent et Phil Evans apprirent qu’ils venaient de quitter l’hémisphère boréal pour l’hémisphère austral. Ce passage de la <seg rend="coquille" n="ligne,">ligne</seg> n’entraîna aucune des épreuves et cérémonies dont il est accompagné à bord de certains navires de guerre ou de commerce.</p>
+            <p>C’est ainsi que Uncle Prudent et Phil Evans apprirent qu’ils venaient de quitter l’hémisphère boréal pour l’hémisphère austral. Ce passage de la ligne n’entraîna aucune des épreuves et cérémonies dont il est accompagné à bord de certains navires de guerre ou de commerce.</p>
             <p>Seul, François Tapage se contenta de verser une pinte d’eau dans le cou de Frycollin ; mais, comme ce baptême fut suivi de quelques verres de gin, le nègre se déclara prêt à passer la ligne autant de fois qu’on le voudrait, pourvu que ce ne fût pas sur le dos d’un oiseau mécanique qui ne lui inspirait aucune confiance.</p>
             <p>Dans la matinée du 15, l’<hi>Albatros</hi> fila entre les îles de l’Ascension et de Sainte-Hélène, ― toutefois plus près de cette dernière, dont les hautes terres se montrèrent à l’horizon pendant quelques heures.</p>
             <p>Certes, à l’époque où Napoléon était au pouvoir des Anglais, s’il eût existé un appareil analogue à celui de l’ingénieur Robur, Hudson Lowe, en dépit de ses insultantes précautions, aurait bien pu voir son illustre prisonnier lui échapper par la voie des airs !</p>
@@ -1344,23 +1156,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
             <p>Ce jour-là, au moment où le soleil allait se coucher, vers trois heures de l’après-midi, apparut un vaste lac, encadré dans une bordure de forêts superbes. Ce lac était alors entièrement glacé, et quelques indigènes, leurs longues raquettes aux pieds, glissaient rapidement à la surface.</p>
             <p>En réalité, à la vue de l’appareil, ces Fuégiens, au comble de l’épouvante, fuyaient en toutes directions, et, quand ils ne pouvaient fuir, ils se cachaient, ils se terraient comme des animaux. </p>
             <p>L’<hi>Albatros</hi> ne cessa de marcher vers le sud, au-delà du canal de Beagle, plus loin que l’île de Navarin, dont le nom grec détonne quelque peu entre les noms rudes de ces terres lointaines, plus loin que l’île de Wollaston, baignée par les dernières eaux du Pacifique. Enfin, après avoir franchi sept mille cinq cents kilomètres depuis la côte du Dahomey, il dépassa les extrêmes îlots de l’archipel de Magellan, puis, le plus avancé de tous vers le sud, dont la pointe est rongée d’un éternel ressac, le terrible cap Horn.</p>
-          </div>
-          
-        </div>
       </div>
-      <div type="section" n="Dans lequel l’Albatros fait ce qu’on ne pourra peut-être jamais faire">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="XIV" type="h3">XIV</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel l’albatros fait ce qu’on ne pourra peut-être jamais faire.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>XIV. Dans lequel l’Albatros fait ce qu’on ne pourra peut-être jamais faire</head>
           <p>On était, le lendemain, au 24 juillet. Or, le 24 juillet de l’hémisphère austral, c’est le 24 janvier de l’hémisphère boréal. De plus, le cinquante-sixième degré de latitude venait d’être laissé en arrière, et ce degré correspond au parallèle qui, dans le nord de l’Europe, traverse l’Écosse à la hauteur d’Édimbourg.</p>
           <p>Aussi le thermomètre se tenait-il constamment dans une moyenne inférieure à zéro. Il avait donc fallu demander un peu de chaleur artificielle aux appareils destinés à chauffer les roufles de l’aéronef.</p>
           <p>Il va sans dire également que, si la durée des jours tendait à s’accroître depuis le solstice du 21 juin de l’hiver austral, cette durée diminuait dans une proportion bien plus considérable, par ce fait que l’<hi>Albatros</hi> descendait vers les régions polaires.</p>
@@ -1397,7 +1195,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>C’était bien une embarcation. Sa voile battait sur le mât. Faute de vent, elle ne pouvait plus se diriger. À bord, sans doute, personne n’avait la force de manier un aviron. </p>
           <p>Au fond étaient cinq hommes, endormis ou immobilisés par la fatigue, à moins qu’ils ne fussent morts.</p>
           <p>L’<hi>Albatros</hi>, arrivé au-dessus d’eux, descendit lentement.</p>
-          <p>À l’arrière de cette embarcation, on put lire alors le nom du navire auquel elle <seg rend="coquille" n="appartenait c’était,">appartenait, c’était</seg> la <hi>Jeannette</hi>, de Nantes, un navire français que son équipage avait dû abandonner.</p>
+          <p>À l’arrière de cette embarcation, on put lire alors le nom du navire auquel elle appartenait, c’était la <hi>Jeannette</hi>, de Nantes, un navire français que son équipage avait dû abandonner.</p>
           <p>« Aoh ! » cria Tom Turner.</p>
           <p>Et on devait l’entendre, car l’embarcation n’était pas à quatre-vingts pieds au-dessous de lui.</p>
           <p>Pas de réponse.</p>
@@ -1485,23 +1283,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Le vent avait tout à fait calmi, ― circonstance favorable pour la manœuvre qu’il s’agissait d’exécuter. Au moins, puisqu’il resterait stationnaire, l’<hi>Albatros</hi> ne serait pas emporté on ne savait où.</p>
           <p>Un long câble de cent cinquante pieds, avec une ancre au bout, fut envoyé par-dessus le bord. Lorsque l’aéronef arriva à la lisière de l’île, l’ancre râcla les premiers écueils, puis s’engagea solidement entre deux roches. Le câble se tendit alors sous l’effet des hélices suspensives, et l’<hi>Albatros</hi> resta immobile, comme un navire dont on a porté l’ancre au rivage.</p>
           <p>C’était la première fois qu’il se rattachait à la terre depuis son départ de Philadelphie.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel il se passe des choses qui méritent vraiment la peine d’être racontées">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="XV" type="h3">XV</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel il se passe des choses qui méritent vraiment la peine d’être racontées.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>XV. Dans lequel il se passe des choses qui méritent vraiment la peine d’être racontées</head>
           <p>Lorsque l’<hi>Albatros</hi> occupait encore une zone élevée, on avait pu reconnaître que cette île était de médiocre grandeur. Mais quel était le parallèle qui la coupait ? Sur quel méridien l’avait-on accostée ? Était-ce une île du Pacifique, de l’Australasie, de l’Océan Indien ? On ne le saurait que lorsque Robur aurait fait son point. Cependant, bien qu’il n’eût pu tenir compte des indications du compas, il avait lieu de penser qu’il était plutôt sur le Pacifique. Dès que le soleil se montrerait, les circonstances seraient excellentes pour obtenir une bonne observation.</p>
           <p>De cette hauteur, ― cent cinquante pieds, ― l’île, qui mesurait environ quinze milles de circonférence, se dessinait comme une étoile de mer à trois pointes.</p>
           <p>À la pointe du sud-est émergeait un îlot, précédé d’un semis de roches. Sur la lisière, aucun relais de marées — ce qui tendait à confirmer l’opinion de Robur relativement à sa situation, puisque le flux et le reflux sont presque nuls dans l’Océan Pacifique.</p>
@@ -1623,23 +1407,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>« Ah ! les gueux ! » s’écria Uncle Prudent.</p>
           <p>Et, son couteau à la main, il se précipita vers les roches entre lesquelles était incrustée l’ancre. L’aéronef n’était plus qu’à cinquante pieds du sol…</p>
           <p>En quelques secondes, le câble fut coupé, et la brise, qui avait sensiblement fraîchi, prenant de biais l’<hi>Albatros</hi>, l’entraîna dans le nord-est, au-dessus de la mer.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Qui laissera le lecteur dans une indécision peut-être regrettable">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="XVI" type="h3">XVI</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">qui laissera le lecteur dans une indécision peut-être regrettable.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>XVI. Qui laissera le lecteur dans une indécision peut-être regrettable</head>
           <p>Il était alors minuit vingt. Cinq ou six coups de fusil avaient encore été tirés de l’aéronef. Uncle Prudent et Frycollin, soutenant Phil Evans, s’étaient jetés à l’abri des roches. Ils n’avaient pas été atteints. Pour l’instant, ils n’avaient plus rien à craindre.</p>
           <p>Tout d’abord, l’<hi>Albatros</hi>, en même temps qu’il s’écartait de l’île Chatam, fut porté à une altitude de neuf cents mètres. Il avait fallu forcer de vitesse ascensionnelle afin de ne pas tomber en mer.</p>
           <p>Au moment où l’homme de garde, délivré de son bâillon, venait de jeter un premier cri, Robur et Tom Turner, se précipitant vers lui, l’avaient débarrassé du morceau de toile qui l’encapuchonnait et dégagé de ses liens. Puis, le contremaître s’était élancé vers la cabine d’Uncle Prudent et de Phil Evans ; elle était vide !</p>
@@ -1705,23 +1475,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Ce fut alors que Robur, avec un à-propos qui dénotait un extraordinaire sang-froid, se laissant glisser jusqu’au roufle à demi-disloqué, saisit le levier de mise en train, et changea le sens de la rotation de l’hélice qui, de propulsive qu’elle était, devint suspensive.</p>
           <p>Chute, assurément, bien qu’elle fût quelque peu retardée ; mais, du moins, l’épave ne tomba pas avec cette vitesse croissante des corps abandonnés aux effets de la pesanteur. Et, si c’était toujours la mort pour les survivants de l’<hi>Albatros</hi>, puisqu’ils étaient précipités dans la mer, ce n’était plus la mort par asphyxie, au milieu d’un air que la rapidité de la descente eût rendu irrespirable.</p>
           <p>Quatre-vingts secondes au plus après l’explosion, ce qui restait de l’<hi>Albatros</hi> s’était abîmé dans les flots.</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Dans lequel on revient à deux mois en arrière et où l’on saute à neuf mois en avant">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="XVII" type="h3">XVII</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">dans lequel on revient à deux mois en arrière et où l’on saute à neuf mois en avant.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>XVII. Dans lequel on revient à deux mois en arrière et où l’on saute à neuf mois en avant</head>
           <p>Quelques semaines auparavant, le 13 juin, au lendemain de cette séance pendant laquelle le Weldon-Institute s’était abandonné à de si orageuses discussions, il y avait eu dans toutes les classes de la population philadelphienne, noire ou blanche, une émotion plus facile à constater qu’à décrire.</p>
           <p>Déjà, aux premières heures de la matinée, les conversations portaient uniquement sur l’inattendu et scandaleux incident de la veille. Un intrus, qui se disait ingénieur, un ingénieur qui prétendait s’appeler de cet invraisemblable nom de Robur, ― Robur-le-Conquérant ! ― un personnage d’origine inconnue, de nationalité anonyme, s’était présenté inopinément dans la salle des séances, avait insulté les ballonistes, honni les dirigeurs d’aérostats, vanté les merveilles des appareils plus lourds que l’air, soulevé des huées au milieu d’un tumulte épouvantable, provoqué des menaces qu’il avait retournées contre ses adversaires. Enfin, après avoir abandonné la tribune dans le tapage des revolvers, il avait disparu, et, malgré toutes les recherches, on n’avait plus entendu parler de lui.</p>
           <p>Assurément, cela était bien fait pour exercer toutes les langues, enflammer toutes les imaginations. On ne s’en fit pas faute à Philadelphie, ni dans les trente-six autres États de l’Union, et, pour dire le vrai, aussi bien dans l’Ancien que dans le Nouveau Monde.</p>
@@ -1748,7 +1504,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>En effet, l’objet mystérieux avait été revu ou plutôt entrevu à diverses reprises dans les hautes couches de l’atmosphère. Certes, personne ne songeait à établir une connexité entre cette réapparition si singulière et la disparition non moins inexplicable des deux membres du Weldon-Institute. En effet, il eût fallu une extraordinaire dose d’imagination pour rapprocher ces deux faits l’un de l’autre.</p>
           <p>Quoi qu’il en soit, l’astéroïde, le bolide, le monstre aérien, comme on voudra l’appeler, avait été réaperçu dans des conditions qui permettaient de mieux apprécier ses dimensions et sa forme. Au Canada, d’abord, au-dessus de ces territoires qui s’étendent d’Ottawa à Québec, et cela le lendemain même de la disparition des deux collègues ; puis, plus tard, au-dessus des plaines du Far-West, alors qu’il luttait de vitesse avec un train du grand chemin de fer du Pacifique.</p>
           <p>À partir de ce jour, les incertitudes du monde savant furent fixées. Ce corps n’était point un produit de la nature ; c’était un appareil volant, avec application pratique de la théorie du « Plus lourd que l’air ». Et, si le créateur, le maître de cet aéronef voulait encore garder l’incognito pour sa personne, évidemment il n’y tenait plus pour sa machine, puisqu’il venait de la montrer de si près sur les territoires du Far-West. Quant à la force mécanique dont il disposait, quant à la nature des engins qui lui communiquaient le mouvement, c’était l’inconnu. En tout cas, ce qui ne laissait aucun doute, c’est que cet aéronef devait être doué d’une extraordinaire faculté de locomotion. En effet, quelques jours après, il avait été signalé dans le Céleste Empire, puis sur la partie septentrionale de l’Indoustan, puis au-dessus des immenses steppes de la Russie.</p>
-          <p>Quel était donc ce hardi mécanicien qui possédait une telle puissance de locomotion, pour lequel les États n’avaient plus de frontières ni les océans de <seg rend="coquille" n="imites">limites</seg>, qui disposait de l’atmosphère terrestre comme d’un domaine ? Devait-on penser que ce fût ce Robur, dont les théories avaient été si brutalement lancées à la face du Weldon-Institute, le jour où il vint battre en brèche cette utopie des ballons dirigeables ?</p>
+          <p>Quel était donc ce hardi mécanicien qui possédait une telle puissance de locomotion, pour lequel les États n’avaient plus de frontières ni les océans de limites, qui disposait de l’atmosphère terrestre comme d’un domaine ? Devait-on penser que ce fût ce Robur, dont les théories avaient été si brutalement lancées à la face du Weldon-Institute, le jour où il vint battre en brèche cette utopie des ballons dirigeables ?</p>
           <p>Peut-être quelques esprits perspicaces en eurent-ils la pensée. Mais ― chose singulière assurément ― personne ne songea à cette hypothèse que ledit Robur pût se rattacher en quoi que ce fût à la disparition du président et du secrétaire du Weldon-Institute.</p>
           <p>En somme, cela fût resté à l’état de mystère, sans une dépêche qui arriva de France en Amérique par le fil de New-York, à onze heures trente-sept, dans la journée du 6 juillet.</p>
           <p>Et qu’apportait cette dépêche ? C’était le texte du document trouvé à Paris dans une tabatière ― document qui révélait ce qu’étaient devenus les deux personnages dont l’Union allait prendre le deuil.</p>
@@ -1757,7 +1513,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Très bien. C’étaient des arguments. Les incrédules avaient encore le droit de douter. Mais, ce droit, ils ne l’eurent plus, sept jours après l’arrivée du télégramme. Le 13 juillet, le paquebot français <hi>Normandie</hi> avait mouillé dans les eaux de l’Hudson, et il apportait la fameuse tabatière. Le railway de New-York l’expédia en toute hâte à Philadelphie.</p>
           <p>C’était bien la tabatière du président du Weldon-Institute. Jem Cip n’aurait pas mal fait, ce jour-là, de prendre une nourriture plus substantielle, car il faillit tomber en pâmoison, quand il la reconnut. Que de fois il y avait puisé la prise de l’amitié ! Et miss Doll et miss Mat la reconnurent aussi, cette tabatière, qu’elles avaient si souvent regardée avec l’espoir d’y plonger, un jour, leurs maigres doigts de vieilles filles ! Puis ce furent leur père, William T. Forbes, Truk Milnor, Bat T. Fyn et bien d’autres du Weldon-Institute ! Cent fois ils l’avaient vue s’ouvrir et se refermer entre les mains de leur vénéré président. Enfin elle eut pour elle le témoignage de tous les amis que comptait Uncle Prudent dans cette bonne cité de Philadelphie, dont le nom indique, ― on ne saurait trop le répéter, ― que ses habitants s’aiment comme des frères.</p>
           <p>Ainsi il n’était pas permis de conserver l’ombre d’un doute à cet égard. Non seulement la tabatière du président, mais l’écriture, tracée sur le document, ne permettaient plus aux incrédules de hocher la tête. Alors les lamentations commencèrent, les mains désespérées se levèrent vers le ciel. Uncle Prudent et son collègue, emportés dans un appareil volant, sans qu’on pût même entrevoir un moyen de les délivrer !</p>
-          <p>La Compagnie du Niagara-Falls, dont Uncle Prudent était le plus gros actionnaire, faillit suspendre ses affaires et arrêter ses chutes. La <seg rend="coquille c2" n="''Walton-Watch Company'',">Walton-Watch Company</seg> songea à liquider son usine à montres, maintenant qu’elle avait perdu son directeur, Phil Evans.</p>
+          <p>La Compagnie du Niagara-Falls, dont Uncle Prudent était le plus gros actionnaire, faillit suspendre ses affaires et arrêter ses chutes. La Walton-Watch Company songea à liquider son usine à montres, maintenant qu’elle avait perdu son directeur, Phil Evans.</p>
           <p>Oui ! ce fut un deuil général, et le mot deuil n’est pas exagéré, car, à part quelques cerveaux brûlés comme il s’en rencontre même aux États-Unis, on n’espérait plus jamais revoir ces deux honorables citoyens.</p>
           <p>Cependant, après son passage au-dessus de Paris, on n’entendit plus parler de l’<hi>Albatros</hi>. Quelques heures plus tard, il avait été aperçu au-dessus de Rome, et c’était tout. Il ne faut pas s’en étonner, étant donné la vitesse avec laquelle l’aéronef avait traversé l’Europe du nord au sud, et la Méditerranée de l’ouest à l’est. Grâce à cette vitesse, aucune lunette n’avait pu le saisir sur un point quelconque de sa trajectoire. Tous les observatoires eurent beau mettre leur personnel à l’affût nuit et jour, la machine volante de Robur-le-Conquérant s’en était allée ou si loin ou si haut, ― en Icarie, comme il le disait, ― qu’on désespéra d’en jamais retrouver la trace.</p>
           <p>Il convient d’ajouter que, si sa rapidité fut plus modérée au-dessus du littoral de l’Afrique, comme le document n’était pas encore connu, on ne s’avisa pas de chercher l’aéronef dans les hauteurs du ciel algérien. Assurément, il fut aperçu au-dessus de Tombouctou ; mais l’observatoire de cette ville célèbre, ― s’il y en a un, ― n’avait pas encore eu le temps d’envoyer en Europe le résultat de ses observations. Quant au roi du Dahomey, il aurait plutôt fait couper la tête à vingt mille de ses sujets, y compris ses ministres, que d’avouer qu’il avait eu le dessous dans sa lutte avec un appareil aérien. Question d’amour-propre.</p>
@@ -1779,7 +1535,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Les fugitifs n’avaient plus rien à craindre. Comment Robur aurait-il pu revenir sur l’île, puisque ses hélices devaient encore être hors d’état de fonctionner pendant trois ou quatre heures ?</p>
           <p>D’ici là, l’<hi>Albatros</hi>, détruit par l’explosion, ne serait plus qu’une épave flottant sur la mer, et ceux qu’il portait, des cadavres déchirés que l’Océan ne pourrait pas même rendre.</p>
           <p>L’acte de vengeance aurait été accompli dans toute son horreur.</p>
-          <p>Uncle <seg rend="coquille" n="prudent">Prudent</seg> et Phil Evans, se considérant comme en état de légitime défense, n’avaient pas eu un remords.</p>
+          <p>Uncle Prudent et Phil Evans, se considérant comme en état de légitime défense, n’avaient pas eu un remords.</p>
           <p>Phil Evans n’était que légèrement blessé par la balle lancée de l’<hi>Albatros</hi>. Aussi tous trois s’occupèrent de remonter le littoral avec l’espoir de rencontrer quelques indigènes.</p>
           <p>Cet espoir ne fut pas trompé. Une cinquantaine de naturels, vivant de la pêche, habitaient la côte occidentale de Chatam. Ils avaient vu l’aéronef descendre sur l’île. Ils firent aux fugitifs l’accueil que méritaient des êtres surnaturels. On les adora, ou peu s’en faut. On les logea dans la plus confortable des cases. Jamais Frycollin ne retrouverait une pareille occasion de passer pour le Dieu des noirs.</p>
           <p>Ainsi qu’ils l’avaient prévu, Uncle Prudent et Phil Evans ne virent pas revenir l’aéronef. Ils devaient en conclure que la catastrophe avait dû se produire dans quelque haute zone de l’atmosphère. On n’entendrait plus jamais parler de l’ingénieur Robur ni de la prodigieuse machine que ses compagnons montaient avec lui.</p>
@@ -1800,23 +1556,9 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Après tout, il y avait peut-être dans ce mystère quelque secret qui ne pouvait encore être divulgué.</p>
           <p>Et alors Uncle Prudent, reprenant la parole au milieu d’un silence jusqu’alors inconnu dans les séances du Weldon-Institute :</p>
           <p>« Messieurs, dit-il, il ne reste plus maintenant qu’à terminer l’aérostat le <hi>Go a head</hi> auquel il appartient de faire la conquête de l’air. ― La séance est levée. »</p>
-          <space quantity="1" unit="line"/>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      <div type="section" n="Qui termine cette véridique histoire de l’Albatros, sans la terminer">
-        <div type="section">
-          <p>
-
-<meta/>
-
-<meta/>
-<meta/>
-<meta/></p>
-          <head rend="tmp" xml:id="XVIII" type="h3">XVIII</head>
-          <space quantity="1" unit="line"/>
-          <p rend="c1">qui termine cette véridique histoire de l’albatros, sans la terminer.</p>
-          <space quantity="1" unit="line"/>
+      <div type="chapter">
+<head>XVIII. Qui termine cette véridique histoire de l’Albatros, sans la terminer</head>
           <p>Le 29 avril de l’année suivante, sept mois après le retour si imprévu de Uncle Prudent et de Phil Evans, Philadelphie était tout en mouvement. Rien de politique pour cette fois. Il ne s’agissait ni d’élections ni de meetings. L’aérostat le <hi>Go a head</hi>, achevé par les soins du Weldon-Institute, allait enfin prendre possession de son élément naturel.</p>
           <p>Pour aéronaute, le célèbre Harry W. Tinder, dont le nom a été prononcé au commencement de ce récit, ― plus un aide-aérostier.</p>
           <p>Pour passagers, le président et le secrétaire du Weldon-Institute. Ne méritaient-ils pas un tel honneur ? Ne leur appartenait-il pas de venir en personne protester contre tout appareil qui reposerait sur le principe du « Plus lourd que l’air ? »</p>
@@ -1830,7 +1572,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Dans cette matinée du 29 avril, tout était prêt. Dès onze heures, l’énorme aérostat se balançait à quelques pieds du sol, prêt à s’élever au milieu des airs.</p>
           <p>Temps admirable et fait exprès pour cette importante expérience. En somme, peut-être aurait-il mieux valu que la brise eût été plus forte, ce qui aurait rendu l’épreuve plus concluante. En effet, on n’a jamais mis en doute qu’un ballon pût être dirigé dans un air calme ; mais, au milieu d’une atmosphère en mouvement, c’est autre chose, et c’est dans ces conditions que les expériences doivent être tentées.</p>
           <p>Enfin, il n’y avait pas de vent ni apparence qu’il dût se lever. Ce jour-là, par extraordinaire, l’Amérique du Nord ne se disposait point à envoyer à l’Europe occidentale une des bonnes tempêtes de son inépuisable réserve, et jamais jour n’eût été mieux choisi pour le succès d’une expérience aéronautique.</p>
-          <p><seg rend="coquille" n="Faut il">Faut-il</seg> parler de la foule immense réunie dans Fairmont-Park, des nombreux trains qui avaient versé sur la capitale de la Pensylvanie les curieux de tous les états environnants, de la suspension de la vie industrielle et commerciale qui permettait à tous de venir assister à ce spectacle, patrons, employés, ouvriers, hommes, femmes, vieillards, enfants, membres du Congrès, représentants de l’armée, magistrats, reporters, indigènes blancs et noirs, entassés dans la vaste clairière ? Faut-il décrire les émotions bruyantes de ce populaire, ces mouvements inexplicables, ces poussées soudaines qui rendaient la masse palpitante et houleuse ? Faut-il chiffrer les hips ! hips ! hips ! qui éclatèrent de toutes parts comme des détonations de boîtes d’artifice, lorsque Uncle Prudent et Phil Evans parurent sur la plate-forme, au-dessous de l’aérostat pavoisé aux couleurs américaines ? Faut-il avouer enfin que le plus grand nombre des curieux n’était peut-être pas venu pour voir le <hi>Go a head</hi>, mais pour contempler ces deux hommes extraordinaires que l’Ancien Monde enviait au Nouveau ?</p>
+          <p>Faut-il parler de la foule immense réunie dans Fairmont-Park, des nombreux trains qui avaient versé sur la capitale de la Pensylvanie les curieux de tous les états environnants, de la suspension de la vie industrielle et commerciale qui permettait à tous de venir assister à ce spectacle, patrons, employés, ouvriers, hommes, femmes, vieillards, enfants, membres du Congrès, représentants de l’armée, magistrats, reporters, indigènes blancs et noirs, entassés dans la vaste clairière ? Faut-il décrire les émotions bruyantes de ce populaire, ces mouvements inexplicables, ces poussées soudaines qui rendaient la masse palpitante et houleuse ? Faut-il chiffrer les hips ! hips ! hips ! qui éclatèrent de toutes parts comme des détonations de boîtes d’artifice, lorsque Uncle Prudent et Phil Evans parurent sur la plate-forme, au-dessous de l’aérostat pavoisé aux couleurs américaines ? Faut-il avouer enfin que le plus grand nombre des curieux n’était peut-être pas venu pour voir le <hi>Go a head</hi>, mais pour contempler ces deux hommes extraordinaires que l’Ancien Monde enviait au Nouveau ?</p>
           <p>Pourquoi deux et non trois ? Pourquoi pas Frycollin ? C’est que Frycollin trouvait que la campagne de l’<hi>Albatros</hi> suffisait à sa célébrité. Il avait décliné l’honneur d’accompagner son maître. Il n’eut donc point sa part des acclamations frénétiques qui accueillirent le président et le secrétaire du Weldon-Institute. </p>
           <p>Il va sans dire que, de tous les membres de l’illustre assemblée, pas un ne manquait aux places réservées en dedans des cordes et piquets qui formaient enceinte au milieu de la clairière. Là étaient Truk Milnor, Bat T. Fyn, William T. Forbes, ayant au bras ses deux filles, miss Doll et miss Mat. Tous étaient venus affirmer par leur présence que rien ne pourrait jamais séparer les partisans du « Plus léger que l’air ! »</p>
           <p>Vers onze heures vingt, un coup de canon annonça la fin des derniers préparatifs.</p>
@@ -1842,25 +1584,25 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>« Lâchez tout ! » cria Uncle Prudent, qui lança la formule sacramentelle.</p>
           <p>Et le <hi>Go a head</hi> s’éleva « majestueusement », ― adverbe consacré par l’usage dans les descriptions aérostatiques.</p>
           <p>En vérité, c’était un spectacle superbe ! On eût dit d’un vaisseau qui vient de quitter son chantier de construction. Et n’était-ce pas un vaisseau, lancé sur la mer aérienne ?</p>
-          <p>Le <hi>Go a head</hi> monta suivant une rigoureuse verticale, ― preuve du calme absolu de l’atmosphère, ― et il s’arrêta à une altitude de deux cent cinquante <seg rend="coquille" n="mètres">mètres.</seg></p>
+          <p>Le <hi>Go a head</hi> monta suivant une rigoureuse verticale, ― preuve du calme absolu de l’atmosphère, ― et il s’arrêta à une altitude de deux cent cinquante mètres.</p>
           <p>Là, commencèrent les manœuvres en déplacement horizontal. Le <hi>Go a head</hi>, poussé par ses deux hélices, alla au-devant du soleil avec une vitesse d’une dizaine de mètres à la seconde. C’est la vitesse de la baleine franche au milieu des couches liquides. Et il ne messied pas de le comparer à cette géante des mers boréales, puisqu’il avait aussi la forme de cet énorme cétacé.</p>
           <p>Une nouvelle salve de hurrahs monta vers les habiles aéronautes.</p>
           <p>Puis, sous l’action de son gouvernail, le <hi>Go a head</hi> se livra à toutes les évolutions circulaires, obliques, rectilignes, que lui imprimait la main du timonier. Il tourna dans un cercle restreint, il marcha en avant, en arrière, de façon à convaincre les plus réfractaires à la direction des ballons, ― s’il y en avait eu !… S’il y en avait eu, on les aurait écharpés.</p>
-          <p>Mais pourquoi le vent <seg rend="coquille" n="manquat-il">manquait-il</seg> à cette magnifique expérience ? Ce fut regrettable. On aurait vu, sans doute, le <hi>Go a head</hi> exécuter, sans une hésitation, tous les mouvements, soit en déviant par l’oblique comme un navire à voiles qui marche au plus près, soit en remontant les courants de l’air comme un navire à vapeur.</p>
+          <p>Mais pourquoi le vent manquait-il à cette magnifique expérience ? Ce fut regrettable. On aurait vu, sans doute, le <hi>Go a head</hi> exécuter, sans une hésitation, tous les mouvements, soit en déviant par l’oblique comme un navire à voiles qui marche au plus près, soit en remontant les courants de l’air comme un navire à vapeur.</p>
           <p>En ce moment, l’aérostat se releva dans l’espace de quelques centaines de mètres.</p>
           <p>On comprit la manœuvre. Uncle Prudent et ses compagnons allaient tenter de trouver un courant quelconque dans de plus hautes zones, afin de compléter l’épreuve. Du reste, un système de ballonneaux intérieurs analogues à la vessie natatoire des poissons et dans lesquels on pouvait introduire une certaine quantité d’air, au moyen de pompes, lui permettait de se déplacer verticalement. Sans jamais jeter de lest pour monter ni perdre de gaz pour descendre, il était en mesure de s’élever ou de s’abaisser dans l’atmosphère, au gré de l’aéronaute. Toutefois, il avait été muni d’une soupape à son hémisphère supérieur, pour le cas où il eût été obligé à quelque rapide descente. C’était, en somme, l’application de systèmes déjà connus, mais poussés à un extrême degré de perfection.</p>
           <p>Le <hi>Go a head</hi> s’élevait donc en suivant une ligne verticale. Ses énormes dimensions diminuaient graduellement aux regards, comme par un effet d’optique. Ce n’est pas ce qu’il y a de moins curieux pour les spectateurs, dont les vertèbres du cou se brisent à regarder en l’air. L’énorme baleine devenait peu à peu un marsouin, en attendant qu’elle fût réduite à l’état de simple goujon. </p>
           <p>Le mouvement ascensionnel ne cessant pas, le <hi>Go a head</hi> atteignit une altitude de quatre mille mètres. Mais, dans ce ciel si pur, sans une traînée de brume, il resta constamment visible.</p>
           <p>Cependant, il se maintenait toujours au-dessus de la clairière, comme s’il eût été attaché par des fils divergents. Une immense cloche eût emprisonné l’atmosphère qu’elle n’aurait pas été plus immobilisée. Pas un souffle de vent ni à cette hauteur ni à aucune autre. L’aérostat évoluait sans rencontrer aucune résistance, très rapetissé par l’éloignement, comme si on l’eût regardé par le petit bout d’une lorgnette.</p>
           <p>Tout à coup, un cri s’éleva de la foule, un cri suivi de cent mille autres. Tous les bras se tendirent vers un point de l’horizon. Ce point, c’était le nord-ouest.</p>
-          <p>Là, dans le profond azur, est apparu un corps mobile qui s’approche et grandit. Est-ce un oiseau battant des ailes les hautes couches de l’espace ? <seg rend="coquille" n="Est ce">Est-ce</seg> un bolide dont la trajectoire coupe obliquement l’atmosphère ? En tout cas, il est doué d’une vitesse excessive, et il ne peut tarder à passer au-dessus de la foule.</p>
+          <p>Là, dans le profond azur, est apparu un corps mobile qui s’approche et grandit. Est-ce un oiseau battant des ailes les hautes couches de l’espace ? Est-ce un bolide dont la trajectoire coupe obliquement l’atmosphère ? En tout cas, il est doué d’une vitesse excessive, et il ne peut tarder à passer au-dessus de la foule.</p>
           <p>Un soupçon, qui se communique électriquement à tous les cerveaux, court sur toute la clairière.</p>
           <p>Mais il semble que le <hi>Go a head</hi> a vu cet étrange objet. Assurément, il a senti qu’un danger le menace, car sa vitesse est augmentée, et il a pris chasse vers l’est.</p>
           <p>Oui ! la foule a compris ! Un nom, jeté par un des membres du Weldon-Institute, a été répété par cent mille bouches :</p>
           <p>« L’<hi>Albatros</hi> !… L’<hi>Albatros</hi> !… »</p>
           <p>C’est l’<hi>Albatros</hi>, en effet ! C’est Robur qui reparaît dans les hauteurs du ciel ! C’est lui qui, semblable à un gigantesque oiseau de proie, va fondre sur le <hi>Go a head</hi> !</p>
           <p>Et pourtant, neuf mois avant, l’aéronef, brisé par l’explosion, ses hélices rompues, sa plate-forme coupée en deux, a été anéanti. Sans le sang-froid prodigieux de l’ingénieur, qui modifia le sens giratoire du propulseur de l’avant et le changea en une hélice suspensive, tout le personnel de l’<hi>Albatros</hi> eût été asphyxié par la rapidité même de la chute. Mais, s’ils avaient pu échapper à l’asphyxie, comment lui et les siens ne s’étaient-ils pas noyés dans les eaux du Pacifique ?</p>
-          <p>C’est que les débris de sa plate-forme, les ailes des propulseurs, les cloisons des roufles, tout ce qui restait de l’<hi>Albatros</hi>, constituait une épave. Si l’oiseau blessé était tombé dans les <seg rend="coquille" n="flots ;">flots,</seg> ses ailes le soutinrent encore sur les lames. Pendant quelques heures, Robur et ses hommes restèrent d’abord sur cette épave, puis, dans le canot de caoutchouc qu’ils avaient retrouvé à la surface de l’Océan.</p>
+          <p>C’est que les débris de sa plate-forme, les ailes des propulseurs, les cloisons des roufles, tout ce qui restait de l’<hi>Albatros</hi>, constituait une épave. Si l’oiseau blessé était tombé dans les flots, ses ailes le soutinrent encore sur les lames. Pendant quelques heures, Robur et ses hommes restèrent d’abord sur cette épave, puis, dans le canot de caoutchouc qu’ils avaient retrouvé à la surface de l’Océan.</p>
           <p>La Providence, pour ceux qui croient à l’intervention divine dans les choses humaines, ― le hasard, pour ceux qui ont la faiblesse de ne pas croire à la Providence, ― vint au secours des naufragés.</p>
           <p>Un navire les aperçut, quelques heures après le lever du soleil. Ce navire mit une embarcation à la mer. Il recueillit non seulement Robur et ses compagnons, mais aussi les débris flottants de l’aéronef. L’ingénieur se contenta de dire que son bâtiment avait péri dans une collision, et son incognito fut respecté.</p>
           <p>Ce navire était un trois-mâts anglais, le <hi>Two Friends</hi>, de Liverpool. Il se dirigeait vers Melbourne, où il arriva quelques jours après.</p>
@@ -1874,7 +1616,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Oui ! c’était l’<hi>Albatros</hi>, facile à reconnaître, même de tous ceux qui ne l’avaient jamais vu !</p>
           <p>Le <hi>Go a head</hi> fuyait toujours. Mais il comprit bientôt qu’il ne pourrait jamais échapper par une fuite horizontale. Aussi, son salut, le chercha-t-il par une fuite verticale, non en se rapprochant du sol, car l’aéronef aurait pu lui barrer la route, mais en s’élevant dans l’air, en allant dans une zone où il ne pourrait peut-être pas être atteint. C’était très audacieux, en même temps très logique.</p>
           <p>Cependant l’<hi>Albatros</hi> commençait à s’élever avec lui. Bien plus petit que le <hi>Go a head</hi>, c’était l’espadon à la poursuite de la baleine qu’il perce de son dard, c’était le torpilleur courant sur le cuirassé qu’il va faire sauter d’un seul coup. </p>
-          <p>On le vit bien, et avec quelle angoisse ! En quelques instants l’aérostat eut atteint cinq mille mètres de hauteur. L’<hi>Albatros</hi> l’avait suivi dans son mouvement <seg rend="coquille" n="ascensionnel">ascensionnel.</seg> Il évoluait sur ses flancs. Il l’enserrait dans un cercle dont le rayon diminuait à chaque tour. Il pouvait l’anéantir d’un bond, en crevant sa fragile enveloppe. Alors Uncle Prudent et ses compagnons eussent été broyés dans une effroyable chute !</p>
+          <p>On le vit bien, et avec quelle angoisse ! En quelques instants l’aérostat eut atteint cinq mille mètres de hauteur. L’<hi>Albatros</hi> l’avait suivi dans son mouvement ascensionnel. Il évoluait sur ses flancs. Il l’enserrait dans un cercle dont le rayon diminuait à chaque tour. Il pouvait l’anéantir d’un bond, en crevant sa fragile enveloppe. Alors Uncle Prudent et ses compagnons eussent été broyés dans une effroyable chute !</p>
           <p>Le public, muet d’horreur, haletant, était saisi de cette sorte d’épouvante qui oppresse la poitrine, qui prend aux jambes, quand on voit tomber quelqu’un d’une grande hauteur. Un combat aérien se préparait, combat où ne s’offraient même pas les chances de salut d’un combat naval, ― le premier de ce genre, mais qui ne sera pas le dernier, sans doute, puisque le progrès est une des lois de ce monde. Et si le <hi>Go a head</hi> portait à son cercle équatorial les couleurs américaines, l’<hi>Albatros</hi> avait arboré son pavillon, l’étamine étoilée avec le soleil d’or de Robur-le-Conquérant.</p>
           <p>Le <hi>Go a head</hi> voulut alors essayer de distancer son ennemi en s’élevant plus haut encore. Il se débarrassa du lest qu’il avait en réserve. Il fit un nouveau bond de mille mètres. Ce n’était plus alors qu’un point dans l’espace. L’<hi>Albatros</hi>, qui le suivait toujours en imprimant à ses hélices leur maximum de rotation, était devenu invisible.</p>
           <p>Soudain, un cri de terreur s’éleva du sol.</p>
@@ -1885,7 +1627,7 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>Uncle Prudent et Phil Evans allaient-ils donc refuser les secours de Robur, refuser d’être sauvés par lui ? Ils en étaient bien capables ! Mais les gens de l’ingénieur se jetèrent sur eux, et, par force, les firent passer du <hi>Go a head</hi> sur l’<hi>Albatros</hi>.</p>
           <p>Puis, l’aéronef se dégagea et demeura stationnaire, pendant que le ballon, entièrement vide de gaz, tombait sur les arbres de la clairière, où il resta suspendu comme une gigantesque loque.</p>
           <p>Un effroyable silence régnait à terre. Il semblait que la vie eût été suspendue dans toutes les poitrines. Bien des yeux s’étaient fermés pour ne rien voir de la suprême catastrophe.</p>
-          <p>Uncle Prudent et Phil Evans étaient donc redevenus les prisonniers de l’ingénieur Robur. Puisqu’il les avait repris, allait-il les entraîner de nouveau dans l’espace, là <seg rend="coquille" n="ou">où</seg> il était impossible de le suivre ?</p>
+          <p>Uncle Prudent et Phil Evans étaient donc redevenus les prisonniers de l’ingénieur Robur. Puisqu’il les avait repris, allait-il les entraîner de nouveau dans l’espace, là où il était impossible de le suivre ?</p>
           <p>On pouvait le croire.</p>
           <p>Cependant, au lieu de remonter dans les airs, l’<hi>Albatros</hi> continuait de s’abaisser vers le sol. Voulait-il atterrir ? On le pensa, et la foule s’écarta pour lui faire place au milieu de la clairière.</p>
           <p>L’émotion était portée à son maximum d’intensité.</p>
@@ -1898,19 +1640,14 @@ chantonna un des assistants qui, par hasard, avait retenu ce motif du <hi>Zampa<
           <p>« Je pars donc, et j’emporte mon secret avec moi. Mais il ne sera pas perdu pour l’humanité. Il lui appartiendra le jour où elle sera assez instruite pour en tirer profit et assez sage pour n’en jamais abuser. Salut, citoyens des États-Unis, salut ! »</p>
           <p>Et l’<hi>Albatros</hi>, battant l’air de ses soixante-quatorze hélices, emporté par ses deux propulseurs poussés à outrance, disparut vers l’est au milieu d’une tempête de hurrahs, qui, cette fois, étaient admiratifs.</p>
           <p>Les deux collègues, profondément humiliés, ainsi que tout le Weldon-Institute en leur personne, firent la seule chose qu’il y eût à faire : ils s’en retournèrent chez eux, tandis que la foule, par un revirement subit, était prête à les saluer de ses plus vifs sarcasmes, justes à cette heure !</p>
-          <p rend="no_erreurs_communes c2">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
-          <p rend="no_erreurs_communes c2">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
+          <p rend="center">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
+          <p rend="center">. . . . . . . . . . . . . . . . . . . . . . . . .</p>
           <p>Et maintenant, toujours cette question : « Qu’est-ce que ce Robur ? Le saura-t-on jamais ? »</p>
           <p>On le sait aujourd’hui. Robur, c’est la science future, celle de demain peut-être. C’est la réserve certaine de l’avenir.</p>
           <p>Quant à l’<hi>Albatros</hi>, voyage-t-il encore à travers cette atmosphère terrestre, au milieu de ce domaine que nul ne peut lui ravir ? Il n’est pas permis d’en douter. Robur-le-Conquérant reparaîtra-t-il un jour, ainsi qu’il l’a annoncé ? Oui ! il viendra livrer le secret d’une invention qui peut modifier les conditions sociales et politiques du monde.</p>
           <p>Quant à l’avenir de la locomotion aérienne, il appartient à l’aéronef, non à l’aérostat.</p>
           <p>C’est aux <hi>Albatros</hi> qu’est définitivement réservée la conquête de l’air !</p>
-          <space quantity="1" unit="line"/>
-          <head rend="tmp" xml:id="FIN" type="h3">FIN</head>
-          <space quantity="1" unit="line"/>
-        </div>
       </div>
-      
     </body>
   </text>
 </TEI>

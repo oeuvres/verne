@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>P’tit Bonhomme (1893)</title>
+        <title>P’tit Bonhomme</title>
         <author>Verne, Jules</author>
       </titleStmt>
       <publicationStmt>
@@ -21,7 +21,7 @@
         <language ident="fr"/>
       </langUsage>
       <creation>
-        <date when="1906"/>
+        <date when="1893"/>
       </creation>
     </profileDesc>
   </teiHeader>
